@@ -1,0 +1,703 @@
+{
+ "cloque_intro": {
+  "speaker": "mlle_cloque",
+  "text": "Bonjour ! Vous voilà rue de la Bourde, derrière les Halles. Ce n'est qu'un passage étroit et sombre, mais on y est tranquille… quand le savetier d'en face veut bien poser son marteau.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que pensez-vous de la nouvelle église Saint-Martin ?",
+    "next": "cloque_basilique"
+   },
+   {
+    "label": "On dit que vous avez rencontré Chateaubriand ?",
+    "next": "cloque_chateaubriand"
+   },
+   {
+    "label": "Vous vivez seule ici ?",
+    "next": "cloque_maison"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.boylesve",
+   "codex.xixe.rue_de_la_bourde",
+   "codex.xixe.mlle_cloque"
+  ]
+ },
+ "cloque_basilique": {
+  "speaker": "mlle_cloque",
+  "text": "Une église ? C'est une basilique qu'il fallait à saint Martin ! Je le disais encore à ma bonne : « Vous connaissez les deux tours, la tour de l'Horloge et la tour Charlemagne, n'est-ce pas ? Eh bien, ces tours forment les deux angles de la grande construction qu'on projette : on bâtirait deux autres tours pareilles, aux deux autres coins, le tout réuni par un bâtiment à cinq nefs, gigantesque !… »",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II",
+    "quote": true
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi tant de grandeur ?",
+    "next": "cloque_cathedrales"
+   }
+  ]
+ },
+ "cloque_cathedrales": {
+  "speaker": "mlle_cloque",
+  "text": "« Mais voulez-vous me dire pourquoi nos vieux pères ont construit les cathédrales ? C'est parce qu'ils pensaient que rien n'était trop beau pour le bon Dieu. » Au lieu de cela, la Ville et l'archevêché se sont entendus : la nouvelle église ne garde de l'ancienne que la place du chevet, et la rue des Halles continue de passer sur la nef !",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II",
+    "quote": true
+   },
+   {
+    "id": "wp_basilique_saint_martin",
+    "loc": "compromis de 1884"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.guerre_des_basiliques"
+  ]
+ },
+ "cloque_chateaubriand": {
+  "speaker": "mlle_cloque",
+  "text": "Ah ! C'était en 1833. Il allait partir pour Prague porter à Charles X exilé un message de la duchesse de Berry. Je n'étais qu'une jeune fille ; je suis allée rue d'Enfer, à Paris, où il habitait une maison simple, entourée de verdure. Je voulais seulement lui dire : « Monsieur, je vous admire… »",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. I",
+    "quote": true
+   }
+  ]
+ },
+ "cloque_maison": {
+  "speaker": "mlle_cloque",
+  "text": "Seule ? Non point : j'ai Mariette, ma vieille bonne, et ma nièce Geneviève, quand elle sort de sa pension du Sacré-Cœur, à Marmoutier. Quant au voisinage… M. le marquis d'Aubrebie, un peu plus bas, a beaucoup d'esprit, mais il plaisante de tout. Et mon propriétaire, M. Loupaing, prétend laver sa cour avec la lance qui sert à mon jardinet !",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II et IV"
+   }
+  ]
+ },
+ "loupaing_intro": {
+  "speaker": "loupaing",
+  "text": "Loupaing, entrepreneur de plomberie. La cour que vous voyez là, avec les tuyaux de poêle, les lames de zinc et les charrettes à bras, c'est la mienne. Et la maison de la demoiselle aussi, c'est à moi.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et la basilique, qu'en pensez-vous ?",
+    "next": "loupaing_basilique"
+   },
+   {
+    "label": "Vous vous entendez avec votre locataire ?",
+    "next": "loupaing_lance"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.loupaing"
+  ]
+ },
+ "loupaing_basilique": {
+  "speaker": "loupaing",
+  "text": "La « grande basilique » de ces dames ? Une église convenable sur le tombeau, ça suffit bien. Depuis la guerre, la Ville a d'autres dépenses. Ceux qui veulent une cathédrale n'ont qu'à la payer.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_mademoiselle_cloque",
+    "loc": "la querelle des basiliques"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.guerre_des_basiliques"
+  ]
+ },
+ "loupaing_lance": {
+  "speaker": "loupaing",
+  "text": "La lance d'arrosage ! Elle dit qu'elle s'est réservé le droit d'en user pour son jardin. Moi, je dis qu'une lance, chez un plombier, ça sert à laver la cour. On n'en sortira pas.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II"
+   }
+  ]
+ },
+ "gedeon_intro": {
+  "speaker": "frere_gedeon",
+  "text": "Entrez, entrez… Au guichet, à droite : chapelets, scapulaires, médailles, et les Annales de la propagation de la Foi. Que puis-je pour vous ?",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. III"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qu'est-ce que cette chapelle ?",
+    "next": "gedeon_chapelle"
+   },
+   {
+    "label": "Quelles sont les nouvelles ?",
+    "next": "gedeon_nouvelles"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.frere_gedeon",
+   "codex.xixe.chapelle_provisoire",
+   "codex.xixe.objets_de_piete"
+  ]
+ },
+ "gedeon_chapelle": {
+  "speaker": "frere_gedeon",
+  "text": "Une chapelle provisoire, aménagée dans les maisons au-dessus du tombeau de saint Martin, en attendant mieux. Le tombeau a été retrouvé le 14 décembre 1860, sous des maisons près de la rue des Halles, grâce à M. Dupont, le saint homme de Tours.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_mademoiselle_cloque",
+    "loc": "redécouverte du tombeau"
+   },
+   {
+    "id": "casimir_chevalier_2025",
+    "loc": "frise de la basilique"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.tombeau_1860",
+   "codex.xixe.papin_dupont"
+  ]
+ },
+ "gedeon_nouvelles": {
+  "speaker": "frere_gedeon",
+  "text": "(Le Frère bleu baisse la voix, ses lunettes bleues brillent.) Des nouvelles ? J'en ai toujours, et de meilleure main que la Semaine religieuse… Mais certaines, « je ne veux pas vous le dire devant tout le monde ».",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. III",
+    "quote": true
+   }
+  ]
+ },
+ "pigeonneau_intro": {
+  "speaker": "mme_pigeonneau",
+  "text": "Bienvenue chez Pigeonneau-Exelcis ! Chez nous, on trouve tous les objets du culte, depuis les calices et les ostensoirs jusqu'au modeste chapelet en bois taillé, à trente centimes.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. V"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Vendez-vous des livres ?",
+    "next": "pigeonneau_livres"
+   },
+   {
+    "label": "Vous connaissez Mlle Cloque ?",
+    "next": "pigeonneau_cloque"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.objets_de_piete"
+  ]
+ },
+ "pigeonneau_livres": {
+  "speaker": "mme_pigeonneau",
+  "text": "Le plus grand choix d'ouvrages pieux de Tours ! Et même des romans… triés, bien entendu, avec le plus grand scrupule.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. V"
+   }
+  ]
+ },
+ "pigeonneau_cloque": {
+  "speaker": "mme_pigeonneau",
+  "text": "Bien sûr ! Ma fille a été élevée avec sa nièce Geneviève. Mais certaines de ces dames me reprochent de travailler aussi pour le Lycée de jeunes filles, qu'on vient de fonder…",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. V"
+   }
+  ]
+ },
+ "zelie_intro": {
+  "speaker": "zelie",
+  "text": "Bonjour. Chez Roche, on vient pour les babas : voilà trente ans que je veille à ce qu'ils restent ce qu'ils ont toujours été.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. VIII"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui vient ici ?",
+    "next": "zelie_clients"
+   },
+   {
+    "label": "Que trouve-t-on dans la rue Royale ?",
+    "next": "zelie_rue"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.rue_royale"
+  ]
+ },
+ "zelie_clients": {
+  "speaker": "zelie",
+  "text": "Les familles, surtout les jours de sortie : les omnibus du Sacré-Cœur déposent les pensionnaires de Marmoutier à l'hôtel du Faisan, tout à côté. Nos pâtisseries sont enlevées en un tour de main !",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. VIII"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.jours_de_sortie"
+  ]
+ },
+ "zelie_rue": {
+  "speaker": "zelie",
+  "text": "C'est la grande rue de Tours, du pont de pierre jusqu'aux boulevards. Nous avons pour voisin M. Mönick, le chirurgien-dentiste américain, dont la gloire est presque européenne… et un concurrent polonais s'est installé juste en face, moins cher.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. VIII et XIII"
+   }
+  ]
+ },
+ "tailleur_intro": {
+  "speaker": "tailleur_de_pierre",
+  "text": "Attention aux éclats ! Ici, c'est le chantier de la nouvelle église Saint-Martin, sur les plans de M. Laloux. On y travaille depuis 1886.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "choices": [
+   {
+    "label": "L'église est-elle finie ?",
+    "next": "tailleur_fin"
+   },
+   {
+    "label": "Pourquoi n'est-elle pas dans l'axe des vieilles tours ?",
+    "next": "tailleur_compromis"
+   },
+   {
+    "label": "Qu'est devenue l'ancienne basilique ?",
+    "next": "tailleur_ancienne"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.nouvelle_basilique",
+   "codex.xixe.victor_laloux"
+  ]
+ },
+ "tailleur_fin": {
+  "speaker": "tailleur_de_pierre",
+  "text": "On a inauguré la crypte et le tombeau l'an passé, en 1889, et l'église cette année. Mais finie ? Il y a encore de quoi tailler pour des années !",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin",
+    "loc": "crypte 1889, église 1890, gros œuvre achevé en 1902"
+   }
+  ]
+ },
+ "tailleur_compromis": {
+  "speaker": "tailleur_de_pierre",
+  "text": "C'est l'arrangement de 1884 entre la Ville et l'archevêché : l'église nouvelle ne reprend de l'ancienne que l'emplacement du chevet, au-dessus du tombeau. Elle est tournée autrement, et la rue des Halles, qui passe sur l'ancienne nef, reste ouverte.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin",
+    "loc": "compromis de 1884"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.guerre_des_basiliques"
+  ]
+ },
+ "tailleur_ancienne": {
+  "speaker": "tailleur_de_pierre",
+  "text": "Ses voûtes se sont effondrées en 1797. Sous le Consulat, on l'a démolie et on a percé la rue des Halles à la place de la nef. Il n'en reste que les deux tours, la tour Charlemagne et la tour de l'Horloge.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "casimir_chevalier_2025",
+    "loc": "frise de la basilique"
+   },
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.fin_collegiale"
+  ]
+ },
+ "cheminot_intro": {
+  "speaker": "cheminot",
+  "text": "Vous voici à l'Embarcadère, la gare de la Compagnie du chemin de fer de Paris à Orléans. Elle a été bâtie en 1846 par l'architecte Phidias Vestier.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_gare_de_tours"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Où vont les trains ?",
+    "next": "cheminot_lignes"
+   },
+   {
+    "label": "Comment va-t-on en ville ?",
+    "next": "cheminot_tramway"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.embarcadere"
+  ]
+ },
+ "cheminot_lignes": {
+  "speaker": "cheminot",
+  "text": "Vers Paris, et vers Bordeaux par la grande ligne. Depuis 1878, une ligne part aussi vers Joué et Loches ; elle va maintenant jusqu'à Châteauroux. Et à l'ouest, il y a la gare de Vendée, depuis 1875.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours",
+    "loc": "chemins de fer"
+   },
+   {
+    "id": "wp_gare_de_tours",
+    "loc": "gare de Vendée"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.chemin_de_fer"
+  ]
+ },
+ "cheminot_tramway": {
+  "speaker": "cheminot",
+  "text": "À pied par la rue Royale, tout droit jusqu'à la Loire. Ou en tramway : il est tiré par des chevaux, depuis 1877.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours",
+    "loc": "tramways"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.tramway"
+  ]
+ },
+ "lieu_basilique": {
+  "speaker": "basilique_chantier",
+  "text": "Nouvelle église Saint-Martin, de l'architecte Victor Laloux. Les travaux ont commencé en 1886 ; la crypte et le tombeau ont été inaugurés en 1889, l'église en 1890. Le gros œuvre ne sera achevé qu'en 1902, et l'édifice sera consacré basilique en 1925.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.nouvelle_basilique",
+   "codex.xixe.victor_laloux"
+  ]
+ },
+ "lieu_tours": {
+  "speaker": null,
+  "title": "Tours Charlemagne et de l'Horloge",
+  "text": "Ces deux tours sont les seuls restes de l'ancienne collégiale Saint-Martin. Ses voûtes se sont effondrées en 1797 ; elle a été démolie au début du XIXe siècle et la rue des Halles a été percée à la place de la nef.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   },
+   {
+    "id": "casimir_chevalier_2025",
+    "loc": "frise de la basilique"
+   },
+   {
+    "id": "james_little_tour",
+    "loc": "ch. III"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.tours_saint_martin",
+   "codex.xixe.fin_collegiale",
+   "codex.xixe.henry_james"
+  ],
+  "quotes": [
+   {
+    "text": "the church of Saint Martin, which was for many years the sacred spot, the shrine of pilgrimage, of Tours.",
+    "source": {
+     "id": "james_little_tour",
+     "loc": "ch. III"
+    }
+   }
+  ]
+ },
+ "lieu_embarcadere": {
+  "speaker": "embarcadere",
+  "text": "Première gare de Tours (1846, architecte Phidias Vestier), exploitée par la Compagnie du chemin de fer de Paris à Orléans, à l'emplacement de l'actuelle place du Général-Leclerc. La gare de Victor Laloux ne la remplacera qu'en 1896–1898. Le bâtiment est dessiné ici à un emplacement approximatif.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_gare_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.embarcadere"
+  ],
+  "quotes": [
+   {
+    "text": "A la place de la Gare, en 1845, au moment où l'on construisit le premier embarcadère, des fouilles se poursuivirent",
+    "source": {
+     "id": "sat_bulletin_1939",
+     "loc": "p. 257"
+    }
+   }
+  ]
+ },
+ "lieu_archeveche": {
+  "speaker": "archeveche",
+  "text": "Le palais des archevêques de Tours, près de la cathédrale. Dans le roman, l'archevêque, Mgr Fripière (un personnage inventé), finit par soutenir le projet d'église modeste. C'est aujourd'hui le musée des Beaux-Arts.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II et V"
+   },
+   {
+    "id": "balzac_cure_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.archeveche",
+   "codex.xixe.cure_de_tours"
+  ],
+  "quotes": [
+   {
+    "text": "la petite place déserte nommée le Cloître, qui se trouve derrière le chevet de Saint-Gatien, à Tours.",
+    "source": {
+     "id": "balzac_cure_de_tours",
+     "loc": "début du récit"
+    }
+   }
+  ]
+ },
+ "lieu_halles": {
+  "speaker": "halles",
+  "text": "Les marchés couverts, au bout de la rue de la Bourde. Dans le roman, Mlle Cloque habite « derrière les Halles et les ruines de l'église Saint-Clément qui tenaient encore debout à cette époque ». En mai 1883, la Société archéologique de Touraine apprenait par les journaux la démolition prochaine de l'église. Le bâtiment dessiné reprend l'emprise des halles actuelles : sa forme en 1890 reste à vérifier.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. II",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.halles"
+  ],
+  "quotes": [
+   {
+    "text": "la démolition prochaine de l'église Saint-Clément",
+    "source": {
+     "id": "sat_bulletin_1883",
+     "loc": "séance du 30 mai 1883, p. 16"
+    }
+   }
+  ]
+ },
+ "lieu_prebendes": {
+  "speaker": "prebendes",
+  "text": "Jardin public dessiné vers 1872 par les frères Bühler, sur d'anciens marais maraîchers que la ville avait achetés en 1860. Le ruisseau de l'Archevêché y est canalisé autour d'une île plantée de cyprès chauves.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "inventaire_jardins_prebendes"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.prebendes"
+  ]
+ },
+ "lieu_hotel_de_ville": {
+  "speaker": "hotel_de_ville",
+  "text": "L'hôtel de ville, à l'entrée de la rue Royale, du côté ouest de la tête du pont. Il a été bâti de 1777 à 1786 sur les plans de l'architecte de Limay. C'est ici que siègent le maire et le conseil municipal en 1890.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "sat_memoires_1941",
+    "loc": "p. 49"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.tete_de_pont"
+  ],
+  "quotes": [
+   {
+    "text": "la bibliothèque, précédemment l'hôtel de ville, qui fut construit de 1777 à 1786",
+    "source": {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   }
+  ]
+ },
+ "lieu_musee": {
+  "speaker": "musee",
+  "text": "En face de l'hôtel de ville, de l'autre côté de la rue Royale, le musée. Commencé en même temps pour lui faire pendant, il n'a été achevé qu'en 1827, après des tassements qui ont obligé à reprendre les fondations et à renoncer aux dômes prévus. Les collections y sont installées depuis 1828.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_memoires_1941",
+    "loc": "p. 49"
+   },
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.tete_de_pont"
+  ],
+  "quotes": [
+   {
+    "text": "l'ancien musée, construit seulement en 1828, pour faire pendant au bâtiment de l'hôtel de ville",
+    "source": {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   }
+  ]
+ },
+ "lieu_imprimerie_mame": {
+  "speaker": "imprimerie_mame",
+  "text": "L'imprimerie Mame occupe tout le quadrilatère des rues des Halles, Marceau et Néricault-Destouches, presque jusqu'à la rue Royale : deux hectares et demi en plein cœur de la ville. Amand Mame s'est installé en 1824 dans l'ancienne Intendance ; à partir de 1845, son fils Alfred y a fait bâtir de vastes ateliers pour les presses mécaniques et la reliure. Tout le livre se fait ici, de l'encre à la librairie : on surnomme la maison « le Creusot du livre ». Dans le roman, c'est chez « l'éditeur Mame » qu'un pensionnat passe ses commandes, au grand dépit de Mme Pigeonneau. L'usine brûlera en juin 1940 ; il n'en reste rien. Dans le jeu, l'emprise suit les rues, mais la disposition des bâtiments autour de la cour est supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 6"
+   },
+   {
+    "id": "boylesve_cloque",
+    "loc": "ch. VII",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.imprimerie_mame"
+  ],
+  "quotes": [
+   {
+    "text": "on se fournira désormais uniquement chez l'éditeur Mame",
+    "source": {
+     "id": "boylesve_cloque",
+     "loc": "ch. VII"
+    }
+   }
+  ]
+ },
+ "typographe_intro": {
+  "speaker": "typographe_mame",
+  "text": "Bonjour ! Je suis compositeur chez Mame : je lève les lettres de plomb une à une pour former les pages. Ici, tout se fait dans la même enceinte : l'impression, la reliure, l'édition, la librairie, et même les encres. Des livres de piété, des livres d'école, des beaux livres… on les envoie dans toute la France et bien au-delà.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 5-6"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui est le patron ?",
+    "next": "typographe_patron"
+   },
+   {
+    "label": "Que fait la maison pour ses ouvriers ?",
+    "next": "typographe_oeuvres"
+   },
+   {
+    "label": "Que pense-t-on ici de la nouvelle basilique ?",
+    "next": "typographe_basilique"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.imprimerie_mame"
+  ]
+ },
+ "typographe_patron": {
+  "speaker": "typographe_mame",
+  "text": "M. Alfred Mame. Il a acheté un bel hôtel en 1872, mais il préfère loger ici même, dans l'enceinte de l'usine. Catholique fervent, il va aux offices tous les jours, et c'est lui l'imprimeur de l'archevêché.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 10-11"
+   }
+  ]
+ },
+ "typographe_oeuvres": {
+  "speaker": "typographe_mame",
+  "text": "Beaucoup de choses que la Ville ne fait pas encore : des crèches, un asile pour les petits, des écoles, l'apprentissage. Et au-delà des boulevards, près de la barrière Saint-Éloi, le patron a fait bâtir pour nous une cité : 62 maisons, élevées de 1868 à 1875 sur les plans de M. Racine, chacune avec l'eau du Cher au robinet. On emploie moins d'enfants qu'autrefois : en 1867, il y en avait encore 179 à l'usine.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 9, 12-13"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.oeuvres_mame"
+  ]
+ },
+ "typographe_basilique": {
+  "speaker": "typographe_mame",
+  "text": "Ah, la querelle de la basilique ! M. Ernest Mame, le cousin du patron, voulait qu'on rebâtisse l'ancienne à l'identique, en grand, sur les plans de M. Baillargé : l'affaire était si brûlante qu'il a fini par démissionner. Toute la famille soutenait ce projet. Mais c'est l'église de M. Laloux qu'on bâtit, rue Descartes.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 11"
+   },
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.xixe.nouvelle_basilique"
+  ]
+ }
+}

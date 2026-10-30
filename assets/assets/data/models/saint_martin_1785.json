@@ -1,0 +1,1194 @@
+{
+ "id": "saint_martin_1785",
+ "title": "La collégiale Saint-Martin en 1785",
+ "summary": "Restitution hypothétique, en volumes simples, de la collégiale telle que Mme Cradock la vit le 16 septembre 1785. Les dimensions d'ensemble viennent de Soreau (1784) et de l'emprise du jeu ; le plan suit les études de Bray (1929) et de Lelong (1985) ; les hauteurs des tours et des toits sont supposées. Le plan géométral de 1779, non consulté, permettra de corriger les travées et le chevet.",
+ "year": 1785,
+ "certainty": "hypothesis",
+ "dossier": "docs/saint_martin_3d.md",
+ "frame": {
+  "units": "m",
+  "origin": "centre de la façade occidentale, au niveau du dallage de l'église",
+  "x": "vers le chevet (est-nord-est)",
+  "y": "vers le haut",
+  "z": "vers le sud (côté du cloître)",
+  "anchor": {
+   "lat": 47.392948,
+   "lon": 0.68175,
+   "bearing": 75.16
+  },
+  "note": "Le dallage était 15 à 18 pieds (4,9 à 5,8 m) sous le sol de la ville (Soreau) : il fallait descendre une vingtaine de marches. Le modèle ne montre pas encore ce terrain.",
+  "anchor_note": "Recalé le 29/10/2026 sur le plan d'ensemble au niveau du dallage (BnF, Ge D 6539, btv1b8445454n), géoréférencé sur les tours Charlemagne et de l'Horloge : axe de la nef mesuré sur les quatre files de piliers (4,4 m plus au sud à la façade, 1,36° de plus que l'ancrage précédent, qui reprenait l'emprise supposée de la carte lumieres)."
+ },
+ "sources": {
+  "soreau1784": "Soreau, Voyage en Touraine en 1784, Mémoires SAT XIV, 1903, p. 133 : 320 pieds de long, 164 aux croisées, 90 dans les nefs, 78 d'élévation",
+  "cradock1785": "Mme Cradock, Journal, 16 septembre 1785, p. 285-286 : « divisée en cinq ailes », tribunes du fond à trois cintres",
+  "bray1929": "A. Bray, « La tour Charlemagne », Bull. SAT XXIV, 1929, p. 138-161 : plan à déambulatoire et cinq chapelles, tours chevauchant le fond du transept",
+  "lelong1985": "Ch. Lelong, « Les portes de la basilique Saint-Martin », Bull. SAT XLI, 1985, p. 159-172 : neuf portes, nef d'environ 9 m, portails de 2,60 m et 1,25 m",
+  "leveel2002": "P. Leveel, « Trois vues de la collégiale Saint-Martin », Bull. SAT 2002, p. 85-88 : cinq tours, flèche de croisée, terrasse de la tour Charlemagne à 40 m",
+  "troupeau1996": "G. Troupeau, Bull. SAT XLIV, 1996, p. 902 : cloches dans les tours Saint-Michel, du Cadran, du Trésor et Charlemagne",
+  "sat1969": "Bull. SAT XXXV, 1969, p. 381-382 : massif occidental à deux hautes tours",
+  "merimee": "Base Mérimée, notice PA00098131 : cloître sur le flanc sud",
+  "emprise": "Emprise du jeu (assets/data/epochs/lumieres/map_extra.json, couche collegiale_saint_martin), calée sur les tours actuelles",
+  "plan_dallage": "Basilique de Saint-Martin à la fin du 18e siècle, plan d'ensemble au niveau du dallage de l'église, échelle de 0,002 m pour mètre, lith. Clarey-Martineau, Tours, vers 1861 (BnF, Ge D 6539, ark btv1b8445454n ; Wikimedia Commons, domaine public) : sert au calage de l'ancrage"
+ },
+ "materials": {
+  "tuffeau": {
+   "color": [
+    0.87,
+    0.83,
+    0.71
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "certainty": "probable",
+   "note": "Moyen appareil de tuffeau en assises d'environ 40 cm, joints fins, patine grise en coulures : usage courant en Touraine, non relevé sur l'édifice."
+  },
+  "tuffeau_dark": {
+   "color": [
+    0.74,
+    0.7,
+    0.58
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "course": 0.3,
+   "certainty": "hypothesis",
+   "note": "Corniches : pierre plus exposée, donc plus sombre."
+  },
+  "slate": {
+   "color": [
+    0.17,
+    0.19,
+    0.23
+   ],
+   "pattern": "slate",
+   "tile": 2,
+   "roughness": 0.65,
+   "normal": 4,
+   "certainty": "probable",
+   "note": "Ardoises rectangulaires (ardoise d'Anjou, usage courant en Touraine) à pureau d'environ 20 cm ; quelques lichens."
+  },
+  "lead": {
+   "color": [
+    0.24,
+    0.26,
+    0.28
+   ],
+   "pattern": "lead",
+   "tile": 2,
+   "roughness": 0.55,
+   "metallic": 0.35,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Tables de plomb à joints debout, patine blanchâtre ; la flèche était « sans doute en bois » (Leveel), couverte de plomb ou d'ardoise."
+  },
+  "glass": {
+   "color": [
+    0.07,
+    0.09,
+    0.12
+   ],
+   "pattern": "glass",
+   "tile": 2,
+   "roughness": 0.12,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Verre en losanges serti de plomb, barlotières, quelques pièces colorées : l'état des vitraux en 1785 n'est pas documenté ici."
+  },
+  "door": {
+   "color": [
+    0.24,
+    0.15,
+    0.09
+   ],
+   "pattern": "planks",
+   "tile": 2,
+   "roughness": 0.8,
+   "normal": 3,
+   "certainty": "hypothesis",
+   "note": "Vantaux de planches à pentures de fer."
+  },
+  "ground": {
+   "color": [
+    0.5,
+    0.47,
+    0.4
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 1.0,
+   "normal": 4,
+   "course": 0.4,
+   "lmin": 0.35,
+   "lmax": 0.7,
+   "joint": 0.03,
+   "bevel": 0.06,
+   "mortar": [
+    0.3,
+    0.27,
+    0.2
+   ],
+   "grime": 0,
+   "certainty": "invented",
+   "note": "Pavage du plateau de présentation."
+  },
+  "figure": {
+   "color": [
+    0.55,
+    0.15,
+    0.15
+   ],
+   "pattern": "plain",
+   "roughness": 0.9,
+   "certainty": "invented"
+  }
+ },
+ "elements": [
+  {
+   "id": "parvis",
+   "label": "Sol (parvis et abords)",
+   "kind": "ground",
+   "x": [
+    -30,
+    112
+   ],
+   "z": [
+    -42,
+    58
+   ],
+   "material": "ground",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Plateau de présentation, au niveau du dallage."
+  },
+  {
+   "id": "nef",
+   "label": "Nef centrale",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    0,
+    60
+   ],
+   "z": [
+    -4.5,
+    4.5
+   ],
+   "wall": 25,
+   "roof": 10,
+   "certainty": "probable",
+   "sources": [
+    "lelong1985",
+    "soreau1784",
+    "emprise"
+   ],
+   "note": "Largeur d'environ 9 m (Lelong) ; 78 pieds d'élévation (Soreau), lus ici comme la hauteur des murs ; longueur jusqu'au transept prise sur l'emprise."
+  },
+  {
+   "id": "collateral_int_n",
+   "label": "Collatéral intérieur nord, avec tribune",
+   "kind": "aisle",
+   "x": [
+    0,
+    60
+   ],
+   "z": [
+    -9.5,
+    -4.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "cradock1785",
+    "bray1929",
+    "soreau1784"
+   ],
+   "note": "Cinq vaisseaux (Cradock) dans 90 pieds de large (Soreau) ; bas-côtés à tribunes (Bray) ; hauteur supposée."
+  },
+  {
+   "id": "collateral_int_s",
+   "label": "Collatéral intérieur sud, avec tribune",
+   "kind": "aisle",
+   "x": [
+    0,
+    60
+   ],
+   "z": [
+    4.5,
+    9.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "cradock1785",
+    "bray1929",
+    "soreau1784"
+   ]
+  },
+  {
+   "id": "collateral_ext_n",
+   "label": "Collatéral extérieur nord",
+   "kind": "aisle",
+   "x": [
+    0,
+    60
+   ],
+   "z": [
+    -14.5,
+    -9.5
+   ],
+   "low": 8,
+   "high": 11,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "cradock1785",
+    "soreau1784"
+   ],
+   "note": "Hauteur supposée."
+  },
+  {
+   "id": "collateral_ext_s",
+   "label": "Collatéral extérieur sud",
+   "kind": "aisle",
+   "x": [
+    0,
+    60
+   ],
+   "z": [
+    9.5,
+    14.5
+   ],
+   "low": 8,
+   "high": 11,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "cradock1785",
+    "soreau1784"
+   ]
+  },
+  {
+   "id": "transept",
+   "label": "Transept",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    64.5,
+    73.5
+   ],
+   "z": [
+    -26.5,
+    26.5
+   ],
+   "wall": 25,
+   "roof": 10,
+   "certainty": "probable",
+   "sources": [
+    "soreau1784",
+    "bray1929",
+    "emprise"
+   ],
+   "note": "164 pieds aux croisées (Soreau) ; vaisseau central de même hauteur que la nef."
+  },
+  {
+   "id": "transept_bc_ouest_n",
+   "label": "Bas-côté ouest du croisillon nord",
+   "kind": "aisle",
+   "axis": "z",
+   "x": [
+    60,
+    64.5
+   ],
+   "z": [
+    -19.5,
+    -9.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "x1",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ],
+   "note": "Bas-côtés à tribunes de part et d'autre du transept (Bray)."
+  },
+  {
+   "id": "transept_bc_est_n",
+   "label": "Bas-côté est du croisillon nord",
+   "kind": "aisle",
+   "axis": "z",
+   "x": [
+    73.5,
+    78
+   ],
+   "z": [
+    -19.5,
+    -14.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "x0",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "transept_bc_ouest_s",
+   "label": "Bas-côté ouest du croisillon sud",
+   "kind": "aisle",
+   "axis": "z",
+   "x": [
+    60,
+    64.5
+   ],
+   "z": [
+    9.5,
+    19.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "x1",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "transept_bc_est_s",
+   "label": "Bas-côté est du croisillon sud",
+   "kind": "aisle",
+   "axis": "z",
+   "x": [
+    73.5,
+    78
+   ],
+   "z": [
+    14.5,
+    19.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "x0",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "absidiole_n1",
+   "label": "Chapelle à deux étages (croisillon nord)",
+   "kind": "chapel",
+   "center": [
+    78,
+    -17
+   ],
+   "radius": 2.5,
+   "facing": 0,
+   "wall": 13,
+   "roof": 3,
+   "certainty": "attested",
+   "sources": [
+    "bray1929"
+   ],
+   "note": "Chapelle basse et chapelle haute voûtées en cul-de-four, au bout du bas-côté est du croisillon nord."
+  },
+  {
+   "id": "absidiole_n2",
+   "label": "Absidiole du croisillon nord",
+   "kind": "chapel",
+   "center": [
+    78,
+    -12
+   ],
+   "radius": 2.2,
+   "facing": 0,
+   "wall": 8,
+   "roof": 2.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ],
+   "note": "Deux chapelles à l'est de chaque croisillon (Bray) ; position supposée."
+  },
+  {
+   "id": "absidiole_s1",
+   "label": "Absidiole du croisillon sud",
+   "kind": "chapel",
+   "center": [
+    78,
+    17
+   ],
+   "radius": 2.5,
+   "facing": 0,
+   "wall": 9,
+   "roof": 3,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "absidiole_s2",
+   "label": "Absidiole du croisillon sud",
+   "kind": "chapel",
+   "center": [
+    78,
+    12
+   ],
+   "radius": 2.2,
+   "facing": 0,
+   "wall": 8,
+   "roof": 2.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "choeur",
+   "label": "Chœur",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    73.5,
+    90
+   ],
+   "z": [
+    -4.5,
+    4.5
+   ],
+   "wall": 25,
+   "roof": 10,
+   "certainty": "probable",
+   "sources": [
+    "bray1929",
+    "emprise"
+   ],
+   "note": "Chœur gothique (vers 1225-1250 selon Lelong) ; travées supposées."
+  },
+  {
+   "id": "abside",
+   "label": "Abside",
+   "kind": "apse",
+   "center": [
+    90,
+    0
+   ],
+   "radius": 4.5,
+   "wall": 25,
+   "roof": 10,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "deambulatoire_n",
+   "label": "Déambulatoire (partie droite nord)",
+   "kind": "aisle",
+   "x": [
+    78,
+    90
+   ],
+   "z": [
+    -9.5,
+    -4.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "deambulatoire_s",
+   "label": "Déambulatoire (partie droite sud)",
+   "kind": "aisle",
+   "x": [
+    78,
+    90
+   ],
+   "z": [
+    4.5,
+    9.5
+   ],
+   "low": 14,
+   "high": 17,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "deambulatoire_rond",
+   "label": "Déambulatoire (rond-point)",
+   "kind": "ambulatory",
+   "center": [
+    90,
+    0
+   ],
+   "r": [
+    4.5,
+    9.5
+   ],
+   "low": 14,
+   "high": 17,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ],
+   "note": "Voûtes dites « de Saint-Perpet », effondrées en novembre 1797."
+  },
+  {
+   "id": "choeur_bc_n",
+   "label": "Bas-côté extérieur du chœur, nord",
+   "kind": "aisle",
+   "x": [
+    78,
+    90
+   ],
+   "z": [
+    -14.5,
+    -9.5
+   ],
+   "low": 8,
+   "high": 11,
+   "high_side": "z1",
+   "certainty": "hypothesis",
+   "sources": [
+    "emprise"
+   ]
+  },
+  {
+   "id": "choeur_bc_s",
+   "label": "Bas-côté extérieur du chœur, sud",
+   "kind": "aisle",
+   "x": [
+    78,
+    90
+   ],
+   "z": [
+    9.5,
+    14.5
+   ],
+   "low": 8,
+   "high": 11,
+   "high_side": "z0",
+   "certainty": "hypothesis",
+   "sources": [
+    "emprise"
+   ]
+  },
+  {
+   "id": "chapelle_axiale",
+   "label": "Chapelle axiale (Notre-Dame du Chevet)",
+   "kind": "chapel",
+   "center": [
+    99.5,
+    0
+   ],
+   "radius": 5,
+   "facing": 0,
+   "wall": 11,
+   "roof": 4.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929",
+    "lelong1985",
+    "emprise"
+   ],
+   "note": "Cinq chapelles rayonnantes (Bray) ; l'axiale portait le vocable de Notre-Dame (Lelong)."
+  },
+  {
+   "id": "chapelle_rayonnante_1",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    90,
+    0,
+    9.5,
+    36
+   ],
+   "radius": 3.5,
+   "wall": 10,
+   "roof": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_2",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    90,
+    0,
+    9.5,
+    -36
+   ],
+   "radius": 3.5,
+   "wall": 10,
+   "roof": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_3",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    90,
+    0,
+    9.5,
+    72
+   ],
+   "radius": 3.5,
+   "wall": 10,
+   "roof": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_4",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    90,
+    0,
+    9.5,
+    -72
+   ],
+   "radius": 3.5,
+   "wall": 10,
+   "roof": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "bray1929"
+   ]
+  },
+  {
+   "id": "tour_charlemagne",
+   "label": "Tour Charlemagne",
+   "kind": "tower",
+   "x": [
+    62,
+    76
+   ],
+   "z": [
+    -33.5,
+    -19.5
+   ],
+   "height": 40,
+   "roof": {
+    "shape": "pyramid",
+    "height": 12,
+    "material": "slate"
+   },
+   "certainty": "probable",
+   "sources": [
+    "bray1929",
+    "leveel2002",
+    "troupeau1996"
+   ],
+   "note": "Chevauche le fond du croisillon nord (Bray) ; terrasse actuelle à 40 m (Leveel) ; couverture en pavillon aux XVIIe-XVIIIe siècles (Bray), hauteur supposée."
+  },
+  {
+   "id": "tour_cadran",
+   "label": "Tour du Cadran (de l'Horloge)",
+   "kind": "tower",
+   "x": [
+    62,
+    76
+   ],
+   "z": [
+    19.5,
+    33.5
+   ],
+   "height": 30,
+   "roof": {
+    "shape": "pyramid",
+    "height": 8,
+    "material": "slate"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "bray1929",
+    "leveel2002",
+    "lelong1985"
+   ],
+   "note": "Disparue ; plus basse que la tour Charlemagne (Leveel) ; horloge depuis 1595 (Lelong). Hauteur supposée."
+  },
+  {
+   "id": "tour_tresor",
+   "label": "Tour du Trésor (actuelle tour de l'Horloge)",
+   "kind": "tower",
+   "x": [
+    0,
+    11
+   ],
+   "z": [
+    4.5,
+    16
+   ],
+   "height": 36,
+   "roof": {
+    "shape": "pyramid",
+    "height": 6,
+    "material": "slate"
+   },
+   "certainty": "probable",
+   "sources": [
+    "sat1969",
+    "leveel2002",
+    "troupeau1996",
+    "emprise"
+   ],
+   "note": "Existe encore, sans sa toiture ancienne (Leveel) ; couverture supposée."
+  },
+  {
+   "id": "tour_saint_nicolas",
+   "label": "Tour Saint-Nicolas",
+   "kind": "tower",
+   "x": [
+    0,
+    11
+   ],
+   "z": [
+    -16,
+    -4.5
+   ],
+   "height": 36,
+   "roof": {
+    "shape": "spire",
+    "height": 22,
+    "material": "slate"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "sat1969",
+    "leveel2002"
+   ],
+   "note": "Démolie ; flèche « très effilée » chez Fouquet (Leveel) ; aussi haute que la tour du Trésor."
+  },
+  {
+   "id": "tour_saint_michel",
+   "label": "Tour Saint-Michel et flèche de la croisée",
+   "kind": "tower",
+   "x": [
+    66.5,
+    71.5
+   ],
+   "z": [
+    -2.5,
+    2.5
+   ],
+   "base": 25,
+   "height": 10,
+   "material": "lead",
+   "roof": {
+    "shape": "spire",
+    "height": 16,
+    "material": "lead"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "leveel2002",
+    "troupeau1996"
+   ],
+   "note": "Mince flèche, « sans doute en bois », sur les miniatures du XVe siècle (Leveel) ; dimensions supposées."
+  },
+  {
+   "id": "portail_central",
+   "label": "Porte de l'Orgue (grand portail)",
+   "kind": "door",
+   "x": 0,
+   "z": 0,
+   "face": "-x",
+   "width": 2.6,
+   "height": 6,
+   "certainty": "attested",
+   "sources": [
+    "lelong1985"
+   ],
+   "note": "Ouverture de 2,60 m (Lelong) ; hauteur supposée."
+  },
+  {
+   "id": "portail_sud",
+   "label": "Petite porte de la façade, au sud",
+   "kind": "door",
+   "x": 0,
+   "z": 3.2,
+   "face": "-x",
+   "width": 1.25,
+   "height": 4,
+   "certainty": "attested",
+   "sources": [
+    "lelong1985"
+   ]
+  },
+  {
+   "id": "portail_nord",
+   "label": "Petite porte de la façade, au nord",
+   "kind": "door",
+   "x": 0,
+   "z": -3.2,
+   "face": "-x",
+   "width": 1.25,
+   "height": 4,
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1985"
+   ],
+   "note": "Restituée par Lelong pour la fin du XIIe siècle ; peut-être bouchée en 1785."
+  },
+  {
+   "id": "porte_change",
+   "label": "Portail du Change",
+   "kind": "door",
+   "x": 40,
+   "z": -14.5,
+   "face": "-z",
+   "width": 3,
+   "height": 6,
+   "certainty": "probable",
+   "sources": [
+    "lelong1985"
+   ],
+   "note": "Dans le mur nord de la nef, sur l'actuelle place de Châteauneuf (Lelong) ; position le long de la nef supposée."
+  },
+  {
+   "id": "porte_galeries_inf",
+   "label": "Porte inférieure des galeries (vers le cloître)",
+   "kind": "door",
+   "x": 18,
+   "z": 14.5,
+   "face": "+z",
+   "width": 2,
+   "height": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong1985"
+   ]
+  },
+  {
+   "id": "porte_galeries_sup",
+   "label": "Porte supérieure des galeries (vers le cloître)",
+   "kind": "door",
+   "x": 54,
+   "z": 14.5,
+   "face": "+z",
+   "width": 2,
+   "height": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong1985"
+   ]
+  },
+  {
+   "id": "vitraux_bc_n",
+   "label": "Fenêtres du collatéral nord",
+   "kind": "windows",
+   "x": [
+    13,
+    58
+   ],
+   "z": -14.5,
+   "face": "-z",
+   "y": [
+    2.5,
+    6.5
+   ],
+   "width": 1.8,
+   "spacing": 5,
+   "certainty": "probable",
+   "sources": [
+    "cradock1785"
+   ],
+   "note": "« assombrie par des vitraux peints » (Cradock) ; rythme supposé."
+  },
+  {
+   "id": "vitraux_tribunes_n",
+   "label": "Fenêtres des tribunes nord",
+   "kind": "windows",
+   "x": [
+    13,
+    58
+   ],
+   "z": -9.5,
+   "face": "-z",
+   "y": [
+    11.6,
+    13.4
+   ],
+   "width": 1.4,
+   "spacing": 5,
+   "certainty": "hypothesis",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "vitraux_tribunes_s",
+   "label": "Fenêtres des tribunes sud",
+   "kind": "windows",
+   "x": [
+    13,
+    58
+   ],
+   "z": 9.5,
+   "face": "+z",
+   "y": [
+    11.6,
+    13.4
+   ],
+   "width": 1.4,
+   "spacing": 5,
+   "certainty": "hypothesis",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "vitraux_hauts_n",
+   "label": "Fenêtres hautes de la nef, nord",
+   "kind": "windows",
+   "x": [
+    13,
+    58
+   ],
+   "z": -4.5,
+   "face": "-z",
+   "y": [
+    18,
+    23.5
+   ],
+   "width": 2,
+   "spacing": 5,
+   "certainty": "probable",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "vitraux_hauts_s",
+   "label": "Fenêtres hautes de la nef, sud",
+   "kind": "windows",
+   "x": [
+    13,
+    58
+   ],
+   "z": 4.5,
+   "face": "+z",
+   "y": [
+    18,
+    23.5
+   ],
+   "width": 2,
+   "spacing": 5,
+   "certainty": "probable",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "vitraux_choeur_n",
+   "label": "Fenêtres hautes du chœur, nord",
+   "kind": "windows",
+   "x": [
+    79,
+    89
+   ],
+   "z": -4.5,
+   "face": "-z",
+   "y": [
+    18,
+    23.5
+   ],
+   "width": 2.2,
+   "spacing": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "vitraux_choeur_s",
+   "label": "Fenêtres hautes du chœur, sud",
+   "kind": "windows",
+   "x": [
+    79,
+    89
+   ],
+   "z": 4.5,
+   "face": "+z",
+   "y": [
+    18,
+    23.5
+   ],
+   "width": 2.2,
+   "spacing": 3.5,
+   "certainty": "probable",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "rose_facade",
+   "label": "Fenêtre haute de la façade",
+   "kind": "windows",
+   "x": [
+    0,
+    0
+   ],
+   "z": 0,
+   "face": "-x",
+   "y": [
+    12,
+    20
+   ],
+   "width": 3.5,
+   "spacing": 1,
+   "certainty": "hypothesis",
+   "sources": [],
+   "note": "Baie de façade supposée."
+  },
+  {
+   "id": "contreforts_n",
+   "label": "Contreforts du collatéral nord",
+   "kind": "buttresses",
+   "x": [
+    10.5,
+    58
+   ],
+   "z": -14.5,
+   "face": "-z",
+   "depth": 1.4,
+   "width": 1,
+   "height": 8.5,
+   "spacing": 5,
+   "certainty": "probable",
+   "sources": [
+    "leveel2002"
+   ],
+   "note": "« la nef et ses contreforts » sur la miniature de Fouquet (Leveel) ; rythme supposé."
+  },
+  {
+   "id": "contreforts_s",
+   "label": "Contreforts du collatéral sud",
+   "kind": "buttresses",
+   "x": [
+    10.5,
+    58
+   ],
+   "z": 14.5,
+   "face": "+z",
+   "depth": 1.4,
+   "width": 1,
+   "height": 8.5,
+   "spacing": 5,
+   "certainty": "probable",
+   "sources": [
+    "leveel2002"
+   ]
+  },
+  {
+   "id": "arcs_boutants_n",
+   "label": "Arcs-boutants du chœur, nord",
+   "kind": "flyers",
+   "x": [
+    79,
+    89
+   ],
+   "z": [
+    -14.5,
+    -4.5
+   ],
+   "y": [
+    11,
+    22
+   ],
+   "spacing": 3.5,
+   "width": 0.8,
+   "certainty": "probable",
+   "sources": [
+    "leveel2002"
+   ],
+   "note": "« le chœur et ses grands arcs-boutants » (Fouquet, d'après Leveel)."
+  },
+  {
+   "id": "arcs_boutants_s",
+   "label": "Arcs-boutants du chœur, sud",
+   "kind": "flyers",
+   "x": [
+    79,
+    89
+   ],
+   "z": [
+    14.5,
+    4.5
+   ],
+   "y": [
+    11,
+    22
+   ],
+   "spacing": 3.5,
+   "width": 0.8,
+   "certainty": "probable",
+   "sources": [
+    "leveel2002"
+   ]
+  },
+  {
+   "id": "cloitre",
+   "label": "Cloître",
+   "kind": "cloister",
+   "x": [
+    14,
+    56
+   ],
+   "z": [
+    14.5,
+    52
+   ],
+   "gallery": 4.5,
+   "wall": 5.5,
+   "roof": 2,
+   "certainty": "hypothesis",
+   "sources": [
+    "merimee",
+    "lelong1985"
+   ],
+   "note": "Sur le flanc sud (Mérimée), relié à l'église par les deux portes des galeries (Lelong) ; dimensions supposées."
+  },
+  {
+   "id": "promeneur",
+   "label": "Silhouette à l'échelle (1,70 m)",
+   "kind": "figure",
+   "x": -6,
+   "z": 1.5,
+   "height": 1.7,
+   "material": "figure",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Repère d'échelle."
+  }
+ ]
+}

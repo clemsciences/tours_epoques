@@ -1,0 +1,3274 @@
+{
+ "id": "caesarodunum_150",
+ "title": "Caesarodunum vers 150",
+ "summary": "Restitution de la ville romaine à son apogée, au IIe siècle : ville ouverte d'une centaine d'hectares entre Loire et Cher, avec l'amphithéâtre agrandi, le grand temple circulaire, deux thermes publics, le pont de bois et les voies antiques reconnues sous les rues actuelles. Les monuments suivent les fouilles et les études publiées ; les îlots d'habitations sont une restitution générique, signalée comme telle. Le forum, non localisé, n'est pas figuré.",
+ "year": 150,
+ "certainty": "hypothesis",
+ "dossier": "docs/caesarodunum_3d.md",
+ "frame": {
+  "units": "m",
+  "origin": "croisement supposé du cardo maximus (rue de Lucé) et du decumanus maximus (rue de la Scellerie)",
+  "x": "vers l'est, le long des decumani (79°)",
+  "y": "vers le haut",
+  "z": "vers le sud (169°)",
+  "anchor": {
+   "lat": 47.394356,
+   "lon": 0.688358,
+   "bearing": 79.0
+  },
+  "note": "Positions tirées des rues actuelles qui reprennent des voies antiques (OSM), de Wikidata (temple, château) et de la rue du Général-Meusnier (amphithéâtre)."
+ },
+ "view": {
+  "land_y": -2.5,
+  "orbit": {
+   "camera": [
+    -420,
+    260,
+    620
+   ],
+   "target": [
+    150,
+    0,
+    40
+   ]
+  },
+  "vr_start": {
+   "at": [
+    -17.7,
+    99.2
+   ],
+   "facing": [
+    -1,
+    0
+   ]
+  }
+ },
+ "defaults": {
+  "wall": "moellons",
+  "roof": "tuiles",
+  "trim": "pierre",
+  "door": "ombre",
+  "glass": "ombre"
+ },
+ "sources": {
+  "wp_caesarodunum": "Wikipédia, « Caesarodunum » (consulté le 29/10/2026), d'après H. Galinié (dir.), Tours antique et médiéval, 2007, et les rapports de fouille : limites, voies, pont, thermes, temple, maisons",
+  "wp_amphitheatre": "Wikipédia, « Amphithéâtre de Tours » (consulté le 29/10/2026) : dimensions, vomitoires, hauteurs proposées",
+  "wp_temple": "Wikipédia, « Temple gallo-romain de Tours » (consulté le 29/10/2026) : cella, pronaos, podium, fronton",
+  "wp_thermes": "Wikipédia, « Thermes gallo-romains de Tours » (consulté le 29/10/2026) : thermes du Sud et de l'Est",
+  "bordeaux_seigne2005": "P. Bordeaux et J. Seigne, « Les amphithéâtres antiques de Tours », Bull. SAT LI, 2005, p. 51-62 : 112 × 94 m puis ± 156 × 134 m, huit vomitoires, murs en petit appareil à lits de terre cuite, pas de sièges de pierre",
+  "osm_meusnier": "OpenStreetMap : rue du Général-Meusnier, qui suit le sommet de la cavea (ellipse ajustée : centre 47,395405 N, 0,696327 E, grand axe à 156°)"
+ },
+ "materials": {
+  "moellons": {
+   "color": [
+    0.8,
+    0.76,
+    0.66
+   ],
+   "pattern": "rubble",
+   "tile": 3,
+   "roughness": 0.92,
+   "normal": 1.6,
+   "certainty": "attested",
+   "note": "Petit appareil de moellons calcaires, joints au mortier, lits de terre cuite (amphithéâtre agrandi : Bordeaux et Seigne 2005)."
+  },
+  "pierre": {
+   "color": [
+    0.86,
+    0.83,
+    0.75
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "course": 0.5,
+   "lmin": 0.8,
+   "lmax": 1.6,
+   "roughness": 0.85,
+   "normal": 1.0,
+   "certainty": "probable",
+   "note": "Grand appareil (podium, colonnes, entablement)."
+  },
+  "tuiles": {
+   "color": [
+    0.6,
+    0.3,
+    0.18
+   ],
+   "pattern": "roman_tiles",
+   "tile": 3,
+   "roughness": 0.85,
+   "normal": 2.0,
+   "certainty": "attested",
+   "note": "Tegulae et imbrices : toitures de tuiles dès la seconde moitié du Ier siècle (Wikipédia, Caesarodunum) ; pronaos du temple couvert de tuiles."
+  },
+  "enduit": {
+   "color": [
+    0.86,
+    0.83,
+    0.75
+   ],
+   "pattern": "mottled",
+   "tile": 5,
+   "roughness": 0.95,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.05,
+    "coarse": 0.06
+   },
+   "certainty": "hypothesis",
+   "note": "Murs enduits et blanchis des maisons (aspect supposé)."
+  },
+  "enduit_ocre": {
+   "color": [
+    0.8,
+    0.64,
+    0.46
+   ],
+   "pattern": "mottled",
+   "tile": 5,
+   "roughness": 0.95,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.05,
+    "coarse": 0.06
+   },
+   "certainty": "hypothesis",
+   "note": "Variante ocre (supposée)."
+  },
+  "bois": {
+   "color": [
+    0.36,
+    0.26,
+    0.17
+   ],
+   "pattern": "planks",
+   "tile": 3,
+   "roughness": 0.85,
+   "normal": 1.2,
+   "certainty": "attested",
+   "note": "Pont et portique de bois."
+  },
+  "sol": {
+   "color": [
+    0.46,
+    0.45,
+    0.33
+   ],
+   "pattern": "mottled",
+   "tile": 8,
+   "roughness": 1.0,
+   "normal": 0.5,
+   "params": {
+    "amp": 0.07,
+    "coarse": 0.12,
+    "coarse_scale": 60
+   },
+   "certainty": "invented",
+   "note": "Terre et herbe."
+  },
+  "herbe": {
+   "color": [
+    0.4,
+    0.46,
+    0.27
+   ],
+   "pattern": "mottled",
+   "tile": 6,
+   "roughness": 1.0,
+   "normal": 0.5,
+   "params": {
+    "amp": 0.08,
+    "coarse": 0.1
+   },
+   "certainty": "invented"
+  },
+  "voie": {
+   "color": [
+    0.62,
+    0.58,
+    0.5
+   ],
+   "pattern": "mottled",
+   "tile": 3,
+   "roughness": 1.0,
+   "normal": 1.5,
+   "params": {
+    "amp": 0.14,
+    "scale": 1.2,
+    "coarse": 0.06
+   },
+   "certainty": "attested",
+   "note": "Chaussées de petites pierres et cailloux tassés, rechargées à l'usure, pas de grandes dalles (Wikipédia, Caesarodunum)."
+  },
+  "sable": {
+   "color": [
+    0.8,
+    0.71,
+    0.53
+   ],
+   "pattern": "mottled",
+   "tile": 4,
+   "roughness": 1.0,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.06,
+    "scale": 1.0
+   },
+   "certainty": "probable"
+  },
+  "gradins": {
+   "color": [
+    0.45,
+    0.37,
+    0.27
+   ],
+   "pattern": "slate",
+   "tile": 4,
+   "roughness": 0.9,
+   "normal": 2.0,
+   "params": {
+    "row": 0.8,
+    "width": 3.0
+   },
+   "certainty": "hypothesis",
+   "note": "Gradins de bois ou de terre : aucun siège de pierre retrouvé (Bordeaux et Seigne 2005)."
+  },
+  "eau": {
+   "color": [
+    0.16,
+    0.24,
+    0.26
+   ],
+   "pattern": "mottled",
+   "tile": 10,
+   "roughness": 0.25,
+   "normal": 0.4,
+   "params": {
+    "amp": 0.04,
+    "coarse": 0.08
+   },
+   "certainty": "invented"
+  },
+  "ombre": {
+   "color": [
+    0.06,
+    0.05,
+    0.05
+   ],
+   "pattern": "plain",
+   "certainty": "invented",
+   "note": "Baies sombres (vomitoires, porte)."
+  },
+  "figure": {
+   "color": [
+    0.55,
+    0.12,
+    0.1
+   ],
+   "pattern": "plain",
+   "certainty": "invented"
+  }
+ },
+ "elements": [
+  {
+   "id": "sol",
+   "label": "Sol de la plaine (niveau antique, environ 41 m NGF)",
+   "kind": "slab",
+   "polygon": [
+    [
+     -1000,
+     -170.0
+    ],
+    [
+     1400,
+     -261.9
+    ],
+    [
+     1400,
+     900
+    ],
+    [
+     -1000,
+     900
+    ]
+   ],
+   "y0": -3,
+   "y1": 0,
+   "material": "sol",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Plaine alluviale entre Loire et Cher, d'une altitude moyenne d'environ 41 m. Relief, chenaux et îles non figurés."
+  },
+  {
+   "id": "loire",
+   "label": "La Loire",
+   "kind": "slab",
+   "polygon": [
+    [
+     -1000,
+     -170.0
+    ],
+    [
+     1400,
+     -261.9
+    ],
+    [
+     1400,
+     -900
+    ],
+    [
+     -1000,
+     -900
+    ]
+   ],
+   "y0": -3,
+   "y1": -1.6,
+   "material": "eau",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum",
+    "wp_thermes"
+   ],
+   "note": "Rive gauche antique tracée en ligne droite, à une soixantaine de mètres au nord de la voie de rive (rues du Commerce, Colbert, Albert-Thomas) et au contact des thermes de l'Est ; le fleuve est plus large qu'aujourd'hui (pont de 560 m contre 434 m pour le pont Wilson)."
+  },
+  {
+   "id": "voie_de_rive",
+   "label": "Voie de rive (decumanus nord)",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     -140
+    ],
+    [
+     1000,
+     -140
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Reprise par l'alignement moderne des rues du Commerce, Colbert et Albert-Thomas ; peut-être un chemin de rive antérieur à la conquête."
+  },
+  {
+   "id": "decumanus_maximus",
+   "label": "Decumanus maximus",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     46.3
+    ],
+    [
+     520,
+     3.6
+    ]
+   ],
+   "width": 8,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum",
+    "bordeaux_seigne2005"
+   ],
+   "note": "Sous la rue de la Scellerie, dans l'alignement exact du petit axe de l'amphithéâtre ; rechargée jusqu'au IVe siècle."
+  },
+  {
+   "id": "decumanus_sud",
+   "label": "Decumanus sud",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     238
+    ],
+    [
+     450,
+     238
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« Plus au sud, un autre decumanus passe en limite d'un établissement thermal » : position supposée au nord des thermes du Sud."
+  },
+  {
+   "id": "cardo_maximus",
+   "label": "Cardo maximus",
+   "kind": "street",
+   "line": [
+    [
+     -47.3,
+     560
+    ],
+    [
+     11.8,
+     -140
+    ],
+    [
+     -43,
+     -178
+    ]
+   ],
+   "width": 8,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Voie reconnue en bordure de la rue de Lucé, 80 m à l'est de la rue Nationale. Au nord de la voie de rive, tracé infléchi vers le pont, dont les pieux sont 50 m à l'est du pont Wilson : les deux indices ne s'accordent qu'à 60 m près."
+  },
+  {
+   "id": "cardo_nationale",
+   "label": "Voie sous l'actuelle rue Nationale",
+   "kind": "street",
+   "line": [
+    [
+     -122.2,
+     500
+    ],
+    [
+     -67.3,
+     -150
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "attested",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« La rue Nationale recouvre une voie antique. »"
+  },
+  {
+   "id": "cardo_descartes",
+   "label": "Cardo sous la rue Descartes",
+   "kind": "street",
+   "line": [
+    [
+     -474.7,
+     420
+    ],
+    [
+     -426.6,
+     -150
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« L'actuelle rue Descartes semble également la survivante d'un cardo. »"
+  },
+  {
+   "id": "cardo_grandiere",
+   "label": "Voie sous la rue de la Grandière",
+   "kind": "street",
+   "line": [
+    [
+     -415.1,
+     470
+    ],
+    [
+     -385.6,
+     120
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "attested",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Voie « sensiblement recouverte par la rue de la Grandière », utilisée longtemps."
+  },
+  {
+   "id": "cardo_jules_simon",
+   "label": "Voie sous la rue Jules-Simon",
+   "kind": "street",
+   "line": [
+    [
+     432.8,
+     300
+    ],
+    [
+     470.8,
+     -150
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Origine antique supposée des rues Jules-Simon et Bernard-Palissy."
+  },
+  {
+   "id": "cardo_suppose_m540",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     -579.7,
+     470
+    ],
+    [
+     -528.2,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_m355",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     -394.7,
+     470
+    ],
+    [
+     -343.2,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_m263",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     -302.7,
+     470
+    ],
+    [
+     -251.2,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_m170",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     -209.7,
+     470
+    ],
+    [
+     -158.2,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_90",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     50.3,
+     470
+    ],
+    [
+     101.8,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_180",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     140.3,
+     470
+    ],
+    [
+     191.8,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_265",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     225.3,
+     470
+    ],
+    [
+     276.8,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "cardo_suppose_350",
+   "label": "Cardo supposé",
+   "kind": "street",
+   "line": [
+    [
+     310.3,
+     470
+    ],
+    [
+     361.8,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé (module d'environ 85 m)."
+  },
+  {
+   "id": "decumanus_suppose_m60",
+   "label": "Decumanus supposé",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     -60
+    ],
+    [
+     480,
+     -60
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé."
+  },
+  {
+   "id": "decumanus_suppose_100",
+   "label": "Decumanus supposé",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     100
+    ],
+    [
+     480,
+     100
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé."
+  },
+  {
+   "id": "decumanus_suppose_170",
+   "label": "Decumanus supposé",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     170
+    ],
+    [
+     480,
+     170
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé."
+  },
+  {
+   "id": "decumanus_suppose_320",
+   "label": "Decumanus supposé",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     320
+    ],
+    [
+     480,
+     320
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé."
+  },
+  {
+   "id": "decumanus_suppose_400",
+   "label": "Decumanus supposé",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     400
+    ],
+    [
+     480,
+     400
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Trame sub-orthogonale attestée en général ; tracé de cette rue supposé."
+  },
+  {
+   "id": "insula_0_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -544.7,
+     -136.5
+    ],
+    [
+     -437.7,
+     -136.5
+    ],
+    [
+     -444.4,
+     -63.5
+    ],
+    [
+     -551.4,
+     -63.5
+    ]
+   ],
+   "seed": 1000,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Maisons à soubassement maçonné et toit de tuiles (seconde moitié du Ier siècle), en bordure de rue, au hasard d'une graine fixe ; bâti plus dense près de la Loire (« urbanisation plus dense en bord de Loire »). Aucune maison n'est un relevé."
+  },
+  {
+   "id": "insula_0_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -551.4,
+     -56.5
+    ],
+    [
+     -444.4,
+     -56.5
+    ],
+    [
+     -453.0,
+     38.3
+    ],
+    [
+     -560.4,
+     42.8
+    ]
+   ],
+   "seed": 1001,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -560.4,
+     49.8
+    ],
+    [
+     -453.0,
+     45.3
+    ],
+    [
+     -457.9,
+     96.5
+    ],
+    [
+     -565.0,
+     96.5
+    ]
+   ],
+   "seed": 1002,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -565.0,
+     103.5
+    ],
+    [
+     -457.9,
+     103.5
+    ],
+    [
+     -463.9,
+     166.5
+    ],
+    [
+     -570.9,
+     166.5
+    ]
+   ],
+   "seed": 1003,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -570.9,
+     173.5
+    ],
+    [
+     -463.9,
+     173.5
+    ],
+    [
+     -469.6,
+     234.5
+    ],
+    [
+     -576.6,
+     234.5
+    ]
+   ],
+   "seed": 1004,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -576.6,
+     241.5
+    ],
+    [
+     -469.6,
+     241.5
+    ],
+    [
+     -476.5,
+     316.5
+    ],
+    [
+     -583.5,
+     316.5
+    ]
+   ],
+   "seed": 1005,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -583.5,
+     323.5
+    ],
+    [
+     -476.5,
+     323.5
+    ],
+    [
+     -483.3,
+     396.5
+    ],
+    [
+     -590.3,
+     396.5
+    ]
+   ],
+   "seed": 1006,
+   "density": 0.2,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_0_7",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -590.3,
+     403.5
+    ],
+    [
+     -483.3,
+     403.5
+    ],
+    [
+     -489.2,
+     466.5
+    ],
+    [
+     -596.2,
+     466.5
+    ]
+   ],
+   "seed": 1007,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -430.7,
+     -136.5
+    ],
+    [
+     -346.7,
+     -136.5
+    ],
+    [
+     -353.4,
+     -63.5
+    ],
+    [
+     -437.4,
+     -63.5
+    ]
+   ],
+   "seed": 1037,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -437.4,
+     -56.5
+    ],
+    [
+     -353.4,
+     -56.5
+    ],
+    [
+     -361.7,
+     34.7
+    ],
+    [
+     -446.0,
+     38.3
+    ]
+   ],
+   "seed": 1038,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -446.0,
+     45.3
+    ],
+    [
+     -361.7,
+     41.7
+    ],
+    [
+     -366.9,
+     96.5
+    ],
+    [
+     -450.9,
+     96.5
+    ]
+   ],
+   "seed": 1039,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -450.9,
+     103.5
+    ],
+    [
+     -366.9,
+     103.5
+    ],
+    [
+     -372.9,
+     166.5
+    ],
+    [
+     -456.9,
+     166.5
+    ]
+   ],
+   "seed": 1040,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -456.9,
+     173.5
+    ],
+    [
+     -372.9,
+     173.5
+    ],
+    [
+     -378.6,
+     234.5
+    ],
+    [
+     -462.6,
+     234.5
+    ]
+   ],
+   "seed": 1041,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -462.6,
+     241.5
+    ],
+    [
+     -378.6,
+     241.5
+    ],
+    [
+     -385.5,
+     316.5
+    ],
+    [
+     -469.5,
+     316.5
+    ]
+   ],
+   "seed": 1042,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -469.5,
+     323.5
+    ],
+    [
+     -385.5,
+     323.5
+    ],
+    [
+     -392.3,
+     396.5
+    ],
+    [
+     -476.3,
+     396.5
+    ]
+   ],
+   "seed": 1043,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_1_7",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -476.3,
+     403.5
+    ],
+    [
+     -392.3,
+     403.5
+    ],
+    [
+     -398.2,
+     466.5
+    ],
+    [
+     -482.2,
+     466.5
+    ]
+   ],
+   "seed": 1044,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -339.7,
+     -136.5
+    ],
+    [
+     -254.7,
+     -136.5
+    ],
+    [
+     -261.4,
+     -63.5
+    ],
+    [
+     -346.4,
+     -63.5
+    ]
+   ],
+   "seed": 1074,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -346.4,
+     -56.5
+    ],
+    [
+     -261.4,
+     -56.5
+    ],
+    [
+     -269.4,
+     31.0
+    ],
+    [
+     -354.7,
+     34.7
+    ]
+   ],
+   "seed": 1075,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -354.7,
+     41.7
+    ],
+    [
+     -269.4,
+     38.0
+    ],
+    [
+     -274.9,
+     96.5
+    ],
+    [
+     -359.9,
+     96.5
+    ]
+   ],
+   "seed": 1076,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -359.9,
+     103.5
+    ],
+    [
+     -274.9,
+     103.5
+    ],
+    [
+     -280.9,
+     166.5
+    ],
+    [
+     -365.9,
+     166.5
+    ]
+   ],
+   "seed": 1077,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -365.9,
+     173.5
+    ],
+    [
+     -280.9,
+     173.5
+    ],
+    [
+     -286.6,
+     234.5
+    ],
+    [
+     -371.6,
+     234.5
+    ]
+   ],
+   "seed": 1078,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -371.6,
+     241.5
+    ],
+    [
+     -286.6,
+     241.5
+    ],
+    [
+     -293.5,
+     316.5
+    ],
+    [
+     -378.5,
+     316.5
+    ]
+   ],
+   "seed": 1079,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -378.5,
+     323.5
+    ],
+    [
+     -293.5,
+     323.5
+    ],
+    [
+     -300.3,
+     396.5
+    ],
+    [
+     -385.3,
+     396.5
+    ]
+   ],
+   "seed": 1080,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_2_7",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -385.3,
+     403.5
+    ],
+    [
+     -300.3,
+     403.5
+    ],
+    [
+     -306.2,
+     466.5
+    ],
+    [
+     -391.2,
+     466.5
+    ]
+   ],
+   "seed": 1081,
+   "density": 0.2,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -247.7,
+     -136.5
+    ],
+    [
+     -161.7,
+     -136.5
+    ],
+    [
+     -168.4,
+     -63.5
+    ],
+    [
+     -254.4,
+     -63.5
+    ]
+   ],
+   "seed": 1111,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -254.4,
+     -56.5
+    ],
+    [
+     -168.4,
+     -56.5
+    ],
+    [
+     -176.1,
+     27.4
+    ],
+    [
+     -262.4,
+     31.0
+    ]
+   ],
+   "seed": 1112,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -262.4,
+     38.0
+    ],
+    [
+     -176.1,
+     34.4
+    ],
+    [
+     -181.9,
+     96.5
+    ],
+    [
+     -267.9,
+     96.5
+    ]
+   ],
+   "seed": 1113,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -267.9,
+     103.5
+    ],
+    [
+     -181.9,
+     103.5
+    ],
+    [
+     -187.9,
+     166.5
+    ],
+    [
+     -273.9,
+     166.5
+    ]
+   ],
+   "seed": 1114,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -273.9,
+     173.5
+    ],
+    [
+     -187.9,
+     173.5
+    ],
+    [
+     -193.6,
+     234.5
+    ],
+    [
+     -279.6,
+     234.5
+    ]
+   ],
+   "seed": 1115,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -279.6,
+     241.5
+    ],
+    [
+     -193.6,
+     241.5
+    ],
+    [
+     -200.5,
+     316.5
+    ],
+    [
+     -286.5,
+     316.5
+    ]
+   ],
+   "seed": 1116,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_3_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -286.5,
+     323.5
+    ],
+    [
+     -200.5,
+     323.5
+    ],
+    [
+     -207.3,
+     396.5
+    ],
+    [
+     -293.3,
+     396.5
+    ]
+   ],
+   "seed": 1117,
+   "density": 0.2,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -154.7,
+     -136.5
+    ],
+    [
+     -71.7,
+     -136.5
+    ],
+    [
+     -78.4,
+     -63.5
+    ],
+    [
+     -161.4,
+     -63.5
+    ]
+   ],
+   "seed": 1148,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -161.4,
+     -56.5
+    ],
+    [
+     -78.4,
+     -56.5
+    ],
+    [
+     -85.8,
+     23.8
+    ],
+    [
+     -169.1,
+     27.4
+    ]
+   ],
+   "seed": 1149,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -169.1,
+     34.4
+    ],
+    [
+     -85.8,
+     30.8
+    ],
+    [
+     -92.0,
+     96.5
+    ],
+    [
+     -174.9,
+     96.5
+    ]
+   ],
+   "seed": 1150,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -174.9,
+     103.5
+    ],
+    [
+     -92.0,
+     103.5
+    ],
+    [
+     -97.9,
+     166.5
+    ],
+    [
+     -180.9,
+     166.5
+    ]
+   ],
+   "seed": 1151,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -180.9,
+     173.5
+    ],
+    [
+     -97.9,
+     173.5
+    ],
+    [
+     -103.6,
+     234.5
+    ],
+    [
+     -186.6,
+     234.5
+    ]
+   ],
+   "seed": 1152,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -186.6,
+     241.5
+    ],
+    [
+     -103.6,
+     241.5
+    ],
+    [
+     -110.5,
+     316.5
+    ],
+    [
+     -193.5,
+     316.5
+    ]
+   ],
+   "seed": 1153,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_4_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -193.5,
+     323.5
+    ],
+    [
+     -110.5,
+     323.5
+    ],
+    [
+     -117.3,
+     396.5
+    ],
+    [
+     -200.3,
+     396.5
+    ]
+   ],
+   "seed": 1154,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_5_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -64.7,
+     -136.5
+    ],
+    [
+     8.3,
+     -136.5
+    ],
+    [
+     1.6,
+     -63.5
+    ],
+    [
+     -71.4,
+     -63.5
+    ]
+   ],
+   "seed": 1185,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_5_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -71.4,
+     -56.5
+    ],
+    [
+     1.6,
+     -56.5
+    ],
+    [
+     -5.5,
+     20.6
+    ],
+    [
+     -78.8,
+     23.8
+    ]
+   ],
+   "seed": 1186,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_5_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -90.9,
+     173.5
+    ],
+    [
+     -17.9,
+     173.5
+    ],
+    [
+     -23.6,
+     234.5
+    ],
+    [
+     -96.6,
+     234.5
+    ]
+   ],
+   "seed": 1189,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_5_6",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -103.5,
+     323.5
+    ],
+    [
+     -30.5,
+     323.5
+    ],
+    [
+     -37.3,
+     396.5
+    ],
+    [
+     -110.3,
+     396.5
+    ]
+   ],
+   "seed": 1191,
+   "density": 0.2,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_6_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     15.3,
+     -136.5
+    ],
+    [
+     98.3,
+     -136.5
+    ],
+    [
+     91.6,
+     -63.5
+    ],
+    [
+     8.6,
+     -63.5
+    ]
+   ],
+   "seed": 1222,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_6_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     8.6,
+     -56.5
+    ],
+    [
+     91.6,
+     -56.5
+    ],
+    [
+     84.8,
+     17.1
+    ],
+    [
+     1.5,
+     20.6
+    ]
+   ],
+   "seed": 1223,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_6_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     1.5,
+     27.6
+    ],
+    [
+     84.8,
+     24.1
+    ],
+    [
+     78.0,
+     96.5
+    ],
+    [
+     -5.0,
+     96.5
+    ]
+   ],
+   "seed": 1224,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_6_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -5.0,
+     103.5
+    ],
+    [
+     78.0,
+     103.5
+    ],
+    [
+     72.1,
+     166.5
+    ],
+    [
+     -10.9,
+     166.5
+    ]
+   ],
+   "seed": 1225,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_6_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -10.9,
+     173.5
+    ],
+    [
+     72.1,
+     173.5
+    ],
+    [
+     66.4,
+     234.5
+    ],
+    [
+     -16.6,
+     234.5
+    ]
+   ],
+   "seed": 1226,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     105.3,
+     -136.5
+    ],
+    [
+     188.3,
+     -136.5
+    ],
+    [
+     181.6,
+     -63.5
+    ],
+    [
+     98.6,
+     -63.5
+    ]
+   ],
+   "seed": 1259,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     98.6,
+     -56.5
+    ],
+    [
+     181.6,
+     -56.5
+    ],
+    [
+     175.1,
+     13.5
+    ],
+    [
+     91.8,
+     17.1
+    ]
+   ],
+   "seed": 1260,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     91.8,
+     24.1
+    ],
+    [
+     175.1,
+     20.5
+    ],
+    [
+     168.1,
+     96.5
+    ],
+    [
+     85.0,
+     96.5
+    ]
+   ],
+   "seed": 1261,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     85.0,
+     103.5
+    ],
+    [
+     168.1,
+     103.5
+    ],
+    [
+     162.1,
+     166.5
+    ],
+    [
+     79.1,
+     166.5
+    ]
+   ],
+   "seed": 1262,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     79.1,
+     173.5
+    ],
+    [
+     162.1,
+     173.5
+    ],
+    [
+     156.4,
+     234.5
+    ],
+    [
+     73.4,
+     234.5
+    ]
+   ],
+   "seed": 1263,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_7_5",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     73.4,
+     241.5
+    ],
+    [
+     156.4,
+     241.5
+    ],
+    [
+     149.5,
+     316.5
+    ],
+    [
+     66.5,
+     316.5
+    ]
+   ],
+   "seed": 1264,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_8_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     195.3,
+     -136.5
+    ],
+    [
+     273.3,
+     -136.5
+    ],
+    [
+     266.6,
+     -63.5
+    ],
+    [
+     188.6,
+     -63.5
+    ]
+   ],
+   "seed": 1296,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_8_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     188.6,
+     -56.5
+    ],
+    [
+     266.6,
+     -56.5
+    ],
+    [
+     260.3,
+     10.2
+    ],
+    [
+     182.1,
+     13.5
+    ]
+   ],
+   "seed": 1297,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_8_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     182.1,
+     20.5
+    ],
+    [
+     260.3,
+     17.2
+    ],
+    [
+     253.1,
+     96.5
+    ],
+    [
+     175.1,
+     96.5
+    ]
+   ],
+   "seed": 1298,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_8_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     175.1,
+     103.5
+    ],
+    [
+     253.1,
+     103.5
+    ],
+    [
+     247.1,
+     166.5
+    ],
+    [
+     169.1,
+     166.5
+    ]
+   ],
+   "seed": 1299,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_8_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     169.1,
+     173.5
+    ],
+    [
+     247.1,
+     173.5
+    ],
+    [
+     241.4,
+     234.5
+    ],
+    [
+     163.4,
+     234.5
+    ]
+   ],
+   "seed": 1300,
+   "density": 0.4,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_9_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     280.3,
+     -136.5
+    ],
+    [
+     358.3,
+     -136.5
+    ],
+    [
+     351.6,
+     -63.5
+    ],
+    [
+     273.6,
+     -63.5
+    ]
+   ],
+   "seed": 1333,
+   "density": 0.85,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_9_1",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     273.6,
+     -56.5
+    ],
+    [
+     351.6,
+     -56.5
+    ],
+    [
+     345.6,
+     6.8
+    ],
+    [
+     267.3,
+     10.2
+    ]
+   ],
+   "seed": 1334,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_9_2",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     267.3,
+     17.2
+    ],
+    [
+     345.6,
+     13.8
+    ],
+    [
+     338.1,
+     96.5
+    ],
+    [
+     260.1,
+     96.5
+    ]
+   ],
+   "seed": 1335,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_9_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     260.1,
+     103.5
+    ],
+    [
+     338.1,
+     103.5
+    ],
+    [
+     332.1,
+     166.5
+    ],
+    [
+     254.1,
+     166.5
+    ]
+   ],
+   "seed": 1336,
+   "density": 0.65,
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_9_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     254.1,
+     173.5
+    ],
+    [
+     332.1,
+     173.5
+    ],
+    [
+     326.4,
+     234.5
+    ],
+    [
+     248.4,
+     234.5
+    ]
+   ],
+   "seed": 1337,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_10_0",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     365.3,
+     -136.5
+    ],
+    [
+     445.3,
+     -136.5
+    ],
+    [
+     438.6,
+     -63.5
+    ],
+    [
+     358.6,
+     -63.5
+    ]
+   ],
+   "seed": 1370,
+   "density": 0.85,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_10_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     345.1,
+     103.5
+    ],
+    [
+     425.1,
+     103.5
+    ],
+    [
+     419.1,
+     166.5
+    ],
+    [
+     339.1,
+     166.5
+    ]
+   ],
+   "seed": 1373,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_10_4",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     339.1,
+     173.5
+    ],
+    [
+     419.1,
+     173.5
+    ],
+    [
+     413.4,
+     234.5
+    ],
+    [
+     333.4,
+     234.5
+    ]
+   ],
+   "seed": 1374,
+   "density": 0.4,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "insula_11_3",
+   "label": "Îlot d'habitations (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     432.1,
+     103.5
+    ],
+    [
+     518.0,
+     103.5
+    ],
+    [
+     512.1,
+     166.5
+    ],
+    [
+     426.1,
+     166.5
+    ]
+   ],
+   "seed": 1410,
+   "density": 0.65,
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "amphitheatre",
+   "label": "Amphithéâtre agrandi (IIe siècle)",
+   "kind": "amphitheatre",
+   "place": {
+    "at": [
+     611.1,
+     -0.0
+    ],
+    "angle": -13
+   },
+   "outer": [
+    156,
+    134
+   ],
+   "arena": [
+    68,
+    50
+   ],
+   "height": 18,
+   "podium": 2.8,
+   "base": 3,
+   "butte_slope": 5,
+   "cavea_material": "gradins",
+   "arena_material": "sable",
+   "butte_material": "herbe",
+   "vomitoria": [
+    {
+     "angle": 90,
+     "width": 5.2,
+     "height": 8
+    },
+    {
+     "angle": 270,
+     "width": 5.2,
+     "height": 8
+    },
+    {
+     "angle": 0,
+     "width": 3.5,
+     "height": 7
+    },
+    {
+     "angle": 180,
+     "width": 3.5,
+     "height": 7
+    },
+    {
+     "angle": 45,
+     "width": 3,
+     "height": 5
+    },
+    {
+     "angle": 135,
+     "width": 3,
+     "height": 5
+    },
+    {
+     "angle": 225,
+     "width": 3,
+     "height": 5
+    },
+    {
+     "angle": 315,
+     "width": 3,
+     "height": 5
+    }
+   ],
+   "certainty": "probable",
+   "sources": [
+    "bordeaux_seigne2005",
+    "wp_amphitheatre",
+    "osm_meusnier"
+   ],
+   "note": "156 × 134 m « au moins », arène de 68 × 50 m (Bordeaux et Seigne 2005) ; type massif : remblai de terre entre le mur de façade et le podium (2,80 m) ; aucun gradin de pierre retrouvé (gradins figurés comme des marches de bois ou de terre). Hauteur supposée de 18 m (« plus de 18 m » ; 15 m selon B. Lefebvre ; 25 à 28 m selon les études des années 1970). Butte naturelle de quelques mètres (ici 3 m). Huit vomitoires, dont quatre principaux. Centre et orientation calés sur la rue du Général-Meusnier, qui suit le sommet de la cavea (grand axe à 156°)."
+  },
+  {
+   "id": "temple_cella",
+   "label": "Grand temple : cella circulaire",
+   "kind": "rotunda",
+   "center": [
+    -51.7,
+    99.2
+   ],
+   "radius": 17.4,
+   "height": 18.6,
+   "roof": {
+    "shape": "cone",
+    "height": 7,
+    "material": "tuiles"
+   },
+   "sides": 40,
+   "certainty": "probable",
+   "sources": [
+    "wp_temple",
+    "wp_caesarodunum"
+   ],
+   "note": "Diamètre extérieur 34,80 m (intérieur 29,50 m, mur de 2,65 m), sur pieux de bois ; murs reconnus sur 3 m seulement : hauteur et couverture de la cella inconnues (ici, aussi haute que le pronaos, toit conique supposé). Position : Wikidata (Q18609494), à l'est de la rue Nationale, à mi-chemin entre la place Jean-Jaurès et la Loire."
+  },
+  {
+   "id": "temple_pronaos",
+   "label": "Grand temple : pronaos à colonnes",
+   "kind": "pronaos",
+   "x": [
+    -37.2,
+    -26.8
+   ],
+   "z": [
+    85.5,
+    113.0
+   ],
+   "podium": 2.2,
+   "steps": 11,
+   "column_height": 9.5,
+   "columns": 8,
+   "roof": 5.5,
+   "certainty": "probable",
+   "sources": [
+    "wp_temple"
+   ],
+   "note": "Large de 27,50 m, profond de 7,50 m au centre et 10,40 m sur les côtés, podium de 2,20 m et escalier droit de 11 marches ; fronton à 18,60 m au-dessus du sol ; toit de tuiles. Ouvert à l'est, probablement sur le cardo maximus. Nombre et taille des colonnes supposés."
+  },
+  {
+   "id": "temple_porte",
+   "label": "Porte de la cella",
+   "kind": "door",
+   "x": -37.2,
+   "z": 99.2,
+   "face": "+x",
+   "width": 5,
+   "height": 9,
+   "certainty": "hypothesis",
+   "sources": [],
+   "note": "Porte supposée dans l'axe."
+  },
+  {
+   "id": "thermes_sud_salles",
+   "label": "Thermes du Sud : salles chauffées et bains",
+   "kind": "hall",
+   "x": [
+    25,
+    70
+   ],
+   "z": [
+    262,
+    318
+   ],
+   "wall": 12,
+   "roof": 5,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ],
+   "note": "Thermes publics sous le lycée Descartes, vers 60-70, agrandis à la fin du Ier siècle ; « plusieurs milliers de mètres carrés ». Plan supposé : seuls la piscine froide à portique, un mur à absides au nord et l'ouest de la palestre sont connus."
+  },
+  {
+   "id": "thermes_sud_aile_nord",
+   "label": "Thermes du Sud : aile nord (mur à absides)",
+   "kind": "hall",
+   "x": [
+    -12,
+    70
+   ],
+   "z": [
+    248,
+    262
+   ],
+   "wall": 8,
+   "roof": 3,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "thermes_sud_piscine",
+   "label": "Thermes du Sud : piscine froide du frigidarium",
+   "kind": "slab",
+   "polygon": [
+    [
+     -2,
+     276
+    ],
+    [
+     18,
+     276
+    ],
+    [
+     18,
+     300
+    ],
+    [
+     -2,
+     300
+    ]
+   ],
+   "y0": -1,
+   "y1": 0.08,
+   "material": "eau",
+   "certainty": "probable",
+   "sources": [
+    "wp_thermes"
+   ]
+  },
+  {
+   "id": "thermes_sud_portique_0",
+   "label": "Thermes du Sud : portique de la piscine",
+   "kind": "colonnade",
+   "x": [
+    -10,
+    22
+   ],
+   "z": 268,
+   "spacing": 3.2,
+   "height": 4.5,
+   "radius": 0.28,
+   "roof": {
+    "depth": 4,
+    "side": "-z"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_thermes"
+   ],
+   "note": "« La piscine froide du frigidarium entouré d'un portique à colonnades » ; nombre de colonnes supposé."
+  },
+  {
+   "id": "thermes_sud_portique_1",
+   "label": "Thermes du Sud : portique de la piscine",
+   "kind": "colonnade",
+   "x": [
+    -10,
+    22
+   ],
+   "z": 310,
+   "spacing": 3.2,
+   "height": 4.5,
+   "radius": 0.28,
+   "roof": {
+    "depth": 4,
+    "side": "+z"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_thermes"
+   ]
+  },
+  {
+   "id": "thermes_est_salle",
+   "label": "Thermes de l'Est : grande salle chauffée (tepidarium ?)",
+   "kind": "hall",
+   "x": [
+    415.6,
+    475.6
+   ],
+   "z": [
+    -186.2,
+    -164.2
+   ],
+   "wall": 10,
+   "roof": 4,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ],
+   "note": "Près du château, au contact de la rive antique ; fouillés en 1974-1978. Cour-palestre, grande salle chauffée au sud, bâtiment à l'est, couloir nord-sud vers la Loire. Dimensions supposées."
+  },
+  {
+   "id": "thermes_est_batiment",
+   "label": "Thermes de l'Est : bâtiment oriental",
+   "kind": "hall",
+   "x": [
+    460.6,
+    475.6
+   ],
+   "z": [
+    -222.2,
+    -186.2
+   ],
+   "wall": 7,
+   "roof": 3,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "thermes_est_cour",
+   "label": "Thermes de l'Est : palestre",
+   "kind": "slab",
+   "polygon": [
+    [
+     415.6,
+     -222.2
+    ],
+    [
+     460.6,
+     -222.2
+    ],
+    [
+     460.6,
+     -186.2
+    ],
+    [
+     415.6,
+     -186.2
+    ]
+   ],
+   "y0": -0.2,
+   "y1": 0.06,
+   "material": "sable",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "thermes_est_portique",
+   "label": "Thermes de l'Est : portique de la palestre",
+   "kind": "colonnade",
+   "x": [
+    417.6,
+    458.6
+   ],
+   "z": -190.2,
+   "spacing": 3.4,
+   "height": 4,
+   "radius": 0.28,
+   "roof": {
+    "depth": 3.5,
+    "side": "+z"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "thermes_est_couloir",
+   "label": "Thermes de l'Est : couloir vers la Loire",
+   "kind": "hall",
+   "x": [
+    443.6,
+    447.6
+   ],
+   "z": [
+    -225.4,
+    -222.2
+   ],
+   "wall": 3.5,
+   "roof": 1.2,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes",
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "pont",
+   "label": "Pont de bois du Haut-Empire",
+   "kind": "bridge",
+   "place": {
+    "at": [
+     -45,
+     -206.6
+    ],
+    "angle": -94
+   },
+   "x": [
+    0,
+    560
+   ],
+   "width": 7,
+   "deck": 4,
+   "spacing": 10,
+   "piles": 4,
+   "bed": -7,
+   "wood_material": "bois",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Pieux observés en 2003 et 2005 à environ 50 m à l'est du pont Wilson ; long d'au moins 560 m, construit au milieu du Ier siècle, en service jusqu'à la fin du IIe. Culée sud retrouvée dans l'alignement du cardo maximus. Largeur, hauteur du tablier et espacement des palées supposés."
+  },
+  {
+   "id": "pont_culee",
+   "label": "Culée sud du pont (maçonnerie)",
+   "kind": "ramp",
+   "place": {
+    "at": [
+     -45,
+     -206.6
+    ],
+    "angle": -94
+   },
+   "x": [
+    -28,
+    1
+   ],
+   "width": 8,
+   "y": [
+    0,
+    4
+   ],
+   "top_material": "voie",
+   "certainty": "attested",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« Sur la rive sud, la culée en maçonnerie de ce pont est retrouvée » ; forme et pente supposées."
+  },
+  {
+   "id": "portique_decumanus",
+   "label": "Portique de bois du decumanus maximus",
+   "kind": "colonnade",
+   "place": {
+    "at": [
+     70,
+     16.4
+    ],
+    "angle": -2.3
+   },
+   "x": [
+    0,
+    110
+   ],
+   "z": 0,
+   "spacing": 3.5,
+   "height": 3.6,
+   "radius": 0.18,
+   "column_material": "bois",
+   "roof": {
+    "depth": 3.5,
+    "side": "-z"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Voie « partiellement bordée par un portique en bois » ; longueur et côté supposés."
+  },
+  {
+   "id": "promeneur",
+   "label": "Silhouette à l'échelle (1,70 m)",
+   "kind": "figure",
+   "x": -21.7,
+   "z": 103.2,
+   "height": 1.7,
+   "material": "figure",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Repère d'échelle, devant le temple."
+  }
+ ]
+}

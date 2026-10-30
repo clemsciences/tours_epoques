@@ -1,0 +1,92 @@
+{
+ "epoch": "aujourdhui",
+ "entries": [
+  {
+   "id": "codex.aujourdhui.vestiges_saint_martin",
+   "title": "Les restes de Saint-Martin",
+   "theme": "lieux",
+   "quotes": [
+    {
+     "text": "très ancienne, et d'une étendue immense, divisée en cinq ailes",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "16 septembre 1785, p. 285"
+     }
+    }
+   ],
+   "text": "La tour Charlemagne et la tour de l'Horloge sont tout ce qui reste au-dessus du sol de la grande collégiale Saint-Martin, démolie au début du XIXe siècle. Allez la voir debout dans « Les Lumières » (1785).",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_collegiale_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.aujourdhui.archeveche",
+   "title": "De l'archevêché au musée",
+   "theme": "lieux",
+   "quotes": [
+    {
+     "text": "magnifique construction moderne",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 284"
+     }
+    }
+   ],
+   "text": "Le musée des Beaux-Arts occupe l'ancien palais des archevêques de Tours, que Mme Cradock visite en septembre 1785.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_map_2025",
+     "loc": "« L'archevêché »"
+    }
+   ]
+  },
+  {
+   "id": "codex.aujourdhui.basilique_perpet",
+   "title": "La basilique de Perpet",
+   "theme": "lieux",
+   "quotes": [
+    {
+     "text": "il fit construire la grande basilique qui subsiste encore aujourd’hui, et qui est à cinq cent cinquante pas de la ville. Elle a cent soixante pieds de long et soixante de large. Elle a en hauteur, jusqu’à la voûte, quarante-cinq pieds.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "livre II, ch. 14"
+     }
+    }
+   ],
+   "text": "Vers 460, l'évêque Perpet (Perpetuus) remplace la petite chapelle bâtie sur le tombeau de saint Martin par une grande basilique, hors de la cité. Grégoire de Tours, évêque de 573 à 594, en donne les dimensions : environ 160 pieds de long. La collégiale que voit Mme Cradock en 1785, puis la basilique de Laloux, lui succèdent au même endroit.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "livre II, ch. 14"
+    }
+   ]
+  },
+  {
+   "id": "codex.aujourdhui.premiere_eglise",
+   "title": "La première église de Tours",
+   "theme": "evenements",
+   "quotes": [
+    {
+     "text": "Il bâtit la première église en la ville de Tours, où il y avait déjà beaucoup de Chrétiens.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "livre X, ch. 31"
+     }
+    }
+   ],
+   "text": "Selon Grégoire de Tours, Litoire, deuxième évêque de Tours, sacré vers 337, bâtit la première église de la cité et fit d'une maison de sénateur la première basilique, qui porta ensuite son nom.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "livre X, ch. 31"
+    }
+   ]
+  }
+ ]
+}

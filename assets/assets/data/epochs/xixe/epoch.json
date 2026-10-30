@@ -1,0 +1,26 @@
+{
+ "id": "xixe",
+ "title": "Le XIXe siècle",
+ "year": 1890,
+ "yearLabel": "vers 1890",
+ "place": "Tours",
+ "summary": "La ville du chemin de fer et des boulevards, au lendemain de la « guerre des basiliques » : la crypte de Saint-Martin est inaugurée en 1889, la nouvelle église en 1890.",
+ "palette": {
+  "ground": "#E4D9C0",
+  "water": "#8FA9B8",
+  "waterEdge": "#5F7D8E",
+  "land": "#D9CCA8",
+  "garden": "#A9BC8E",
+  "street": "#F3EDE0",
+  "streetEdge": "#B7A88A",
+  "stone": "#EFE6D2",
+  "stoneEdge": "#6E6455",
+  "worksite": "#D8C7A0",
+  "roof": "#9AA1A8",
+  "roofEdge": "#5E656D",
+  "label": "#3A3530",
+  "player": "#2F4A6B",
+  "carriage": "#2B2F3A"
+ },
+ "carriage": "fiacre"
+}

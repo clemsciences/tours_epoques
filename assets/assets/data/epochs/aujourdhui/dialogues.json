@@ -1,0 +1,154 @@
+{
+ "lieu_cathedrale_auj": {
+  "speaker": "cathedrale",
+  "model": "saint_gatien_1785",
+  "text": "La cathédrale Saint-Gatien, commencée vers 1187 et achevée au début du XVIe siècle selon Soreau, qui la décrit en 1784. Bien avant elle, Grégoire de Tours attribue à l'évêque Litoire, au IVe siècle, la première église de la cité. Derrière son chevet, la place du Cloître est le décor du Curé de Tours de Balzac.",
+  "quotes": [
+   {
+    "text": "Il bâtit la première église en la ville de Tours, où il y avait déjà beaucoup de Chrétiens.",
+    "source": {
+     "id": "gregoire_histoires",
+     "loc": "livre X, ch. 31"
+    }
+   },
+   {
+    "text": "le temple de Saint-Gatien, qui n'est pas vaste mais d'une belle architecture gothique",
+    "source": {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    }
+   },
+   {
+    "text": "la petite place déserte nommée le Cloître, qui se trouve derrière le chevet de Saint-Gatien, à Tours.",
+    "source": {
+     "id": "balzac_cure_de_tours",
+     "loc": "début du récit"
+    }
+   }
+  ],
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "livre X, ch. 31"
+   },
+   {
+    "id": "balzac_cure_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.aujourdhui.premiere_eglise"
+  ]
+ },
+ "lieu_tours_auj": {
+  "title": "Tour Charlemagne et tour de l'Horloge",
+  "text": "Les deux tours sont les restes de l'ancienne collégiale Saint-Martin. Ses voûtes s'effondrent en 1797 et l'église est démolie au début du XIXe siècle ; la rue des Halles suit l'axe de son ancienne nef.",
+  "quotes": [
+   {
+    "text": "très ancienne, et d'une étendue immense, divisée en cinq ailes",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "16 septembre 1785, p. 285"
+    }
+   }
+  ],
+  "model": "saint_martin_1785",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_collegiale_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.aujourdhui.vestiges_saint_martin"
+  ]
+ },
+ "lieu_basilique_auj": {
+  "speaker": "basilique",
+  "text": "La basilique Saint-Martin, construite sur les plans de Victor Laloux à partir de 1886, au-dessus du tombeau de saint Martin retrouvé en 1860. Au même endroit, l'évêque Perpet avait élevé au Ve siècle la grande basilique que décrit Grégoire de Tours.",
+  "model": "saint_martin_1785",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "livre II, ch. 14"
+   },
+   {
+    "id": "james_little_tour",
+    "loc": "ch. III"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "il fit construire la grande basilique qui subsiste encore aujourd’hui, et qui est à cinq cent cinquante pas de la ville. Elle a cent soixante pieds de long et soixante de large. Elle a en hauteur, jusqu’à la voûte, quarante-cinq pieds.",
+    "source": {
+     "id": "gregoire_histoires",
+     "loc": "livre II, ch. 14"
+    }
+   },
+   {
+    "text": "the church of Saint Martin, which was for many years the sacred spot, the shrine of pilgrimage, of Tours.",
+    "source": {
+     "id": "james_little_tour",
+     "loc": "ch. III"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.aujourdhui.basilique_perpet"
+  ]
+ },
+ "lieu_gare_auj": {
+  "speaker": "gare",
+  "text": "La gare de Victor Laloux, bâtie en 1896-1898, a remplacé l'Embarcadère de 1846.",
+  "quotes": [
+   {
+    "text": "A la place de la Gare, en 1845, au moment où l'on construisit le premier embarcadère, des fouilles se poursuivirent",
+    "source": {
+     "id": "sat_bulletin_1939",
+     "loc": "p. 257"
+    }
+   }
+  ],
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_gare_de_tours"
+   }
+  ]
+ },
+ "lieu_musee_auj": {
+  "title": "Musée des Beaux-Arts",
+  "text": "Le musée occupe l'ancien palais des archevêques, au sud de la cathédrale. En 1785, Mme Cradock le trouvait neuf.",
+  "quotes": [
+   {
+    "text": "magnifique construction moderne",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "15 septembre 1785, p. 284"
+    }
+   }
+  ],
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 284"
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« L'archevêché »"
+   }
+  ],
+  "unlocks": [
+   "codex.aujourdhui.archeveche"
+  ]
+ }
+}

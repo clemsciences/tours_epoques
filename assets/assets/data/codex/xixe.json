@@ -1,0 +1,482 @@
+{
+ "epoch": "xixe",
+ "entries": [
+  {
+   "id": "codex.xixe.rue_de_la_bourde",
+   "title": "La rue de la Bourde",
+   "theme": "lieux",
+   "text": "Derrière les Halles, la rue de la Bourde n'était, dit le roman, « qu'un passage assez étroit allant des Marchés couverts à une caserne de chasseurs à pied ». Mlle Cloque y habite. Boylesve y a vécu un temps : la maison de son héroïne correspond sans doute à celle de ses grands-parents maternels, au n° 8.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. II",
+     "quote": true
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.chapelle_provisoire",
+   "title": "La chapelle provisoire de Saint-Martin",
+   "theme": "lieux",
+   "text": "Après la redécouverte du tombeau de saint Martin en 1860, une chapelle provisoire est aménagée dans les maisons dont les caves l'abritaient, en attendant une nouvelle basilique. Dans le roman, rien ne la signale rue Descartes, sinon « une simple croix de bois appliquée contre le mur au-dessus d'une porte ». À l'intérieur, à droite, le guichet du Frère Gédéon. En 1890, la nouvelle église l'a remplacée : sa présence dans le jeu est un emprunt au roman, dont l'action se passe quelques années plus tôt.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. III",
+     "quote": true
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.nouvelle_basilique",
+   "title": "La nouvelle église Saint-Martin",
+   "theme": "lieux",
+   "text": "Construite sur les plans de Victor Laloux à partir de 1886. La crypte et le tombeau sont inaugurés en 1889, l'église en 1890, mais le gros œuvre ne s'achève qu'en 1902. L'édifice est consacré basilique le 4 juillet 1925.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.tours_saint_martin",
+   "title": "Les tours Charlemagne et de l'Horloge",
+   "theme": "lieux",
+   "text": "Les deux seules parties encore debout de l'ancienne collégiale Saint-Martin, de part et d'autre de la rue des Halles. Dans le roman, les partisans de la grande basilique voulaient en faire deux des quatre angles du nouvel édifice. La tour Charlemagne s'effondrera en partie en 1928 ; elle sera restaurée en 1963.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    },
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. II"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.embarcadere",
+   "title": "L'Embarcadère",
+   "theme": "lieux",
+   "text": "La première gare de Tours, bâtie en 1846 par Phidias Vestier pour la Compagnie du chemin de fer de Paris à Orléans, à l'emplacement de l'actuelle place du Général-Leclerc. Elle sera remplacée par la gare de Victor Laloux, construite de 1896 à 1898. Dans le jeu, l'emprise du bâtiment est approximative.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_gare_de_tours"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "A la place de la Gare, en 1845, au moment où l'on construisit le premier embarcadère, des fouilles se poursuivirent",
+     "source": {
+      "id": "sat_bulletin_1939",
+      "loc": "p. 257"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.halles",
+   "title": "Les Halles",
+   "theme": "lieux",
+   "text": "Les « Marchés couverts » du roman, au bout de la rue de la Bourde. Mlle Cloque habite « derrière les Halles et les ruines de l'église Saint-Clément qui tenaient encore debout à cette époque ». La forme du bâtiment en 1890 reste à retrouver : le jeu reprend l'emprise des halles actuelles.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. II",
+     "quote": true
+    }
+   ],
+   "quotes": [
+    {
+     "text": "la démolition prochaine de l'église Saint-Clément",
+     "source": {
+      "id": "sat_bulletin_1883",
+      "loc": "séance du 30 mai 1883, p. 16"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.archeveche",
+   "title": "L'archevêché",
+   "theme": "lieux",
+   "text": "Le palais des archevêques de Tours, au sud de la cathédrale. Dans le roman, l'archevêque y est Mgr Fripière, un personnage inventé, qui finit par soutenir le projet d'église modeste. Le palais abrite aujourd'hui le musée des Beaux-Arts.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. II et V"
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.prebendes",
+   "title": "Le jardin des Prébendes d'Oé",
+   "theme": "lieux",
+   "text": "Jardin public dessiné vers 1872 par les frères Bühler, paysagistes, sur d'anciens marais maraîchers que la ville avait achetés en 1860. Le ruisseau de l'Archevêché y est canalisé autour d'une île plantée de cyprès chauves.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "inventaire_jardins_prebendes"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.rue_royale",
+   "title": "La rue Royale",
+   "theme": "lieux",
+   "text": "L'artère principale de Tours depuis le XVIIIe siècle, du pont de pierre jusqu'aux boulevards ; c'est l'actuelle rue Nationale. Le roman y place le confiseur Roche, le « chirurgien-dentiste américain » Mönick et l'hôtel du Faisan, où l'omnibus du Sacré-Cœur dépose les pensionnaires. L'hôtel du Faisan a été détruit pendant la Seconde Guerre mondiale.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. VIII"
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.mlle_cloque",
+   "title": "Mlle Athénaïs Cloque",
+   "theme": "personnes",
+   "text": "L'héroïne du roman de René Boylesve : une vieille demoiselle d'environ soixante-dix ans, très pieuse et monarchiste, qui élève sa nièce Geneviève et se bat pour une grande basilique Saint-Martin. Elle chérit le souvenir de sa visite à Chateaubriand, en 1833. Son modèle serait Adélaïde Blacque, voisine des grands-parents de Boylesve.",
+   "certainty": "invented",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. I et II"
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "personnages"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.loupaing",
+   "title": "Loupaing, plombier",
+   "theme": "personnes",
+   "text": "Personnage du roman : entrepreneur de plomberie, républicain et anticlérical, propriétaire de la maison de Mlle Cloque, avec qui il se dispute sans cesse. Boylesve se serait inspiré de Compaing, plombier-zingueur, conseiller municipal de Tours en 1884 et propriétaire de la maison de ses grands-parents.",
+   "certainty": "invented",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. II"
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "personnages"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.frere_gedeon",
+   "title": "Frère Gédéon, le « Frère bleu »",
+   "theme": "personnes",
+   "text": "Personnage du roman : à son guichet de la chapelle provisoire, il vend des objets de piété et sait toutes les nouvelles ; il était, écrit Boylesve, « le vivant répertoire de toutes les nouvelles ecclésiastiques ». Il reprendrait les traits du chanoine Stanislas Rosemberg, qui vendait des souvenirs religieux à la chapelle provisoire.",
+   "certainty": "invented",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. III",
+     "quote": true
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "personnages"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.papin_dupont",
+   "title": "Léon Papin-Dupont, « le saint homme de Tours »",
+   "theme": "personnes",
+   "text": "Né au Lamentin (Martinique) en 1797, mort à Tours en 1876. Fervent catholique, il propage la dévotion à la Sainte Face. Avec l'accord de Mgr Guibert et l'aide de Stanislas Ratel et de Pèdre Moisant, il mène les recherches qui retrouvent le tombeau de saint Martin, dans la nuit du 14 décembre 1860. En 1890, il n'est plus là : on parle de lui au passé.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_papin_dupont"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.boylesve",
+   "title": "René Boylesve",
+   "theme": "personnes",
+   "text": "De son vrai nom René Tardiveau (1867-1926), né à Descartes, en Touraine. Il passe une partie de sa jeunesse à Tours, où il fréquente le lycée. Il adopte le nom de plume de Boylesve en 1893 et publie Mademoiselle Cloque en 1899. Il est élu à l'Académie française en 1918.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_boylesve"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.victor_laloux",
+   "title": "Victor Laloux, architecte",
+   "theme": "personnes",
+   "text": "Architecte tourangeau. En 1890, il dirige le chantier de la nouvelle église Saint-Martin ; il construira ensuite la nouvelle gare de Tours, de 1896 à 1898.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    },
+    {
+     "id": "wp_gare_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.objets_de_piete",
+   "title": "Chapelets, scapulaires et « Annales »",
+   "theme": "vie_quotidienne",
+   "text": "Autour du tombeau de saint Martin prospère un commerce d'objets de piété. Dans le roman, la librairie Pigeonneau-Exelcis vend « depuis les calices, ostensoirs, ciboires, jusqu'au modeste chapelet en bois taillé, à trente centimes ». Le Frère Gédéon propose aussi les Annales de la propagation de la Foi, revue fondée à Lyon en 1822, qui publiait les lettres des missionnaires.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. III et V",
+     "quote": true
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.jours_de_sortie",
+   "title": "Les jours de sortie",
+   "theme": "vie_quotidienne",
+   "text": "Les religieuses du Sacré-Cœur tiennent depuis 1848 un pensionnat de jeunes filles dans l'ancienne abbaye de Marmoutier, sur la rive droite. Dans le roman, les jours de sortie, deux grands omnibus déposent les pensionnaires à l'hôtel du Faisan, rue Royale ; les familles les attendent, et les pâtisseries de Roche disparaissent « en un tour de main ».",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "boylesve_cloque",
+     "loc": "ch. VIII",
+     "quote": true
+    },
+    {
+     "id": "corpus_cloque",
+     "loc": "lieux"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.tramway",
+   "title": "Le tramway à chevaux",
+   "theme": "vie_quotidienne",
+   "text": "Tours a un tramway depuis 1877, et ses voitures sont tirées par des chevaux. Le réseau électrique, urbain et suburbain, viendra plus tard, au début du XXe siècle.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_histoire_de_tours",
+     "loc": "tramways"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.tombeau_1860",
+   "title": "Le tombeau retrouvé (1860)",
+   "theme": "evenements",
+   "text": "Dans la nuit du 14 décembre 1860, on retrouve les restes du tombeau de saint Martin dans une cave murée, sous des maisons proches de la rue des Halles. Toute la question devient alors : que bâtir au-dessus ?",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_papin_dupont"
+    },
+    {
+     "id": "wp_mademoiselle_cloque"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.guerre_des_basiliques",
+   "title": "La « guerre des basiliques »",
+   "theme": "evenements",
+   "text": "Après 1860, deux camps s'affrontent. Les « Basiliciens » veulent relever une basilique aussi grande que l'ancienne, ce qui supprimerait la rue des Halles ; d'autres, dont la municipalité républicaine, préfèrent une église modeste au-dessus du tombeau. Le compromis de 1884 donne une église tournée autrement, qui ne partage avec l'ancienne que l'emplacement du chevet. Cette querelle est la toile de fond de Mademoiselle Cloque.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    },
+    {
+     "id": "wp_mademoiselle_cloque"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.fin_collegiale",
+   "title": "La fin de l'ancienne collégiale",
+   "theme": "evenements",
+   "text": "Devenue église paroissiale à la Révolution, la collégiale Saint-Martin voit ses voûtes s'effondrer en 1797. Sous le préfet Pommereul (1800-1805), on la démolit et l'on perce la rue des Halles à la place de la nef. Seules restent la tour Charlemagne et la tour de l'Horloge.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "casimir_chevalier_2025",
+     "loc": "frise de la basilique"
+    },
+    {
+     "id": "wp_basilique_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.chemin_de_fer",
+   "title": "Le chemin de fer",
+   "theme": "evenements",
+   "text": "Le train arrive à Tours en novembre 1845, et l'Embarcadère ouvre en 1846. La gare de Vendée s'y ajoute en 1875, à l'ouest. Une ligne vers Joué-lès-Tours et Loches est créée en 1878 ; elle est prolongée jusqu'à Châteauroux en 1880.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_histoire_de_tours",
+     "loc": "chemins de fer"
+    },
+    {
+     "id": "wp_gare_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.tete_de_pont",
+   "title": "La tête du pont",
+   "theme": "lieux",
+   "text": "Au débouché du pont de pierre, deux bâtiments se font face de part et d'autre de la rue Royale : à l'ouest l'hôtel de ville (1777-1786, architecte de Limay), à l'est le musée, achevé seulement en 1827 et ouvert en 1828. Plus tard, l'hôtel de ville deviendra la bibliothèque municipale. Tous deux disparaissent dans les destructions de juin 1940, qui emportent une dizaine d'hectares de part et d'autre de la rue. Dans le jeu, leur emprise est dessinée approximativement.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    },
+    {
+     "id": "sat_memoires_1941",
+     "loc": "p. 49"
+    },
+    {
+     "id": "merimee_rue_nationale"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "A l'ouest, la bibliothèque, précédemment l'hôtel de ville, qui fut construit de 1777 à 1786. A l'est, l'ancien musée, construit seulement en 1828, pour faire pendant au bâtiment de l'hôtel de ville.",
+     "source": {
+      "id": "sat_bulletin_1913",
+      "loc": "p. 138"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.henry_james",
+   "title": "Henry James à Tours",
+   "theme": "personnes",
+   "quotes": [
+    {
+     "text": "It is a very beautiful church of the second order of importance, with a charming mouse-colored complexion and a pair of fantastic towers.",
+     "source": {
+      "id": "james_little_tour",
+      "loc": "ch. II"
+     }
+    },
+    {
+     "text": "the church of Saint Martin, which was for many years the sacred spot, the shrine of pilgrimage, of Tours.",
+     "source": {
+      "id": "james_little_tour",
+      "loc": "ch. III"
+     }
+    }
+   ],
+   "text": "L'écrivain américain Henry James consacre deux chapitres de A Little Tour in France (1884) à Tours : la cathédrale, qu'il trouve très belle, et le souvenir de Saint-Martin, l'ancien grand lieu de pèlerinage. Citations en anglais, langue du livre.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "james_little_tour",
+     "loc": "ch. II-III"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.cure_de_tours",
+   "title": "Le Curé de Tours",
+   "theme": "lieux",
+   "quotes": [
+    {
+     "text": "la petite place déserte nommée le Cloître, qui se trouve derrière le chevet de Saint-Gatien, à Tours.",
+     "source": {
+      "id": "balzac_cure_de_tours",
+      "loc": "début du récit"
+     }
+    }
+   ],
+   "text": "Balzac, né à Tours en 1799, situe à l'automne 1826 son roman Le Curé de Tours (1832) dans le Cloître, derrière la cathédrale : l'abbé Birotteau y perd peu à peu sa chambre et sa tranquillité. En 1890, le roman fait déjà partie de la mémoire du quartier.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "balzac_cure_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.imprimerie_mame",
+   "title": "L'imprimerie Mame",
+   "theme": "lieux",
+   "text": "La plus grande entreprise de Tours au XIXe siècle. Amand Mame installe son imprimerie en 1824 dans l'ancienne Intendance, entre les rues des Halles, Marceau et Néricault-Destouches ; son fils Alfred l'agrandit à partir de 1845 et y réunit toute la chaîne du livre : papier (il est actionnaire de la papeterie de Marray, à La Haye-Descartes), encres, impression, reliure, édition, librairie. Les contemporains la disent la plus belle imprimerie d'Europe. Livres religieux surtout : Alfred Mame est l'imprimeur de l'archevêché, et son fils Paul obtiendra en 1897 le titre d'imprimeur pontifical. Le grand incendie de juin 1940 ravage l'usine ; installée provisoirement rue Raspail, l'activité est de nouveau détruite par les bombardements de mai 1944. La nouvelle imprimerie (Bernard Zehrfuss, Jean Prouvé) est construite en 1950 boulevard Preuilly. Dans le jeu, l'emprise suit les rues ; la disposition des bâtiments est supposée.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "mame_laissez_vous_conter",
+     "loc": "p. 5-7, 11, 14-15"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "on se fournira désormais uniquement chez l'éditeur Mame",
+     "source": {
+      "id": "boylesve_cloque",
+      "loc": "ch. VII"
+     }
+    },
+    {
+     "text": "je n'ai jamais imprimé une seule ligne contraire à la religion et à la morale",
+     "source": {
+      "id": "mame_laissez_vous_conter",
+      "loc": "p. 11, propos d'Alfred Mame cités sans référence"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xixe.oeuvres_mame",
+   "title": "Les œuvres de la Maison Mame",
+   "theme": "vie_quotidienne",
+   "text": "Patron paternaliste, lecteur de Frédéric Le Play, Alfred Mame offre à ses ouvriers des services que les pouvoirs publics n'organisent pas encore : une première école maternelle en 1871, rue Delpérier, un asile ouvert en 1883 rue Racine (plus de mille enfants accueillis de 1872 à 1887), des écoles, des ouvroirs, l'apprentissage. Près de la barrière Saint-Éloi, il fait bâtir par l'architecte Henri Racine une cité ouvrière de 62 maisons (1868-1875), avec l'eau du Cher au robinet ; elle existe toujours. Le travail des enfants recule lentement : l'usine en emploie encore 179 en 1867. La cité est hors du cadre de la carte du jeu.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "mame_laissez_vous_conter",
+     "loc": "p. 9, 12-13"
+    }
+   ]
+  }
+ ]
+}

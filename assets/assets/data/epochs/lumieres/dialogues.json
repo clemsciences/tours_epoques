@@ -1,0 +1,505 @@
+{
+ "cradock_intro": {
+  "speaker": "mme_cradock",
+  "text": "Bonjour ! Nous arrivons de Langeais. « Rien n'égale le coup d'œil du pont à l'entrée de la ville ; il traverse la Loire et conduit en droite ligne à la nouvelle rue que l'on vient d'achever, et qui se prolonge en avenue, même au-delà, dans la campagne. »",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 283",
+    "quote": true
+   }
+  ],
+  "choices": [
+   {
+    "label": "Vous êtes bien logée ?",
+    "next": "cradock_faisan"
+   },
+   {
+    "label": "Qu'avez-vous visité ?",
+    "next": "cradock_visites"
+   },
+   {
+    "label": "Et la promenade ?",
+    "next": "cradock_mail"
+   },
+   {
+    "label": "Que pensez-vous de Tours ?",
+    "next": "cradock_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.mme_cradock",
+   "codex.lumieres.rue_royale"
+  ]
+ },
+ "cradock_faisan": {
+  "speaker": "mme_cradock",
+  "text": "Au « Faisan », juste là, en haut de la rue. « Hôtel dont l'intérieur est loin de répondre à l'extérieur : chambres petites, nourriture peu soignée, tout très inconfortable et très cher. » Et la nuit, je n'étais pas seule dans mon lit : « les punaises me furent une société importune ».",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 283 et 285",
+    "quote": true
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« L'hôtel du Faisan »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.faisan"
+  ]
+ },
+ "cradock_visites": {
+  "speaker": "mme_cradock",
+  "text": "La cathédrale d'abord, puis Saint-Martin. Saint-Martin est « très ancienne, et d'une étendue immense, divisée en cinq ailes ». Derrière le grand autel se trouve le tombeau du saint, où l'on célèbre, nous dit-on, trente messes par jour.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "16 septembre 1785, p. 285",
+    "quote": true
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et la cathédrale ?",
+    "next": "cradock_cathedrale"
+   }
+  ]
+ },
+ "cradock_cathedrale": {
+  "speaker": "mme_cradock",
+  "text": "« Quoique dégradée, elle est d'une richesse et d'un fini incomparables. » M. Cradock est monté au clocher pour la vue, « une des plus belles de France » ; moi, je n'ai pas osé. Et le guide n'a cessé de vouloir nous vendre des ex-voto et des messes !",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 283-284",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.cathedrale"
+  ]
+ },
+ "cradock_mail": {
+  "speaker": "mme_cradock",
+  "text": "Le mail, au sud de la ville : « promenade formée de trois allées d'un mille de longueur, ombragées par quatre rangées de grands ormeaux ». On dit qu'il était autrefois si bien tenu qu'on ne pouvait y passer après la pluie ; j'y ai vu paître des vaches.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 284",
+    "quote": true
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« Les mails »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.mails"
+  ]
+ },
+ "cradock_tours": {
+  "speaker": "mme_cradock",
+  "text": "Franchement ? « Tours me parut triste, d'autant plus que je n'y vis aucun amusement public. » Nous repartons : Marmoutier d'abord, puis Amboise.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "17 septembre 1785, p. 288",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.marmoutier"
+  ]
+ },
+ "guide_intro": {
+  "speaker": "guide_cathedrale",
+  "text": "Monsieur, madame, vous visitez Saint-Gatien ? Suivez-moi : les rosaces au-dessus des portes de côté, une vraie dentelle de pierre ! Et l'horloge à personnages, dans le bas-côté… elle marche encore, mais elle ne sonne plus.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 283-284"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qu'y a-t-il sur cet autel ?",
+    "next": "guide_exvoto"
+   },
+   {
+    "label": "Peut-on monter au clocher ?",
+    "next": "guide_clocher"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.cathedrale"
+  ]
+ },
+ "guide_exvoto": {
+  "speaker": "guide_cathedrale",
+  "text": "Un calvaire en bois peint, grandeur nature, couvert d'ex-voto. Ils sont à vendre, huit sous pièce. Une jambe de cire, peut-être ? Ou quelques messes pour que votre voyage se passe bien ?",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 284"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.ex_voto"
+  ]
+ },
+ "guide_clocher": {
+  "speaker": "guide_cathedrale",
+  "text": "Bien sûr, pour qui a de bonnes jambes : la vue est superbe. L'église, commencée vers 1187, n'a été achevée qu'au commencement du XVIe siècle. Ses pierres viennent des carrières de Saint-Avertin.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 284"
+   }
+  ]
+ },
+ "chanoine_intro": {
+  "speaker": "chanoine",
+  "text": "Vous venez prier saint Martin ? Descendez : il faut une vingtaine de marches pour entrer dans l'église, tant le sol de la ville s'est élevé autour d'elle. Le tombeau est derrière le grand autel.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "cradock_journal",
+    "loc": "16 septembre 1785, p. 285"
+   }
+  ],
+  "choices": [
+   {
+    "label": "L'église est immense…",
+    "next": "chanoine_dimensions"
+   },
+   {
+    "label": "Et ce trésor qu'on dit si riche ?",
+    "next": "chanoine_tresor"
+   },
+   {
+    "label": "Les voûtes semblent fatiguées.",
+    "next": "chanoine_delabrement"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.collegiale"
+  ]
+ },
+ "chanoine_dimensions": {
+  "speaker": "chanoine",
+  "text": "Trois cent vingt pieds de long, cent soixante-quatre aux croisées, cinq nefs sur cent quarante piliers, dit-on. Et notre orgue : soixante-quatre jeux ! Dom Bedos lui-même en fait l'éloge dans son Art du facteur d'orgues.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   }
+  ]
+ },
+ "chanoine_tresor": {
+  "speaker": "chanoine",
+  "text": "Les grilles autour de l'autel étaient autrefois d'argent massif ; elles sont maintenant de cuivre et de fer forgé. Mais voyez nos ornements des grandes fêtes, et le dais de la Fête-Dieu, en velours cramoisi brodé d'or : le plus riche de France.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "16 septembre 1785, p. 285-286"
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« La basilique Saint-Martin »"
+   }
+  ]
+ },
+ "chanoine_delabrement": {
+  "speaker": "chanoine",
+  "text": "Vous avez l'œil. Les architectes qui sont venus l'examiner ont tous averti le chapitre de son délabrement, et une restauration coûterait des sommes énormes. Je prie pour qu'elle tienne encore longtemps.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_collegiale_saint_martin",
+    "loc": "« délabrement de la basilique »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.fin_de_saint_martin"
+  ]
+ },
+ "tailleur18_intro": {
+  "speaker": "tailleur_hotel_de_ville",
+  "text": "Attention aux pierres ! Ici, on bâtit le nouvel hôtel de ville, sur les plans de M. de Limay. Le chantier dure depuis 1777 ; on espère en finir l'an prochain.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "sat_memoires_1941",
+    "loc": "p. 49"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et le bâtiment d'en face ?",
+    "next": "tailleur18_pavillon"
+   },
+   {
+    "label": "Qui a tracé la rue Royale ?",
+    "next": "tailleur18_rue"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.hotel_de_ville"
+  ]
+ },
+ "tailleur18_pavillon": {
+  "speaker": "tailleur_hotel_de_ville",
+  "text": "Son pendant, de l'autre côté de la rue. Commencé en même temps, mais il avance moins vite. Les deux encadreront l'entrée de la ville quand on arrive par le pont.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "sat_memoires_1941",
+    "loc": "p. 49"
+   }
+  ]
+ },
+ "tailleur18_rue": {
+  "speaker": "tailleur_hotel_de_ville",
+  "text": "Une rue « tirée au cordeau, bâtie à neuf », du pont jusqu'aux mails et à la grande route d'Espagne. Les façades sont toutes pareilles : M. de Limay en a fait les estimations, à partir de 1766.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135",
+    "quote": true
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« La rue Royale »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.rue_royale"
+  ]
+ },
+ "marinier_intro": {
+  "speaker": "marinier",
+  "text": "Le pont neuf ? On ne passe plus dessous comme avant, ça non : il faut viser l'arche. Mais quel ouvrage ! Commencé en 1765, fini il y a six ans à peine.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« La percée nord-sud »"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui l'a construit ?",
+    "next": "marinier_ingenieurs"
+   },
+   {
+    "label": "Et au bout de la rue ?",
+    "next": "marinier_route"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.pont_neuf"
+  ]
+ },
+ "marinier_ingenieurs": {
+  "speaker": "marinier",
+  "text": "Trois ingénieurs l'un après l'autre, à ce qu'on dit : M. de Bayeux, M. de Voglie et M. Cadet de Limay. Les pierres sont pleines de coquilles, regardez-les de près.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   }
+  ]
+ },
+ "marinier_route": {
+  "speaker": "marinier",
+  "text": "Tout droit vers le sud, la grande route d'Espagne : une chaussée d'une lieue, plantée de quatre rangées d'arbres, avec un beau pont sur le Cher.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« La percée nord-sud »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.route_d_espagne"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "La collégiale Saint-Martin, sur le tombeau du saint. Rebâtie après 1175 selon Soreau, elle mesure plus de cent mètres de long. Elle est « d'un style particulier, sans sculptures à l'extérieur » (Cradock). Son emprise est dessinée ici par hypothèse : la nef sur l'axe de l'actuelle rue des Halles.",
+  "model": "saint_martin_1785",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "cradock_journal",
+    "loc": "16 septembre 1785, p. 285",
+    "quote": true
+   },
+   {
+    "id": "wp_collegiale_saint_martin",
+    "loc": "pavage de la rue des Halles"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "livre II, ch. 14"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.collegiale"
+  ],
+  "quotes": [
+   {
+    "text": "très ancienne, et d'une étendue immense, divisée en cinq ailes",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "16 septembre 1785, p. 285"
+    }
+   },
+   {
+    "text": "il fit construire la grande basilique qui subsiste encore aujourd’hui, et qui est à cinq cent cinquante pas de la ville. Elle a cent soixante pieds de long et soixante de large. Elle a en hauteur, jusqu’à la voûte, quarante-cinq pieds.",
+    "source": {
+     "id": "gregoire_histoires",
+     "loc": "livre II, ch. 14"
+    }
+   }
+  ]
+ },
+ "lieu_tour_charlemagne": {
+  "speaker": "tour_charlemagne",
+  "text": "La tour Charlemagne, clocher du croisillon nord. Selon la tradition que rapporte Soreau, Charlemagne l'aurait élevée sur le tombeau de sa femme Luitgarde, morte à Tours en 800. Un siècle plus tard, la Société archéologique de Touraine en doutera : la sépulture serait au milieu du croisillon.",
+  "model": "saint_martin_1785",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135"
+   },
+   {
+    "id": "sat_bulletin_1886",
+    "loc": "p. 481"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.luitgarde"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "model": "saint_gatien_1785",
+  "text": "La cathédrale Saint-Gatien, commencée vers 1187 et achevée au début du XVIe siècle (Soreau).",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "soreau_1784",
+    "loc": "p. 124-135",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.cathedrale"
+  ],
+  "quotes": [
+   {
+    "text": "le temple de Saint-Gatien, qui n'est pas vaste mais d'une belle architecture gothique",
+    "source": {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    }
+   }
+  ]
+ },
+ "lieu_archeveche18": {
+  "speaker": "archeveche",
+  "text": "Le palais de l'archevêque, neuf en 1785, avec son arcade de pierre sculptée au-dessus de la grille d'entrée. Sa bibliothèque garde un Pentateuque et des Évangiles anciens.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "15 septembre 1785, p. 284",
+    "quote": true
+   },
+   {
+    "id": "cradock_map_2025",
+    "loc": "« L'archevêché »"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.archeveche"
+  ],
+  "quotes": [
+   {
+    "text": "magnifique construction moderne",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "15 septembre 1785, p. 284"
+    }
+   }
+  ]
+ },
+ "lieu_hotel_de_ville_chantier": {
+  "title": "Chantier de la tête de pont",
+  "text": "De part et d'autre de l'entrée de la rue Royale, deux bâtiments en construction : à l'ouest, l'hôtel de ville (1777-1786, plans de De Limay) ; à l'est, son pendant, commencé en même temps. Emprises dessinées approximativement.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "sat_memoires_1941",
+    "loc": "p. 49"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.hotel_de_ville"
+  ],
+  "quotes": [
+   {
+    "text": "les travaux du Musée furent entrepris en même temps que ceux de l'Hôtel de Ville, construit de 1777 à 1786, sur les plans de M. de Limay",
+    "source": {
+     "id": "sat_memoires_1941",
+     "loc": "p. 49"
+    }
+   }
+  ]
+ }
+}

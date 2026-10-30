@@ -1,0 +1,1256 @@
+{
+ "about": "Photos des monuments datés : élément Wikidata (P18), fichiers de Wikimedia Commons sous licence libre ; auteur et licence à afficher avec chaque photo. Généré par tools/heritage/fetch_photos.py.",
+ "photos": {
+  "PA00098128": {
+   "asset": "assets/images/heritage/PA00098128.jpg",
+   "file": "Abbaye Beaumont 01.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Abbaye_Beaumont_01.jpg"
+  },
+  "PA00098130": {
+   "asset": "assets/images/heritage/PA00098130.jpg",
+   "file": "Église Saint-Julien de Tours sous un ciel bleu.jpeg",
+   "author": "Cliciaantao",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Julien_de_Tours_sous_un_ciel_bleu.jpeg"
+  },
+  "PA00098131": {
+   "asset": "assets/images/heritage/PA00098131.jpg",
+   "file": "Tourcharlemagne.jpg",
+   "author": "Guill37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2007,
+   "page": "https://commons.wikimedia.org/wiki/File:Tourcharlemagne.jpg"
+  },
+  "PA00098132": {
+   "asset": "assets/images/heritage/PA00098132.jpg",
+   "file": "Garden at Musee des Beaux Arts in Tours, France.jpg",
+   "author": "Casper Moller",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "year": 2008,
+   "page": "https://commons.wikimedia.org/wiki/File:Garden_at_Musee_des_Beaux_Arts_in_Tours,_France.jpg"
+  },
+  "PA00098133": {
+   "asset": "assets/images/heritage/PA00098133.jpg",
+   "file": "Tours - Aumônerie de Saint-Martin.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Aum%C3%B4nerie_de_Saint-Martin.jpg"
+  },
+  "PA00098134": {
+   "asset": "assets/images/heritage/PA00098134.jpg",
+   "file": "Chancellerie collégiale Saint-Martin.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Chancellerie_coll%C3%A9giale_Saint-Martin.jpg"
+  },
+  "PA00098135": {
+   "asset": "assets/images/heritage/PA00098135.jpg",
+   "file": "Cathédrale de Tours.JPG",
+   "author": "Miralolotte23",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_de_Tours.JPG"
+  },
+  "PA00098136": {
+   "asset": "assets/images/heritage/PA00098136.jpg",
+   "file": "Cave rue des Bons Enfants (Tours).jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Cave_rue_des_Bons_Enfants_(Tours).jpg"
+  },
+  "PA00098137": {
+   "asset": "assets/images/heritage/PA00098137.jpg",
+   "file": "Tours (131).JPG",
+   "author": "Parsifall",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2009,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_(131).JPG"
+  },
+  "PA00098138": {
+   "asset": "assets/images/heritage/PA00098138.jpg",
+   "file": "Chapelle des Filles de l'Union Chrétienne.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Chapelle_des_Filles_de_l%27Union_Chr%C3%A9tienne.JPG"
+  },
+  "PA00098139": {
+   "asset": "assets/images/heritage/PA00098139.jpg",
+   "file": "Église Saint-Grégoire des Minimes1.JPG",
+   "author": "Strikehard",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2010,
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Gr%C3%A9goire_des_Minimes1.JPG"
+  },
+  "PA00098140": {
+   "asset": "assets/images/heritage/PA00098140.jpg",
+   "file": "Ancienne chapelle du Petit Saint-Martin DSC 0386.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Ancienne_chapelle_du_Petit_Saint-Martin_DSC_0386.jpg"
+  },
+  "PA00098141": {
+   "asset": "assets/images/heritage/PA00098141.jpg",
+   "file": "Chapelle Saint-Jean (Tours).jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Chapelle_Saint-Jean_(Tours).jpg"
+  },
+  "PA00098142": {
+   "asset": "assets/images/heritage/PA00098142.jpg",
+   "file": "Cloitre-Psalette Tours - Escalier 2026.jpg",
+   "author": "AlSepPhoenix",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Cloitre-Psalette_Tours_-_Escalier_2026.jpg"
+  },
+  "PA00098143": {
+   "asset": "assets/images/heritage/PA00098143.jpg",
+   "file": "Couvent Capucins.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Couvent_Capucins.jpg"
+  },
+  "PA00098144": {
+   "asset": "assets/images/heritage/PA00098144.jpg",
+   "file": "Tours - couvent des Carmes Clérambault.jpg",
+   "author": "Edouard Gatian de Clérambault (1813-1917)",
+   "license": "Public domain",
+   "year": 1912,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_couvent_des_Carmes_Cl%C3%A9rambault.jpg"
+  },
+  "PA00098145": {
+   "asset": "assets/images/heritage/PA00098145.jpg",
+   "file": "7 rue de Lucé, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:7_rue_de_Luc%C3%A9,_Tours.jpg"
+  },
+  "PA00098146": {
+   "asset": "assets/images/heritage/PA00098146.jpg",
+   "file": "Couvent des Ursulines a Tours DSC 0848.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Couvent_des_Ursulines_a_Tours_DSC_0848.jpg"
+  },
+  "PA00098147": {
+   "asset": "assets/images/heritage/PA00098147.jpg",
+   "file": "ND la Riche (Tours).jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:ND_la_Riche_(Tours).jpg"
+  },
+  "PA00098148": {
+   "asset": "assets/images/heritage/PA00098148.jpg",
+   "file": "Tours - église Sainte-Croix.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2020,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_%C3%A9glise_Sainte-Croix.jpg"
+  },
+  "PA00098149": {
+   "asset": "assets/images/heritage/PA00098149.jpg",
+   "file": "Tours - Cure de l'église Sainte-Croix.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Cure_de_l%27%C3%A9glise_Sainte-Croix.jpg"
+  },
+  "PA00098150": {
+   "asset": "assets/images/heritage/PA00098150.jpg",
+   "file": "Eglise St-Denis Tours.jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_St-Denis_Tours.jpg"
+  },
+  "PA00098152": {
+   "asset": "assets/images/heritage/PA00098152.jpg",
+   "file": "Chapelle Notre-Dame de Beaumont.JPG",
+   "author": "Duch.seb",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame_de_Beaumont.JPG"
+  },
+  "PA00098153": {
+   "asset": "assets/images/heritage/PA00098153.jpg",
+   "file": "Tours - Saint-Julien.jpg",
+   "author": "Eusebius",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "year": 2009,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Saint-Julien.jpg"
+  },
+  "PA00098154": {
+   "asset": "assets/images/heritage/PA00098154.jpg",
+   "file": "Chapelle Saint Libert Tours 2012 pradigue 08.JPG",
+   "author": "Pradigue",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Chapelle_Saint_Libert_Tours_2012_pradigue_08.JPG"
+  },
+  "PA00098155": {
+   "asset": "assets/images/heritage/PA00098155.jpg",
+   "file": "Eglise Saint-Pierre le Puellier (Tours) 1.JPG",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Pierre_le_Puellier_(Tours)_1.JPG"
+  },
+  "PA00098156": {
+   "asset": "assets/images/heritage/PA00098156.jpg",
+   "file": "Eglise Saint-Saturnin de Tours DSC 0425.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Saturnin_de_Tours_DSC_0425.jpg"
+  },
+  "PA00098157": {
+   "asset": "assets/images/heritage/PA00098157.jpg",
+   "file": "SST 0026.jpg",
+   "author": "Bellicistes",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:SST_0026.jpg"
+  },
+  "PA00098158": {
+   "asset": "assets/images/heritage/PA00098158.jpg",
+   "file": "Castrum-Tours.JPG",
+   "author": "Alain.Darles",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Castrum-Tours.JPG"
+  },
+  "PA00098159": {
+   "asset": "assets/images/heritage/PA00098159.jpg",
+   "file": "Tour Martinopole Tours.jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Tour_Martinopole_Tours.jpg"
+  },
+  "PA00098161": {
+   "asset": "assets/images/heritage/PA00098161.jpg",
+   "file": "Tours - Gare - 03.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Gare_-_03.jpg"
+  },
+  "PA00098162": {
+   "asset": "assets/images/heritage/PA00098162.jpg",
+   "file": "Hôtel Archidiaconné Tours.jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Archidiaconn%C3%A9_Tours.jpg"
+  },
+  "PA00098163": {
+   "asset": "assets/images/heritage/PA00098163.jpg",
+   "file": "Hôtel Bacot de Romand 39, 42 rue Émile-Zola, Tours,2.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Bacot_de_Romand_39,_42_rue_%C3%89mile-Zola,_Tours,2.JPG"
+  },
+  "PA00098164": {
+   "asset": "assets/images/heritage/PA00098164.jpg",
+   "file": "Tours, Hôtel de Beaune-Semblançay.JPG",
+   "author": "Parsifall",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2009,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours,_H%C3%B4tel_de_Beaune-Semblan%C3%A7ay.JPG"
+  },
+  "PA00098165": {
+   "asset": "assets/images/heritage/PA00098165.jpg",
+   "file": "Hôtel Binet, cour interieure 08.jpg",
+   "author": "ZohaStel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Binet,_cour_interieure_08.jpg"
+  },
+  "PA00098166": {
+   "asset": "assets/images/heritage/PA00098166.jpg",
+   "file": "Hôtel de Choiseul à Tours.JPG",
+   "author": "ZohaStel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Choiseul_%C3%A0_Tours.JPG"
+  },
+  "PA00098167": {
+   "asset": "assets/images/heritage/PA00098167.jpg",
+   "file": "Hôtel Cottereau.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Cottereau.JPG"
+  },
+  "PA00098168": {
+   "asset": "assets/images/heritage/PA00098168.jpg",
+   "file": "Hotel-de-la-Croix-Blanche- 15 place du Chateauneuf -Tours.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel-de-la-Croix-Blanche-_15_place_du_Chateauneuf_-Tours.jpg"
+  },
+  "PA00098169": {
+   "asset": "assets/images/heritage/PA00098169.jpg",
+   "file": "Vieux tours, Rue albert thomas, hôtel du doyenné saint gatien.jpg",
+   "author": "Desprez37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Vieux_tours,_Rue_albert_thomas,_h%C3%B4tel_du_doyenn%C3%A9_saint_gatien.jpg"
+  },
+  "PA00098170": {
+   "asset": "assets/images/heritage/PA00098170.jpg",
+   "file": "Hotel-gouin-vue-cour.jpg",
+   "author": "Baptiste37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2020,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel-gouin-vue-cour.jpg"
+  },
+  "PA00098171": {
+   "asset": "assets/images/heritage/PA00098171.jpg",
+   "file": "Hotel particulier dit Jean Briconnet 13 rue du Chateauneuf a Tours DSC 0065.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_particulier_dit_Jean_Briconnet_13_rue_du_Chateauneuf_a_Tours_DSC_0065.jpg"
+  },
+  "PA00098172": {
+   "asset": "assets/images/heritage/PA00098172.jpg",
+   "file": "Hôtel de Jean Galland a Tours DSC 0497.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Jean_Galland_a_Tours_DSC_0497.jpg"
+  },
+  "PA00098173": {
+   "asset": "assets/images/heritage/PA00098173.jpg",
+   "file": "Hôtel Liebert de Nitray 02.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Liebert_de_Nitray_02.JPG"
+  },
+  "PA00098174": {
+   "asset": "assets/images/heritage/PA00098174.jpg",
+   "file": "Hôtel Mame 04.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Mame_04.JPG"
+  },
+  "PA00098175": {
+   "asset": "assets/images/heritage/PA00098175.jpg",
+   "file": "Hotel de la Monnaie a Tours DSC 0116.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_de_la_Monnaie_a_Tours_DSC_0116.jpg"
+  },
+  "PA00098176": {
+   "asset": "assets/images/heritage/PA00098176.jpg",
+   "file": "Hotel de l'harbaléte 4 rue de la rôtisserie.jpg",
+   "author": "Desprez37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_de_l%27harbal%C3%A9te_4_rue_de_la_r%C3%B4tisserie.jpg"
+  },
+  "PA00098177": {
+   "asset": "assets/images/heritage/PA00098177.jpg",
+   "file": "Hôtel 6 & 8 rue de l'Arbalète - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_6_%26_8_rue_de_l%27Arbal%C3%A8te_-_Tours.JPG"
+  },
+  "PA00098178": {
+   "asset": "assets/images/heritage/PA00098178.jpg",
+   "file": "Hotel particulier au 7 rue de la Barre a Tours DSC 0629.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_particulier_au_7_rue_de_la_Barre_a_Tours_DSC_0629.jpg"
+  },
+  "PA00098179": {
+   "asset": "assets/images/heritage/PA00098179.jpg",
+   "file": "Hotel particulier du 22 rue du Docteur Bretonneau a Tours DSC 0344.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_particulier_du_22_rue_du_Docteur_Bretonneau_a_Tours_DSC_0344.jpg"
+  },
+  "PA00098180": {
+   "asset": "assets/images/heritage/PA00098180.jpg",
+   "file": "Vieux tours, logis noble, 16ém siècle, 7 rue des Cerisiers.jpg",
+   "author": "Desprez37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Vieux_tours,_logis_noble,_16%C3%A9m_si%C3%A8cle,_7_rue_des_Cerisiers.jpg"
+  },
+  "PA00098181": {
+   "asset": "assets/images/heritage/PA00098181.jpg",
+   "file": "Hotel particulier du 33 bis rue du Cygne a Tours DSC 0521.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_particulier_du_33_bis_rue_du_Cygne_a_Tours_DSC_0521.jpg"
+  },
+  "PA00098182": {
+   "asset": "assets/images/heritage/PA00098182.jpg",
+   "file": "Tours - Hôtel, 43 rue Émile-Zola.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_H%C3%B4tel,_43_rue_%C3%89mile-Zola.jpg"
+  },
+  "PA00098183": {
+   "asset": "assets/images/heritage/PA00098183.jpg",
+   "file": "Hotel 17 place Foire-le-Roi a Tours DSC 0506.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_17_place_Foire-le-Roi_a_Tours_DSC_0506.jpg"
+  },
+  "PA00098184": {
+   "asset": "assets/images/heritage/PA00098184.jpg",
+   "file": "Hôtel 9 rue de la Lamproie - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_9_rue_de_la_Lamproie_-_Tours.JPG"
+  },
+  "PA00098185": {
+   "asset": "assets/images/heritage/PA00098185.jpg",
+   "file": "Hôtel 8 rue Littré - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_8_rue_Littr%C3%A9_-_Tours.JPG"
+  },
+  "PA00098186": {
+   "asset": "assets/images/heritage/PA00098186.jpg",
+   "file": "Hôtel 16 rue de Littré - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_16_rue_de_Littr%C3%A9_-_Tours.JPG"
+  },
+  "PA00098187": {
+   "asset": "assets/images/heritage/PA00098187.jpg",
+   "file": "Hôtel Robin Quantin, détail des fenêtres 02.jpg",
+   "author": "ZohaStel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Robin_Quantin,_d%C3%A9tail_des_fen%C3%AAtres_02.jpg"
+  },
+  "PA00098189": {
+   "asset": "assets/images/heritage/PA00098189.jpg",
+   "file": "Maison des compagnons du devoir 15mai15 4592.jpg",
+   "author": "Gerardjalaudin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_des_compagnons_du_devoir_15mai15_4592.jpg"
+  },
+  "PA00098190": {
+   "asset": "assets/images/heritage/PA00098190.jpg",
+   "file": "Hotel de ville tours.jpg",
+   "author": "Libriothecaire",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2010,
+   "page": "https://commons.wikimedia.org/wiki/File:Hotel_de_ville_tours.jpg"
+  },
+  "PA00098191": {
+   "asset": "assets/images/heritage/PA00098191.jpg",
+   "file": "Hôtellerie du Panier Fleury, cour intérieure et escalier en bois 2.JPG",
+   "author": "ZohaStel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tellerie_du_Panier_Fleury,_cour_int%C3%A9rieure_et_escalier_en_bois_2.JPG"
+  },
+  "PA00098192": {
+   "asset": "assets/images/heritage/PA00098192.jpg",
+   "file": "Hôtellerie de Sainte-Catherine, Tours.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tellerie_de_Sainte-Catherine,_Tours.JPG"
+  },
+  "PA00098194": {
+   "asset": "assets/images/heritage/PA00098194.jpg",
+   "file": "Maison, 96, 98 rue Colbert, Tours.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison,_96,_98_rue_Colbert,_Tours.JPG"
+  },
+  "PA00098195": {
+   "asset": "assets/images/heritage/PA00098195.jpg",
+   "file": "Immeuble, 80 rue du Commerce, Tours.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Immeuble,_80_rue_du_Commerce,_Tours.JPG"
+  },
+  "PA00098197": {
+   "asset": "assets/images/heritage/PA00098197.jpg",
+   "file": "Jeu de paume Tours.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Jeu_de_paume_Tours.jpg"
+  },
+  "PA00098198": {
+   "asset": "assets/images/heritage/PA00098198.jpg",
+   "file": "Maison canoniale, 10 rue du Général-Meusnier, Tours.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_canoniale,_10_rue_du_G%C3%A9n%C3%A9ral-Meusnier,_Tours.JPG"
+  },
+  "PA00098199": {
+   "asset": "assets/images/heritage/PA00098199.jpg",
+   "file": "Tours - Ancienne maison canoniale, 1 place Grégoire-de-Tours.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Ancienne_maison_canoniale,_1_place_Gr%C3%A9goire-de-Tours.jpg"
+  },
+  "PA00098200": {
+   "asset": "assets/images/heritage/PA00098200.jpg",
+   "file": "Ancienne maison canoniale 1 rue-Manceau a Tours DSC 0836.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Ancienne_maison_canoniale_1_rue-Manceau_a_Tours_DSC_0836.jpg"
+  },
+  "PA00098202": {
+   "asset": "assets/images/heritage/PA00098202.jpg",
+   "file": "Maison 21 rue de la Paix a Tours DSC 0431.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_21_rue_de_la_Paix_a_Tours_DSC_0431.jpg"
+  },
+  "PA00098203": {
+   "asset": "assets/images/heritage/PA00098203.jpg",
+   "file": "Ancienne maison canoniale de Saint-Gatien 6 rue Psalette a Tours DSC 0804.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Ancienne_maison_canoniale_de_Saint-Gatien_6_rue_Psalette_a_Tours_DSC_0804.jpg"
+  },
+  "PA00098204": {
+   "asset": "assets/images/heritage/PA00098204.jpg",
+   "file": "Tours - Maison canoniale de saint Martin.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Maison_canoniale_de_saint_Martin.jpg"
+  },
+  "PA00098205": {
+   "asset": "assets/images/heritage/PA00098205.jpg",
+   "file": "Porte monumentale du 6 rue Rapin a Tours DSC 0035.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_monumentale_du_6_rue_Rapin_a_Tours_DSC_0035.jpg"
+  },
+  "PA00098206": {
+   "asset": "assets/images/heritage/PA00098206.jpg",
+   "file": "MH 34 rue Blanqui, Tours – façade sud.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:MH_34_rue_Blanqui,_Tours_%E2%80%93_fa%C3%A7ade_sud.JPG"
+  },
+  "PA00098207": {
+   "asset": "assets/images/heritage/PA00098207.jpg",
+   "file": "MH 42 rue Blanqui, Tours – façade sud.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:MH_42_rue_Blanqui,_Tours_%E2%80%93_fa%C3%A7ade_sud.JPG"
+  },
+  "PA00098208": {
+   "asset": "assets/images/heritage/PA00098208.jpg",
+   "file": "Maison de Tristan l'Hermite entier Tours.jpg",
+   "author": "Guillaume70",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_de_Tristan_l%27Hermite_entier_Tours.jpg"
+  },
+  "PA00098210": {
+   "asset": "assets/images/heritage/PA00098210.jpg",
+   "file": "Maison du 29 rue Briconnet a Tours DSC 0311.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_29_rue_Briconnet_a_Tours_DSC_0311.jpg"
+  },
+  "PA00098211": {
+   "asset": "assets/images/heritage/PA00098211.jpg",
+   "file": "Maison du 13 eme siecle situe 31 rue Briconnet a Tours DSC 0308.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_13_eme_siecle_situe_31_rue_Briconnet_a_Tours_DSC_0308.jpg"
+  },
+  "PA00098212": {
+   "asset": "assets/images/heritage/PA00098212.jpg",
+   "file": "Maison du 32 rue Briconnet a Tours DSC 0275.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_32_rue_Briconnet_a_Tours_DSC_0275.jpg"
+  },
+  "PA00098214": {
+   "asset": "assets/images/heritage/PA00098214.jpg",
+   "file": "Maison 1 rue des Carmes - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_1_rue_des_Carmes_-_Tours.JPG"
+  },
+  "PA00098215": {
+   "asset": "assets/images/heritage/PA00098215.jpg",
+   "file": "Maison du Cerisier, Tours – 2.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_Cerisier,_Tours_%E2%80%93_2.JPG"
+  },
+  "PA00098216": {
+   "asset": "assets/images/heritage/PA00098216.jpg",
+   "file": "Maison 2 rue du- Change a Tours DSC 0152.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_2_rue_du-_Change_a_Tours_DSC_0152.jpg"
+  },
+  "PA00098217": {
+   "asset": "assets/images/heritage/PA00098217.jpg",
+   "file": "Maison 25 rue Colbert a Tours DSC 0587.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_25_rue_Colbert_a_Tours_DSC_0587.jpg"
+  },
+  "PA00098218": {
+   "asset": "assets/images/heritage/PA00098218.jpg",
+   "file": "Maison 48 rue Colbert a Tours DSC 0608.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_48_rue_Colbert_a_Tours_DSC_0608.jpg"
+  },
+  "PA00098219": {
+   "asset": "assets/images/heritage/PA00098219.jpg",
+   "file": "68 rue Colbert, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:68_rue_Colbert,_Tours.jpg"
+  },
+  "PA00098220": {
+   "asset": "assets/images/heritage/PA00098220.jpg",
+   "file": "Maison, 70 Rue Colbert, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison,_70_Rue_Colbert,_Tours.jpg"
+  },
+  "PA00098221": {
+   "asset": "assets/images/heritage/PA00098221.jpg",
+   "file": "Maison, 90 rue Colbert, Tours.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison,_90_rue_Colbert,_Tours.JPG"
+  },
+  "PA00098222": {
+   "asset": "assets/images/heritage/PA00098222.jpg",
+   "file": "Maison du Croissant, Tours.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_Croissant,_Tours.JPG"
+  },
+  "PA00098223": {
+   "asset": "assets/images/heritage/PA00098223.jpg",
+   "file": "25 rue du Cygne, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:25_rue_du_Cygne,_Tours.jpg"
+  },
+  "PA00098224": {
+   "asset": "assets/images/heritage/PA00098224.jpg",
+   "file": "27, rue du Cygne, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:27,_rue_du_Cygne,_Tours.jpg"
+  },
+  "PA00098225": {
+   "asset": "assets/images/heritage/PA00098225.jpg",
+   "file": "29 rue du Cygne, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:29_rue_du_Cygne,_Tours.jpg"
+  },
+  "PA00098226": {
+   "asset": "assets/images/heritage/PA00098226.jpg",
+   "file": "MH 34 rue Étienne-Marcel, Tours.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:MH_34_rue_%C3%89tienne-Marcel,_Tours.JPG"
+  },
+  "PA00098227": {
+   "asset": "assets/images/heritage/PA00098227.jpg",
+   "file": "Rue de la Mocquerie (Tours).jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Mocquerie_(Tours).jpg"
+  },
+  "PA00098228": {
+   "asset": "assets/images/heritage/PA00098228.jpg",
+   "file": "3 place Foire-le-Roi, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:3_place_Foire-le-Roi,_Tours.jpg"
+  },
+  "PA00098229": {
+   "asset": "assets/images/heritage/PA00098229.jpg",
+   "file": "3 place Foire-le-Roi, Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:3_place_Foire-le-Roi,_Tours.jpg"
+  },
+  "PA00098231": {
+   "asset": "assets/images/heritage/PA00098231.jpg",
+   "file": "Maison canoniale, 12 rue du Général-Meusnier, Tours.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_canoniale,_12_rue_du_G%C3%A9n%C3%A9ral-Meusnier,_Tours.JPG"
+  },
+  "PA00098232": {
+   "asset": "assets/images/heritage/PA00098232.jpg",
+   "file": "26 rue Courteline (Tours).jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:26_rue_Courteline_(Tours).jpg"
+  },
+  "PA00098233": {
+   "asset": "assets/images/heritage/PA00098233.jpg",
+   "file": "Maison 1 place du Grand-Marché a Tours DSC 0080.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_1_place_du_Grand-March%C3%A9_a_Tours_DSC_0080.jpg"
+  },
+  "PA00098234": {
+   "asset": "assets/images/heritage/PA00098234.jpg",
+   "file": "Maison du 2 rue du Grand Marché a Tours DSC 0149.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_2_rue_du_Grand_March%C3%A9_a_Tours_DSC_0149.jpg"
+  },
+  "PA00098235": {
+   "asset": "assets/images/heritage/PA00098235.jpg",
+   "file": "Maison 3 rue du Grand-Marché - Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_3_rue_du_Grand-March%C3%A9_-_Tours.JPG"
+  },
+  "PA00098236": {
+   "asset": "assets/images/heritage/PA00098236.jpg",
+   "file": "Maison du 15e siecle situee 5 rue Grand-Marche a Tours DSC 0182.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_15e_siecle_situee_5_rue_Grand-Marche_a_Tours_DSC_0182.jpg"
+  },
+  "PA00098237": {
+   "asset": "assets/images/heritage/PA00098237.jpg",
+   "file": "Maison du 41 rue du Grand Marché a Tours DSC 0371.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_41_rue_du_Grand_March%C3%A9_a_Tours_DSC_0371.jpg"
+  },
+  "PA00098238": {
+   "asset": "assets/images/heritage/PA00098238.jpg",
+   "file": "Tours - Hôtel des trésoriers de Saint-Martin - 1.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_H%C3%B4tel_des_tr%C3%A9soriers_de_Saint-Martin_-_1.jpg"
+  },
+  "PA00098239": {
+   "asset": "assets/images/heritage/PA00098239.jpg",
+   "file": "Maison du 15 eme siecle situee 57 rue du Grand-Marché a Tours DSC0374.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_du_15_eme_siecle_situee_57_rue_du_Grand-March%C3%A9_a_Tours_DSC0374.jpg"
+  },
+  "PA00098240": {
+   "asset": "assets/images/heritage/PA00098240.jpg",
+   "file": "Tours - Maison de justice des Bains.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Maison_de_justice_des_Bains.jpg"
+  },
+  "PA00098241": {
+   "asset": "assets/images/heritage/PA00098241.jpg",
+   "file": "Vieux tours, hôtel Ronsard, 16em siècle, place Foire le roi.jpg",
+   "author": "Desprez37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Vieux_tours,_h%C3%B4tel_Ronsard,_16em_si%C3%A8cle,_place_Foire_le_roi.jpg"
+  },
+  "PA00098242": {
+   "asset": "assets/images/heritage/PA00098242.jpg",
+   "file": "Tours - Maison de Bonaventure.jpg",
+   "author": "Edouard Gatian de Clérambault",
+   "license": "Public domain",
+   "year": 1912,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Maison_de_Bonaventure.jpg"
+  },
+  "PA00098244": {
+   "asset": "assets/images/heritage/PA00098244.jpg",
+   "file": "Maison 2 rue du- Change a Tours DSC 0152.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_2_rue_du-_Change_a_Tours_DSC_0152.jpg"
+  },
+  "PA00098245": {
+   "asset": "assets/images/heritage/PA00098245.jpg",
+   "file": "Maison de Juste, détail d'une fenêtre.JPG",
+   "author": "ZohaStel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_de_Juste,_d%C3%A9tail_d%27une_fen%C3%AAtre.JPG"
+  },
+  "PA00098249": {
+   "asset": "assets/images/heritage/PA00098249.jpg",
+   "file": "Maison 10 rue du Grand-Marché - Tours.jpg",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_10_rue_du_Grand-March%C3%A9_-_Tours.jpg"
+  },
+  "PA00098251": {
+   "asset": "assets/images/heritage/PA00098251.jpg",
+   "file": "Hôtel Pierre Meunier,XVIIIe siècle, 24 rue de la préfecture, Tours.jpg",
+   "author": "Desprez37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Pierre_Meunier,XVIIIe_si%C3%A8cle,_24_rue_de_la_pr%C3%A9fecture,_Tours.jpg"
+  },
+  "PA00098252": {
+   "asset": "assets/images/heritage/PA00098252.jpg",
+   "file": "Tours - Maison du Préchantre.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Maison_du_Pr%C3%A9chantre.jpg"
+  },
+  "PA00098253": {
+   "asset": "assets/images/heritage/PA00098253.jpg",
+   "file": "Tours - Maison canoniale du Curé - 2.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2026,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Maison_canoniale_du_Cur%C3%A9_-_2.jpg"
+  },
+  "PA00098254": {
+   "asset": "assets/images/heritage/PA00098254.jpg",
+   "file": "Maison situee 3 rue de la Rotisserie a Tours DSC0143.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Maison_situee_3_rue_de_la_Rotisserie_a_Tours_DSC0143.jpg"
+  },
+  "PA00098255": {
+   "asset": "assets/images/heritage/PA00098255.jpg",
+   "file": "Detail de la façade d'une maison situee au 3 rue de la Serpe a Tours DSC 0407.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Detail_de_la_fa%C3%A7ade_d%27une_maison_situee_au_3_rue_de_la_Serpe_a_Tours_DSC_0407.jpg"
+  },
+  "PA00098256": {
+   "asset": "assets/images/heritage/PA00098256.jpg",
+   "file": "Porche d'entrée 30 rue de la Scellerie a Tours DSC 0532.jpg",
+   "author": "Pline",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Porche_d%27entr%C3%A9e_30_rue_de_la_Scellerie_a_Tours_DSC_0532.jpg"
+  },
+  "PA00098257": {
+   "asset": "assets/images/heritage/PA00098257.jpg",
+   "file": "Chapelle St-Lazare Tours JT.JPG",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Chapelle_St-Lazare_Tours_JT.JPG"
+  },
+  "PA00098258": {
+   "asset": "assets/images/heritage/PA00098258.jpg",
+   "file": "Sapaillé, Août 2015.JPG",
+   "author": "Chapi37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Sapaill%C3%A9,_Ao%C3%BBt_2015.JPG"
+  },
+  "PA00098259": {
+   "asset": "assets/images/heritage/PA00098259.jpg",
+   "file": "Oratoire Briconnets Tours.JPG",
+   "author": "Serge Martin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Oratoire_Briconnets_Tours.JPG"
+  },
+  "PA00098260": {
+   "asset": "assets/images/heritage/PA00098260.jpg",
+   "file": "Tours - château.JPG",
+   "author": "Eusebius",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "year": 2009,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_ch%C3%A2teau.JPG"
+  },
+  "PA00098261": {
+   "asset": "assets/images/heritage/PA00098261.jpg",
+   "file": "Passage du Coeur Navré 3.JPG",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Passage_du_Coeur_Navr%C3%A9_3.JPG"
+  },
+  "PA00098262": {
+   "asset": "assets/images/heritage/PA00098262.jpg",
+   "file": "Octroi Tours nuit.jpg",
+   "author": "Guill37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2010,
+   "page": "https://commons.wikimedia.org/wiki/File:Octroi_Tours_nuit.jpg"
+  },
+  "PA00098263": {
+   "asset": "assets/images/heritage/PA00098263.jpg",
+   "file": "Pont wilson ph1.jpg",
+   "author": "Guill37",
+   "license": "Public domain",
+   "year": 2007,
+   "page": "https://commons.wikimedia.org/wiki/File:Pont_wilson_ph1.jpg"
+  },
+  "PA00098264": {
+   "asset": "assets/images/heritage/PA00098264.jpg",
+   "file": "Prefecture Tours.jpg",
+   "author": "Guill37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2018,
+   "page": "https://commons.wikimedia.org/wiki/File:Prefecture_Tours.jpg"
+  },
+  "PA00098265": {
+   "asset": "assets/images/heritage/PA00098265.jpg",
+   "file": "Prieuré St-Eloi face Ouest.JPG",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_St-Eloi_face_Ouest.JPG"
+  },
+  "PA00098266": {
+   "asset": "assets/images/heritage/PA00098266.jpg",
+   "file": "Petite Bourdaisière (Tours).jpg",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Petite_Bourdaisi%C3%A8re_(Tours).jpg"
+  },
+  "PA00098267": {
+   "asset": "assets/images/heritage/PA00098267.jpg",
+   "file": "Tour Foubert Tours.jpg",
+   "author": "Edouard Gatian de Clérambault (1813-1917)",
+   "license": "Public domain",
+   "year": 1912,
+   "page": "https://commons.wikimedia.org/wiki/File:Tour_Foubert_Tours.jpg"
+  },
+  "PA00098306": {
+   "asset": "assets/images/heritage/PA00098306.jpg",
+   "file": "Tours - mur carolingien.jpg",
+   "author": "Louis Bousrez",
+   "license": "Public domain",
+   "year": 1907,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_mur_carolingien.jpg"
+  },
+  "PA00098316": {
+   "asset": "assets/images/heritage/PA00098316.jpg",
+   "file": "Hôpital Bretonneau 2.JPG",
+   "author": "Arcyon37",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4pital_Bretonneau_2.JPG"
+  },
+  "PA00132565": {
+   "asset": "assets/images/heritage/PA00132565.jpg",
+   "file": "Théâtre (Tours).jpg",
+   "author": "Gzen92",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2019,
+   "page": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_(Tours).jpg"
+  },
+  "PA00132567": {
+   "asset": "assets/images/heritage/PA00132567.jpg",
+   "file": "Synagogue de Tours.JPG",
+   "author": "Reuillois",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Synagogue_de_Tours.JPG"
+  },
+  "PA37000002": {
+   "asset": "assets/images/heritage/PA37000002.jpg",
+   "file": "Bibliothèque municipale de Tours.jpg",
+   "author": "*j*jac",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2023,
+   "page": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_municipale_de_Tours.jpg"
+  },
+  "PA37000006": {
+   "asset": "assets/images/heritage/PA37000006.jpg",
+   "file": "Manufacture des Trois-Tours.JPG",
+   "author": "Jules78120",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Manufacture_des_Trois-Tours.JPG"
+  },
+  "PA37000009": {
+   "asset": "assets/images/heritage/PA37000009.jpg",
+   "file": "MAME.jpg",
+   "author": "Didier Roudaut",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:MAME.jpg"
+  },
+  "PA37000015": {
+   "asset": "assets/images/heritage/PA37000015.jpg",
+   "file": "Jardin des prebendes - Statue Ronsard.JPG",
+   "author": "Chervou at French Wikipedia",
+   "license": "Public domain",
+   "year": 2006,
+   "page": "https://commons.wikimedia.org/wiki/File:Jardin_des_prebendes_-_Statue_Ronsard.JPG"
+  },
+  "PA37000051": {
+   "asset": "assets/images/heritage/PA37000051.jpg",
+   "file": "Tours - Statue of René Descartes.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Statue_of_Ren%C3%A9_Descartes.jpg"
+  },
+  "PA37000052": {
+   "asset": "assets/images/heritage/PA37000052.jpg",
+   "file": "Tours - Statue of François Rabelais.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Tours_-_Statue_of_Fran%C3%A7ois_Rabelais.jpg"
+  },
+  "Q105071912": {
+   "asset": "assets/images/heritage/Q105071912.jpg",
+   "file": "Immeuble Duthoo - vue générale.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2021,
+   "page": "https://commons.wikimedia.org/wiki/File:Immeuble_Duthoo_-_vue_g%C3%A9n%C3%A9rale.jpg"
+  },
+  "Q141544605": {
+   "asset": "assets/images/heritage/Q141544605.jpg",
+   "file": "Marmoutier, portail de la crosse.jpg",
+   "author": "Guill37",
+   "license": "Public domain",
+   "year": 2007,
+   "page": "https://commons.wikimedia.org/wiki/File:Marmoutier,_portail_de_la_crosse.jpg"
+  },
+  "Q24297347": {
+   "asset": "assets/images/heritage/Q24297347.jpg",
+   "file": "Mémorial .jpg",
+   "author": "Zbradaraldjan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9morial_.jpg"
+  },
+  "Q75098399": {
+   "asset": "assets/images/heritage/Q75098399.jpg",
+   "file": "Enceinte Tours rue Verte.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2019,
+   "page": "https://commons.wikimedia.org/wiki/File:Enceinte_Tours_rue_Verte.jpg"
+  },
+  "Q83722389": {
+   "asset": "assets/images/heritage/Q83722389.jpg",
+   "file": "Mettray-château des Brosses.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mettray-ch%C3%A2teau_des_Brosses.jpg"
+  }
+ }
+}

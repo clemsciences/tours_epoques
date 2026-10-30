@@ -1,0 +1,365 @@
+{
+ "epoch": "lumieres",
+ "entries": [
+  {
+   "id": "codex.lumieres.mme_cradock",
+   "title": "Mme Cradock",
+   "theme": "personnes",
+   "text": "Anna Francesca Cradock voyage en France de 1783 à 1786 avec son mari. Du 15 au 17 septembre 1785, elle est à Tours, logée à l'hôtel du Faisan, et note tout dans son journal : le pont, la cathédrale, Saint-Martin, les mails, les punaises. Son journal a été traduit et publié en 1896.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal"
+    },
+    {
+     "id": "cradock_map_2025"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Tours me parut triste, d'autant plus que je n'y vis aucun amusement public.",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "17 septembre 1785, p. 288"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.rue_royale",
+   "title": "La rue Royale",
+   "theme": "lieux",
+   "text": "Une rue « tirée au cordeau, bâtie à neuf » (Soreau, 1784), qui prolonge le pont vers le sud jusqu'aux mails et à la grande route d'Espagne. Ses façades sont uniformes, d'après les estimations de l'ingénieur De Limay (à partir de 1766). En 1785, Mme Cradock la dit « que l'on vient d'achever ». Elle deviendra la rue Nationale. Dans le jeu, les maisons qui la bordent sont dessinées par hypothèse.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135",
+     "quote": true
+    },
+    {
+     "id": "cradock_journal",
+     "loc": "p. 283",
+     "quote": true
+    },
+    {
+     "id": "cradock_map_2025",
+     "loc": "« La rue Royale »"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Une rue tirée au cordeau, bâtie à neuf, traverse la ville, coupe le mail et conduit à une chaussée d'une lieue de long",
+     "source": {
+      "id": "soreau_1784",
+      "loc": "p. 124-135"
+     }
+    },
+    {
+     "text": "les propriétaires riverains durent faire bâtir sur un alignement régulier et d'après un plan qui assurait aux façades l'uniformité d'architecture",
+     "source": {
+      "id": "sat_bulletin_1913",
+      "loc": "p. 138, note"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.pont_neuf",
+   "title": "Le pont neuf",
+   "theme": "lieux",
+   "text": "Construit de 1765 à 1779, le pont de pierre fait entrer la grande route d'Espagne dans Tours en ligne droite. Soreau cite trois ingénieurs successifs : Bayeux, de Voglie et Cadet de Limay. C'est l'actuel pont Wilson.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    },
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Rien n'égale le coup d'œil du pont à l'entrée de la ville",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 283"
+     }
+    },
+    {
+     "text": "le pont de pierre, construit de 1765 à 1779 pour remplacer le vieux pont qui traversait la Loire entre la tour de Guise et Saint-Symphorien",
+     "source": {
+      "id": "sat_bulletin_1913",
+      "loc": "p. 138"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.route_d_espagne",
+   "title": "La grande route d'Espagne",
+   "theme": "lieux",
+   "text": "Au sud de la ville, la route d'Espagne continue la rue Royale : « une chaussée d'une lieue de long, plantée de quatre rangées d'arbres », jusqu'au pont du Cher bâti par Bayeux (Soreau). C'est l'actuelle avenue de Grammont. Le plan de Bayeux (1756) trace tout l'axe nord-sud.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135",
+     "quote": true
+    },
+    {
+     "id": "cradock_map_2025",
+     "loc": "« La percée nord-sud »"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "une chaussée d'une lieue de long, plantée de quatre rangées d'arbres et embellie par un pont élégant bâti sur le Cher par M. de Bayeux",
+     "source": {
+      "id": "soreau_1784",
+      "loc": "p. 124-135"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.mails",
+   "title": "Les mails",
+   "theme": "vie_quotidienne",
+   "text": "Au sud de la ville, sur l'emplacement des anciens fossés, les mails sont des promenades plantées d'ormes : ce sont les actuels boulevards Béranger et Heurteloup. La rue Royale passe entre le grand et le petit mail, par des tourniquets (dessin de Pringot, 1781). Mme Cradock y voit paître des vaches.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal",
+     "loc": "p. 284"
+    },
+    {
+     "id": "cradock_map_2025",
+     "loc": "« Les mails »"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "promenade formée de trois allées d'un mille de longueur, ombragées par quatre rangées de grands ormeaux",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 284"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.faisan",
+   "title": "L'hôtel du Faisan",
+   "theme": "lieux",
+   "text": "Le Faisan se trouve en haut de la rue Royale, côté ouest. Les Cradock y logent du 15 au 17 septembre 1785 et s'en plaignent : chambres petites, nourriture chère et mauvaise, punaises. L'abbesse de Fontevraud y descend en même temps qu'eux, avec sa suite.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal",
+     "loc": "p. 283-288"
+    },
+    {
+     "id": "cradock_map_2025",
+     "loc": "« L'hôtel du Faisan »"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "hôtel dont l'intérieur est loin de répondre à l'extérieur : chambres petites, nourriture peu soignée, tout très inconfortable et très cher",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 283"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.cathedrale",
+   "title": "La cathédrale Saint-Gatien",
+   "theme": "lieux",
+   "text": "Commencée vers 1187, achevée au début du XVIe siècle (Soreau). En 1785, Mme Cradock la trouve « dégradée » mais d'une richesse incomparable. Elle remarque les rosaces des portails latéraux et une horloge à personnages qui marche mais ne sonne plus.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    },
+    {
+     "id": "cradock_journal",
+     "loc": "p. 283-284",
+     "quote": true
+    }
+   ],
+   "quotes": [
+    {
+     "text": "quoique dégradée, elle est d'une richesse et d'un fini incomparables",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 283-284"
+     }
+    },
+    {
+     "text": "le temple de Saint-Gatien, qui n'est pas vaste mais d'une belle architecture gothique",
+     "source": {
+      "id": "soreau_1784",
+      "loc": "p. 124-135"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.ex_voto",
+   "title": "Les ex-voto",
+   "theme": "vie_quotidienne",
+   "text": "Au pied d'un calvaire de la cathédrale, des ex-voto de cire (une jambe, un bras) sont offerts aux visiteurs pour huit sous pièce, raconte Mme Cradock. Elle refuse, « ne comprenant pas la vertu attachée à ces emblèmes ». Le guide lui propose aussi de payer des messes pour son voyage.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal",
+     "loc": "p. 284",
+     "quote": true
+    }
+   ],
+   "quotes": [
+    {
+     "text": "nous refusâmes, ne comprenant pas la vertu attachée à ces emblèmes",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 284"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.archeveche",
+   "title": "L'archevêché",
+   "theme": "lieux",
+   "text": "Le palais des archevêques, près de la cathédrale, est neuf en 1785 : une « magnifique construction moderne » selon Mme Cradock. Sa bibliothèque conserve des manuscrits anciens, dont un Pentateuque et des Évangiles. C'est aujourd'hui le musée des Beaux-Arts.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal",
+     "loc": "p. 284",
+     "quote": true
+    },
+    {
+     "id": "cradock_map_2025",
+     "loc": "« L'archevêché »"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "magnifique construction moderne",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "15 septembre 1785, p. 284"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.collegiale",
+   "title": "La collégiale Saint-Martin",
+   "theme": "lieux",
+   "text": "Sur le tombeau de saint Martin, une immense église à cinq nefs : 320 pieds de long et 164 aux croisées selon Soreau, soit plus de cent mètres. On y descend par une vingtaine de marches. Mme Cradock admire ses vitraux et le trésor. Dans le jeu, son emprise est une hypothèse : la nef suit l'axe de l'actuelle rue des Halles, où un pavage marque aujourd'hui l'emplacement des piliers.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    },
+    {
+     "id": "cradock_journal",
+     "loc": "p. 285-286"
+    },
+    {
+     "id": "wp_collegiale_saint_martin"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "très ancienne, et d'une étendue immense, divisée en cinq ailes",
+     "source": {
+      "id": "cradock_journal",
+      "loc": "16 septembre 1785, p. 285"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.luitgarde",
+   "title": "La tour Charlemagne et Luitgarde",
+   "theme": "evenements",
+   "text": "Une tradition veut que Charlemagne ait élevé la tour sur le tombeau de sa femme Luitgarde, morte à Tours en 800 (Soreau, 1784). En 1886, la Société archéologique de Touraine la discute : d'après une note accompagnant un croquis de Beauménil, la sépulture n'était pas sous la tour, mais au milieu du croisillon.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "soreau_1784",
+     "loc": "p. 124-135"
+    },
+    {
+     "id": "sat_bulletin_1886",
+     "loc": "p. 481"
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.fin_de_saint_martin",
+   "title": "La fin de Saint-Martin",
+   "theme": "evenements",
+   "text": "Au XVIIIe siècle, plusieurs rapports d'architectes ont averti du délabrement de la collégiale. Après la Révolution, les voûtes du déambulatoire s'effondrent en novembre 1797 ; la démolition dure plusieurs années, jusque vers 1802-1803. La rue des Halles sera ensuite percée sur l'emplacement de la nef. Seules restent la tour Charlemagne et la tour de l'Horloge.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_collegiale_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.hotel_de_ville",
+   "title": "Le chantier de l'hôtel de ville",
+   "theme": "lieux",
+   "text": "À l'entrée de la rue Royale, côté ouest de la tête du pont, l'hôtel de ville est construit de 1777 à 1786 sur les plans de De Limay. En face, son pendant est commencé en même temps, mais ne sera achevé qu'en 1827 pour accueillir le musée. Les deux bâtiments disparaîtront en juin 1940.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    },
+    {
+     "id": "sat_memoires_1941",
+     "loc": "p. 49"
+    },
+    {
+     "id": "merimee_rue_nationale"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "les travaux du Musée furent entrepris en même temps que ceux de l'Hôtel de Ville, construit de 1777 à 1786, sur les plans de M. de Limay",
+     "source": {
+      "id": "sat_memoires_1941",
+      "loc": "p. 49"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.lumieres.marmoutier",
+   "title": "Marmoutier",
+   "theme": "lieux",
+   "text": "Sur la rive droite de la Loire, à l'est de Tours, la grande abbaye fondée par saint Martin est occupée par des Bénédictins. Le 17 septembre 1785, Mme Cradock y entre exceptionnellement, « en notre qualité d'Anglaises et d'étrangères », alors que la porte est d'ordinaire fermée aux femmes. Elle est hors du cadre de la carte.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cradock_journal",
+     "loc": "p. 288-290",
+     "quote": true
+    }
+   ]
+  }
+ ]
+}

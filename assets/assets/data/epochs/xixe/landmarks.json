@@ -1,0 +1,44 @@
+{
+ "landmarks": [
+  {
+   "layer": "basilique_chantier",
+   "dialogue": "lieu_basilique"
+  },
+  {
+   "layer": "tour_charlemagne",
+   "dialogue": "lieu_tours"
+  },
+  {
+   "layer": "tour_horloge",
+   "dialogue": "lieu_tours"
+  },
+  {
+   "layer": "embarcadere",
+   "dialogue": "lieu_embarcadere"
+  },
+  {
+   "layer": "archeveche",
+   "dialogue": "lieu_archeveche"
+  },
+  {
+   "layer": "halles",
+   "dialogue": "lieu_halles"
+  },
+  {
+   "layer": "prebendes",
+   "dialogue": "lieu_prebendes"
+  },
+  {
+   "layer": "hotel_de_ville",
+   "dialogue": "lieu_hotel_de_ville"
+  },
+  {
+   "layer": "musee",
+   "dialogue": "lieu_musee"
+  },
+  {
+   "layer": "imprimerie_mame",
+   "dialogue": "lieu_imprimerie_mame"
+  }
+ ]
+}

@@ -1,0 +1,3177 @@
+{
+ "id": "castrum_385",
+ "title": "Le castrum de Tours vers 385",
+ "summary": "La ville au temps de l'évêque Martin : capitale de la IIIe Lyonnaise, repliée dans l'enceinte du castrum (9 ha), construite dans la première moitié du IVe siècle avec les pierres des monuments démontés et appuyée sur l'amphithéâtre fortifié, devenu bastion. Un pont de bois aboutit à la porte nord ; hors les murs, l'ancienne ville ouverte s'est rétractée vers la Loire. Même repère que Caesarodunum vers 150.",
+ "year": 385,
+ "certainty": "probable",
+ "dossier": "docs/caesarodunum_3d.md",
+ "frame": {
+  "units": "m",
+  "origin": "croisement supposé du cardo maximus et du decumanus maximus du Haut-Empire (comme caesarodunum_150)",
+  "x": "vers l'est (79°)",
+  "y": "vers le haut",
+  "z": "vers le sud (169°)",
+  "anchor": {
+   "lat": 47.394356,
+   "lon": 0.688358,
+   "bearing": 79.0
+  },
+  "note": "Enceinte d'après les vestiges de l'angle sud-est (OSM, way 38333400) et les rues qui la longent ; amphithéâtre comme vers 150."
+ },
+ "view": {
+  "land_y": -2.5,
+  "orbit": {
+   "camera": [
+    180,
+    230,
+    -640
+   ],
+   "target": [
+    590,
+    0,
+    -100
+   ]
+  },
+  "vr_start": {
+   "at": [
+    565.5,
+    -197.5
+   ],
+   "facing": [
+    0.2,
+    1.0
+   ]
+  }
+ },
+ "defaults": {
+  "wall": "moellons",
+  "roof": "tuiles",
+  "trim": "pierre",
+  "door": "ombre",
+  "glass": "ombre"
+ },
+ "sources": {
+  "wp_enceinte": "Wikipédia, « Enceinte gallo-romaine de Tours » (consulté le 29/10/2026), d'après H. Galinié (dir.), Tours antique et médiéval, 2007, et les études du site 3 (2014) : tracé, 1 245 m, 9 ha, courtine, tours, portes et poternes, fossé, thermes de l'angle nord-ouest",
+  "wp_caesarodunum": "Wikipédia, « Caesarodunum » (consulté le 29/10/2026) : amphithéâtre fortifié, pont du Bas-Empire, axes du castrum, rétraction de la ville ouverte, Litoire",
+  "wp_thermes": "Wikipédia, « Thermes gallo-romains de Tours » (consulté le 29/10/2026)",
+  "wp_temple": "Wikipédia, « Temple gallo-romain de Tours » (consulté le 29/10/2026)",
+  "bordeaux_seigne2005": "P. Bordeaux et J. Seigne, « Les amphithéâtres antiques de Tours », Bull. SAT LI, 2005, p. 51-62 : amphithéâtre agrandi, mur parementé large de plus de 3 m (premier castrum)",
+  "osm_enceinte": "OpenStreetMap, « Enceinte gallo-romaine » (way 38333400) : angle sud-est conservé, courtines sud et est",
+  "gregoire_x31": "Grégoire de Tours, Histoires, X, 31 : Litoire « bâtit la première église en la ville de Tours »"
+ },
+ "materials": {
+  "moellons": {
+   "color": [
+    0.8,
+    0.76,
+    0.66
+   ],
+   "pattern": "rubble",
+   "tile": 3,
+   "roughness": 0.92,
+   "normal": 1.6,
+   "certainty": "attested",
+   "note": "Petit appareil de moellons calcaires, joints au mortier, lits de terre cuite (amphithéâtre agrandi : Bordeaux et Seigne 2005)."
+  },
+  "pierre": {
+   "color": [
+    0.86,
+    0.83,
+    0.75
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "course": 0.5,
+   "lmin": 0.8,
+   "lmax": 1.6,
+   "roughness": 0.85,
+   "normal": 1.0,
+   "certainty": "probable",
+   "note": "Grand appareil (podium, colonnes, entablement)."
+  },
+  "tuiles": {
+   "color": [
+    0.6,
+    0.3,
+    0.18
+   ],
+   "pattern": "roman_tiles",
+   "tile": 3,
+   "roughness": 0.85,
+   "normal": 2.0,
+   "certainty": "attested",
+   "note": "Tegulae et imbrices : toitures de tuiles dès la seconde moitié du Ier siècle (Wikipédia, Caesarodunum) ; pronaos du temple couvert de tuiles."
+  },
+  "enduit": {
+   "color": [
+    0.86,
+    0.83,
+    0.75
+   ],
+   "pattern": "mottled",
+   "tile": 5,
+   "roughness": 0.95,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.05,
+    "coarse": 0.06
+   },
+   "certainty": "hypothesis",
+   "note": "Murs enduits et blanchis des maisons (aspect supposé)."
+  },
+  "enduit_ocre": {
+   "color": [
+    0.8,
+    0.64,
+    0.46
+   ],
+   "pattern": "mottled",
+   "tile": 5,
+   "roughness": 0.95,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.05,
+    "coarse": 0.06
+   },
+   "certainty": "hypothesis",
+   "note": "Variante ocre (supposée)."
+  },
+  "bois": {
+   "color": [
+    0.36,
+    0.26,
+    0.17
+   ],
+   "pattern": "planks",
+   "tile": 3,
+   "roughness": 0.85,
+   "normal": 1.2,
+   "certainty": "attested",
+   "note": "Pont et portique de bois."
+  },
+  "sol": {
+   "color": [
+    0.46,
+    0.45,
+    0.33
+   ],
+   "pattern": "mottled",
+   "tile": 8,
+   "roughness": 1.0,
+   "normal": 0.5,
+   "params": {
+    "amp": 0.07,
+    "coarse": 0.12,
+    "coarse_scale": 60
+   },
+   "certainty": "invented",
+   "note": "Terre et herbe."
+  },
+  "herbe": {
+   "color": [
+    0.4,
+    0.46,
+    0.27
+   ],
+   "pattern": "mottled",
+   "tile": 6,
+   "roughness": 1.0,
+   "normal": 0.5,
+   "params": {
+    "amp": 0.08,
+    "coarse": 0.1
+   },
+   "certainty": "invented"
+  },
+  "voie": {
+   "color": [
+    0.62,
+    0.58,
+    0.5
+   ],
+   "pattern": "mottled",
+   "tile": 3,
+   "roughness": 1.0,
+   "normal": 1.5,
+   "params": {
+    "amp": 0.14,
+    "scale": 1.2,
+    "coarse": 0.06
+   },
+   "certainty": "attested",
+   "note": "Chaussées de petites pierres et cailloux tassés, rechargées à l'usure, pas de grandes dalles (Wikipédia, Caesarodunum)."
+  },
+  "sable": {
+   "color": [
+    0.8,
+    0.71,
+    0.53
+   ],
+   "pattern": "mottled",
+   "tile": 4,
+   "roughness": 1.0,
+   "normal": 0.6,
+   "params": {
+    "amp": 0.06,
+    "scale": 1.0
+   },
+   "certainty": "probable"
+  },
+  "gradins": {
+   "color": [
+    0.45,
+    0.37,
+    0.27
+   ],
+   "pattern": "slate",
+   "tile": 4,
+   "roughness": 0.9,
+   "normal": 2.0,
+   "params": {
+    "row": 0.8,
+    "width": 3.0
+   },
+   "certainty": "hypothesis",
+   "note": "Gradins de bois ou de terre : aucun siège de pierre retrouvé (Bordeaux et Seigne 2005)."
+  },
+  "eau": {
+   "color": [
+    0.16,
+    0.24,
+    0.26
+   ],
+   "pattern": "mottled",
+   "tile": 10,
+   "roughness": 0.25,
+   "normal": 0.4,
+   "params": {
+    "amp": 0.04,
+    "coarse": 0.08
+   },
+   "certainty": "invented"
+  },
+  "ombre": {
+   "color": [
+    0.06,
+    0.05,
+    0.05
+   ],
+   "pattern": "plain",
+   "certainty": "invented",
+   "note": "Baies sombres (vomitoires, porte)."
+  },
+  "figure": {
+   "color": [
+    0.55,
+    0.12,
+    0.1
+   ],
+   "pattern": "plain",
+   "certainty": "invented"
+  }
+ },
+ "elements": [
+  {
+   "id": "sol",
+   "label": "Sol de la plaine",
+   "kind": "slab",
+   "polygon": [
+    [
+     -1000,
+     -170.0
+    ],
+    [
+     1400,
+     -261.9
+    ],
+    [
+     1400,
+     900
+    ],
+    [
+     -1000,
+     900
+    ]
+   ],
+   "y0": -3,
+   "y1": 0,
+   "material": "sol",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Comme vers 150."
+  },
+  {
+   "id": "loire",
+   "label": "La Loire",
+   "kind": "slab",
+   "polygon": [
+    [
+     -1000,
+     -170.0
+    ],
+    [
+     1400,
+     -261.9
+    ],
+    [
+     1400,
+     -900
+    ],
+    [
+     -1000,
+     -900
+    ]
+   ],
+   "y0": -3,
+   "y1": -1.6,
+   "material": "eau",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "« La Loire baignait sa muraille nord » ; rive tracée comme vers 150."
+  },
+  {
+   "id": "courtine",
+   "label": "Courtine du castrum",
+   "kind": "rampart",
+   "line": [
+    [
+     543.5,
+     -3.0
+    ],
+    [
+     428.0,
+     -3.0
+    ],
+    [
+     412.0,
+     -221.1
+    ],
+    [
+     768.0,
+     -234.7
+    ],
+    [
+     776.0,
+     -3.0
+    ],
+    [
+     678.3,
+     -3.0
+    ]
+   ],
+   "thickness": 4.5,
+   "height": 8.1,
+   "base": 2.4,
+   "merlon": 1.8,
+   "outside": "right",
+   "certainty": "attested",
+   "sources": [
+    "wp_enceinte",
+    "osm_enceinte"
+   ],
+   "note": "Périmètre de 1 245 m, 9 ha (ici 1254 m et 8.8 ha avec le bastion de l'amphithéâtre). Murs de 4,20 à 4,90 m d'épaisseur, environ 8,10 m de haut et 1,80 m de créneaux (estimés) ; soubassement de grands blocs de remploi, élévation en blocage parementé de petits moellons avec lits de briques. Tracé : face sud droite (vestiges de l'angle sud-est, OSM) butant sur la façade de l'amphithéâtre ; à l'ouest le long de la rue Lavoisier (côté est), à l'est le long des rues du Petit-Cupidon et du Port-Feu-Hugon ; au nord sur la berge."
+  },
+  {
+   "id": "tour_0",
+   "label": "Tour d'angle sud-ouest",
+   "kind": "rotunda",
+   "center": [
+    428.0,
+    -3.0
+   ],
+   "radius": 5.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "12 tours circulaires (9 m de diamètre, 11 m aux angles) dont 4 d'angle, et 4 tours polygonales encadrant les portes est et ouest (état des études en 2014) ; trois niveaux, hauteur estimée à 16 m, le double de la courtine ; elles avancent hors du mur. Positions des tours de courtine supposées ; toit de tuiles supposé."
+  },
+  {
+   "id": "tour_1",
+   "label": "Tour d'angle nord-ouest",
+   "kind": "rotunda",
+   "center": [
+    412.0,
+    -221.1
+   ],
+   "radius": 5.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_2",
+   "label": "Tour d'angle nord-est",
+   "kind": "rotunda",
+   "center": [
+    768.0,
+    -234.7
+   ],
+   "radius": 5.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_3",
+   "label": "Tour d'angle sud-est",
+   "kind": "rotunda",
+   "center": [
+    776.0,
+    -3.0
+   ],
+   "radius": 5.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_4",
+   "label": "Tour de la face sud",
+   "kind": "rotunda",
+   "center": [
+    505.0,
+    1.8
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_5",
+   "label": "Tour de la face sud",
+   "kind": "rotunda",
+   "center": [
+    466.5,
+    1.8
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_6",
+   "label": "Tour de la face sud",
+   "kind": "rotunda",
+   "center": [
+    743.4,
+    1.8
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_7",
+   "label": "Tour de la face sud",
+   "kind": "rotunda",
+   "center": [
+    710.9,
+    1.8
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_8",
+   "label": "Tour de la face ouest",
+   "kind": "rotunda",
+   "center": [
+    419.7,
+    -50.6
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_9",
+   "label": "Tour de la face ouest",
+   "kind": "rotunda",
+   "center": [
+    410.8,
+    -172.8
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_10",
+   "label": "Tour de la face est",
+   "kind": "rotunda",
+   "center": [
+    774.5,
+    -183.9
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_11",
+   "label": "Tour de la face est",
+   "kind": "rotunda",
+   "center": [
+    779.0,
+    -54.1
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 20,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_12",
+   "label": "Tour polygonale de la porte ouest",
+   "kind": "rotunda",
+   "center": [
+    415.8,
+    -104.7
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 8,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_13",
+   "label": "Tour polygonale de la porte ouest",
+   "kind": "rotunda",
+   "center": [
+    414.8,
+    -118.7
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 8,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_14",
+   "label": "Tour polygonale de la porte est",
+   "kind": "rotunda",
+   "center": [
+    776.5,
+    -126.0
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 8,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "tour_15",
+   "label": "Tour polygonale de la porte est",
+   "kind": "rotunda",
+   "center": [
+    777.0,
+    -112.0
+   ],
+   "radius": 4.5,
+   "height": 16,
+   "sides": 8,
+   "roof": {
+    "shape": "cone",
+    "height": 4,
+    "material": "tuiles"
+   },
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "porte_ouest_a",
+   "label": "Porte ouest",
+   "kind": "door",
+   "place": {
+    "at": [
+     420.0,
+     -112.0
+    ],
+    "angle": -94.2
+   },
+   "x": 0,
+   "z": 2.3,
+   "face": "+z",
+   "width": 4.2,
+   "height": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Existence des portes est et ouest assurée, sans vestige connu ; dimensions supposées."
+  },
+  {
+   "id": "porte_ouest_b",
+   "label": "Porte ouest",
+   "kind": "door",
+   "place": {
+    "at": [
+     420.0,
+     -112.0
+    ],
+    "angle": -94.2
+   },
+   "x": 0,
+   "z": -2.3,
+   "face": "-z",
+   "width": 4.2,
+   "height": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "porte_est_a",
+   "label": "Porte est",
+   "kind": "door",
+   "place": {
+    "at": [
+     772.0,
+     -118.8
+    ],
+    "angle": 88.0
+   },
+   "x": 0,
+   "z": 2.3,
+   "face": "+z",
+   "width": 4.2,
+   "height": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "porte_est_b",
+   "label": "Porte est",
+   "kind": "door",
+   "place": {
+    "at": [
+     772.0,
+     -118.8
+    ],
+    "angle": 88.0
+   },
+   "x": 0,
+   "z": -2.3,
+   "face": "-z",
+   "width": 4.2,
+   "height": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "porte_nord_a",
+   "label": "Porte nord (débouché du pont)",
+   "kind": "door",
+   "place": {
+    "at": [
+     558.8,
+     -226.7
+    ],
+    "angle": -2.2
+   },
+   "x": 0,
+   "z": 2.3,
+   "face": "+z",
+   "width": 4,
+   "height": 5,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Pont aboutissant au milieu de la muraille nord, dans l'alignement du grand axe de l'amphithéâtre ; porte supposée d'après la prospection géophysique et un dessin de Beaumesnil (vers 1780)."
+  },
+  {
+   "id": "porte_nord_b",
+   "label": "Porte nord (débouché du pont)",
+   "kind": "door",
+   "place": {
+    "at": [
+     558.8,
+     -226.7
+    ],
+    "angle": -2.2
+   },
+   "x": 0,
+   "z": -2.3,
+   "face": "-z",
+   "width": 4,
+   "height": 5,
+   "certainty": "probable",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "poterne_sud_est_a",
+   "label": "Poterne du sud-est",
+   "kind": "door",
+   "place": {
+    "at": [
+     697.9,
+     -3.0
+    ],
+    "angle": 180.0
+   },
+   "x": 0,
+   "z": 2.3,
+   "face": "+z",
+   "width": 3.2,
+   "height": 3.85,
+   "certainty": "attested",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Large de 3,20 m à l'extérieur, haute de 3,85 m, dallage creusé d'ornières ; à l'est du bastion de l'amphithéâtre."
+  },
+  {
+   "id": "poterne_sud_est_b",
+   "label": "Poterne du sud-est",
+   "kind": "door",
+   "place": {
+    "at": [
+     697.9,
+     -3.0
+    ],
+    "angle": 180.0
+   },
+   "x": 0,
+   "z": -2.3,
+   "face": "-z",
+   "width": 3.2,
+   "height": 3.85,
+   "certainty": "attested",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "poterne_nord_ouest_a",
+   "label": "Poterne du nord-ouest (« tombeau de Turnus »)",
+   "kind": "door",
+   "place": {
+    "at": [
+     429.8,
+     -221.8
+    ],
+    "angle": -2.2
+   },
+   "x": 0,
+   "z": 2.3,
+   "face": "+z",
+   "width": 1.6,
+   "height": 2.3,
+   "certainty": "attested",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Haute de 2,30 m seulement ; dessert les bâtiments de l'angle nord-ouest."
+  },
+  {
+   "id": "poterne_nord_ouest_b",
+   "label": "Poterne du nord-ouest (« tombeau de Turnus »)",
+   "kind": "door",
+   "place": {
+    "at": [
+     429.8,
+     -221.8
+    ],
+    "angle": -2.2
+   },
+   "x": 0,
+   "z": -2.3,
+   "face": "-z",
+   "width": 1.6,
+   "height": 2.3,
+   "certainty": "attested",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "amphitheatre",
+   "label": "Amphithéâtre fortifié, bastion sud du castrum",
+   "kind": "amphitheatre",
+   "place": {
+    "at": [
+     611.1,
+     0.0
+    ],
+    "angle": -13
+   },
+   "outer": [
+    156,
+    134
+   ],
+   "arena": [
+    68,
+    50
+   ],
+   "height": 9,
+   "podium": 2.8,
+   "base": 3,
+   "butte_slope": 5,
+   "cavea_material": "herbe",
+   "arena_material": "sable",
+   "butte_material": "herbe",
+   "ring": {
+    "scale": 0.8,
+    "thickness": 3.5,
+    "height": 12
+   },
+   "vomitoria": [
+    {
+     "angle": 90,
+     "width": 5.2,
+     "height": 8
+    },
+    {
+     "angle": 270,
+     "width": 5.2,
+     "height": 8
+    }
+   ],
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum",
+    "wp_enceinte",
+    "bordeaux_seigne2005"
+   ],
+   "note": "Seconde moitié du IIIe siècle : cavea arasée à environ 8 m au-dessus de l'arène, mur annulaire de 3,50 m d'épaisseur inséré dans le remblai sur tout le périmètre (hauteur inconnue, probablement au-dessus de l'arasement), accès condamnés, fossé. Intégré au castrum comme bastion ; ses vomitoires nord et sud forment probablement l'entrée monumentale du sud. Position du mur annulaire et hauteurs supposées."
+  },
+  {
+   "id": "fosse",
+   "label": "Fossé",
+   "kind": "slab",
+   "polygons": [
+    [
+     [
+      543.5,
+      9.0
+     ],
+     [
+      428.0,
+      9.0
+     ],
+     [
+      428.0,
+      18.0
+     ],
+     [
+      543.5,
+      18.0
+     ]
+    ],
+    [
+     [
+      416.0,
+      -2.1
+     ],
+     [
+      400.0,
+      -220.2
+     ],
+     [
+      391.1,
+      -219.6
+     ],
+     [
+      407.1,
+      -1.5
+     ]
+    ],
+    [
+     [
+      780.0,
+      -235.1
+     ],
+     [
+      788.0,
+      -3.4
+     ],
+     [
+      797.0,
+      -3.7
+     ],
+     [
+      789.0,
+      -235.4
+     ]
+    ],
+    [
+     [
+      776.0,
+      9.0
+     ],
+     [
+      678.3,
+      9.0
+     ],
+     [
+      678.3,
+      18.0
+     ],
+     [
+      776.0,
+      18.0
+     ]
+    ],
+    [
+     [
+      692.3,
+      -3.6
+     ],
+     [
+      692.8,
+      6.8
+     ],
+     [
+      701.2,
+      7.5
+     ],
+     [
+      700.7,
+      -4.0
+     ]
+    ],
+    [
+     [
+      692.8,
+      6.8
+     ],
+     [
+      692.2,
+      17.1
+     ],
+     [
+      700.6,
+      18.8
+     ],
+     [
+      701.2,
+      7.5
+     ]
+    ],
+    [
+     [
+      692.2,
+      17.1
+     ],
+     [
+      690.7,
+      27.2
+     ],
+     [
+      698.9,
+      30.0
+     ],
+     [
+      700.6,
+      18.8
+     ]
+    ],
+    [
+     [
+      690.7,
+      27.2
+     ],
+     [
+      688.1,
+      36.9
+     ],
+     [
+      696.1,
+      40.7
+     ],
+     [
+      698.9,
+      30.0
+     ]
+    ],
+    [
+     [
+      688.1,
+      36.9
+     ],
+     [
+      684.7,
+      46.2
+     ],
+     [
+      692.3,
+      51.0
+     ],
+     [
+      696.1,
+      40.7
+     ]
+    ],
+    [
+     [
+      684.7,
+      46.2
+     ],
+     [
+      680.3,
+      55.0
+     ],
+     [
+      687.4,
+      60.6
+     ],
+     [
+      692.3,
+      51.0
+     ]
+    ],
+    [
+     [
+      680.3,
+      55.0
+     ],
+     [
+      675.0,
+      63.0
+     ],
+     [
+      681.7,
+      69.5
+     ],
+     [
+      687.4,
+      60.6
+     ]
+    ],
+    [
+     [
+      675.0,
+      63.0
+     ],
+     [
+      669.0,
+      70.3
+     ],
+     [
+      675.0,
+      77.6
+     ],
+     [
+      681.7,
+      69.5
+     ]
+    ],
+    [
+     [
+      669.0,
+      70.3
+     ],
+     [
+      662.3,
+      76.7
+     ],
+     [
+      667.6,
+      84.6
+     ],
+     [
+      675.0,
+      77.6
+     ]
+    ],
+    [
+     [
+      662.3,
+      76.7
+     ],
+     [
+      654.9,
+      82.2
+     ],
+     [
+      659.5,
+      90.7
+     ],
+     [
+      667.6,
+      84.6
+     ]
+    ],
+    [
+     [
+      654.9,
+      82.2
+     ],
+     [
+      647.0,
+      86.6
+     ],
+     [
+      650.7,
+      95.6
+     ],
+     [
+      659.5,
+      90.7
+     ]
+    ],
+    [
+     [
+      647.0,
+      86.6
+     ],
+     [
+      638.7,
+      90.0
+     ],
+     [
+      641.5,
+      99.4
+     ],
+     [
+      650.7,
+      95.6
+     ]
+    ],
+    [
+     [
+      638.7,
+      90.0
+     ],
+     [
+      630.0,
+      92.3
+     ],
+     [
+      631.9,
+      101.9
+     ],
+     [
+      641.5,
+      99.4
+     ]
+    ],
+    [
+     [
+      630.0,
+      92.3
+     ],
+     [
+      621.1,
+      93.5
+     ],
+     [
+      622.1,
+      103.1
+     ],
+     [
+      631.9,
+      101.9
+     ]
+    ],
+    [
+     [
+      621.1,
+      93.5
+     ],
+     [
+      612.0,
+      93.5
+     ],
+     [
+      612.1,
+      103.1
+     ],
+     [
+      622.1,
+      103.1
+     ]
+    ],
+    [
+     [
+      612.0,
+      93.5
+     ],
+     [
+      603.0,
+      92.3
+     ],
+     [
+      602.1,
+      101.9
+     ],
+     [
+      612.1,
+      103.1
+     ]
+    ],
+    [
+     [
+      603.0,
+      92.3
+     ],
+     [
+      594.0,
+      90.0
+     ],
+     [
+      592.2,
+      99.4
+     ],
+     [
+      602.1,
+      101.9
+     ]
+    ],
+    [
+     [
+      594.0,
+      90.0
+     ],
+     [
+      585.3,
+      86.6
+     ],
+     [
+      582.6,
+      95.6
+     ],
+     [
+      592.2,
+      99.4
+     ]
+    ],
+    [
+     [
+      585.3,
+      86.6
+     ],
+     [
+      576.8,
+      82.2
+     ],
+     [
+      573.3,
+      90.7
+     ],
+     [
+      582.6,
+      95.6
+     ]
+    ],
+    [
+     [
+      576.8,
+      82.2
+     ],
+     [
+      568.8,
+      76.7
+     ],
+     [
+      564.5,
+      84.6
+     ],
+     [
+      573.3,
+      90.7
+     ]
+    ],
+    [
+     [
+      568.8,
+      76.7
+     ],
+     [
+      561.4,
+      70.3
+     ],
+     [
+      556.2,
+      77.6
+     ],
+     [
+      564.5,
+      84.6
+     ]
+    ],
+    [
+     [
+      561.4,
+      70.3
+     ],
+     [
+      554.5,
+      63.0
+     ],
+     [
+      548.6,
+      69.5
+     ],
+     [
+      556.2,
+      77.6
+     ]
+    ],
+    [
+     [
+      554.5,
+      63.0
+     ],
+     [
+      548.3,
+      55.0
+     ],
+     [
+      541.8,
+      60.6
+     ],
+     [
+      548.6,
+      69.5
+     ]
+    ],
+    [
+     [
+      548.3,
+      55.0
+     ],
+     [
+      542.9,
+      46.2
+     ],
+     [
+      535.9,
+      51.0
+     ],
+     [
+      541.8,
+      60.6
+     ]
+    ],
+    [
+     [
+      542.9,
+      46.2
+     ],
+     [
+      538.4,
+      36.9
+     ],
+     [
+      530.8,
+      40.7
+     ],
+     [
+      535.9,
+      51.0
+     ]
+    ],
+    [
+     [
+      538.4,
+      36.9
+     ],
+     [
+      534.7,
+      27.2
+     ],
+     [
+      526.8,
+      30.0
+     ],
+     [
+      530.8,
+      40.7
+     ]
+    ],
+    [
+     [
+      534.7,
+      27.2
+     ],
+     [
+      532.0,
+      17.1
+     ],
+     [
+      523.8,
+      18.8
+     ],
+     [
+      526.8,
+      30.0
+     ]
+    ],
+    [
+     [
+      532.0,
+      17.1
+     ],
+     [
+      530.2,
+      6.8
+     ],
+     [
+      521.8,
+      7.5
+     ],
+     [
+      523.8,
+      18.8
+     ]
+    ],
+    [
+     [
+      530.2,
+      6.8
+     ],
+     [
+      529.4,
+      -3.6
+     ],
+     [
+      521.0,
+      -4.0
+     ],
+     [
+      521.8,
+      7.5
+     ]
+    ]
+   ],
+   "y0": -1.2,
+   "y1": 0.03,
+   "material": "eau",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Fossé rempli d'eau stagnante, creusé à environ 15 m de la façade de l'amphithéâtre ; vu sur le seul site des Archives départementales, il « ceinturait peut-être » le castrum, sauf au nord. Largeur inconnue (9 m supposés)."
+  },
+  {
+   "id": "pont",
+   "label": "Pont de bois du Bas-Empire",
+   "kind": "bridge",
+   "place": {
+    "at": [
+     558.1,
+     -229.6
+    ],
+    "angle": -103.0
+   },
+   "x": [
+    0,
+    520
+   ],
+   "width": 6,
+   "deck": 1.8,
+   "spacing": 9,
+   "piles": 4,
+   "bed": -7,
+   "wood_material": "bois",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum",
+    "wp_enceinte"
+   ],
+   "note": "Lancé en même temps que l'enceinte, au niveau de l'île Aucard, vers le milieu de la face nord et dans l'axe exact du grand axe de l'amphithéâtre ; pieux reconnus sur presque toute la largeur du fleuve (2000, 2003, 2005). Longueur, largeur et hauteur supposées."
+  },
+  {
+   "id": "axe_ouest_est",
+   "label": "Axe ouest-est du castrum (entre les deux portes)",
+   "kind": "street",
+   "line": [
+    [
+     420.0,
+     -112.0
+    ],
+    [
+     772.0,
+     -118.8
+    ]
+   ],
+   "width": 7,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« Un axe ouest-est reliant les deux portes principales de la ville. »"
+  },
+  {
+   "id": "axe_nord_sud",
+   "label": "Axe nord-sud (de l'amphithéâtre au pont)",
+   "kind": "street",
+   "line": [
+    [
+     593.6,
+     -76.0
+    ],
+    [
+     558.8,
+     -226.7
+    ]
+   ],
+   "width": 7,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« Un axe nord-sud allant de l'amphithéâtre au pont » ; voies secondaires parallèles (trame orthogonale), tracés supposés."
+  },
+  {
+   "id": "voie_ouest_est_0",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     433.0,
+     -167.1
+    ],
+    [
+     771.0,
+     -173.9
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_ouest_est_1",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     433.0,
+     -57.0
+    ],
+    [
+     771.0,
+     -63.8
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_nord_sud_0",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     438.8,
+     -226.7
+    ],
+    [
+     489.4,
+     -7.5
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_nord_sud_1",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     498.8,
+     -226.7
+    ],
+    [
+     549.4,
+     -7.5
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_nord_sud_2",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     618.8,
+     -226.7
+    ],
+    [
+     669.4,
+     -7.5
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_nord_sud_3",
+   "label": "Voie secondaire (supposée)",
+   "kind": "street",
+   "line": [
+    [
+     678.8,
+     -226.7
+    ],
+    [
+     729.4,
+     -7.5
+    ]
+   ],
+   "width": 4.5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "place_petites_boucheries",
+   "label": "Place (future place des Petites-Boucheries, ancien forum ?)",
+   "kind": "slab",
+   "polygon": [
+    [
+     695.2,
+     -150.6
+    ],
+    [
+     739.2,
+     -150.6
+    ],
+    [
+     739.2,
+     -118.6
+    ],
+    [
+     695.2,
+     -118.6
+    ]
+   ],
+   "y0": -0.2,
+   "y1": 0.06,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« La médiévale place des Petites-Boucheries pourrait être une survivance du forum de cette cité. » Emprise supposée."
+  },
+  {
+   "id": "ecclesia_prima",
+   "label": "Ecclesia prima de l'évêque Litoire",
+   "kind": "hall",
+   "place": {
+    "at": [
+     480.0,
+     -46.0
+    ],
+    "angle": -6
+   },
+   "x": [
+    -15,
+    15
+   ],
+   "z": [
+    -7.5,
+    7.5
+   ],
+   "wall": 9,
+   "roof": 4,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum",
+    "gregoire_x31"
+   ],
+   "note": "Première église de la cité, construite par Litoire (évêque de 337 à 370) « probablement entre 350 et la fin de son épiscopat », à l'emplacement de la cathédrale actuelle. Plan, taille et orientation inconnus : basilique simple supposée."
+  },
+  {
+   "id": "ecclesia_prima_abside",
+   "label": "Abside de l'ecclesia prima",
+   "kind": "apse",
+   "place": {
+    "at": [
+     480.0,
+     -46.0
+    ],
+    "angle": -6
+   },
+   "center": [
+    15,
+    0
+   ],
+   "radius": 6,
+   "sides": 7,
+   "wall": 8,
+   "roof": 3.5,
+   "certainty": "hypothesis",
+   "sources": [],
+   "note": "Abside supposée."
+  },
+  {
+   "id": "thermes_salle",
+   "label": "Anciens thermes de l'Est, amputés par l'enceinte",
+   "kind": "hall",
+   "x": [
+    427.6,
+    475.6
+   ],
+   "z": [
+    -186.2,
+    -164.2
+   ],
+   "wall": 10,
+   "roof": 4,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte",
+    "wp_thermes"
+   ],
+   "note": "Hors d'usage pendant la construction de la muraille, partiellement amputés et réaménagés, ils reprennent leur activité pour quelques décennies à la fin du IVe siècle ; l'angle nord-ouest est réservé à une élite. Plan supposé."
+  },
+  {
+   "id": "thermes_batiment",
+   "label": "Anciens thermes de l'Est : bâtiment oriental",
+   "kind": "hall",
+   "x": [
+    460.6,
+    475.6
+   ],
+   "z": [
+    -218.2,
+    -186.2
+   ],
+   "wall": 7,
+   "roof": 3,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte",
+    "wp_thermes"
+   ]
+  },
+  {
+   "id": "thermes_cour",
+   "label": "Anciens thermes de l'Est : cour",
+   "kind": "slab",
+   "polygon": [
+    [
+     427.6,
+     -218.2
+    ],
+    [
+     460.6,
+     -218.2
+    ],
+    [
+     460.6,
+     -186.2
+    ],
+    [
+     427.6,
+     -186.2
+    ]
+   ],
+   "y0": -0.2,
+   "y1": 0.06,
+   "material": "sable",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_enceinte",
+    "wp_thermes"
+   ]
+  },
+  {
+   "id": "insula_cite_0_1",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     421.5,
+     -163.6
+    ],
+    [
+     449.8,
+     -163.6
+    ],
+    [
+     460.9,
+     -115.5
+    ],
+    [
+     425.0,
+     -115.5
+    ]
+   ],
+   "seed": 5001,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ],
+   "note": "Habitat de la Cité « mal connu » : maisons génériques, maçonnerie cédant en partie la place à la terre (fin IVe siècle) ; peuplement d'élites et de soldats probable."
+  },
+  {
+   "id": "insula_cite_0_2",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     425.5,
+     -108.5
+    ],
+    [
+     462.5,
+     -108.5
+    ],
+    [
+     473.6,
+     -60.5
+    ],
+    [
+     429.0,
+     -60.5
+    ]
+   ],
+   "seed": 5002,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_1_1",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     456.8,
+     -163.6
+    ],
+    [
+     509.8,
+     -163.6
+    ],
+    [
+     520.9,
+     -115.5
+    ],
+    [
+     467.9,
+     -115.5
+    ]
+   ],
+   "seed": 5032,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_1_2",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     469.5,
+     -108.5
+    ],
+    [
+     522.5,
+     -108.5
+    ],
+    [
+     533.6,
+     -60.5
+    ],
+    [
+     480.6,
+     -60.5
+    ]
+   ],
+   "seed": 5033,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_1_3",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     482.2,
+     -53.5
+    ],
+    [
+     535.2,
+     -53.5
+    ],
+    [
+     545.7,
+     -8.2
+    ],
+    [
+     492.7,
+     -8.2
+    ]
+   ],
+   "seed": 5034,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_2_0",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     503.5,
+     -221.5
+    ],
+    [
+     556.5,
+     -221.5
+    ],
+    [
+     568.2,
+     -170.6
+    ],
+    [
+     515.2,
+     -170.6
+    ]
+   ],
+   "seed": 5062,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_2_1",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     516.8,
+     -163.6
+    ],
+    [
+     569.8,
+     -163.6
+    ],
+    [
+     580.9,
+     -115.5
+    ],
+    [
+     527.9,
+     -115.5
+    ]
+   ],
+   "seed": 5063,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_2_2",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     529.5,
+     -108.5
+    ],
+    [
+     582.5,
+     -108.5
+    ],
+    [
+     593.6,
+     -60.5
+    ],
+    [
+     540.6,
+     -60.5
+    ]
+   ],
+   "seed": 5064,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_3_0",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     563.5,
+     -221.5
+    ],
+    [
+     616.5,
+     -221.5
+    ],
+    [
+     628.2,
+     -170.6
+    ],
+    [
+     575.2,
+     -170.6
+    ]
+   ],
+   "seed": 5093,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_3_1",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     576.8,
+     -163.6
+    ],
+    [
+     629.8,
+     -163.6
+    ],
+    [
+     640.9,
+     -115.5
+    ],
+    [
+     587.9,
+     -115.5
+    ]
+   ],
+   "seed": 5094,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_4_0",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     623.5,
+     -221.5
+    ],
+    [
+     676.5,
+     -221.5
+    ],
+    [
+     688.2,
+     -170.6
+    ],
+    [
+     635.2,
+     -170.6
+    ]
+   ],
+   "seed": 5124,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_4_1",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     636.8,
+     -163.6
+    ],
+    [
+     689.8,
+     -163.6
+    ],
+    [
+     700.9,
+     -115.5
+    ],
+    [
+     647.9,
+     -115.5
+    ]
+   ],
+   "seed": 5125,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_4_2",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     649.5,
+     -108.5
+    ],
+    [
+     702.5,
+     -108.5
+    ],
+    [
+     713.6,
+     -60.5
+    ],
+    [
+     660.6,
+     -60.5
+    ]
+   ],
+   "seed": 5126,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_4_3",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     662.2,
+     -53.5
+    ],
+    [
+     715.2,
+     -53.5
+    ],
+    [
+     725.7,
+     -8.2
+    ],
+    [
+     672.7,
+     -8.2
+    ]
+   ],
+   "seed": 5127,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_5_0",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     683.5,
+     -221.5
+    ],
+    [
+     763.2,
+     -221.5
+    ],
+    [
+     765.0,
+     -170.6
+    ],
+    [
+     695.2,
+     -170.6
+    ]
+   ],
+   "seed": 5155,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_5_2",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     709.5,
+     -108.5
+    ],
+    [
+     767.1,
+     -108.5
+    ],
+    [
+     768.8,
+     -60.5
+    ],
+    [
+     720.6,
+     -60.5
+    ]
+   ],
+   "seed": 5157,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "insula_cite_5_3",
+   "label": "Îlot de la Cité (restitution générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     722.2,
+     -53.5
+    ],
+    [
+     769.0,
+     -53.5
+    ],
+    [
+     770.6,
+     -8.2
+    ],
+    [
+     732.7,
+     -8.2
+    ]
+   ],
+   "seed": 5158,
+   "density": 0.6,
+   "depth": [
+    7,
+    12
+   ],
+   "height": [
+    3,
+    6
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_enceinte"
+   ]
+  },
+  {
+   "id": "voie_de_rive",
+   "label": "Voie de rive (conservée)",
+   "kind": "street",
+   "line": [
+    [
+     -800,
+     -140
+    ],
+    [
+     417.0,
+     -140
+    ],
+    [
+     417.0,
+     -112.0
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Une des « deux voies parallèles à la Loire » qui subsistent quand le reste de la trame disparaît."
+  },
+  {
+   "id": "decumanus",
+   "label": "Ancien decumanus maximus (conservé)",
+   "kind": "street",
+   "line": [
+    [
+     -560,
+     46.3
+    ],
+    [
+     523.5,
+     9.0
+    ]
+   ],
+   "width": 6,
+   "material": "voie",
+   "certainty": "probable",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "voie_descartes",
+   "label": "Voie sous la rue Descartes (peut-être conservée)",
+   "kind": "street",
+   "line": [
+    [
+     -474.7,
+     420
+    ],
+    [
+     -427.4,
+     -140
+    ]
+   ],
+   "width": 5,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_0",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -545.8,
+     -132
+    ],
+    [
+     -437.8,
+     -132
+    ],
+    [
+     -443.4,
+     -66
+    ],
+    [
+     -551.4,
+     -66
+    ]
+   ],
+   "seed": 7000,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "« Le tissu urbain s'est, depuis plusieurs décennies, progressivement rétracté des marges de la cité vers le front de Loire. » Densité et maisons supposées ; le reste de l'ancienne ville est figuré vide (champs, ruines, nécropoles)."
+  },
+  {
+   "id": "habitat_rive_1",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -431.8,
+     -132
+    ],
+    [
+     -346.8,
+     -132
+    ],
+    [
+     -352.4,
+     -66
+    ],
+    [
+     -437.4,
+     -66
+    ]
+   ],
+   "seed": 7001,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_2",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -340.8,
+     -132
+    ],
+    [
+     -254.8,
+     -132
+    ],
+    [
+     -260.4,
+     -66
+    ],
+    [
+     -346.4,
+     -66
+    ]
+   ],
+   "seed": 7002,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_3",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -248.8,
+     -132
+    ],
+    [
+     -161.8,
+     -132
+    ],
+    [
+     -167.4,
+     -66
+    ],
+    [
+     -254.4,
+     -66
+    ]
+   ],
+   "seed": 7003,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_4",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -155.8,
+     -132
+    ],
+    [
+     -71.8,
+     -132
+    ],
+    [
+     -77.4,
+     -66
+    ],
+    [
+     -161.4,
+     -66
+    ]
+   ],
+   "seed": 7004,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_5",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     -65.8,
+     -132
+    ],
+    [
+     8.2,
+     -132
+    ],
+    [
+     2.6,
+     -66
+    ],
+    [
+     -71.4,
+     -66
+    ]
+   ],
+   "seed": 7005,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_6",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     14.2,
+     -132
+    ],
+    [
+     98.2,
+     -132
+    ],
+    [
+     92.6,
+     -66
+    ],
+    [
+     8.6,
+     -66
+    ]
+   ],
+   "seed": 7006,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_7",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     104.2,
+     -132
+    ],
+    [
+     188.2,
+     -132
+    ],
+    [
+     182.6,
+     -66
+    ],
+    [
+     98.6,
+     -66
+    ]
+   ],
+   "seed": 7007,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_8",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     194.2,
+     -132
+    ],
+    [
+     273.2,
+     -132
+    ],
+    [
+     267.6,
+     -66
+    ],
+    [
+     188.6,
+     -66
+    ]
+   ],
+   "seed": 7008,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_9",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     279.2,
+     -132
+    ],
+    [
+     338.2,
+     -132
+    ],
+    [
+     332.6,
+     -66
+    ],
+    [
+     273.6,
+     -66
+    ]
+   ],
+   "seed": 7009,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "habitat_rive_10",
+   "label": "Habitat du front de Loire, hors les murs (générique)",
+   "kind": "insula",
+   "polygon": [
+    [
+     344.2,
+     -132
+    ],
+    [
+     403.2,
+     -132
+    ],
+    [
+     397.6,
+     -66
+    ],
+    [
+     338.6,
+     -66
+    ]
+   ],
+   "seed": 7010,
+   "density": 0.35,
+   "depth": [
+    7,
+    11
+   ],
+   "height": [
+    3,
+    5
+   ],
+   "wall_material": "enduit_ocre",
+   "certainty": "invented",
+   "sources": [
+    "wp_caesarodunum"
+   ]
+  },
+  {
+   "id": "temple_ruine",
+   "label": "Ruines du grand temple (démonté)",
+   "kind": "rotunda",
+   "center": [
+    -51.7,
+    99.2
+   ],
+   "radius": 17.4,
+   "height": 3,
+   "roof": {
+    "shape": "open",
+    "wall": 2.65
+   },
+   "sides": 40,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum",
+    "wp_temple"
+   ],
+   "note": "Dès le IIIe siècle, plus aucun monument public n'est entretenu, hors l'amphithéâtre ; ils sont démontés et leurs pierres remployées dans l'enceinte. État du temple vers 385 inconnu ; ses murs ont été retrouvés sur 3 m en 1951."
+  },
+  {
+   "id": "thermes_sud",
+   "label": "Thermes du Sud (encore en service ?)",
+   "kind": "hall",
+   "x": [
+    25,
+    70
+   ],
+   "z": [
+    262,
+    318
+   ],
+   "wall": 12,
+   "roof": 5,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_thermes"
+   ],
+   "note": "« Resté en service jusqu'au IVe siècle » : état vers 385 incertain."
+  },
+  {
+   "id": "basilique_litoire",
+   "label": "Basilique de Litoire (maison d'un sénateur)",
+   "kind": "hall",
+   "place": {
+    "at": [
+     -698.1,
+     -91.2
+    ],
+    "angle": -6
+   },
+   "x": [
+    -12,
+    12
+   ],
+   "z": [
+    -6,
+    6
+   ],
+   "wall": 7,
+   "roof": 3,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_caesarodunum"
+   ],
+   "note": "Litoire aménage « à 1,2 km à l'ouest du castrum, la maison d'un sénateur en une basilique » où il est inhumé ; Martin sera enterré en 397 « à quelques centaines de mètres au sud-est », là où s'élèvera Saint-Martin. Position très incertaine, déduite de ces deux distances."
+  },
+  {
+   "id": "voie_basilique",
+   "label": "Chemin vers la basilique de Litoire",
+   "kind": "street",
+   "line": [
+    [
+     -800,
+     -140
+    ],
+    [
+     -698.1,
+     -91.2
+    ]
+   ],
+   "width": 4,
+   "material": "voie",
+   "certainty": "hypothesis",
+   "sources": [],
+   "note": "Accès supposé."
+  },
+  {
+   "id": "promeneur",
+   "label": "Silhouette à l'échelle (1,70 m)",
+   "kind": "figure",
+   "x": 568.4,
+   "z": -202.4,
+   "height": 1.7,
+   "material": "figure",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Repère d'échelle, derrière la porte nord."
+  }
+ ]
+}

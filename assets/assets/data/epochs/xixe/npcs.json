@@ -1,0 +1,108 @@
+{
+ "npcs": [
+  {
+   "id": "mlle_cloque",
+   "name": "Mlle Athénaïs Cloque",
+   "role": "Vieille demoiselle de la rue de la Bourde",
+   "position": [
+    47.391566,
+    0.67911
+   ],
+   "color": "#5E3A57",
+   "dialogue": "cloque_intro",
+   "certainty": "invented",
+   "note": "Personnage du roman ; elle habite « une petite maison de la rue de la Bourde, derrière les Halles » (ch. II). Numéro exact inconnu (peut-être le n° 8) : position dans la rue choisie librement."
+  },
+  {
+   "id": "loupaing",
+   "name": "Loupaing",
+   "role": "Entrepreneur de plomberie, propriétaire de Mlle Cloque",
+   "position": [
+    47.391851,
+    0.679658
+   ],
+   "color": "#6B5A3A",
+   "dialogue": "loupaing_intro",
+   "certainty": "invented",
+   "note": "Personnage du roman (ch. II), voisin et propriétaire de Mlle Cloque."
+  },
+  {
+   "id": "frere_gedeon",
+   "name": "Frère Gédéon",
+   "role": "Le « Frère bleu », au guichet de la chapelle",
+   "position": [
+    47.39272,
+    0.68277
+   ],
+   "color": "#3D5C8C",
+   "dialogue": "gedeon_intro",
+   "certainty": "invented",
+   "note": "Personnage du roman (ch. III). La porte de la chapelle provisoire donnait sur la rue Descartes. Anachronisme admis : en 1890, la nouvelle église a remplacé la chapelle provisoire."
+  },
+  {
+   "id": "mme_pigeonneau",
+   "name": "Mme Pigeonneau-Exelcis",
+   "role": "Libraire catholique",
+   "position": [
+    47.393288,
+    0.683138
+   ],
+   "color": "#7A4E3B",
+   "dialogue": "pigeonneau_intro",
+   "certainty": "invented",
+   "note": "Personnage du roman (ch. V) : la librairie est juste à droite en sortant de la chapelle provisoire, contre son mur."
+  },
+  {
+   "id": "zelie",
+   "name": "Mlle Zélie",
+   "role": "Chez Roche, confiseur de la rue Royale",
+   "position": [
+    47.394314,
+    0.68726
+   ],
+   "color": "#A0526D",
+   "dialogue": "zelie_intro",
+   "certainty": "invented",
+   "note": "Personnage du roman (ch. VIII). La confiserie Roche est rue Royale, près de l'hôtel du Faisan ; son emplacement exact n'est pas connu."
+  },
+  {
+   "id": "tailleur_de_pierre",
+   "name": "Un tailleur de pierre",
+   "role": "Ouvrier du chantier de Saint-Martin",
+   "position": [
+    47.39252,
+    0.683
+   ],
+   "color": "#8C7B5E",
+   "dialogue": "tailleur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé ; les faits qu'il rapporte sont sourcés."
+  },
+  {
+   "id": "cheminot",
+   "name": "Un cheminot du Paris-Orléans",
+   "role": "Employé de l'Embarcadère",
+   "position": [
+    47.3909,
+    0.6936
+   ],
+   "color": "#2E3B40",
+   "dialogue": "cheminot_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé ; les faits qu'il rapporte sont sourcés."
+  },
+  {
+   "id": "typographe_mame",
+   "name": "Un typographe de chez Mame",
+   "role": "Compositeur à l'imprimerie Mame",
+   "position": [
+    47.39262,
+    0.68653
+   ],
+   "color": "#3F4A5C",
+   "dialogue": "typographe_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé, devant l'imprimerie, rue Néricault-Destouches (porte supposée) ; les faits qu'il rapporte sont sourcés."
+  }
+ ]
+}

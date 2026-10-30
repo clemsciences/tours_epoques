@@ -1,0 +1,27 @@
+{
+ "id": "aujourdhui",
+ "title": "Tours aujourd'hui",
+ "year": 2026,
+ "yearLabel": "aujourd'hui",
+ "place": "Tours",
+ "summary": "La ville actuelle, rue par rue (OpenStreetMap). Les repères montrent les lieux dont parlent les bulletins de la Société archéologique de Touraine : choisissez un siècle pour voir ceux qu'ils évoquent à cette époque.",
+ "carriage": "voiture à cheval",
+ "chooseCentury": true,
+ "palette": {
+  "ground": "#E6E3DC",
+  "water": "#9DB8C6",
+  "waterEdge": "#6F8C9C",
+  "land": "#D9D6C4",
+  "garden": "#B9CC98",
+  "street": "#FBFAF6",
+  "streetEdge": "#B8B2A4",
+  "stone": "#F3EEE2",
+  "stoneEdge": "#6E6455",
+  "worksite": "#DCCBA2",
+  "roof": "#A9A39B",
+  "roofEdge": "#6F6A63",
+  "label": "#33302C",
+  "player": "#2F5E7A",
+  "carriage": "#3A3A40"
+ }
+}

@@ -1,0 +1,981 @@
+{
+ "id": "saint_gatien_1785",
+ "title": "La cathédrale Saint-Gatien en 1785",
+ "summary": "Restitution en volumes simples de la cathédrale que Mme Cradock visita le 15 septembre 1785, construite à partir des seuls textes (dimensions publiées, descriptions de Cradock, Soreau et de l'abbé Mortier) et sans calquer le plan ni les photos : l'édifice existe encore, on peut donc mesurer l'écart entre la restitution et le réel, et en tirer la marge d'erreur de la méthode employée pour Saint-Martin.",
+ "year": 1785,
+ "certainty": "probable",
+ "dossier": "docs/saint_gatien_3d.md",
+ "frame": {
+  "units": "m",
+  "origin": "centre de la façade occidentale, au niveau du sol",
+  "x": "vers le chevet (est-nord-est)",
+  "y": "vers le haut",
+  "z": "vers le sud (côté opposé au cloître)",
+  "anchor": {
+   "lat": 47.395442,
+   "lon": 0.6938,
+   "bearing": 73.0
+  },
+  "note": "Seuls la position et l'axe viennent de l'emprise de la carte (OSM) ; aucune dimension n'en est tirée, pour que la comparaison avec le réel reste un test."
+ },
+ "sources": {
+  "cradock1785": "Mme Cradock, Journal, 15 septembre 1785, p. 283-284 (dépôt cradock_map) : roses au-dessus des entrées de côté, horloge dans un bas-côté, ascension du clocher",
+  "soreau1784": "Soreau, Voyage en Touraine en 1784, Mémoires SAT XIV, 1903, p. 133 : temple « pas vaste », « les tours très élevées »",
+  "mortier1943": "Abbé J. Mortier, « Le couronnement des tours de la cathédrale Saint-Gatien de Tours », Bull. SAT XXVIII, 1943, p. 279-296 (ici p. 285-290) : tambour octogonal, dôme, lanternon ; 1507 au nord, quarante ans plus tard au sud ; tour sud plus étroite",
+  "sat1934": "Bull. SAT XXV, 1934, p. 283 : de la tour nord, une arête de la tour sud est visée « à environ 15 mètres de distance »",
+  "sat1911": "Bull. SAT XVIII, 1911, p. 285 (page estimée) : sonnerie « au sommet de la tour du sud, sous le dôme », cloche de 1769",
+  "wp_fr": "Wikipédia, « Cathédrale Saint-Gatien de Tours », consulté le 29/10/2026 : 100 m de long, 28 m de large, transept de 46 m, 29 m sous voûtes, 11 m sous les bas-côtés, tours de 68 et 69 m ; cloître de la Psalette au nord",
+  "wp_en": "Wikipedia, « Tours Cathedral », consulté le 29/10/2026 : tours de 69 et 70 m, trois roses, contreforts ajoutés au transept nord, arcs-boutants à pinacles",
+  "larousse": "Encyclopédie Larousse, « cathédrale Saint-Gatien de Tours » : nef de huit travées, collatéraux à chapelles, tours de 70 m, chœur à déambulatoire, triforium et fenêtres hautes",
+  "geneawiki": "Geneawiki, « Cathédrale Saint-Gatien de Tours » : chœur de cinq travées, déambulatoire desservant cinq chapelles à trois pans encadrées d'arcs-boutants"
+ },
+ "materials": {
+  "tuffeau": {
+   "color": [
+    0.87,
+    0.83,
+    0.71
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "certainty": "probable",
+   "note": "Moyen appareil de tuffeau en assises d'environ 40 cm, joints fins, patine grise en coulures : usage courant en Touraine, non relevé sur l'édifice."
+  },
+  "tuffeau_dark": {
+   "color": [
+    0.74,
+    0.7,
+    0.58
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "course": 0.3,
+   "certainty": "hypothesis",
+   "note": "Corniches : pierre plus exposée, donc plus sombre."
+  },
+  "slate": {
+   "color": [
+    0.17,
+    0.19,
+    0.23
+   ],
+   "pattern": "slate",
+   "tile": 2,
+   "roughness": 0.65,
+   "normal": 4,
+   "certainty": "probable",
+   "note": "Ardoises rectangulaires (ardoise d'Anjou, usage courant en Touraine) à pureau d'environ 20 cm ; quelques lichens."
+  },
+  "glass": {
+   "color": [
+    0.07,
+    0.09,
+    0.12
+   ],
+   "pattern": "glass",
+   "tile": 2,
+   "roughness": 0.12,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Verre en losanges serti de plomb, barlotières, quelques pièces colorées : l'état des vitraux en 1785 n'est pas documenté ici."
+  },
+  "door": {
+   "color": [
+    0.24,
+    0.15,
+    0.09
+   ],
+   "pattern": "planks",
+   "tile": 2,
+   "roughness": 0.8,
+   "normal": 3,
+   "certainty": "hypothesis",
+   "note": "Vantaux de planches à pentures de fer."
+  },
+  "ground": {
+   "color": [
+    0.5,
+    0.47,
+    0.4
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 1.0,
+   "normal": 4,
+   "course": 0.4,
+   "lmin": 0.35,
+   "lmax": 0.7,
+   "joint": 0.03,
+   "bevel": 0.06,
+   "mortar": [
+    0.3,
+    0.27,
+    0.2
+   ],
+   "grime": 0,
+   "certainty": "invented",
+   "note": "Pavage du plateau de présentation."
+  },
+  "figure": {
+   "color": [
+    0.55,
+    0.15,
+    0.15
+   ],
+   "pattern": "plain",
+   "roughness": 0.9,
+   "certainty": "invented"
+  }
+ },
+ "elements": [
+  {
+   "id": "parvis",
+   "label": "Sol (parvis et abords)",
+   "kind": "ground",
+   "x": [
+    -30,
+    108
+   ],
+   "z": [
+    -45,
+    40
+   ],
+   "material": "ground",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Plateau de présentation, au niveau du sol de l'église."
+  },
+  {
+   "id": "nef",
+   "label": "Nef (huit travées)",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    0,
+    50
+   ],
+   "z": [
+    -5,
+    5
+   ],
+   "wall": 31,
+   "roof": 9,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr",
+    "larousse"
+   ],
+   "note": "Huit travées (Larousse) ; 29 m sous voûtes (Wikipédia) : murs de 31 m à l'extérieur. Largeur du vaisseau (10 m) et pente du toit supposées : la nef est dite étroite (Wikipédia anglaise)."
+  },
+  {
+   "id": "collateral_n",
+   "label": "Collatéral nord",
+   "kind": "aisle",
+   "x": [
+    9,
+    50
+   ],
+   "z": [
+    -11,
+    -5
+   ],
+   "low": 13,
+   "high": 16,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "wp_fr",
+    "larousse"
+   ],
+   "note": "11 m sous les voûtes des bas-côtés (Wikipédia) ; largeur supposée."
+  },
+  {
+   "id": "collateral_s",
+   "label": "Collatéral sud",
+   "kind": "aisle",
+   "x": [
+    9,
+    50
+   ],
+   "z": [
+    5,
+    11
+   ],
+   "low": 13,
+   "high": 16,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "wp_fr",
+    "larousse"
+   ]
+  },
+  {
+   "id": "chapelles_nef_n",
+   "label": "Chapelles latérales nord",
+   "kind": "aisle",
+   "x": [
+    9,
+    50
+   ],
+   "z": [
+    -14,
+    -11
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z1",
+   "certainty": "hypothesis",
+   "sources": [
+    "larousse",
+    "wp_fr"
+   ],
+   "note": "« des collatéraux où s'ouvrent des chapelles » (Larousse) ; profondeur calculée pour atteindre les 28 m de largeur (Wikipédia) ; hauteur supposée."
+  },
+  {
+   "id": "chapelles_nef_s",
+   "label": "Chapelles latérales sud",
+   "kind": "aisle",
+   "x": [
+    9,
+    50
+   ],
+   "z": [
+    11,
+    14
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z0",
+   "certainty": "hypothesis",
+   "sources": [
+    "larousse",
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "transept",
+   "label": "Transept",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    50,
+    61
+   ],
+   "z": [
+    -23,
+    23
+   ],
+   "wall": 31,
+   "roof": 9,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "46 m de largeur (Wikipédia) ; profondeur d'une travée (11 m) supposée ; même hauteur que la nef."
+  },
+  {
+   "id": "choeur",
+   "label": "Chœur (partie droite)",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    61,
+    85
+   ],
+   "z": [
+    -5,
+    5
+   ],
+   "wall": 31,
+   "roof": 9,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki",
+    "wp_fr"
+   ],
+   "note": "Chœur du XIIIe siècle à cinq travées (Geneawiki), ici quatre droites et le rond-point ; longueur calculée pour atteindre 100 m au total."
+  },
+  {
+   "id": "abside",
+   "label": "Rond-point du chœur",
+   "kind": "apse",
+   "center": [
+    85,
+    0
+   ],
+   "radius": 5,
+   "sides": 5,
+   "wall": 31,
+   "roof": 9,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ],
+   "note": "Polygonal, comme les chapelles « à trois pans » ; nombre de pans supposé."
+  },
+  {
+   "id": "deambulatoire_n",
+   "label": "Déambulatoire (partie droite nord)",
+   "kind": "aisle",
+   "x": [
+    61,
+    85
+   ],
+   "z": [
+    -11,
+    -5
+   ],
+   "low": 13,
+   "high": 16,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "geneawiki",
+    "larousse"
+   ]
+  },
+  {
+   "id": "deambulatoire_s",
+   "label": "Déambulatoire (partie droite sud)",
+   "kind": "aisle",
+   "x": [
+    61,
+    85
+   ],
+   "z": [
+    5,
+    11
+   ],
+   "low": 13,
+   "high": 16,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "geneawiki",
+    "larousse"
+   ]
+  },
+  {
+   "id": "deambulatoire_rond",
+   "label": "Déambulatoire (rond-point)",
+   "kind": "ambulatory",
+   "center": [
+    85,
+    0
+   ],
+   "r": [
+    5,
+    11
+   ],
+   "sides": 5,
+   "low": 13,
+   "high": 16,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_1",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    85,
+    0,
+    11,
+    -72
+   ],
+   "radius": 3.6,
+   "sides": 3,
+   "wall": 11,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_2",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    85,
+    0,
+    11,
+    -36
+   ],
+   "radius": 3.6,
+   "sides": 3,
+   "wall": 11,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ]
+  },
+  {
+   "id": "chapelle_axiale",
+   "label": "Chapelle axiale (de la Vierge)",
+   "kind": "chapel",
+   "polar": [
+    85,
+    0,
+    11,
+    0
+   ],
+   "radius": 4.2,
+   "sides": 3,
+   "wall": 12,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ],
+   "note": "Cinq chapelles, chacune « à trois pans » et encadrée d'arcs-boutants (Geneawiki) ; chapelle de la Vierge citée par Wikipédia (peintures retrouvées en 1873). Taille supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_3",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    85,
+    0,
+    11,
+    36
+   ],
+   "radius": 3.6,
+   "sides": 3,
+   "wall": 11,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ]
+  },
+  {
+   "id": "chapelle_rayonnante_4",
+   "label": "Chapelle rayonnante",
+   "kind": "chapel",
+   "polar": [
+    85,
+    0,
+    11,
+    72
+   ],
+   "radius": 3.6,
+   "sides": 3,
+   "wall": 11,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki"
+   ]
+  },
+  {
+   "id": "tour_nord",
+   "label": "Tour nord (couronnement de 1507)",
+   "kind": "tower",
+   "x": [
+    0,
+    9
+   ],
+   "z": [
+    -14,
+    -5
+   ],
+   "height": 45,
+   "roof": {
+    "shape": "crown",
+    "drum_radius": 3.6,
+    "drum": 8.5,
+    "dome": 6.5,
+    "lantern_radius": 1.3,
+    "lantern": 4.5,
+    "lantern_dome": 2,
+    "material": "tuffeau"
+   },
+   "certainty": "probable",
+   "sources": [
+    "mortier1943",
+    "wp_fr",
+    "sat1934",
+    "soreau1784"
+   ],
+   "note": "68 m au total (Wikipédia ; 69 m selon la Wikipédia anglaise). Couronnement en trois étages : tambour octogonal, dôme octogonal, lanternon, avec massifs à pinacles aux angles (Mortier) ; date de 1507 gravée sous la clef du lanternon. Partage entre tour carrée et couronnement supposé."
+  },
+  {
+   "id": "tour_sud",
+   "label": "Tour sud (couronnement achevé en 1547)",
+   "kind": "tower",
+   "x": [
+    0,
+    8.6
+   ],
+   "z": [
+    5.2,
+    13.8
+   ],
+   "height": 47,
+   "roof": {
+    "shape": "crown",
+    "drum_radius": 3.4,
+    "drum": 8,
+    "dome": 6,
+    "lantern_radius": 1.3,
+    "lantern": 4.5,
+    "lantern_dome": 2,
+    "material": "tuffeau"
+   },
+   "certainty": "probable",
+   "sources": [
+    "mortier1943",
+    "wp_fr",
+    "sat1934",
+    "sat1911"
+   ],
+   "note": "69 m (Wikipédia ; 70 m selon la Wikipédia anglaise et Larousse). « légèrement plus étroite que la tour nord », même lanternon, dôme proportionné à la base plus étroite (Mortier). Écart d'environ 15 m entre les tours (mesure de 1934). Sonnerie sous le dôme (Bull. SAT 1911)."
+  },
+  {
+   "id": "portail_central",
+   "label": "Portail central",
+   "kind": "door",
+   "x": 0,
+   "z": 0,
+   "face": "-x",
+   "width": 4.5,
+   "height": 9.5,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Façade flamboyante à trois portails (achevés en 1484 selon la Wikipédia anglaise) ; dimensions supposées."
+  },
+  {
+   "id": "portail_nord",
+   "label": "Portail nord de la façade",
+   "kind": "door",
+   "x": 0,
+   "z": -9.5,
+   "face": "-x",
+   "width": 3,
+   "height": 7.5,
+   "certainty": "probable",
+   "sources": [
+    "wp_en"
+   ]
+  },
+  {
+   "id": "portail_sud",
+   "label": "Portail sud de la façade",
+   "kind": "door",
+   "x": 0,
+   "z": 9.5,
+   "face": "-x",
+   "width": 3,
+   "height": 7.5,
+   "certainty": "probable",
+   "sources": [
+    "wp_en"
+   ]
+  },
+  {
+   "id": "rose_facade",
+   "label": "Rose de la façade",
+   "kind": "rose",
+   "x": 0,
+   "z": 0,
+   "face": "-x",
+   "y": 22,
+   "radius": 4,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr",
+    "wp_en"
+   ],
+   "note": "Trois roses : façade et deux bras du transept (Wikipédia anglaise) ; vitraux de la façade du XVe siècle. Diamètre et hauteur supposés."
+  },
+  {
+   "id": "porte_transept_n",
+   "label": "Portail du bras nord du transept",
+   "kind": "door",
+   "x": 55.5,
+   "z": -23,
+   "face": "-z",
+   "width": 3.5,
+   "height": 8,
+   "certainty": "attested",
+   "sources": [
+    "cradock1785"
+   ],
+   "note": "« Au-dessus de chacune des entrées de côté, il y a de magnifiques rosaces » (Cradock) ; dimensions supposées."
+  },
+  {
+   "id": "rose_transept_n",
+   "label": "Rose du bras nord du transept",
+   "kind": "rose",
+   "x": 55.5,
+   "z": -23,
+   "face": "-z",
+   "y": 20,
+   "radius": 4.5,
+   "certainty": "attested",
+   "sources": [
+    "cradock1785",
+    "wp_en"
+   ],
+   "note": "Rose du début du XIVe siècle, inscrite dans une baie carrée (Wikipédia anglaise)."
+  },
+  {
+   "id": "porte_transept_s",
+   "label": "Portail du bras sud du transept",
+   "kind": "door",
+   "x": 55.5,
+   "z": 23,
+   "face": "+z",
+   "width": 3.5,
+   "height": 8,
+   "certainty": "attested",
+   "sources": [
+    "cradock1785"
+   ]
+  },
+  {
+   "id": "rose_transept_s",
+   "label": "Rose du bras sud du transept",
+   "kind": "rose",
+   "x": 55.5,
+   "z": 23,
+   "face": "+z",
+   "y": 20,
+   "radius": 4.5,
+   "certainty": "attested",
+   "sources": [
+    "cradock1785",
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "contreforts_transept_n",
+   "label": "Contreforts de la façade nord du transept",
+   "kind": "buttresses",
+   "x": [
+    52,
+    59
+   ],
+   "z": -23,
+   "face": "-z",
+   "depth": 2,
+   "width": 1.2,
+   "height": 24,
+   "spacing": 7,
+   "certainty": "probable",
+   "sources": [
+    "wp_en"
+   ],
+   "note": "Deux contreforts ajoutés pour soutenir le pignon nord après la pose de la rose (Wikipédia anglaise) ; position supposée."
+  },
+  {
+   "id": "vitraux_hauts_nef_n",
+   "label": "Fenêtres hautes de la nef, nord",
+   "kind": "windows",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": -5,
+   "face": "-z",
+   "y": [
+    19,
+    29
+   ],
+   "width": 2.6,
+   "spacing": 5.8,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Une baie par travée ; vitraux de la nef du XVe siècle (Wikipédia)."
+  },
+  {
+   "id": "vitraux_chapelles_n",
+   "label": "Fenêtres des chapelles de la nef, nord",
+   "kind": "windows",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": -14,
+   "face": "-z",
+   "y": [
+    2.5,
+    7.5
+   ],
+   "width": 2.2,
+   "spacing": 5.8,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "vitraux_choeur_n",
+   "label": "Fenêtres hautes du chœur, nord",
+   "kind": "windows",
+   "x": [
+    64,
+    82
+   ],
+   "z": -5,
+   "face": "-z",
+   "y": [
+    17,
+    29
+   ],
+   "width": 3,
+   "spacing": 6,
+   "certainty": "attested",
+   "sources": [
+    "larousse"
+   ],
+   "note": "Fenêtres hautes à vitraux de 1260-1270 (Larousse)."
+  },
+  {
+   "id": "vitraux_deambulatoire_n",
+   "label": "Fenêtres du déambulatoire, nord",
+   "kind": "windows",
+   "x": [
+    64,
+    82
+   ],
+   "z": -11,
+   "face": "-z",
+   "y": [
+    3,
+    10
+   ],
+   "width": 2.4,
+   "spacing": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "arcs_boutants_nef_n",
+   "label": "Arcs-boutants de la nef, nord",
+   "kind": "flyers",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": [
+    -14,
+    -5
+   ],
+   "y": [
+    13,
+    28
+   ],
+   "spacing": 5.8,
+   "width": 0.9,
+   "certainty": "probable",
+   "sources": [
+    "wp_en"
+   ],
+   "note": "« massive flying buttresses, capped with spires » (Wikipédia anglaise) ; une culée par travée, tracé supposé ; pinacles non figurés."
+  },
+  {
+   "id": "arcs_boutants_choeur_n",
+   "label": "Arcs-boutants du chœur, nord",
+   "kind": "flyers",
+   "x": [
+    64,
+    82
+   ],
+   "z": [
+    -11,
+    -5
+   ],
+   "y": [
+    13,
+    28
+   ],
+   "spacing": 6,
+   "width": 0.9,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki",
+    "wp_en"
+   ]
+  },
+  {
+   "id": "vitraux_hauts_nef_s",
+   "label": "Fenêtres hautes de la nef, sud",
+   "kind": "windows",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": 5,
+   "face": "+z",
+   "y": [
+    19,
+    29
+   ],
+   "width": 2.6,
+   "spacing": 5.8,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "vitraux_chapelles_s",
+   "label": "Fenêtres des chapelles de la nef, sud",
+   "kind": "windows",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": 14,
+   "face": "+z",
+   "y": [
+    2.5,
+    7.5
+   ],
+   "width": 2.2,
+   "spacing": 5.8,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "vitraux_choeur_s",
+   "label": "Fenêtres hautes du chœur, sud",
+   "kind": "windows",
+   "x": [
+    64,
+    82
+   ],
+   "z": 5,
+   "face": "+z",
+   "y": [
+    17,
+    29
+   ],
+   "width": 3,
+   "spacing": 6,
+   "certainty": "attested",
+   "sources": [
+    "larousse"
+   ]
+  },
+  {
+   "id": "vitraux_deambulatoire_s",
+   "label": "Fenêtres du déambulatoire, sud",
+   "kind": "windows",
+   "x": [
+    64,
+    82
+   ],
+   "z": 11,
+   "face": "+z",
+   "y": [
+    3,
+    10
+   ],
+   "width": 2.4,
+   "spacing": 6,
+   "certainty": "probable",
+   "sources": [
+    "wp_fr"
+   ]
+  },
+  {
+   "id": "arcs_boutants_nef_s",
+   "label": "Arcs-boutants de la nef, sud",
+   "kind": "flyers",
+   "x": [
+    12.5,
+    47.3
+   ],
+   "z": [
+    14,
+    5
+   ],
+   "y": [
+    13,
+    28
+   ],
+   "spacing": 5.8,
+   "width": 0.9,
+   "certainty": "probable",
+   "sources": [
+    "wp_en"
+   ]
+  },
+  {
+   "id": "arcs_boutants_choeur_s",
+   "label": "Arcs-boutants du chœur, sud",
+   "kind": "flyers",
+   "x": [
+    64,
+    82
+   ],
+   "z": [
+    11,
+    5
+   ],
+   "y": [
+    13,
+    28
+   ],
+   "spacing": 6,
+   "width": 0.9,
+   "certainty": "probable",
+   "sources": [
+    "geneawiki",
+    "wp_en"
+   ]
+  },
+  {
+   "id": "psalette",
+   "label": "Cloître de la Psalette",
+   "kind": "cloister",
+   "x": [
+    18,
+    46
+   ],
+   "z": [
+    -36,
+    -14
+   ],
+   "gallery": 4,
+   "wall": 7,
+   "roof": 2.5,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Au nord de la cathédrale, d'époque Renaissance (Wikipédia). Emplacement exact, dimensions et nombre de galeries supposés (le modèle en montre quatre)."
+  },
+  {
+   "id": "promeneur",
+   "label": "Silhouette à l'échelle (1,70 m)",
+   "kind": "figure",
+   "x": -6,
+   "z": 1.5,
+   "height": 1.7,
+   "material": "figure",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Repère d'échelle."
+  }
+ ]
+}

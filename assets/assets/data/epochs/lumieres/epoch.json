@@ -1,0 +1,26 @@
+{
+ "id": "lumieres",
+ "title": "Les Lumières",
+ "year": 1785,
+ "yearLabel": "septembre 1785",
+ "place": "Tours",
+ "summary": "La ville de la nouvelle rue Royale et du pont neuf, telle que la voit une voyageuse anglaise, Mme Cradock, du 15 au 17 septembre 1785. Saint-Martin, immense et vieillie, est encore debout ; l'hôtel de ville de la tête de pont s'achève.",
+ "palette": {
+  "ground": "#E9DFC8",
+  "water": "#94AEB5",
+  "waterEdge": "#64808C",
+  "land": "#DCD0AC",
+  "garden": "#B5C48F",
+  "street": "#F5EEDC",
+  "streetEdge": "#BCA986",
+  "stone": "#F1E8D3",
+  "stoneEdge": "#6E6455",
+  "worksite": "#DCCBA2",
+  "roof": "#8C939C",
+  "roofEdge": "#585F68",
+  "label": "#3A3530",
+  "player": "#6B3A2F",
+  "carriage": "#2F4A3A"
+ },
+ "carriage": "carrosse"
+}

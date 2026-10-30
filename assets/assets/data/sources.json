@@ -1,0 +1,201 @@
+{
+ "boylesve_cloque": {
+  "title": "Mademoiselle Cloque",
+  "author": "René Boylesve",
+  "year": "1899",
+  "publisher": "Éditions de la Revue blanche, Paris",
+  "url": "https://www.gutenberg.org/ebooks/18899",
+  "kind": "roman"
+ },
+ "carre_busserolle_plan_1891": {
+  "title": "Plan général de la ville de Tours",
+  "author": "Jacques-Xavier Carré de Busserolle",
+  "year": "1891",
+  "publisher": "P. Verneaux, Tours",
+  "url": "http://catalogue.bnf.fr/ark:/12148/cb407267563",
+  "kind": "plan"
+ },
+ "wp_basilique_saint_martin": {
+  "title": "Basilique Saint-Martin de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 27/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Martin_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_gare_de_tours": {
+  "title": "Gare de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 27/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Gare_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_histoire_de_tours": {
+  "title": "Histoire de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 27/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Histoire_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "inventaire_jardins_prebendes": {
+  "title": "Jardin des Prébendes d'Oé, Tours — inventaire des parcs et jardins",
+  "author": "Comité des Parcs et Jardins de France",
+  "year": "consulté le 27/10/2026",
+  "url": "https://europeangardens.eu/inventories/fr/inventaires/Centre-Val_de_Loire/Indre-et-Loire/FRIEJP_INVIndre-et-Loire.xml/ead/FRIEJP_INVIndre-et-Loire_J89.pdf",
+  "kind": "inventaire"
+ },
+ "casimir_chevalier_2025": {
+  "title": "Casimir Chevalier — exposition de la Bibliothèque d'Histoire de la Touraine",
+  "author": "Société archéologique de Touraine",
+  "year": "2025",
+  "url": "https://clemsciences.github.io/casimir_chevalier_2025/",
+  "kind": "exposition"
+ },
+ "wp_mademoiselle_cloque": {
+  "title": "Mademoiselle Cloque",
+  "author": "Wikipédia",
+  "year": "consulté le 27/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Mademoiselle_Cloque",
+  "kind": "encyclopédie"
+ },
+ "wp_papin_dupont": {
+  "title": "Léon Papin-Dupont",
+  "author": "Wikipédia",
+  "year": "consulté le 28/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/L%C3%A9on_Papin_Dupont",
+  "kind": "encyclopédie"
+ },
+ "wp_boylesve": {
+  "title": "René Boylesve",
+  "author": "Wikipédia",
+  "year": "consulté le 28/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve",
+  "kind": "encyclopédie"
+ },
+ "corpus_cloque": {
+  "title": "Mademoiselle Cloque — notes de lecture (personnages, lieux, frise)",
+  "author": "Projet « mademoiselle_cloque »",
+  "year": "2025",
+  "kind": "notes de recherche"
+ },
+ "sat_bulletin_1913": {
+  "title": "Bulletin de la Société archéologique de Touraine, t. XIX",
+  "author": "Société archéologique de Touraine",
+  "year": "1913",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54788783",
+  "kind": "revue savante"
+ },
+ "sat_memoires_1941": {
+  "title": "Mémoires de la Société archéologique de Touraine, t. XXVIII (procès-verbaux)",
+  "author": "Société archéologique de Touraine",
+  "year": "1941",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6551243j",
+  "kind": "revue savante"
+ },
+ "merimee_rue_nationale": {
+  "title": "Ensemble architectural de la rue Nationale reconstruite (notice ACR0001881)",
+  "author": "Ministère de la Culture, base Mérimée",
+  "year": "consulté le 28/10/2026",
+  "url": "https://pop.culture.gouv.fr/notice/merimee/ACR0001881",
+  "kind": "inventaire"
+ },
+ "cradock_journal": {
+  "title": "Journal de Madame Cradock. Voyage en France (1783-1786)",
+  "author": "Anna Francesca Cradock (trad. O. Delphin-Balleyguier)",
+  "year": "1896",
+  "publisher": "Perrin et Cie, Paris",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1028087",
+  "kind": "journal de voyage"
+ },
+ "soreau_1784": {
+  "title": "Voyage en Touraine en 1784 (manuscrit attribué à Soreau, éd. L. Bosseboeuf)",
+  "author": "Soreau",
+  "year": "1903",
+  "publisher": "Bulletin de la Société archéologique de Touraine",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57743479",
+  "kind": "récit de voyage"
+ },
+ "sat_bulletin_1886": {
+  "title": "Bulletin de la Société archéologique de Touraine",
+  "author": "Société archéologique de Touraine",
+  "year": "1886",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5487279d",
+  "kind": "revue savante"
+ },
+ "cradock_map_2025": {
+  "title": "Le voyage de Mme Cradock en Touraine",
+  "author": "Société archéologique de Touraine",
+  "year": "2025",
+  "url": "https://clemsciences.github.io/cradock_map/",
+  "kind": "exposition"
+ },
+ "wp_collegiale_saint_martin": {
+  "title": "Collégiale Saint-Martin de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 28/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Collégiale_Saint-Martin_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "sat_bulletin_1883": {
+  "title": "Bulletin de la Société archéologique de Touraine, t. VI",
+  "author": "Société archéologique de Touraine",
+  "year": "1883",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5487404c",
+  "kind": "revue savante"
+ },
+ "sat_bulletin_1939": {
+  "title": "Bulletin de la Société archéologique de Touraine, t. XXVII",
+  "author": "Société archéologique de Touraine",
+  "year": "1939",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65623637",
+  "kind": "revue savante"
+ },
+ "gregoire_histoires": {
+  "title": "Histoires (Histoire des Francs), trad. F. Guizot",
+  "author": "Grégoire de Tours",
+  "year": "vers 591 ; traduction de 1823",
+  "publisher": "texte de Wikisource",
+  "url": "https://fr.wikisource.org/wiki/Histoires_(Gr%C3%A9goire_de_Tours)",
+  "kind": "chronique"
+ },
+ "james_little_tour": {
+  "title": "A Little Tour in France",
+  "author": "Henry James",
+  "year": "1884",
+  "url": "https://en.wikisource.org/wiki/A_Little_Tour_In_France",
+  "kind": "récit de voyage"
+ },
+ "balzac_cure_de_tours": {
+  "title": "Le Curé de Tours",
+  "author": "Honoré de Balzac",
+  "year": "1832",
+  "publisher": "texte validé de Wikisource",
+  "url": "https://fr.wikisource.org/wiki/Le_Cur%C3%A9_de_Tours",
+  "kind": "roman"
+ },
+ "base_merimee": {
+  "title": "Base Mérimée, immeubles protégés au titre des Monuments historiques (open data, Licence Ouverte 2.0)",
+  "author": "Ministère de la Culture",
+  "year": "consulté le 29/10/2026",
+  "url": "https://www.data.gouv.fr/datasets/5af120e5b595087cfabcde81",
+  "kind": "inventaire"
+ },
+ "wikidata": {
+  "title": "Wikidata, éléments situés à Tours (CC0)",
+  "author": "Wikidata",
+  "year": "consulté le 29/10/2026",
+  "url": "https://www.wikidata.org/wiki/Q288",
+  "kind": "base de connaissances"
+ },
+ "mame_laissez_vous_conter": {
+  "title": "Laissez-vous conter les Mame à Tours",
+  "author": "Ville de Tours, service Ville d'art et d'histoire",
+  "year": "2013",
+  "url": "https://www.tours.fr/app/uploads/2023/05/Laissez-vous-conter-les-Mame.pdf",
+  "kind": "brochure"
+ }
+}

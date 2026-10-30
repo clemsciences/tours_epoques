@@ -1,0 +1,10 @@
+{
+ "landmarks": [
+  {"layer": "collegiale_saint_martin", "dialogue": "lieu_collegiale"},
+  {"layer": "tour_charlemagne", "dialogue": "lieu_tour_charlemagne"},
+  {"layer": "cathedrale", "dialogue": "lieu_cathedrale"},
+  {"layer": "archeveche", "dialogue": "lieu_archeveche18"},
+  {"layer": "hotel_de_ville_chantier", "dialogue": "lieu_hotel_de_ville_chantier"},
+  {"layer": "pavillon_est_chantier", "dialogue": "lieu_hotel_de_ville_chantier"}
+ ]
+}

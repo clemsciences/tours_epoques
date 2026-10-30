@@ -1,0 +1,28 @@
+{
+ "landmarks": [
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale_auj"
+  },
+  {
+   "layer": "tour_charlemagne",
+   "dialogue": "lieu_tours_auj"
+  },
+  {
+   "layer": "tour_horloge",
+   "dialogue": "lieu_tours_auj"
+  },
+  {
+   "layer": "basilique",
+   "dialogue": "lieu_basilique_auj"
+  },
+  {
+   "layer": "gare",
+   "dialogue": "lieu_gare_auj"
+  },
+  {
+   "layer": "musee_beaux_arts",
+   "dialogue": "lieu_musee_auj"
+  }
+ ]
+}

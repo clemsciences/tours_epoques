@@ -1,0 +1,69 @@
+{
+ "npcs": [
+  {
+   "id": "mme_cradock",
+   "name": "Mme Cradock",
+   "role": "Voyageuse anglaise, descendue au Faisan",
+   "position": [
+    47.39505,
+    0.68681
+   ],
+   "color": "#4E6A7A",
+   "dialogue": "cradock_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Anna Francesca Cradock, à Tours du 15 au 17 septembre 1785 avec son mari. Ses répliques sont des citations de son journal (traduction de 1896) ; seules les transitions sont reconstituées."
+  },
+  {
+   "id": "guide_cathedrale",
+   "name": "Le guide de la cathédrale",
+   "role": "Propose ses services aux visiteurs",
+   "position": [
+    47.39555,
+    0.69365
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "guide_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inspiré du guide que décrit Mme Cradock (journal, 15 septembre 1785)."
+  },
+  {
+   "id": "chanoine",
+   "name": "Un chanoine de Saint-Martin",
+   "role": "Membre du chapitre de la collégiale",
+   "position": [
+    47.39275,
+    0.6817
+   ],
+   "color": "#2E2A3A",
+   "dialogue": "chanoine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé ; les faits qu'il rapporte sont sourcés."
+  },
+  {
+   "id": "tailleur_hotel_de_ville",
+   "name": "Un tailleur de pierre",
+   "role": "Ouvrier du chantier de l'hôtel de ville",
+   "position": [
+    47.39612,
+    0.68632
+   ],
+   "color": "#8C7B5E",
+   "dialogue": "tailleur18_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé ; les faits qu'il rapporte sont sourcés."
+  },
+  {
+   "id": "marinier",
+   "name": "Un marinier de Loire",
+   "role": "Au pied du pont neuf",
+   "position": [
+    47.397,
+    0.6856
+   ],
+   "color": "#3D5566",
+   "dialogue": "marinier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme inventé ; il rapporte la description du pont par Soreau (1784)."
+  }
+ ]
+}
