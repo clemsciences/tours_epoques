@@ -1,6 +1,208 @@
 {
  "about": "Photos des monuments datés : élément Wikidata (P18), fichiers de Wikimedia Commons sous licence libre ; auteur et licence à afficher avec chaque photo. Généré par tools/heritage/fetch_photos.py.",
  "photos": {
+  "PA00097557": {
+   "asset": "assets/images/heritage/PA00097557.jpg",
+   "file": "Château de la Rochefuret.jpg",
+   "author": "Novarag",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_la_Rochefuret.jpg"
+  },
+  "PA00097558": {
+   "asset": "assets/images/heritage/PA00097558.jpg",
+   "file": "Eglise de Ballan-Mire.jpg",
+   "author": "The original uploader was Céréales Killer at French Wikipedia.",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "year": 2005,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_de_Ballan-Mire.jpg"
+  },
+  "PA00097758": {
+   "asset": "assets/images/heritage/PA00097758.jpg",
+   "file": "Manoir des Hamardières.jpg",
+   "author": "Anonyme. Ancienne photo du Manoir des Hamardières.",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_des_Hamardi%C3%A8res.jpg"
+  },
+  "PA00097759": {
+   "asset": "assets/images/heritage/PA00097759.jpg",
+   "file": "Manoir du Thouadé.jpg",
+   "author": "Anonyme. Extrait d'une ancienne photo du manoir du Thouadé.",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_du_Thouad%C3%A9.jpg"
+  },
+  "PA00097760": {
+   "asset": "assets/images/heritage/PA00097760.jpg",
+   "file": "Lavaré971.JPG",
+   "author": "Yricordel",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2015,
+   "page": "https://commons.wikimedia.org/wiki/File:Lavar%C3%A9971.JPG"
+  },
+  "PA00097787": {
+   "asset": "assets/images/heritage/PA00097787.jpg",
+   "file": "Chateau beaulieu.jpg",
+   "author": "DeakyEnTouraine",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2021,
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_beaulieu.jpg"
+  },
+  "PA00097790": {
+   "asset": "assets/images/heritage/PA00097790.jpg",
+   "file": "9, rue de Chérizy, Joué-les-Tours.jpg",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:9,_rue_de_Ch%C3%A9rizy,_Jou%C3%A9-les-Tours.jpg"
+  },
+  "PA00097793": {
+   "asset": "assets/images/heritage/PA00097793.jpg",
+   "file": "Joué-lès-Tours - Arche du Pin.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "year": 1900,
+   "page": "https://commons.wikimedia.org/wiki/File:Jou%C3%A9-l%C3%A8s-Tours_-_Arche_du_Pin.jpg"
+  },
+  "PA00097905": {
+   "asset": "assets/images/heritage/PA00097905.jpg",
+   "file": "Porte meslay.jpg",
+   "author": "Lanfeust",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2014,
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_meslay.jpg"
+  },
+  "PA00097942": {
+   "asset": "assets/images/heritage/PA00097942.jpg",
+   "file": "Chateau du plessis-lès-tours.JPG",
+   "author": "Yannick Bonnet (yannick.bonnet@laposte.net)",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "year": 2006,
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_du_plessis-l%C3%A8s-tours.JPG"
+  },
+  "PA00097944": {
+   "asset": "assets/images/heritage/PA00097944.jpg",
+   "file": "Prieuré de Saint-Cosme 3.JPG",
+   "author": "Duch.seb",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_de_Saint-Cosme_3.JPG"
+  },
+  "PA00098042": {
+   "asset": "assets/images/heritage/PA00098042.jpg",
+   "file": "Rochecorbon Vaufoynard.jpg",
+   "author": "Carte postale début XXe.",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2020,
+   "page": "https://commons.wikimedia.org/wiki/File:Rochecorbon_Vaufoynard.jpg"
+  },
+  "PA00098043": {
+   "asset": "assets/images/heritage/PA00098043.jpg",
+   "file": "Rochecorbon Vaufoynard.jpg",
+   "author": "Carte postale début XXe.",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2020,
+   "page": "https://commons.wikimedia.org/wiki/File:Rochecorbon_Vaufoynard.jpg"
+  },
+  "PA00098044": {
+   "asset": "assets/images/heritage/PA00098044.jpg",
+   "file": "Rochecorbon - Église Notre-Dame.jpg",
+   "author": "Benjamin Smith",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2025,
+   "page": "https://commons.wikimedia.org/wiki/File:Rochecorbon_-_%C3%89glise_Notre-Dame.jpg"
+  },
+  "PA00098045": {
+   "asset": "assets/images/heritage/PA00098045.jpg",
+   "file": "Eglise - Ensemble ouest - Rochecorbon - Médiathèque de l'architecture et du patrimoine - APMH00002383.jpg",
+   "author": "Séraphin-Médéric Mieusement",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 1888,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_-_Ensemble_ouest_-_Rochecorbon_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00002383.jpg"
+  },
+  "PA00098046": {
+   "asset": "assets/images/heritage/PA00098046.jpg",
+   "file": "Manoir des Basses-Rivières.jpg",
+   "author": "Beauceron28",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2023,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_des_Basses-Rivi%C3%A8res.jpg"
+  },
+  "PA00098047": {
+   "asset": "assets/images/heritage/PA00098047.jpg",
+   "file": "Rochecorbon - Touvoie.jpg",
+   "author": "André Boucher († 1933)",
+   "license": "Public domain",
+   "year": 1920,
+   "page": "https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Touvoie.jpg"
+  },
+  "PA00098058": {
+   "asset": "assets/images/heritage/PA00098058.jpg",
+   "file": "Manoir de la Grand'Cour.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_de_la_Grand%27Cour.JPG"
+  },
+  "PA00098059": {
+   "asset": "assets/images/heritage/PA00098059.jpg",
+   "file": "Manoir de la Sagerie.jpg",
+   "author": "User:ManuD",
+   "license": "CC BY-SA 1.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_de_la_Sagerie.jpg"
+  },
+  "PA00098060": {
+   "asset": "assets/images/heritage/PA00098060.jpg",
+   "file": "Manoir de la Singerie.JPG",
+   "author": "ManuD",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2013,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_de_la_Singerie.JPG"
+  },
+  "PA00098069": {
+   "asset": "assets/images/heritage/PA00098069.jpg",
+   "file": "Manoir de La Gruette Maisons-Blanches Saint-Cyr-sur-Loire 1855 3.png",
+   "author": "Anonyme, 1855",
+   "license": "Public domain",
+   "year": 2019,
+   "page": "https://commons.wikimedia.org/wiki/File:Manoir_de_La_Gruette_Maisons-Blanches_Saint-Cyr-sur-Loire_1855_3.png"
+  },
+  "PA00098070": {
+   "asset": "assets/images/heritage/PA00098070.jpg",
+   "file": "La Béchellerie (Saint-Cyr-sur-Loire).jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:La_B%C3%A9chellerie_(Saint-Cyr-sur-Loire).jpg"
+  },
+  "PA00098101": {
+   "asset": "assets/images/heritage/PA00098101.jpg",
+   "file": "Château Pilorget.jpg",
+   "author": "Joël Thibault",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2016,
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Pilorget.jpg"
+  },
   "PA00098128": {
    "asset": "assets/images/heritage/PA00098128.jpg",
    "file": "Abbaye Beaumont 01.jpg",
@@ -1122,6 +1324,15 @@
    "year": 1912,
    "page": "https://commons.wikimedia.org/wiki/File:Tour_Foubert_Tours.jpg"
   },
+  "PA00098289": {
+   "asset": "assets/images/heritage/PA00098289.jpg",
+   "file": "Église paroissiale Notre-Dame de La Ville-aux-Dames.jpg",
+   "author": "Charlock",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2011,
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%89glise_paroissiale_Notre-Dame_de_La_Ville-aux-Dames.jpg"
+  },
   "PA00098306": {
    "asset": "assets/images/heritage/PA00098306.jpg",
    "file": "Tours - mur carolingien.jpg",
@@ -1138,6 +1349,23 @@
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
    "year": 2014,
    "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4pital_Bretonneau_2.JPG"
+  },
+  "PA00125367": {
+   "asset": "assets/images/heritage/PA00125367.jpg",
+   "file": "Niv-2-couvent-des-minimes 11 14 2014.jpg",
+   "author": "https://icalabresi.it/cultura/san-francesco-di-paola-il-grande-onomastico-della-calabria/",
+   "license": "Public domain",
+   "year": 2021,
+   "page": "https://commons.wikimedia.org/wiki/File:Niv-2-couvent-des-minimes_11_14_2014.jpg"
+  },
+  "PA00132563": {
+   "asset": "assets/images/heritage/PA00132563.jpg",
+   "file": "Église Saint-Pierre de Parcay-Meslay 01.jpg",
+   "author": "Duch",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Pierre_de_Parcay-Meslay_01.jpg"
   },
   "PA00132565": {
    "asset": "assets/images/heritage/PA00132565.jpg",
@@ -1156,6 +1384,15 @@
    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
    "year": 2012,
    "page": "https://commons.wikimedia.org/wiki/File:Synagogue_de_Tours.JPG"
+  },
+  "PA00135296": {
+   "asset": "assets/images/heritage/PA00135296.jpg",
+   "file": "Eglise Saint-Symphorien Fondettes.JPG",
+   "author": "Savmickael",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "year": 2012,
+   "page": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Symphorien_Fondettes.JPG"
   },
   "PA37000002": {
    "asset": "assets/images/heritage/PA37000002.jpg",
@@ -1191,6 +1428,39 @@
    "license": "Public domain",
    "year": 2006,
    "page": "https://commons.wikimedia.org/wiki/File:Jardin_des_prebendes_-_Statue_Ronsard.JPG"
+  },
+  "PA37000016": {
+   "asset": "assets/images/heritage/PA37000016.jpg",
+   "file": "Colonie Metttray.jpg",
+   "author": "Sauve & Faivre",
+   "license": "Public domain",
+   "year": 2009,
+   "page": "https://commons.wikimedia.org/wiki/File:Colonie_Metttray.jpg"
+  },
+  "PA37000019": {
+   "asset": "assets/images/heritage/PA37000019.jpg",
+   "file": "Grand moulin de Ballan 1.jpg",
+   "author": "Duch",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_moulin_de_Ballan_1.jpg"
+  },
+  "PA37000020": {
+   "asset": "assets/images/heritage/PA37000020.jpg",
+   "file": "Logis seigneurial de Parçay 01.jpg",
+   "author": "Duch",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "year": 2017,
+   "page": "https://commons.wikimedia.org/wiki/File:Logis_seigneurial_de_Par%C3%A7ay_01.jpg"
+  },
+  "PA37000033": {
+   "asset": "assets/images/heritage/PA37000033.jpg",
+   "file": "Château du Petit-Bois (Colonie de Mettray).png",
+   "author": "Clarey-Martineau",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_du_Petit-Bois_(Colonie_de_Mettray).png"
   },
   "PA37000051": {
    "asset": "assets/images/heritage/PA37000051.jpg",
