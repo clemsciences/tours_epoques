@@ -2,31 +2,38 @@
  "landmarks": [
   {
    "layer": "basilique_chantier",
-   "dialogue": "lieu_basilique"
+   "dialogue": "lieu_basilique",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Basilique_Saint-Martin_de_Tours"
   },
   {
    "layer": "tour_charlemagne",
-   "dialogue": "lieu_tours"
+   "dialogue": "lieu_tours",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_Charlemagne"
   },
   {
    "layer": "tour_horloge",
-   "dialogue": "lieu_tours"
+   "dialogue": "lieu_tours",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_de_l'Horloge_(Tours)"
   },
   {
    "layer": "embarcadere",
-   "dialogue": "lieu_embarcadere"
+   "dialogue": "lieu_embarcadere",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Gare_de_Tours"
   },
   {
    "layer": "archeveche",
-   "dialogue": "lieu_archeveche"
+   "dialogue": "lieu_archeveche",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Tours"
   },
   {
    "layer": "halles",
-   "dialogue": "lieu_halles"
+   "dialogue": "lieu_halles",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Halles_de_Tours"
   },
   {
    "layer": "prebendes",
-   "dialogue": "lieu_prebendes"
+   "dialogue": "lieu_prebendes",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Jardin_des_Pr%C3%A9bendes_d'O%C3%A9"
   },
   {
    "layer": "hotel_de_ville",
@@ -38,7 +45,8 @@
   },
   {
    "layer": "imprimerie_mame",
-   "dialogue": "lieu_imprimerie_mame"
+   "dialogue": "lieu_imprimerie_mame",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Imprimerie_Mame"
   }
  ]
 }

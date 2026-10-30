@@ -2,27 +2,33 @@
  "landmarks": [
   {
    "layer": "cathedrale",
-   "dialogue": "lieu_cathedrale_auj"
+   "dialogue": "lieu_cathedrale_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
   },
   {
    "layer": "tour_charlemagne",
-   "dialogue": "lieu_tours_auj"
+   "dialogue": "lieu_tours_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_Charlemagne"
   },
   {
    "layer": "tour_horloge",
-   "dialogue": "lieu_tours_auj"
+   "dialogue": "lieu_tours_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_de_l'Horloge_(Tours)"
   },
   {
    "layer": "basilique",
-   "dialogue": "lieu_basilique_auj"
+   "dialogue": "lieu_basilique_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Basilique_Saint-Martin_de_Tours"
   },
   {
    "layer": "gare",
-   "dialogue": "lieu_gare_auj"
+   "dialogue": "lieu_gare_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Gare_de_Tours"
   },
   {
    "layer": "musee_beaux_arts",
-   "dialogue": "lieu_musee_auj"
+   "dialogue": "lieu_musee_auj",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Tours"
   }
  ]
 }

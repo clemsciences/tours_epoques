@@ -1,10 +1,32 @@
 {
  "landmarks": [
-  {"layer": "collegiale_saint_martin", "dialogue": "lieu_collegiale"},
-  {"layer": "tour_charlemagne", "dialogue": "lieu_tour_charlemagne"},
-  {"layer": "cathedrale", "dialogue": "lieu_cathedrale"},
-  {"layer": "archeveche", "dialogue": "lieu_archeveche18"},
-  {"layer": "hotel_de_ville_chantier", "dialogue": "lieu_hotel_de_ville_chantier"},
-  {"layer": "pavillon_est_chantier", "dialogue": "lieu_hotel_de_ville_chantier"}
+  {
+   "layer": "collegiale_saint_martin",
+   "dialogue": "lieu_collegiale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Basilique_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "tour_charlemagne",
+   "dialogue": "lieu_tour_charlemagne",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_Charlemagne"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "archeveche",
+   "dialogue": "lieu_archeveche18",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Tours"
+  },
+  {
+   "layer": "hotel_de_ville_chantier",
+   "dialogue": "lieu_hotel_de_ville_chantier"
+  },
+  {
+   "layer": "pavillon_est_chantier",
+   "dialogue": "lieu_hotel_de_ville_chantier"
+  }
  ]
 }
