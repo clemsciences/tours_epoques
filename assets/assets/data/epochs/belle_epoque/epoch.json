@@ -1,0 +1,26 @@
+{
+ "id": "belle_epoque",
+ "title": "À la veille de la Grande Guerre",
+ "year": 1914,
+ "yearLabel": "1914",
+ "place": "Tours",
+ "summary": "Tours au printemps 1914 : la gare et l'hôtel de ville de Victor Laloux sont neufs, la nouvelle église Saint-Martin est achevée, le tramway électrique dessert les faubourgs. La carte rassemble les bâtiments construits avant 1914 d'après leur année de construction (BDNB) et les monuments datés de toute la ville.",
+ "palette": {
+  "ground": "#E3DDCB",
+  "water": "#8DA8B6",
+  "waterEdge": "#5E7C8C",
+  "land": "#D7CFB0",
+  "garden": "#A3BA8A",
+  "street": "#F1ECE1",
+  "streetEdge": "#A9A08C",
+  "stone": "#EEE7D8",
+  "stoneEdge": "#5F584D",
+  "worksite": "#D8C7A0",
+  "roof": "#8E959C",
+  "roofEdge": "#545B63",
+  "label": "#33302C",
+  "player": "#3B4F6B",
+  "carriage": "#2B2F3A"
+ },
+ "carriage": "fiacre"
+}

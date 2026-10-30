@@ -1,0 +1,52 @@
+{
+ "landmarks": [
+  {
+   "layer": "gare",
+   "dialogue": "lieu_gare",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Gare_de_Tours"
+  },
+  {
+   "layer": "hotel_de_ville",
+   "dialogue": "lieu_hotel_de_ville",
+   "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Tours"
+  },
+  {
+   "layer": "basilique",
+   "dialogue": "lieu_basilique",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Basilique_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "musee_beaux_arts",
+   "dialogue": "lieu_musee",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Tours"
+  },
+  {
+   "layer": "bibliotheque",
+   "dialogue": "lieu_bibliotheque"
+  },
+  {
+   "layer": "ancien_musee",
+   "dialogue": "lieu_ancien_musee"
+  },
+  {
+   "layer": "halles",
+   "dialogue": "lieu_halles",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Halles_de_Tours"
+  },
+  {
+   "layer": "imprimerie_mame",
+   "dialogue": "lieu_imprimerie_mame",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Imprimerie_Mame"
+  },
+  {
+   "layer": "tour_charlemagne",
+   "dialogue": "lieu_tour_charlemagne",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Tour_Charlemagne"
+  },
+  {
+   "layer": "prebendes",
+   "dialogue": "lieu_prebendes",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Jardin_des_Pr%C3%A9bendes_d'O%C3%A9"
+  }
+ ]
+}

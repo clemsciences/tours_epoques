@@ -11,6 +11,7 @@
   {"id": "renaissance", "title": "La Renaissance", "yearLabel": "vers 1520", "playable": false},
   {"id": "lumieres", "title": "Les Lumières", "yearLabel": "1785", "playable": true},
   {"id": "revolution", "title": "La Révolution", "yearLabel": "1793", "playable": false},
-  {"id": "xixe", "title": "Le XIXe siècle", "yearLabel": "vers 1890", "playable": true}
+  {"id": "xixe", "title": "Le XIXe siècle", "yearLabel": "vers 1890", "playable": true},
+  {"id": "belle_epoque", "title": "À la veille de la Grande Guerre", "yearLabel": "1914", "playable": true}
  ]
 }

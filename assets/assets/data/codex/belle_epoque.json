@@ -1,0 +1,134 @@
+{
+ "epoch": "belle_epoque",
+ "entries": [
+  {
+   "id": "codex.belle_epoque.gare_laloux",
+   "title": "La gare de Laloux",
+   "theme": "lieux",
+   "text": "La gare actuelle est construite de 1896 à 1898 par le Tourangeau Victor Laloux, qui dessine aussi la gare d'Orsay à Paris (1900). Elle remplace l'Embarcadère de 1846. Panneaux de faïence d'Eugène Martial Simas.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_gare_de_tours"
+    },
+    {
+     "id": "wp_victor_laloux"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.hotel_de_ville_laloux",
+   "title": "L'hôtel de ville de Laloux",
+   "theme": "lieux",
+   "text": "Construit de 1896 à 1904 au bout de la rue Nationale, « destiné à refléter les vertus républicaines et l'autorité municipale ». Sculptures de François Sicard, Émile Carlier, Jean-Antoine Injalbert ; triptyque de Jean-Paul Laurens sur Jeanne d'Arc. L'ancien hôtel de ville, à la tête du pont, devient la bibliothèque.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_hotel_de_ville_tours"
+    },
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.saint_martin_achevee",
+   "title": "Saint-Martin achevée",
+   "theme": "evenements",
+   "text": "La nouvelle église de Laloux, commencée en 1886 et inaugurée en 1890, est achevée en 1902 et ouverte au culte en 1903. La consécration comme basilique viendra en 1925. La tour Charlemagne, reste de l'ancienne collégiale, s'effondrera à moitié en 1928.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.musee_archeveche",
+   "title": "Le musée dans l'archevêché",
+   "theme": "lieux",
+   "text": "Après la séparation des Églises et de l'État (1905), la ville devient propriétaire de l'ancien palais archiépiscopal en 1910 et y installe le musée. Le bâtiment de la tête du pont devient « l'ancien musée ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_musee_beaux_arts_tours"
+    },
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.tete_de_pont",
+   "title": "La tête du pont en 1914",
+   "theme": "lieux",
+   "text": "À l'entrée de la rue Nationale, deux bâtiments se font face : à l'ouest, l'ancien hôtel de ville (1777–1786), devenu bibliothèque ; à l'est, l'ancien musée (1828). Tous deux brûleront en juin 1940.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    },
+    {
+     "id": "wp_histoire_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.tramway",
+   "title": "Le tramway électrique",
+   "theme": "vie_quotidienne",
+   "text": "Le tramway à chevaux de 1877 est repris en 1898 par la Compagnie des tramways de Tours, qui l'électrifie à partir de 1900. Le réseau atteint sa plus grande longueur en 1911 ; la vapeur disparaît des lignes de banlieue en 1912, les plots Diatto (courant par le sol) en 1914. Dans le jeu, seules la ligne A et la ligne de Vouvray sont tracées, sur des itinéraires supposés.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_ancien_tramway_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.halles",
+   "title": "Les halles de fer",
+   "theme": "lieux",
+   "text": "Inaugurées le 15 août 1866 sur la place d'Aumont, sur le modèle des halles de Paris, les halles de Gustave Guérin sont agrandies vers le nord à partir de 1883, au prix de l'église Saint-Clément. Elles sont démolies en 1976.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_halles_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.garnison",
+   "title": "Une ville de garnison",
+   "theme": "vie_quotidienne",
+   "text": "Le 66e régiment d'infanterie a son champ de tir à Parçay-Meslay. En 1915, l'aviation en prendra possession pour en faire un terrain d'aviation : c'est l'origine de la base aérienne.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_histoire_de_tours"
+    },
+    {
+     "id": "wp_base_aerienne_705"
+    }
+   ]
+  },
+  {
+   "id": "codex.belle_epoque.carte_1914",
+   "title": "Comment cette carte est faite",
+   "theme": "lieux",
+   "text": "Il n'y a pas encore de plan de 1914 calé pour le jeu. Les bâtiments sont ceux d'aujourd'hui qui datent d'avant 1914 selon la Base de données nationale des bâtiments (années souvent arrondies), et les rues celles que bordent ces bâtiments ou que montre la carte d'état-major. Les quartiers détruits en 1940 restent vides. Les repères carrés situent les monuments historiques (bleu) et les édifices de l'Inventaire général (brun).",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "bdnb"
+    },
+    {
+     "id": "inventaire_cvl"
+    }
+   ]
+  }
+ ]
+}

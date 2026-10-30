@@ -1,0 +1,271 @@
+{
+ "lieu_gare": {
+  "speaker": "gare",
+  "text": "La gare de Victor Laloux, bâtie de 1896 à 1898 à la place de l'Embarcadère de 1846. Ses panneaux de faïence peinte sont d'Eugène Martial Simas. Elle est en impasse : les trains de Paris à Bordeaux passent par Saint-Pierre-des-Corps, d'où un raccordement mène ici.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_gare_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.gare_laloux"
+  ]
+ },
+ "lieu_hotel_de_ville": {
+  "speaker": "hotel_de_ville",
+  "text": "Le nouvel hôtel de ville, bâti de 1896 à 1904 par Victor Laloux au bout de la rue Nationale, face au palais de justice. Sur la façade, quatre atlantes de François Sicard, et les figures couchées de la Loire et du Cher, de Jean-Antoine Injalbert. Dans la salle du conseil, un triptyque de Jean-Paul Laurens sur la vie de Jeanne d'Arc (1901–1903). Le décor a coûté le quart du prix de l'édifice.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_hotel_de_ville_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.hotel_de_ville_laloux"
+  ]
+ },
+ "lieu_basilique": {
+  "speaker": "basilique",
+  "text": "La nouvelle église Saint-Martin, de Victor Laloux, bâtie au-dessus du tombeau retrouvé en 1860 : commencée en 1886, inaugurée en 1890, elle est achevée en 1902 et ouverte au culte l'année suivante. Elle ne sera consacrée basilique qu'en 1925. Perpendiculaire à l'ancienne collégiale, elle n'occupe que l'emplacement de son chevet.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.saint_martin_achevee"
+  ]
+ },
+ "lieu_musee": {
+  "speaker": "musee_beaux_arts",
+  "text": "L'ancien palais des archevêques. Depuis 1910, la ville en est propriétaire et y a installé les collections du musée, qui étaient jusque-là à la tête du pont.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_musee_beaux_arts_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.musee_archeveche"
+  ]
+ },
+ "lieu_bibliotheque": {
+  "speaker": "bibliotheque",
+  "text": "L'ancien hôtel de ville, à l'entrée de la rue Nationale, du côté ouest de la tête du pont, bâti de 1777 à 1786. Depuis que la mairie s'est installée dans l'hôtel de ville de Laloux, il abrite la bibliothèque municipale. Il brûlera en juin 1940 avec une grande partie des collections. Emprise dessinée approximativement.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "wp_histoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.tete_de_pont"
+  ],
+  "quotes": [
+   {
+    "text": "la bibliothèque, précédemment l'hôtel de ville, qui fut construit de 1777 à 1786",
+    "source": {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   }
+  ]
+ },
+ "lieu_ancien_musee": {
+  "speaker": "ancien_musee",
+  "text": "En pendant de l'ancien hôtel de ville, du côté est de la tête du pont : le bâtiment du musée, achevé en 1827. Les collections sont parties en 1910 pour l'ancien archevêché. Emprise dessinée approximativement.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   },
+   {
+    "id": "wp_musee_beaux_arts_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.tete_de_pont"
+  ],
+  "quotes": [
+   {
+    "text": "l'ancien musée, construit seulement en 1828, pour faire pendant au bâtiment de l'hôtel de ville",
+    "source": {
+     "id": "sat_bulletin_1913",
+     "loc": "p. 138"
+    }
+   }
+  ]
+ },
+ "lieu_halles": {
+  "speaker": "halles",
+  "text": "Les halles de Gustave Guérin, pavillons de fer sur le modèle des halles de Paris, inaugurées le 15 août 1866 place d'Aumont. Agrandies vers le nord à partir de 1883, elles ont fait disparaître l'église Saint-Clément. Elles seront démolies en 1976. Leur forme est ici celle des halles actuelles, au même endroit.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_halles_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.halles"
+  ]
+ },
+ "lieu_imprimerie_mame": {
+  "speaker": "imprimerie_mame",
+  "text": "L'imprimerie Mame, entre les rues des Halles, Marceau et Néricault-Destouches, presque jusqu'à la rue Nationale : un quadrilatère de 2,5 hectares. Elle brûlera en juin 1940. Disposition des bâtiments supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "mame_laissez_vous_conter",
+    "loc": "p. 6"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.carte_1914"
+  ]
+ },
+ "lieu_tour_charlemagne": {
+  "speaker": "tour_charlemagne",
+  "text": "Avec la tour de l'Horloge, l'un des deux restes de la collégiale Saint-Martin, démolie au début du XIXe siècle. En 1914, elle est encore entière : elle s'effondrera à moitié en 1928.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": []
+ },
+ "lieu_prebendes": {
+  "speaker": "prebendes",
+  "text": "Le jardin des Prébendes d'Oé, jardin public dessiné vers 1872 par les frères Bühler sur d'anciens terrains maraîchers achetés par la ville.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "inventaire_jardins_prebendes"
+   }
+  ],
+  "unlocks": []
+ },
+ "wattman_intro": {
+  "speaker": "wattman",
+  "text": "Montez, montez ! La ligne A va de la barrière de Vouvray, au bout du pont de fil, jusqu'à la barrière de Grammont, au pont sur le Cher. Plus de chevaux depuis longtemps : tout le réseau est électrique.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_ancien_tramway_tours"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Depuis quand le tramway est-il électrique ?",
+    "next": "wattman_electrique"
+   },
+   {
+    "label": "Peut-on aller à Vouvray ?",
+    "next": "wattman_vouvray"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.tramway"
+  ]
+ },
+ "wattman_electrique": {
+  "speaker": "wattman",
+  "text": "La Compagnie des tramways de Tours a repris le réseau en 1898. En 1900 et 1901, on a refait toutes les voies à l'écartement métrique, et l'électricité a remplacé les chevaux et la vapeur. Rue Nationale, le courant venait du sol, par des plots : le système Diatto. Délicat, et parfois dangereux ! On l'enlève partout cette année, au profit du fil aérien.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_ancien_tramway_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.tramway"
+  ]
+ },
+ "wattman_vouvray": {
+  "speaker": "wattman",
+  "text": "Prenez la ligne de Vouvray, depuis l'ancienne place de l'Hôtel-de-Ville : elle longe la Loire par Marmoutier et Rochecorbon. Le dimanche, c'est la promenade des Tourangeaux. Les locomotives à vapeur ont disparu en 1912.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_ancien_tramway_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.tramway"
+  ]
+ },
+ "marchande_intro": {
+  "speaker": "marchande",
+  "text": "Des primeurs de la vallée, monsieur, madame ! Les halles sont là depuis 1866 : des pavillons de fer, comme à Paris.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_halles_tours"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qu'y avait-il avant ?",
+    "next": "marchande_saint_clement"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.halles"
+  ]
+ },
+ "marchande_saint_clement": {
+  "speaker": "marchande",
+  "text": "Un grand marché, déjà, sur la place d'Aumont. Et quand on a agrandi les halles vers le nord, après 1883, on a démoli l'église Saint-Clément.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_halles_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.halles"
+  ]
+ },
+ "soldat_intro": {
+  "speaker": "soldat",
+  "text": "Soldat au 66e d'infanterie, en garnison à Tours. On tire au champ de tir de Parçay-Meslay, sur le plateau au nord de la Loire.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que pensez-vous de la gare ?",
+    "next": "soldat_gare"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.garnison"
+  ]
+ },
+ "soldat_gare": {
+  "speaker": "soldat",
+  "text": "Elle est neuve, quinze ans à peine, et c'est l'architecte de l'hôtel de ville, M. Laloux, qui l'a dessinée. Il a aussi fait la gare d'Orsay, à Paris.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_gare_de_tours"
+   },
+   {
+    "id": "wp_victor_laloux"
+   }
+  ],
+  "unlocks": [
+   "codex.belle_epoque.gare_laloux"
+  ]
+ }
+}

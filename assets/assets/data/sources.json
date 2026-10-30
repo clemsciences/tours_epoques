@@ -197,5 +197,61 @@
   "year": "2013",
   "url": "https://www.tours.fr/app/uploads/2023/05/Laissez-vous-conter-les-Mame.pdf",
   "kind": "brochure"
+ },
+ "wp_hotel_de_ville_tours": {
+  "title": "Hôtel de ville de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Hôtel_de_ville_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_musee_beaux_arts_tours": {
+  "title": "Musée des Beaux-Arts de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Musée_des_Beaux-Arts_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_halles_tours": {
+  "title": "Halles de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Halles_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_ancien_tramway_tours": {
+  "title": "Ancien tramway de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Ancien_tramway_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_victor_laloux": {
+  "title": "Victor Laloux",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Victor_Laloux",
+  "kind": "encyclopédie"
+ },
+ "wp_base_aerienne_705": {
+  "title": "Base aérienne 705 Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Base_aérienne_705_Tours",
+  "kind": "encyclopédie"
+ },
+ "bdnb": {
+  "title": "Base de données nationale des bâtiments (BDNB), millésime 2026-02-b, export d'Indre-et-Loire",
+  "author": "CSTB (emprises BD TOPO de l'IGN, années des fichiers fonciers de la DGFiP)",
+  "year": "2026",
+  "url": "https://www.data.gouv.fr/datasets/base-de-donnees-nationale-des-batiments",
+  "kind": "données (Licence Ouverte 2.0)"
+ },
+ "inventaire_cvl": {
+  "title": "Inventaire du patrimoine culturel en Région Centre-Val de Loire (dossiers de l'Inventaire général)",
+  "author": "Région Centre-Val de Loire",
+  "year": "consulté le 30/10/2026",
+  "url": "https://data.centrevaldeloire.fr/explore/dataset/inventaire-du-patrimoine-en-region-centre-val-de-loire/",
+  "kind": "données (ODbL)"
  }
 }

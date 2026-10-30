@@ -1,0 +1,43 @@
+{
+ "npcs": [
+  {
+   "id": "wattman",
+   "name": "Le wattman",
+   "role": "Conducteur de la ligne A du tramway",
+   "position": [
+    47.391497,
+    0.688389
+   ],
+   "color": "#2E4A62",
+   "dialogue": "wattman_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Rue Nationale, devant l'hôtel de ville de Laloux, sur le parcours de la ligne A (Wikipédia, « Ancien tramway de Tours »)."
+  },
+  {
+   "id": "marchande",
+   "name": "La marchande des halles",
+   "role": "Marchande de primeurs",
+   "position": [
+    47.39245,
+    0.6812
+   ],
+   "color": "#7A5A3A",
+   "dialogue": "marchande_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme, près des halles métalliques de 1866 (Wikipédia, « Halles de Tours »)."
+  },
+  {
+   "id": "soldat",
+   "name": "Le soldat",
+   "role": "Fantassin du 66e régiment d'infanterie",
+   "position": [
+    47.3899,
+    0.6925
+   ],
+   "color": "#4A5878",
+   "dialogue": "soldat_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme, devant la gare. Le 66e RI a un champ de tir à Parçay-Meslay (Wikipédia, « Histoire de Tours »). Caserne non localisée."
+  }
+ ]
+}
