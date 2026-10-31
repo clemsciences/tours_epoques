@@ -295,5 +295,79 @@
   "year": "consulté le 29/10/2026",
   "url": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours",
   "kind": "encyclopédie"
+ },
+ "guizot_civilisation": {
+  "title": "Histoire de la civilisation en France, t. 2 (22e leçon : vie, caractère et écrits d'Alcuin)",
+  "author": "François Guizot",
+  "year": "1829-1832 ; 8e éd. 1863",
+  "publisher": "Paris, Didier ; texte numérisé d'Internet Archive",
+  "url": "https://archive.org/details/histoiredelacivi0002guiz",
+  "kind": "histoire"
+ },
+ "eginhard_annales": {
+  "title": "Annales d'Éginhard, trad. F. Guizot (Collection des mémoires relatifs à l'histoire de France)",
+  "author": "Éginhard (attribution)",
+  "year": "IXe siècle ; traduction de 1824",
+  "publisher": "Paris, J.-L.-J. Brière ; texte numérisé d'Internet Archive",
+  "url": "https://archive.org/details/bub_gb_GSgVAAAAQAAJ",
+  "kind": "chronique"
+ },
+ "moine_saint_gall": {
+  "title": "Des faits et gestes de Charles le Grand, trad. F. Guizot (même volume que les Annales d'Éginhard)",
+  "author": "Le moine de Saint-Gall (Notker)",
+  "year": "vers 885 ; traduction de 1824",
+  "publisher": "Paris, J.-L.-J. Brière ; texte numérisé d'Internet Archive",
+  "url": "https://archive.org/details/bub_gb_GSgVAAAAQAAJ",
+  "kind": "chronique"
+ },
+ "wp_alcuin": {
+  "title": "Alcuin",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Alcuin",
+  "kind": "encyclopédie"
+ },
+ "wp_minuscule_caroline": {
+  "title": "Minuscule caroline",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Minuscule_caroline",
+  "kind": "encyclopédie"
+ },
+ "wp_cormery": {
+  "title": "Abbaye Saint-Paul de Cormery",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Paul_de_Cormery",
+  "kind": "encyclopédie"
+ },
+ "wp_saint_pierre_le_puellier": {
+  "title": "Église Saint-Pierre-le-Puellier de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-le-Puellier_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_saint_julien": {
+  "title": "Abbaye de Saint-Julien (Tours)",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Julien_(Tours)",
+  "kind": "encyclopédie"
+ },
+ "wp_archeveques_tours": {
+  "title": "Liste des archevêques de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Liste_des_archev%C3%AAques_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "jaffe_alcuin": {
+  "title": "Monumenta Alcuiniana (Bibliotheca rerum Germanicarum, t. VI) : lettres d'Alcuin et Vie d'Alcuin, texte latin",
+  "author": "Ph. Jaffé (éd.), W. Wattenbach et E. Dümmler",
+  "year": "lettres 796-804, Vie vers 823-829 ; édition de 1873",
+  "publisher": "Berlin, Weidmann ; texte numérisé d'Internet Archive (traductions du jeu)",
+  "url": "https://archive.org/details/monumentaalcuin00wattgoog",
+  "kind": "lettres"
  }
 }

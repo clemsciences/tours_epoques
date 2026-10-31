@@ -1,0 +1,398 @@
+{
+ "epoch": "carolingien",
+ "entries": [
+  {
+   "id": "codex.carolingien.alcuin",
+   "title": "Alcuin, abbé de Saint-Martin",
+   "theme": "personnes",
+   "text": "Né vers 735 en Northumbrie, élève de l'école d'York, Alcuin dirige l'école du palais de Charlemagne à partir de 782. Las de la cour, il obtient en 796 l'abbaye de Saint-Martin, l'une des plus riches du royaume, après la mort de l'abbé Ithier. Il y enseigne, y fait copier des livres et corrige la Bible ; il correspond sans cesse avec le roi. On l'appelle Flaccus au palais.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_alcuin"
+    },
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 200-201"
+    },
+    {
+     "id": "jaffe_alcuin",
+     "loc": "lettre 78, p. 345"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Au matin de ma vie, j'ai semé, dans la Bretagne, les germes de la science",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 196"
+     }
+    },
+    {
+     "text": "Ego vero Flaccus vester secundum exhortationem et bonam voluntatem vestram aliis per tecta sancti Martini sanctarum mella scripturarum ministrare satago",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "lettre 78, p. 345"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.ecole",
+   "title": "L'école de Saint-Martin",
+   "theme": "vie_quotidienne",
+   "text": "Alcuin réorganise l'école du monastère et écrit des manuels pour chaque discipline : grammaire, rhétorique, dialectique, calcul des dates, astronomie. Des élèves y viennent de loin ; Raban Maur, futur archevêque de Mayence, et Amalaire de Metz se forment à ses leçons, d'après Guizot.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 196 et 201"
+    },
+    {
+     "id": "wp_alcuin"
+    },
+    {
+     "id": "jaffe_alcuin",
+     "loc": "Vie d'Alcuin, c. 10, p. 24"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "le miel des saintes Écritures",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 196"
+     }
+    },
+    {
+     "text": "Sufficiunt […] divini poetae vobis, nec egetis luxuriosa sermonis Virgilii vos pollui facundia.",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "Vie d'Alcuin, c. 10, p. 24"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.scriptorium",
+   "title": "Le scriptorium et la minuscule",
+   "theme": "vie_quotidienne",
+   "text": "Alcuin fait copier de nombreux textes, à partir de modèles venus d'Angleterre, et veille à la calligraphie et à la ponctuation. Une petite écriture régulière, la minuscule dite caroline, déjà apparue à Corbie vers 772-780, se répand depuis Saint-Martin. Le plan du monastère est inconnu : le scriptorium n'est pas situé.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_alcuin"
+    },
+    {
+     "id": "wp_minuscule_caroline"
+    },
+    {
+     "id": "wp_abbaye_saint_martin"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "enrichit la bibliothèque de manuscrits copiés à York par de jeunes clercs qu'il y avait envoyés dans ce dessein",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 201"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.bible",
+   "title": "La Bible corrigée",
+   "theme": "evenements",
+   "text": "Les copies de la Bible latine s'étaient gâtées. Charlemagne veut des textes sûrs pour les offices. À Tours, Alcuin révise le texte de la Vulgate ; il l'achève vers 800-801 et l'offre au roi. Cette version devient un modèle, copiée pendant tout le IXe siècle par le scriptorium de Saint-Martin.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 185"
+    },
+    {
+     "id": "wp_alcuin"
+    },
+    {
+     "id": "wp_abbaye_saint_martin"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Il la termina vers 801, dans l'abbaye de Saint-Martin de Tours, et l'envoya à Charlemagne.",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 185"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.toits_enfumes",
+   "title": "Les toits enfumés de Tours",
+   "theme": "personnes",
+   "text": "En août 799, Charles reproche à Alcuin de ne pas venir à lui et de préférer Tours à Rome, où le pape Léon III vient d'être agressé. Alcuin répond que le fer blesse plus les yeux que la fumée : Tours, « contente de ses toits enfumés », vit en paix, tandis que Rome se déchire. En 800, il refuse encore de suivre le roi en Italie, à cause de sa santé.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "jaffe_alcuin",
+     "loc": "lettre 119, p. 487"
+    },
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 197 et 201"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Turonis enim, fumosis tectis contenta, Deo donante per vestrae bonitatis providentiam in pace permanet.",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "lettre 119 (août 799), p. 487"
+     }
+    },
+    {
+     "text": "C'est une honte […] de préférer les toits enfumés des gens de Tours aux palais dorés des Romains.",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 201"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.charles_800",
+   "title": "Le roi à Tours (800)",
+   "theme": "evenements",
+   "text": "Alcuin l'espérait depuis l'hiver : il écrit à une fille du roi qu'il dansera, comme le vieil Entelle, s'il voit Charles « dans la maison du grand protecteur saint Martin ». Au printemps 800, Charles quitte Aix-la-Chapelle, longe la côte de la Manche, passe la Seine à Rouen et vient à Tours prier saint Martin. Il y reste à cause de la maladie de la reine. Il repart par Orléans et Paris, puis annonce à Mayence, en août, le voyage d'Italie.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "eginhard_annales",
+     "loc": "800, p. 48"
+    },
+    {
+     "id": "jaffe_alcuin",
+     "loc": "lettre 132, p. 520-521"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "se rendit à Tours pour y prier saint Martin",
+     "source": {
+      "id": "eginhard_annales",
+      "loc": "800, p. 48"
+     }
+    },
+    {
+     "text": "videamus illum in domo magni protectoris sancti Martini",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "lettre 132, p. 521"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.liutgarde",
+   "title": "La reine Liutgarde",
+   "theme": "personnes",
+   "text": "Dernière épouse de Charlemagne, Liutgarde, une Alamane, « femme pieuse, fidèle à Dieu et au roi » d'après Alcuin, tombe malade pendant le voyage de 800. Elle meurt à Tours le 4 juin et y est enterrée, à Saint-Martin ; l'emplacement de sa tombe n'est pas connu. Alcuin console le roi et lui envoie une petite épitaphe.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "eginhard_annales",
+     "loc": "800, p. 48"
+    },
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 197"
+    },
+    {
+     "id": "jaffe_alcuin",
+     "loc": "lettre 131, p. 519"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "sa femme Luitgarde, qui y mourut le 4 juin et y fut enterrée",
+     "source": {
+      "id": "eginhard_annales",
+      "loc": "800, p. 48"
+     }
+    },
+    {
+     "text": "Liudgarda vero, femina religiosa, Deo fidelis et regi",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "lettre 131, p. 519"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.pirates",
+   "title": "Les pirates du Nord",
+   "theme": "evenements",
+   "text": "En 800, Charles fait construire une flotte et placer des postes sur la côte de l'océan, que des pirates venus du Nord ravagent déjà. Sur la Loire, Tours n'a encore rien vu.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "eginhard_annales",
+     "loc": "800, p. 48"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.ithier_cormery",
+   "title": "Ithier et Cormery",
+   "theme": "lieux",
+   "text": "Ithier, abbé de Saint-Martin avant Alcuin, fonde en 791 une communauté à Cormery, sur l'Indre, sur des terres qu'il a achetées. Alcuin la refonde, avec Benoît d'Aniane, en abbaye bénédictine : une charte de Charlemagne du 3 juin 800, quand le roi est à Tours, en fixe les conditions. Cormery dépendra de Saint-Martin jusqu'à la Révolution.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_cormery"
+    },
+    {
+     "id": "wp_abbaye_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.bretons",
+   "title": "Les « Bretons » de l'abbé",
+   "theme": "vie_quotidienne",
+   "text": "Alcuin attire à Tours des clercs de son île, Angles et Scots, que les moines de Saint-Martin appellent tous « Bretons ». La Vie d'Alcuin, écrite une génération plus tard, raconte que quatre frères, croyant ne pas être compris d'un prêtre anglais venu le voir, murmurèrent devant sa porte contre ces étrangers. Alcuin les fit appeler, leur pardonna et leur fit boire à chacun une coupe de vin. Selon la même Vie, il avait reçu des moines « indomptés ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "jaffe_alcuin",
+     "loc": "Vie d'Alcuin, c. 6 et 11, p. 18 et 25"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "O Deus, libera istud monasterium de istis Brittonibus. Nam sicut apes undique ad matrem revertuntur, ita hi omnes ad istum veniunt.",
+     "source": {
+      "id": "jaffe_alcuin",
+      "loc": "Vie d'Alcuin, c. 11, p. 25"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.domaines",
+   "title": "Les terres du saint",
+   "theme": "vie_quotidienne",
+   "text": "Saint-Martin vit de domaines nombreux, cultivés par des colons et des serfs qui doivent des redevances et des corvées. Avec ses autres abbayes, Alcuin en tient plus de vingt mille, d'après Guizot.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "guizot_civilisation",
+     "loc": "22e leçon, p. 200"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "plus de 20,000 colons ou serfs",
+     "source": {
+      "id": "guizot_civilisation",
+      "loc": "22e leçon, p. 200"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.cite_800",
+   "title": "La Cité et Saint-Martin",
+   "theme": "lieux",
+   "text": "Tours a toujours deux pôles : la Cité, dans l'enceinte du IVe siècle, autour de la cathédrale Saint-Maurice et de l'évêque (Joseph Ier, 792-815) ; et, à l'ouest, la basilique Saint-Martin et son monastère, sans muraille. L'enceinte de Châteauneuf ne sera élevée qu'après l'incendie de 903. L'habitat n'est pas dessiné : on ne sait pas le situer.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_archeveques_tours"
+    },
+    {
+     "id": "wp_abbaye_saint_martin"
+    },
+    {
+     "id": "wp_enceinte_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.puellier",
+   "title": "Saint-Pierre-le-Puellier",
+   "theme": "lieux",
+   "text": "Un monastère de femmes (puellae : jeunes filles), au nord de la basilique, à mi-chemin de la Loire. Il est cité pour la première fois en 791 par l'abbé Ithier ; on en attribue la fondation à la reine Clotilde, sans qu'aucune source le prouve. Au début du IXe siècle, il apparaît comme une dépendance de Saint-Martin.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_saint_pierre_le_puellier"
+    },
+    {
+     "id": "base_merimee"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.saint_julien",
+   "title": "Saint-Julien",
+   "theme": "lieux",
+   "text": "Vers 575, des moines venus d'Auvergne vivent autour d'un oratoire ; Grégoire leur donne des reliques de saint Julien de Brioude. On est mal renseigné sur les trois siècles suivants. Dessiné ici à l'emplacement de l'église actuelle, par hypothèse.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "wp_saint_julien"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.douze_peres",
+   "title": "Douze Jérôme ?",
+   "theme": "personnes",
+   "text": "Le moine de Saint-Gall, qui écrit vers 885, raconte que Charles souhaitait avoir douze clercs aussi savants que Jérôme et Augustin, et qu'Alcuin, indigné, osa lui répondre. Anecdote rapportée trois générations plus tard : à prendre comme on raconte, pas comme un procès-verbal.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "moine_saint_gall",
+     "loc": "livre I, p. 184"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Le Créateur du ciel et de la terre n'a pas fait d'autres hommes semblables à ces deux-là, et vous voulez en avoir une douzaine !",
+     "source": {
+      "id": "moine_saint_gall",
+      "loc": "livre I, p. 184"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.marmoutier_800",
+   "title": "Marmoutier vers 800",
+   "theme": "lieux",
+   "text": "Le monastère fondé par Martin sur la rive droite existe toujours ; on connaît mal son état en 800. Au milieu du IXe siècle, il compte environ 150 moines.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_marmoutier"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.loire_800",
+   "title": "Passer la Loire",
+   "theme": "vie_quotidienne",
+   "text": "Aucun texte utilisé ici ne dit comment on passait la Loire à Tours vers 800. Un pont de bois avait été lancé au IVe siècle devant la porte du fleuve ; on en a retrouvé des pieux. Le passage est dessiné dans son axe, par hypothèse.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "wp_caesarodunum"
+    }
+   ]
+  }
+ ]
+}

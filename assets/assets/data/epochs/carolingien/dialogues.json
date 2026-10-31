@@ -1,0 +1,523 @@
+{
+ "alcuin_intro": {
+  "speaker": "alcuin",
+  "text": "Soyez le bienvenu sous le toit de Saint-Martin. J'écrivais au roi ce que nous faisons ici : « Moi, votre Flaccus, selon votre exhortation et votre sage volonté, je m'applique à servir aux uns, sous le toit de Saint-Martin, le miel des saintes Écritures ; j'essaie d'enivrer les autres du vieux vin des anciennes études ; je nourris ceux-ci des fruits de la science grammaticale ; je tente de faire briller aux yeux de ceux-là l'ordre des astres. »",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 196",
+    "quote": true
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui êtes-vous ?",
+    "next": "alcuin_qui"
+   },
+   {
+    "label": "Pourquoi Tours ?",
+    "next": "alcuin_tours"
+   },
+   {
+    "label": "Vous manque-t-il quelque chose ?",
+    "next": "alcuin_livres"
+   },
+   {
+    "label": "Le roi vous veut à Rome ?",
+    "next": "alcuin_rome"
+   },
+   {
+    "label": "Le roi est ici ?",
+    "next": "alcuin_roi"
+   },
+   {
+    "label": "Comment avez-vous trouvé les moines ?",
+    "next": "alcuin_moines"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.alcuin",
+   "codex.carolingien.ecole"
+  ]
+ },
+ "alcuin_qui": {
+  "speaker": "alcuin",
+  "text": "Je suis Alcuin ; au palais, on m'appelle Flaccus. Je viens d'York, en Bretagne. « Au matin de ma vie, j'ai semé, dans la Bretagne, les germes de la science ; maintenant, sur le soir, et bien que mon sang soit refroidi, je ne cesse pas de les semer en France. »",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 196",
+    "quote": true
+   },
+   {
+    "id": "wp_alcuin"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.alcuin"
+  ]
+ },
+ "alcuin_tours": {
+  "speaker": "alcuin",
+  "text": "J'étais las de la cour. Le roi m'a donné cette abbaye, l'une des plus riches du royaume, après la mort de l'abbé Ithier, en 796. Un moine qui écrit des histoires dira plus tard que Charles me l'a donnée « pour s'y reposer, quand lui-même s'éloignerait, et instruire ceux qui accouraient en foule pour l'entendre ».",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 200"
+   },
+   {
+    "id": "moine_saint_gall",
+    "loc": "livre I, p. 175",
+    "quote": true
+   },
+   {
+    "id": "wp_abbaye_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.alcuin",
+   "codex.carolingien.ithier_cormery"
+  ]
+ },
+ "alcuin_livres": {
+  "speaker": "alcuin",
+  "text": "« Il me manque en partie les plus excellents livres de l'érudition scolastique, que je m'étais procurés dans ma patrie. » J'ai demandé au roi la permission d'envoyer quelques-uns des nôtres à York, « afin qu'ils rapportent en France les fleurs de la Bretagne » : qu'il n'y ait pas à York seulement un jardin clos, mais à Tours aussi des rejetons du paradis, et que le vent du sud souffle sur les jardins de la Loire. Allez voir les copistes : ils corrigent avec moi le texte de la Bible.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 196",
+    "quote": true
+   },
+   {
+    "id": "jaffe_alcuin",
+    "loc": "lettre 78, p. 346 (trad. du jeu)"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.scriptorium",
+   "codex.carolingien.bible"
+  ]
+ },
+ "alcuin_rome": {
+  "speaker": "alcuin",
+  "text": "L'été dernier, le roi m'a reproché de préférer « les toits enfumés des gens de Tours aux palais dorés des Romains ». Je lui ai répondu que le fer fait plus de mal aux yeux que la fumée : Tours, contente de ses toits enfumés, demeure en paix, et Rome se déchire. Et je le supplie « de me laisser achever ma carrière auprès de Saint-Martin » : mon corps est trop faible pour ce voyage.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 201",
+    "quote": true
+   },
+   {
+    "id": "jaffe_alcuin",
+    "loc": "lettre 119 (août 799), p. 487 (trad. du jeu)"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.toits_enfumes"
+  ]
+ },
+ "alcuin_roi": {
+  "speaker": "alcuin",
+  "text": "Il est venu ! J'avais écrit à l'une de ses filles que si nous le voyions « dans la maison du grand protecteur saint Martin », Flaccus danserait de joie comme le vieil Entelle de Virgile. Mais la reine est malade ; on prie pour elle au tombeau.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "jaffe_alcuin",
+    "loc": "lettre 132 (début 800), p. 520-521 (trad. du jeu)"
+   },
+   {
+    "id": "eginhard_annales",
+    "loc": "800, p. 48"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.charles_800",
+   "codex.carolingien.liutgarde"
+  ]
+ },
+ "alcuin_moines": {
+  "speaker": "alcuin",
+  "text": "Indociles. Je m'efforce de les rendre raisonnables, honnêtes, et curieux de sagesse. Et ils n'aiment guère les gens de mon île qui viennent me voir ; j'en entends parfois, derrière ma porte.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "jaffe_alcuin",
+    "loc": "Vie d'Alcuin, c. 6 et 11, p. 18 et 25"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.bretons"
+  ]
+ },
+ "copiste_intro": {
+  "speaker": "copiste",
+  "text": "Doucement, l'encre n'est pas sèche. Nous copions la Bible que l'abbé corrige, feuille après feuille. Il veut une écriture claire, des lettres bien séparées, et une ponctuation juste.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_alcuin"
+   },
+   {
+    "id": "wp_minuscule_caroline"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Quelle écriture ?",
+    "next": "copiste_minuscule"
+   },
+   {
+    "label": "Pourquoi corriger la Bible ?",
+    "next": "copiste_bible"
+   },
+   {
+    "label": "Comment est l'abbé avec le roi ?",
+    "next": "copiste_douze"
+   },
+   {
+    "label": "Lisez-vous Virgile ?",
+    "next": "copiste_virgile"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.scriptorium"
+  ]
+ },
+ "copiste_virgile": {
+  "speaker": "copiste",
+  "text": "Pas devant l'abbé ! Il l'a lu, jeune, mais aujourd'hui il nous le défend : « Les poètes divins vous suffisent, vous n'avez pas besoin de vous souiller à l'éloquence voluptueuse de Virgile. » Sigulf s'est fait prendre à le lire en cachette avec deux élèves.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "jaffe_alcuin",
+    "loc": "Vie d'Alcuin, c. 10, p. 24 (trad. du jeu)"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.ecole"
+  ]
+ },
+ "copiste_douze": {
+  "speaker": "copiste",
+  "text": "Il ose lui parler franc. On raconte qu'un jour le roi voulait douze clercs aussi savants que Jérôme et Augustin, et que l'abbé lui répondit : « Le Créateur du ciel et de la terre n'a pas fait d'autres hommes semblables à ces deux-là, et vous voulez en avoir une douzaine ! »",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "moine_saint_gall",
+    "loc": "livre I, p. 184",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.douze_peres"
+  ]
+ },
+ "copiste_minuscule": {
+  "speaker": "copiste",
+  "text": "Une petite écriture ronde, régulière, qu'on lit sans peine : on la connaissait déjà ailleurs, à Corbie par exemple, mais elle part d'ici vers bien des monastères. Plus tard, on l'appellera la « minuscule caroline ».",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_minuscule_caroline"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.scriptorium"
+  ]
+ },
+ "copiste_bible": {
+  "speaker": "copiste",
+  "text": "Parce que les copies se sont gâtées de copie en copie. Le roi lui-même s'en plaint : il ne veut pas qu'« il se glisse de discordants solécismes » dans les lectures des offices. L'abbé compare les manuscrits et choisit la bonne leçon.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 185",
+    "quote": true
+   },
+   {
+    "id": "wp_alcuin"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.bible"
+  ]
+ },
+ "garde_intro": {
+  "speaker": "garde",
+  "text": "Le roi est arrivé par Rouen, en longeant la mer. Il est venu prier saint Martin. Mais nous restons : la reine est malade.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "eginhard_annales",
+    "loc": "800, p. 48"
+   }
+  ],
+  "choices": [
+   {
+    "label": "La reine ?",
+    "next": "garde_reine"
+   },
+   {
+    "label": "Pourquoi longer la mer ?",
+    "next": "garde_mer"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.charles_800"
+  ]
+ },
+ "garde_reine": {
+  "speaker": "garde",
+  "text": "La reine Liutgarde. On prie pour elle au tombeau du saint. Si Dieu la rappelle, elle reposera ici, à Saint-Martin.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "eginhard_annales",
+    "loc": "800, p. 48"
+   },
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 197"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.liutgarde"
+  ]
+ },
+ "garde_mer": {
+  "speaker": "garde",
+  "text": "Le roi a fait bâtir une flotte et placer des postes de garde sur la côte de l'océan, contre les pirates du Nord qui la ravagent. Ici, sur la Loire, on n'en a jamais vu.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "eginhard_annales",
+    "loc": "800, p. 48"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.pirates"
+  ]
+ },
+ "colon_intro": {
+  "speaker": "colon",
+  "text": "Je viens d'un domaine de l'abbaye, avec ce que nous devons : du grain, des poules, des œufs. Des comme moi, il y en a des milliers sur les terres du saint.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 200"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Combien ?",
+    "next": "colon_combien"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.domaines"
+  ]
+ },
+ "colon_combien": {
+  "speaker": "colon",
+  "text": "On dit que l'abbé tient, avec ses autres abbayes, plus de vingt mille colons ou serfs. Moi, je n'en connais que ceux de mon village.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 200"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.domaines"
+  ]
+ },
+ "chanoine_intro": {
+  "speaker": "chanoine",
+  "text": "Voici l'église Saint-Maurice, la cathédrale que l'évêque Grégoire a rebâtie il y a plus de deux siècles. Notre évêque est Joseph. Les gens de la Cité vont à Saint-Martin par le vieux chemin, hors des murs.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_archeveques_tours"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Saint-Martin, ce n'est pas l'évêque ?",
+    "next": "chanoine_deux"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cite_800"
+  ]
+ },
+ "chanoine_deux": {
+  "speaker": "chanoine",
+  "text": "Non. L'abbé de Saint-Martin ne dépend pas de l'évêque comme un simple prêtre : il tient du roi son abbaye et ses domaines. Deux pôles, deux maîtres, et la même ville.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_abbaye_saint_martin"
+   },
+   {
+    "id": "guizot_civilisation",
+    "loc": "22e leçon, p. 200"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cite_800"
+  ]
+ },
+ "batelier_intro": {
+  "speaker": "batelier",
+  "text": "Passer le fleuve ? Montez. En face, la route du pied du coteau mène au grand monastère de Marmoutier.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Y a-t-il un pont ?",
+    "next": "batelier_pont"
+   }
+  ]
+ },
+ "batelier_pont": {
+  "speaker": "batelier",
+  "text": "Les anciens parlent de pieux, dans l'eau, en face de la porte. Moi, je passe les gens en barque.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_caesarodunum"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.loire_800"
+  ]
+ },
+ "moine_intro": {
+  "speaker": "moine",
+  "text": "Ici vivait saint Martin, dans une cellule creusée dans le rocher. Nous gardons sa mémoire, comme ceux de la basilique gardent son tombeau.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.marmoutier_800"
+  ]
+ },
+ "lieu_basilique": {
+  "speaker": "basilique_saint_martin",
+  "text": "La basilique de Perpet, toujours debout, sur le tombeau de saint Martin. Autour, le monastère dont Alcuin est l'abbé : cloître, école, scriptorium, dont on ne connaît pas le plan. Le roi Charles y prie en 800. Emprise aux dimensions de Grégoire (environ 47 × 18 m), orientation supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 14"
+   },
+   {
+    "id": "eginhard_annales",
+    "loc": "800, p. 48"
+   },
+   {
+    "id": "wp_abbaye_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.charles_800"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Maurice, rebâtie par Grégoire et dédiée en 590 ; aucune reconstruction n'est connue avant l'époque romane. Emprise supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   },
+   {
+    "id": "wp_archeveques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cite_800"
+  ]
+ },
+ "lieu_castrum": {
+  "speaker": "amphitheatre",
+  "text": "L'enceinte du IVe siècle, toujours debout, avec l'ancien amphithéâtre pour bastion. La Cité y tient encore toute entière ; autour de Saint-Martin, aucune muraille avant le Xe siècle.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_enceinte_tours"
+   },
+   {
+    "id": "wp_caesarodunum"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cite_800"
+  ],
+  "model": "castrum_385"
+ },
+ "lieu_puellier": {
+  "speaker": "saint_pierre_le_puellier",
+  "text": "Le monastère « des jeunes filles », cité pour la première fois en 791 par l'abbé Ithier, entre la basilique et la Loire. On en attribue la fondation à la reine Clotilde, sans source. Emprise supposée, à l'emplacement de l'église médiévale.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "base_merimee"
+   },
+   {
+    "id": "wp_saint_pierre_le_puellier"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.puellier"
+  ]
+ },
+ "lieu_saint_julien": {
+  "speaker": "saint_julien",
+  "text": "Une communauté de moines, près d'un oratoire, à qui Grégoire a donné des reliques de saint Julien vers 575. Les siècles suivants sont mal connus : on la suppose encore là en 800. Emplacement de l'église actuelle, emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_saint_julien"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.saint_julien"
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier_eglise",
+  "text": "Le « grand monastère » fondé par Martin sur la rive droite. Son état vers 800 est mal connu. Emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.marmoutier_800"
+  ]
+ }
+}

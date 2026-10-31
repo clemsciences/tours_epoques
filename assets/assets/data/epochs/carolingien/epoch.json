@@ -1,0 +1,27 @@
+{
+ "id": "carolingien",
+ "title": "Le temps d'Alcuin",
+ "year": 800,
+ "yearLabel": "800",
+ "place": "Tours",
+ "summary": "Printemps 800. Alcuin, venu d'York, est abbé de Saint-Martin depuis quatre ans : on copie au scriptorium, on enseigne à l'école, on corrige la Bible. Le roi Charles est venu prier sur le tombeau de saint Martin ; la reine Liutgarde est malade. Seul est dessiné ce que l'on sait situer.",
+ "palette": {
+  "ground": "#E3DABF",
+  "water": "#8AA5A4",
+  "waterEdge": "#5A7776",
+  "land": "#D6CBA4",
+  "garden": "#A9BC83",
+  "street": "#EEE3C6",
+  "streetEdge": "#988460",
+  "stone": "#ECE1C8",
+  "stoneEdge": "#665746",
+  "worksite": "#D8C69C",
+  "roof": "#9E5A43",
+  "roofEdge": "#683828",
+  "label": "#382E27",
+  "player": "#4E4A6A",
+  "carriage": "#6B4A2E",
+  "wall": "#B0A081"
+ },
+ "carriage": "char à bœufs"
+}

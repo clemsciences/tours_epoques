@@ -1,0 +1,95 @@
+{
+ "npcs": [
+  {
+   "id": "alcuin",
+   "name": "Alcuin",
+   "role": "Abbé de Saint-Martin",
+   "position": [
+    47.39355,
+    0.68285
+   ],
+   "color": "#3E4A6E",
+   "dialogue": "alcuin_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Alcuin (vers 735-804), abbé de Saint-Martin de 796 à sa mort. Ses répliques citent ses lettres, dans la traduction de Guizot ; les transitions sont reconstituées."
+  },
+  {
+   "id": "copiste",
+   "name": "Un jeune copiste",
+   "role": "Au scriptorium de Saint-Martin",
+   "position": [
+    47.39345,
+    0.6823
+   ],
+   "color": "#6A5A3A",
+   "dialogue": "copiste_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; le scriptorium et la révision de la Bible sont attestés."
+  },
+  {
+   "id": "garde",
+   "name": "Un homme de la suite du roi",
+   "role": "Venu à Tours avec Charles",
+   "position": [
+    47.3932,
+    0.6837
+   ],
+   "color": "#7A3A2E",
+   "dialogue": "garde_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; le séjour du roi et la maladie de la reine sont attestés (Annales d'Éginhard, 800)."
+  },
+  {
+   "id": "colon",
+   "name": "Un colon de l'abbaye",
+   "role": "Apporte les redevances d'un domaine",
+   "position": [
+    47.395,
+    0.686
+   ],
+   "color": "#5E6A3A",
+   "dialogue": "colon_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; les domaines et leurs colons sont attestés (Guizot)."
+  },
+  {
+   "id": "chanoine",
+   "name": "Un clerc de la cathédrale",
+   "role": "Au service de l'évêque Joseph",
+   "position": [
+    47.396002,
+    0.694084
+   ],
+   "color": "#4B2E5A",
+   "dialogue": "chanoine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; l'évêque Joseph Ier (792-815) est attesté."
+  },
+  {
+   "id": "batelier",
+   "name": "Le batelier",
+   "role": "Fait passer la Loire",
+   "position": [
+    47.39755,
+    0.694917
+   ],
+   "color": "#3E5A5E",
+   "dialogue": "batelier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme, entre la porte du fleuve et la Loire."
+  },
+  {
+   "id": "moine",
+   "name": "Un moine de Marmoutier",
+   "role": "Du monastère fondé par Martin",
+   "position": [
+    47.4042,
+    0.71846
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "moine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme."
+  }
+ ]
+}

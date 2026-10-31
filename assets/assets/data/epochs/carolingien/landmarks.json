@@ -1,0 +1,34 @@
+{
+ "landmarks": [
+  {
+   "layer": "basilique_saint_martin",
+   "dialogue": "lieu_basilique",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "amphitheatre",
+   "dialogue": "lieu_castrum",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours"
+  },
+  {
+   "layer": "saint_pierre_le_puellier",
+   "dialogue": "lieu_puellier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-le-Puellier_de_Tours"
+  },
+  {
+   "layer": "saint_julien",
+   "dialogue": "lieu_saint_julien",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Julien_(Tours)"
+  },
+  {
+   "layer": "marmoutier_eglise",
+   "dialogue": "lieu_marmoutier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  }
+ ]
+}
