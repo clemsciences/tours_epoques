@@ -445,5 +445,80 @@
   "year": "consulté le 31/10/2026",
   "url": "https://www.cgbfr.com/touraine-tours-abbaye-de-saint-martin-de-tours-denier,bfe_933324,a.html",
   "kind": "catalogue"
+ },
+ "linger_riquier_2022": {
+  "title": "Aux origines gauloises de Tours (Indre-et-Loire) : état des connaissances, Gallia. Archéologie des Gaules, 79-2, p. 47-84",
+  "author": "Sandrine Linger-Riquier",
+  "year": "2022",
+  "publisher": "CNRS Éditions ; OpenEdition Journals",
+  "url": "https://journals.openedition.org/gallia/6762",
+  "kind": "archéologie"
+ },
+ "gaultier_2008": {
+  "title": "« La Limougère » : un établissement rural de la fin de La Tène à Fondettes (Indre-et-Loire), Revue archéologique du Centre de la France, 47",
+  "author": "Matthieu Gaultier",
+  "year": "2008",
+  "publisher": "FERACF ; OpenEdition Journals",
+  "url": "https://journals.openedition.org/racf/1132",
+  "kind": "archéologie"
+ },
+ "couderc_1998": {
+  "title": "Le pont antique de Fondettes sur la Loire, Bulletin de la Société archéologique de Touraine, t. XLV, p. 393-406",
+  "author": "Jean-Mary Couderc",
+  "year": "1998",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65441997",
+  "kind": "revue savante"
+ },
+ "sat_bulletin_1948": {
+  "title": "Bulletin de la Société archéologique de Touraine, t. XXIX (A. Philippon, « Contribution à l'étude des niveaux gaulois et gallo-romain de la ville de Tours » ; P.-L. Fréon, « Précisions sur l'emplacement de la cité des Turones et découverte d'un niveau de la Tène III à Tours »)",
+  "author": "Société archéologique de Touraine",
+  "year": "1948",
+  "publisher": "Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65517579",
+  "kind": "revue savante"
+ },
+ "merimee_chateau_chevrier": {
+  "title": "Oppidum de Château-Chevrier, Rochecorbon (notice PA00098048)",
+  "author": "Ministère de la Culture, base Mérimée",
+  "year": "consulté le 31/10/2026",
+  "url": "https://pop.culture.gouv.fr/notice/merimee/PA00098048",
+  "kind": "inventaire"
+ },
+ "cesar_bg": {
+  "title": "Commentarii de bello Gallico (texte latin)",
+  "author": "César",
+  "year": "vers 52-51 av. J.-C.",
+  "publisher": "The Latin Library",
+  "url": "https://www.thelatinlibrary.com/caesar/gall7.shtml",
+  "kind": "récit"
+ },
+ "wp_turones": {
+  "title": "Turones",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Turones",
+  "kind": "encyclopédie"
+ },
+ "wp_histoire_fondettes": {
+  "title": "Histoire de Fondettes",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Histoire_de_Fondettes",
+  "kind": "encyclopédie"
+ },
+ "wp_ponts_antiques_tours": {
+  "title": "Ponts antiques sur la Loire dans l'agglomération tourangelle",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Ponts_antiques_sur_la_Loire_dans_l%27agglom%C3%A9ration_tourangelle",
+  "kind": "encyclopédie"
+ },
+ "wp_oppidum_chateliers": {
+  "title": "Oppidum des Châteliers",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Oppidum_des_Ch%C3%A2teliers",
+  "kind": "encyclopédie"
  }
 }

@@ -1,0 +1,31 @@
+{
+ "id": "gaulois",
+ "title": "Avant César",
+ "year": -60,
+ "yearLabel": "vers −60",
+ "place": "Pays des Turons",
+ "summary": "Vers 60 avant notre ère, quelques années avant César. Entre la Loire et le Cher, dans une plaine semée de bras morts, une agglomération gauloise d'une vingtaine d'hectares vit de ses artisans et du fleuve ; un fossé la borde à l'ouest. Sur les coteaux, les éperons barrés de Montboyau et de Château-Chevrier ; sur le plateau, des fermes. Tout cela est aujourd'hui enfoui sous plusieurs mètres de sable et de ville.",
+ "palette": {
+  "ground": "#DCD6B4",
+  "water": "#7FA3A0",
+  "waterEdge": "#4F7270",
+  "land": "#CFC79C",
+  "garden": "#A9B97E",
+  "street": "#E6D9B4",
+  "streetEdge": "#8C7752",
+  "stone": "#D9CBA6",
+  "stoneEdge": "#6B5A40",
+  "worksite": "#CDB689",
+  "roof": "#B49A5E",
+  "roofEdge": "#7A6638",
+  "label": "#33301F",
+  "player": "#6E5A2E",
+  "carriage": "#6B4A2E",
+  "wall": "#A89B70",
+  "habitat": "#CFBF8E",
+  "cemetery": "#B5B98F",
+  "marsh": "#A7BCA6"
+ },
+ "dashHypotheses": true,
+ "carriage": "char"
+}

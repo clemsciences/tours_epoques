@@ -1,0 +1,34 @@
+{
+ "landmarks": [
+  {
+   "layer": "fosse_clocheville",
+   "dialogue": "lieu_fosse"
+  },
+  {
+   "layer": "quartier_artisans",
+   "dialogue": "lieu_artisans"
+  },
+  {
+   "layer": "necropole",
+   "dialogue": "lieu_necropole"
+  },
+  {
+   "layer": "passage_loire",
+   "dialogue": "lieu_passage",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ponts_antiques_sur_la_Loire_dans_l%27agglom%C3%A9ration_tourangelle"
+  },
+  {
+   "layer": "oppidum_montboyau",
+   "dialogue": "lieu_montboyau",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Histoire_de_Fondettes"
+  },
+  {
+   "layer": "ferme_limougere",
+   "dialogue": "lieu_limougere"
+  },
+  {
+   "layer": "oppidum_chevrier",
+   "dialogue": "lieu_chevrier"
+  }
+ ]
+}

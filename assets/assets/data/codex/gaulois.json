@@ -1,0 +1,296 @@
+{
+ "epoch": "gaulois",
+ "entries": [
+  {
+   "id": "codex.gaulois.agglomeration",
+   "title": "Une ville sous la ville",
+   "theme": "lieux",
+   "text": "Sous l'ouest du Tours historique, entre la place de la Victoire, l'hôpital Clocheville et le boulevard Béranger, une agglomération gauloise d'environ 21 à 25 ha est née au début du IIe siècle av. J.-C. Ses vestiges dorment de 3 à 7 m sous la ville actuelle, sous les sables des crues. Longtemps, les fouilles se sont arrêtées sur ces sables, qu'on croyait naturels. L'étendue dessinée est une hypothèse.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 3, 83-89 et 99"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "une agglomération gauloise, masquée par les sables alluviaux",
+     "source": {
+      "id": "linger_riquier_2022",
+      "loc": "§ 3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.fosse",
+   "title": "Le grand fossé",
+   "theme": "lieux",
+   "text": "À l'ouest, un fossé de 6,50 m de large et de 2,50 à 3 m de profondeur, doublé d'un talus, limitait le bourg. Il a été comblé vers 80-60 av. J.-C. Une enceinte, si c'en est une, signerait un changement de statut : le bourg deviendrait une place forte, un *dunum*.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 44, 92 et 100"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "un puissant fossé – probablement d’enceinte",
+     "source": {
+      "id": "linger_riquier_2022",
+      "loc": "§ 44"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.artisans",
+   "title": "Potiers, forgerons, teinturiers",
+   "theme": "vie_quotidienne",
+   "text": "Le long d'une chaussée gravillonnée de 4 m s'alignent de grandes cuves enduites de chaux, devenues dépotoirs. On y a trouvé des pots ratés à la cuisson (un atelier de potier tout proche), des jarres de trempage de forge et des pesons de métier à tisser. La chaux servait peut-être à la teinture ou au travail des peaux.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 46, 57 et 95"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.vaisselle",
+   "title": "Une vaisselle bien d'ici",
+   "theme": "vie_quotidienne",
+   "text": "Les potiers turons ont un répertoire à eux : 107 formes reconnues à Clocheville. Les importations sont rares, quelques pots du Massif central et des amphores italiques. Pourquoi si peu, au bord d'un grand fleuve ? La question reste ouverte.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 50 et 98"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.vin",
+   "title": "Le vin d'Italie",
+   "theme": "vie_quotidienne",
+   "text": "Le vin arrive d'Italie dans de grandes amphores (type Dressel 1). À Clocheville, elles passent d'environ 5 à plus de 10 % des vases entre 120 et 60 av. J.-C. Vides, elles sont réemployées : place de la Victoire, cinq amphores plantées debout dans le sable formaient peut-être un drain.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 53-54 et 60-61"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.monnaie",
+   "title": "Les potins à la tête diabolique",
+   "theme": "vie_quotidienne",
+   "text": "Les Turons utilisent de petites monnaies coulées en alliage cuivreux, les potins : une tête d'un côté, un taureau qui charge de l'autre (dits « à la tête diabolique » ou « au taureau cornupète »). Le sous-sol de Tours en a livré des dizaines. Les bronzes frappés au nom de TVRONOS / TRICCOS viendront plus tard, après la conquête.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 35-37, 48 et 59"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.eau",
+   "title": "L'eau partout",
+   "theme": "lieux",
+   "text": "Entre la Loire et le Cher, la plaine est faite de bras morts (les boires de Saint-Venant, de la Dolve), de ruisseaux et de légères buttes que les crues ne couvrent pas. Le bourg s'est installé sur l'une d'elles. Plusieurs crues l'ont pourtant ensablé au Ier siècle av. J.-C. Une seule source est connue, place de la Résistance.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 77-87 et 99"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "véritables marécages sillonnés en tous sens par de multiples ruisseaux",
+     "source": {
+      "id": "linger_riquier_2022",
+      "loc": "§ 77, citant H. Auvray, 1938"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.necropole",
+   "title": "Les morts au bord de la route",
+   "theme": "vie_quotidienne",
+   "text": "Au sud du bourg, le long d'une voie (sous le boulevard Béranger), des vases gaulois intacts ont été trouvés au XIXe siècle. Certains sont volontairement cassés au bord, l'un contenait une crémation. Comme ailleurs en Touraine, les morts étaient sans doute brûlés et enterrés hors de l'agglomération. C'est une hypothèse.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 17-22 et 96-97"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.chef_lieu",
+   "title": "Où était la capitale des Turons ?",
+   "theme": "evenements",
+   "text": "Pour la plupart des chercheurs, le chef-lieu des Turons avant la conquête était l'oppidum d'Amboise (plus de 50 ha). Mais Amboise ne grandit qu'à partir de 80-50 av. J.-C., au bord du territoire. Le bourg de la plaine de Tours, plus ancien, est au centre et à un carrefour. On a aussi cherché la ville gauloise à Luynes, sur le coteau de Saint-Symphorien ou à Montboyau. Le débat reste ouvert.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 4-11 et 101"
+    },
+    {
+     "id": "wp_oppidum_chateliers"
+    },
+    {
+     "id": "couderc_1998"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "l’hypothèse d’une importante agglomération gauloise, voire du chef-lieu des Turons, devient recevable",
+     "source": {
+      "id": "linger_riquier_2022",
+      "loc": "§ 11, citant H. Galinié, 2007"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.montboyau",
+   "title": "L'éperon de Montboyau",
+   "theme": "lieux",
+   "text": "À Fondettes, au-dessus du confluent de la Choisille et de la Loire, un éperon triangulaire (430 m côté Choisille, 470 m côté Loire) est barré par un fossé de 20 m de large et de 364 m de long, bordé d'un talus. Entre 1950 et 1960, deux trésors monétaires y ont été découverts. Il n'a jamais été fouillé.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "couderc_1998"
+    },
+    {
+     "id": "gaultier_2008",
+     "loc": "§ 6"
+    },
+    {
+     "id": "wp_histoire_fondettes"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.chevrier",
+   "title": "Château-Chevrier",
+   "theme": "lieux",
+   "text": "À Rochecorbon, un éperon d'une quinzaine d'hectares au-dessus de la Loire, protégé côté plateau par un rempart de terre et un fossé ; occupé à la fin de La Tène, puis à l'époque romaine. C'est l'un des sites fortifiés gaulois les plus représentatifs de la Touraine.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "merimee_chateau_chevrier"
+    },
+    {
+     "id": "wp_turones"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.fermes",
+   "title": "Les fermes du plateau",
+   "theme": "vie_quotidienne",
+   "text": "Dans la campagne turonne, les fermes sont enfermées dans des enclos de fossés et de palissades, divisés en parties. À La Limougère (Fondettes) : un puits, deux petits greniers sur poteaux, du tissage, et des moules de bronzier, une rareté. La plupart de ces fermes ne vivent que cinq ou six générations.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gaultier_2008",
+     "loc": "§ 84-101"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "délimitation de l'enclos et partition de l'espace par des fossés",
+     "source": {
+      "id": "gaultier_2008",
+      "loc": "§ 101"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.passage",
+   "title": "Passer la Loire",
+   "theme": "lieux",
+   "text": "Comment franchissait-on la Loire vers −60 ? On ne le sait pas. Au Ier siècle de notre ère, un pont de bois de 7 m de large la traversait à Fondettes, sur la voie de Poitiers au Mans, au pied de Montboyau. J.-M. Couderc pense qu'un pont gaulois l'avait précédé. Le passage dessiné est une hypothèse de jeu.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "couderc_1998"
+    },
+    {
+     "id": "wp_ponts_antiques_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.cesar",
+   "title": "Les Turons chez César",
+   "theme": "evenements",
+   "text": "Quelques années plus tard, César nomme les Turons dans la *Guerre des Gaules*. En 57 av. J.-C., il fait hiverner des légions chez eux (II, 35). En 52, ils se rallient à Vercingétorix (VII, 4) et doivent envoyer 8 000 hommes à l'armée de secours d'Alésia (VII, 75). En 51-50, deux légions campent « chez les Turons, aux confins des Carnutes » (VIII, 46). Ce sont les seules mentions antiques de ce peuple.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "cesar_bg",
+     "loc": "II, 35 ; VII, 4 ; VII, 75 ; VIII, 46"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "octona Pictonibus et Turonis et Parisiis et Helvetiis",
+     "source": {
+      "id": "cesar_bg",
+      "loc": "VII, 75, 3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.lacustre",
+   "title": "La cité lacustre qui n'existait pas",
+   "theme": "evenements",
+   "text": "En 1935 puis en 1948, des pilotis de chêne sont trouvés sous le boulevard Béranger. Fréon et Philippon (Société archéologique de Touraine, 1948) y voient une Tours gauloise lacustre, sur pilotis. Le carbone 14 les date aujourd'hui du Ier siècle de notre ère : c'était sans doute un ouvrage pour franchir un chenal boueux. Le niveau gaulois, lui, était bien là.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sat_bulletin_1948",
+     "loc": "p. 348-359"
+    },
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 26-27"
+    }
+   ]
+  },
+  {
+   "id": "codex.gaulois.caesarodunum",
+   "title": "Après : Caesarodunum",
+   "theme": "evenements",
+   "text": "Après la conquête, sous Auguste, une ville romaine est fondée au même endroit. On l'appellera Caesarodunum. Son nom a longtemps fait croire à une création de toutes pièces ; l'archéologie montre une ville refondée sur un site gaulois.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "linger_riquier_2022",
+     "loc": "§ 1, 22 et 101"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "la ville antique de Caesarodunum n’est donc pas construite ex nihilo, mais bien ex novo",
+     "source": {
+      "id": "linger_riquier_2022",
+      "loc": "§ 101"
+     }
+    }
+   ]
+  }
+ ]
+}

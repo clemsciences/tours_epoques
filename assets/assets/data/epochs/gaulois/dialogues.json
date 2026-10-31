@@ -1,0 +1,371 @@
+{
+ "potier_intro": {
+  "speaker": "potier",
+  "text": "Les pots, on les fait ici, avec la terre du val. Quand le feu est mal mené, ils se tordent ou se fendent : on les jette dans les vieilles fosses, avec le reste.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 57"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que fabriquez-vous ?",
+    "next": "potier_formes"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.artisans"
+  ]
+ },
+ "potier_formes": {
+  "speaker": "potier",
+  "text": "Des jattes, des gobelets, des pots à cuire, quelques beaux vases lissés. Les gens d'ici aiment leurs formes à eux. Les vases qui viennent d'ailleurs, on en voit peu.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 50 et 98"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.vaisselle"
+  ]
+ },
+ "forgeron_intro": {
+  "speaker": "forgeron",
+  "text": "La grande jarre au fond de la forge, c'est pour tremper le fer. Le reste du travail, tu l'entends d'ici. On épure le métal, on le forge, on le répare.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 57 et 95"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.artisans"
+  ]
+ },
+ "teinturiere_intro": {
+  "speaker": "teinturiere",
+  "text": "Ces grandes fosses enduites de chaux, on y fait tremper. La laine pour la teindre, les peaux pour les préparer. Quand elles ne servent plus, on y jette les ordures.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 46 et 57"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.artisans"
+  ]
+ },
+ "gardien_intro": {
+  "speaker": "gardien",
+  "text": "Le fossé est large de quatre hauteurs d'homme, et plus profond qu'un homme debout. La terre qu'on en a tirée fait le talus, de notre côté. Il garde l'ouest, et il boit l'eau qui est partout.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 44 et 92"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi une enceinte ?",
+    "next": "gardien_statut"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.fosse"
+  ]
+ },
+ "gardien_statut": {
+  "speaker": "gardien",
+  "text": "On était un gros bourg au bord du fleuve. Avec le fossé et le talus, on devient une place forte. Mais en amont, à Amboise, ils bâtissent bien plus grand.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 100-101"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.chef_lieu",
+   "codex.gaulois.cesar"
+  ]
+ },
+ "tisserande_intro": {
+  "speaker": "tisserande",
+  "text": "Je tisse au métier, la laine tendue par des poids d'argile. Ici, nous sommes sur une petite hauteur ; la dernière crue a quand même laissé du sable jusqu'au seuil.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 36, 57 et 99"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et quand l'eau monte ?",
+    "next": "tisserande_crue"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.agglomeration"
+  ]
+ },
+ "tisserande_crue": {
+  "speaker": "tisserande",
+  "text": "On rehausse, on rebâtit. Entre la Loire et le Cher, ce ne sont que bras morts et ruisseaux ; on vit sur les buttes que l'eau ne couvre pas.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 77-87"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.eau"
+  ]
+ },
+ "porteuse_intro": {
+  "speaker": "porteuse",
+  "text": "Une source pareille, il n'y en a pas d'autre ici : l'eau sort claire et abondante. Celle des boires, on ne la boit pas.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 82"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.eau"
+  ]
+ },
+ "marinier_intro": {
+  "speaker": "marinier",
+  "text": "Ces amphores viennent d'Italie, pleines de vin. On les a remontées par la Loire. Vides, elles servent encore : il y en a qu'on plante dans le sable, pour que l'eau s'en aille.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 23-25, 53-54 et 60-61"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Comment vous paie-t-on ?",
+    "next": "marinier_monnaie"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.vin"
+  ]
+ },
+ "marinier_monnaie": {
+  "speaker": "marinier",
+  "text": "En petites pièces de métal coulé : une tête d'un côté, un taureau qui charge de l'autre. On en perd beaucoup dans la boue.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 37, 48 et 59"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.monnaie"
+  ]
+ },
+ "endeuillee_intro": {
+  "speaker": "endeuillee",
+  "text": "Nous brûlons nos morts. On met les os dans un pot, on le dépose ici, au bord de la route, hors du bourg. Certains vases, on les casse exprès au bord.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 20 et 96-97"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.necropole"
+  ]
+ },
+ "passeur_intro": {
+  "speaker": "passeur",
+  "text": "Ici, on traverse vers le coteau de Montboyau et la route du nord. Le fleuve est large, il change de lit à chaque crue.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "couderc_1998"
+   },
+   {
+    "id": "wp_ponts_antiques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.passage"
+  ]
+ },
+ "guetteur_intro": {
+  "speaker": "guetteur",
+  "text": "D'ici, on voit toute la plaine, la Loire, le Cher, la fumée du bourg. Deux côtés tombent à pic, sur la Choisille et sur le fleuve. Le troisième, on l'a barré d'un fossé et d'un talus.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "couderc_1998"
+   },
+   {
+    "id": "wp_histoire_fondettes"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui commande ici ?",
+    "next": "guetteur_chef"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.montboyau"
+  ]
+ },
+ "guetteur_chef": {
+  "speaker": "guetteur",
+  "text": "Il y a plusieurs places fortes chez les Turons. Celle d'Amboise, en amont, grandit vite. Mais le bourg de la plaine, en bas, est au milieu de tout.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 90 et 101"
+   },
+   {
+    "id": "wp_turones"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.chef_lieu",
+   "codex.gaulois.cesar"
+  ]
+ },
+ "paysanne_intro": {
+  "speaker": "paysanne",
+  "text": "Notre ferme tient dans son enclos : des fossés, des palissades, trois parties. Le puits est au milieu, les greniers sur poteaux. On file, on tisse, et mon homme coule un peu de bronze.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gaultier_2008",
+    "loc": "§ 84-91"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.fermes"
+  ]
+ },
+ "lieu_fosse": {
+  "speaker": "fosse_clocheville",
+  "text": "Le grand fossé fouillé en 2001 sous l'hôpital Clocheville. Il fait 6,50 m de large et 2,50 à 3 m de profondeur. Un talus le doublait à l'est. Il est comblé vers 80-60 av. J.-C. Son prolongement vers le nord est supposé.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 44 et 92"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.fosse"
+  ]
+ },
+ "lieu_artisans": {
+  "speaker": "quartier_artisans",
+  "text": "Le long de la chaussée de 4 m, de grandes cuves enduites de chaux, devenues dépotoirs. On y a trouvé des pots ratés à la cuisson, des bacs de trempage de forge et des pesons de métier à tisser. Le site a livré 1 290 vases.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 46-57"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.artisans",
+   "codex.gaulois.caesarodunum"
+  ]
+ },
+ "lieu_necropole": {
+  "speaker": "necropole",
+  "text": "Au XIXe siècle, en démolissant le rempart moderne, les ouvriers ont trouvé une vingtaine de vases gaulois intacts le long d'une voie. L'un d'eux contenait des os brûlés. Une nécropole est supposée à la lisière sud du bourg.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "linger_riquier_2022",
+    "loc": "§ 16-22 et 96-97"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.necropole",
+   "codex.gaulois.lacustre"
+  ]
+ },
+ "lieu_passage": {
+  "speaker": "passage_loire",
+  "text": "Ici passera, au Ier siècle de notre ère, le pont romain de Fondettes, sur la voie de Poitiers au Mans. A-t-il remplacé un pont gaulois, comme le pense J.-M. Couderc ? On ne sait pas comment on franchissait la Loire vers −60.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "couderc_1998"
+   },
+   {
+    "id": "wp_ponts_antiques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.passage"
+  ]
+ },
+ "lieu_montboyau": {
+  "speaker": "oppidum_montboyau",
+  "text": "L'oppidum de Montboyau, à Fondettes : un éperon triangulaire d'une dizaine d'hectares au-dessus du confluent de la Choisille et de la Loire. Un fossé de 364 m l'isole du plateau. Il n'a jamais été fouillé ; l'emprise est dessinée d'après le relief.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "couderc_1998"
+   },
+   {
+    "id": "wp_histoire_fondettes"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.montboyau"
+  ]
+ },
+ "lieu_limougere": {
+  "speaker": "ferme_limougere",
+  "text": "Une ferme gauloise fouillée en 2006 sur le tracé du boulevard périphérique, occupée du IIe siècle à la fin du Ier siècle av. J.-C. L'emplacement est approché.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gaultier_2008",
+    "loc": "§ 1-2"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.fermes"
+  ]
+ },
+ "lieu_chevrier": {
+  "speaker": "oppidum_chevrier",
+  "text": "L'oppidum de Château-Chevrier, à Rochecorbon : un éperon d'une quinzaine d'hectares au-dessus de la Loire. Le rempart de terre et son fossé, côté plateau, sont inscrits aux Monuments historiques. L'emprise est dessinée d'après le relief.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "merimee_chateau_chevrier"
+   },
+   {
+    "id": "wp_turones"
+   }
+  ],
+  "unlocks": [
+   "codex.gaulois.chevrier"
+  ]
+ }
+}

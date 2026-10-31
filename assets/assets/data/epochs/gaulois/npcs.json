@@ -1,0 +1,147 @@
+{
+ "npcs": [
+  {
+   "id": "potier",
+   "name": "Un potier",
+   "role": "Atelier près de la chaussée",
+   "position": [
+    47.390637,
+    0.680846
+   ],
+   "color": "#8A5A2E",
+   "dialogue": "potier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Les ratés de cuisson d'un atelier de potier sont attestés à Clocheville."
+  },
+  {
+   "id": "forgeron",
+   "name": "Un forgeron",
+   "role": "Forge près de la chaussée",
+   "position": [
+    47.390179,
+    0.680982
+   ],
+   "color": "#4A4038",
+   "dialogue": "forgeron_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Le travail du fer est attesté à Clocheville."
+  },
+  {
+   "id": "teinturiere",
+   "name": "Une teinturière",
+   "role": "Aux grandes cuves",
+   "position": [
+    47.390478,
+    0.681214
+   ],
+   "color": "#6A3A5A",
+   "dialogue": "teinturiere_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Les cuves enduites de chaux sont attestées ; leur usage est supposé."
+  },
+  {
+   "id": "gardien",
+   "name": "Le gardien du fossé",
+   "role": "À l'entrée ouest",
+   "position": [
+    47.390379,
+    0.680031
+   ],
+   "color": "#5A4A2A",
+   "dialogue": "gardien_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Le fossé est attesté ; le passage est supposé."
+  },
+  {
+   "id": "tisserande",
+   "name": "Une tisserande",
+   "role": "Chez elle, au centre du bourg",
+   "position": [
+    47.392594,
+    0.682381
+   ],
+   "color": "#7A5A6A",
+   "dialogue": "tisserande_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Un niveau d'habitat est attesté sous le cloître Saint-Martin, le tissage à Clocheville."
+  },
+  {
+   "id": "porteuse",
+   "name": "Une femme à la source",
+   "role": "Vient puiser l'eau",
+   "position": [
+    47.393727,
+    0.686152
+   ],
+   "color": "#4A6A7A",
+   "dialogue": "porteuse_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. La source est connue depuis 1949."
+  },
+  {
+   "id": "marinier",
+   "name": "Un marinier",
+   "role": "Débarque des amphores",
+   "position": [
+    47.394374,
+    0.678549
+   ],
+   "color": "#3A5A6A",
+   "dialogue": "marinier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. Les amphores de vin italien sont attestées, ainsi que les amphores fichées dans le sable de la place de la Victoire."
+  },
+  {
+   "id": "endeuillee",
+   "name": "Une femme près des tombes",
+   "role": "Au bord de la voie",
+   "position": [
+    47.389432,
+    0.685967
+   ],
+   "color": "#4A4A4A",
+   "dialogue": "endeuillee_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. La nécropole est une hypothèse."
+  },
+  {
+   "id": "passeur",
+   "name": "Un passeur",
+   "role": "Au bord de la Loire",
+   "position": [
+    47.389174,
+    0.6468
+   ],
+   "color": "#5A6A4A",
+   "dialogue": "passeur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. On ne sait pas comment on franchissait la Loire vers −60."
+  },
+  {
+   "id": "guetteur",
+   "name": "Un homme de Montboyau",
+   "role": "Sur l'éperon",
+   "position": [
+    47.394709,
+    0.644306
+   ],
+   "color": "#6A4A2A",
+   "dialogue": "guetteur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. L'oppidum est connu, jamais fouillé."
+  },
+  {
+   "id": "paysanne",
+   "name": "Une paysanne",
+   "role": "À la ferme de La Limougère",
+   "position": [
+    47.408566,
+    0.622506
+   ],
+   "color": "#7A6A3A",
+   "dialogue": "paysanne_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : aucun habitant de ce temps n'est connu par son nom. La ferme est connue par la fouille de 2006."
+  }
+ ]
+}
