@@ -21,7 +21,11 @@
   "label": "#382E27",
   "player": "#4E4A6A",
   "carriage": "#6B4A2E",
-  "wall": "#B0A081"
+  "wall": "#B0A081",
+  "habitat": "#D6C49D",
+  "cemetery": "#BDBF9F",
+  "port": "#D0BE91"
  },
+ "dashHypotheses": true,
  "carriage": "char à bœufs"
 }

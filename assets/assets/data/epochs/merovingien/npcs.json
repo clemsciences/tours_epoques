@@ -64,6 +64,58 @@
    "dialogue": "moine_intro",
    "certainty": "invented",
    "note": "Personnage anonyme."
+  },
+  {
+   "id": "gardien",
+   "name": "Le gardien du trésor",
+   "role": "Garde le trésor de la basilique",
+   "position": [
+    47.3929,
+    0.683
+   ],
+   "color": "#4A3B5C",
+   "dialogue": "gardien_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; la charge est attestée : Grégoire visite le trésor de Saint-Martin avec son gardien (Histoires, X, 31)."
+  },
+  {
+   "id": "tailleur",
+   "name": "Un tailleur de pierre",
+   "role": "A travaillé à la cathédrale",
+   "position": [
+    47.39575,
+    0.69385
+   ],
+   "color": "#7A6A52",
+   "dialogue": "tailleur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; la reconstruction de la cathédrale, dédiée en 590, est attestée (Histoires, X, 31)."
+  },
+  {
+   "id": "habitante",
+   "name": "Une habitante du faubourg",
+   "role": "Vit entre la Cité et Saint-Martin",
+   "position": [
+    47.3958,
+    0.6885
+   ],
+   "color": "#8A5A3A",
+   "dialogue": "habitante_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; l'habitat de bois et de terre hors les murs est connu par l'archéologie."
+  },
+  {
+   "id": "marinier",
+   "name": "Un marinier",
+   "role": "Au port de Saint-Martin",
+   "position": [
+    47.39492,
+    0.6816
+   ],
+   "color": "#3E5A5E",
+   "dialogue": "marinier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; un portus est attesté près de la basilique vers 600."
   }
  ]
 }

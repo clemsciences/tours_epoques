@@ -330,5 +330,238 @@
   "unlocks": [
    "codex.merovingien.marmoutier"
   ]
+ },
+ "gardien_intro": {
+  "speaker": "gardien",
+  "text": "Je garde le trésor de la basilique : les châsses, les reliques, les cierges. L'évêque est venu l'autre jour, un flambeau à la main, voir la châsse de saint Maurice. Je lui ai dit : « Il y a ici une pierre fermée par un couvercle, j'ignore ce qu'elle renferme, et n'ai pu le savoir de ceux de mes prédécesseurs commis à la garde de ce trésor. »",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31",
+    "quote": true
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et qu'y avait-il ?",
+    "next": "gardien_pierre"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.cathedrale_590"
+  ]
+ },
+ "gardien_pierre": {
+  "speaker": "gardien",
+  "text": "Une capsule d'argent pleine de reliques de martyrs. L'évêque les a portées à sa cathédrale neuve. Moi, je reste ici, près du tombeau, avec les tombes des clercs dans la cour.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 40"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.sepultures_590"
+  ]
+ },
+ "tailleur_intro": {
+  "speaker": "tailleur",
+  "text": "La cathédrale est finie : l'évêque l'a dédiée cette année. Nous avons pris beaucoup de pierres dans les ruines de la vieille ville ; on récupère tout, ici.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "§ 29"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et les maisons ?",
+    "next": "tailleur_maisons"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.cathedrale_590"
+  ]
+ },
+ "tailleur_maisons": {
+  "speaker": "tailleur",
+  "text": "Des maisons de pierre ? Il n'y en a guère qu'à l'angle nord de la Cité, chez des gens aisés. Ailleurs, on bâtit en bois et en terre.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 29"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.habitat_590"
+  ]
+ },
+ "habitante_intro": {
+  "speaker": "habitante",
+  "text": "Notre maison est en bois et en torchis, avec une fosse pour garder le grain. On cultive un jardin entre les ruines ; le fleuve est tout près.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 29"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Le fleuve est si près ?",
+    "next": "habitante_rive"
+   },
+   {
+    "label": "Où enterrez-vous vos morts ?",
+    "next": "habitante_morts"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.habitat_590"
+  ]
+ },
+ "habitante_rive": {
+  "speaker": "habitante",
+  "text": "Oui : la rive passe juste derrière Saint-Julien. Les quais que vous connaissez seront gagnés sur la Loire bien plus tard.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 8, figure 5"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.rive_590"
+  ]
+ },
+ "habitante_morts": {
+  "speaker": "habitante",
+  "text": "Pas toujours près d'une église : il y a des tombes un peu partout hors des murs, en petits groupes, et même au pied de la muraille, dans le vieux fossé.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 45-48"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.sepultures_590"
+  ]
+ },
+ "marinier_intro": {
+  "speaker": "marinier",
+  "text": "C'est ici qu'on accoste pour Saint-Martin. Les pèlerins qui viennent par le fleuve descendent là, à deux pas de la basilique.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 9 et 39"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.port_590"
+  ]
+ },
+ "lieu_saint_julien": {
+  "speaker": "saint_julien",
+  "text": "Un oratoire au bord du fleuve, où vivent des moines venus d'Auvergne ; Grégoire leur a donné des reliques de saint Julien de Brioude. Emplacement de l'église actuelle ; emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_saint_julien"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.eveques_batisseurs"
+  ]
+ },
+ "lieu_saint_lidoire": {
+  "speaker": "saint_lidoire",
+  "text": "L'évêque Litoire « fit aussi, d'une certaine maison de sénateur, la première basilique » ; il y est enseveli, et Martin y a déposé le corps de Gatien. Au bord de la nécropole de l'ouest. Emplacement restitué, emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31",
+    "quote": true
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.eveques_batisseurs"
+  ]
+ },
+ "lieu_residence": {
+  "speaker": "residence_episcopale",
+  "text": "La maison de l'évêque, dans la Cité, au sud de la cathédrale : Grégoire, ses clercs et ses serviteurs. Emplacement restitué par les archéologues ; emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.habitat_590"
+  ]
+ },
+ "lieu_maison_site_3": {
+  "speaker": "maison_site_3",
+  "text": "À l'angle nord-ouest de la Cité, sur les ruines des thermes, la fouille du château a trouvé des constructions sur solins maçonnés des Ve-VIe siècles : les seules maisons en dur connues à Tours à cette époque, chez des occupants aisés. Emprise supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 29"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.habitat_590"
+  ]
+ },
+ "lieu_port": {
+  "speaker": "port_saint_martin",
+  "text": "Un port (portus) est attesté par les textes vers 600, à quelques centaines de mètres de la basilique. Emplacement supposé, sur la rive restituée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 9 et 39"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.port_590"
+  ]
  }
 }

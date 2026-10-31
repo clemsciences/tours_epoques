@@ -369,5 +369,29 @@
   "publisher": "Berlin, Weidmann ; texte numérisé d'Internet Archive (traductions du jeu)",
   "url": "https://archive.org/details/monumentaalcuin00wattgoog",
   "kind": "lettres"
+ },
+ "lorans_2022": {
+  "title": "Les villes ligériennes d'Orléans à Nantes du IIIe au VIIe siècle, dans L'Antiquité tardive dans le centre et le centre-ouest de la Gaule (IIIe-VIIe siècles)",
+  "author": "Élisabeth Lorans, François Comte, Anne-Marie Jouquand, Xavier Rodier, Jacques Seigne et al.",
+  "year": "2022",
+  "publisher": "FERACF (Supplément à la Revue archéologique du Centre de la France) ; OpenEdition Books",
+  "url": "https://books.openedition.org/feracf/152",
+  "kind": "archéologie"
+ },
+ "galinie_2004": {
+  "title": "Tours et la Touraine au temps d'Alcuin : état des questions, Annales de Bretagne et des Pays de l'Ouest, 111-3, p. 37-52",
+  "author": "Henri Galinié, Élisabeth Lorans et Élisabeth Zadora-Rio",
+  "year": "2004",
+  "publisher": "Presses universitaires de Rennes ; OpenEdition Journals",
+  "url": "https://journals.openedition.org/abpo/1211",
+  "kind": "archéologie"
+ },
+ "hartmann_2004": {
+  "title": "Alcuin et la gestion matérielle de Saint-Martin de Tours, Annales de Bretagne et des Pays de l'Ouest, 111-3",
+  "author": "Martina Hartmann",
+  "year": "2004",
+  "publisher": "Presses universitaires de Rennes ; OpenEdition Journals",
+  "url": "https://journals.openedition.org/abpo/1220",
+  "kind": "histoire"
  }
 }

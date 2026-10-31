@@ -285,12 +285,16 @@
    "id": "codex.carolingien.domaines",
    "title": "Les terres du saint",
    "theme": "vie_quotidienne",
-   "text": "Saint-Martin vit de domaines nombreux, cultivés par des colons et des serfs qui doivent des redevances et des corvées. Avec ses autres abbayes, Alcuin en tient plus de vingt mille, d'après Guizot.",
+   "text": "Saint-Martin vit de domaines nombreux, cultivés par des colons et des serfs qui doivent des redevances. Sous Alcuin, les colons d'un domaine de Cormery déclarent sous serment ce que doit chaque exploitation. Le chiffre de plus de vingt mille serfs, repris par Guizot, vient d'Élipand de Tolède, adversaire d'Alcuin : les sources ne permettent pas de le vérifier.",
    "certainty": "attested",
    "sources": [
     {
      "id": "guizot_civilisation",
      "loc": "22e leçon, p. 200"
+    },
+    {
+     "id": "hartmann_2004",
+     "loc": "p. 92 et 95"
     }
    ],
    "quotes": [
@@ -307,7 +311,7 @@
    "id": "codex.carolingien.cite_800",
    "title": "La Cité et Saint-Martin",
    "theme": "lieux",
-   "text": "Tours a toujours deux pôles : la Cité, dans l'enceinte du IVe siècle, autour de la cathédrale Saint-Maurice et de l'évêque (Joseph Ier, 792-815) ; et, à l'ouest, la basilique Saint-Martin et son monastère, sans muraille. L'enceinte de Châteauneuf ne sera élevée qu'après l'incendie de 903. L'habitat n'est pas dessiné : on ne sait pas le situer.",
+   "text": "Tours a toujours deux pôles : la Cité, dans l'enceinte du IVe siècle, autour de la cathédrale Saint-Maurice et de l'évêque (Joseph Ier, 792-815) ; et, à l'ouest, la basilique Saint-Martin et son monastère, sans muraille. L'enceinte de Châteauneuf ne sera élevée qu'après l'incendie de 903. Les zones d'habitat, restituées par les archéologues, sont dessinées en pointillé.",
    "certainty": "attested",
    "sources": [
     {
@@ -318,6 +322,10 @@
     },
     {
      "id": "wp_enceinte_tours"
+    },
+    {
+     "id": "galinie_2004",
+     "loc": "p. 39"
     }
    ]
   },
@@ -391,6 +399,88 @@
    "sources": [
     {
      "id": "wp_caesarodunum"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.habitat_800",
+   "title": "Une population sans histoire",
+   "theme": "vie_quotidienne",
+   "text": "Hors les murs, entre la Cité et Saint-Martin, la fouille des abords de Saint-Julien montre une population « difficile à cerner, inconnue des textes », qui bâtit en terre et en pierre, récupère, cultive. Dans la Cité, l'évêque, ses clercs, de petites communautés, et à l'angle nord-ouest des habitants aisés. Les zones occupées sont restituées par les archéologues : dessinées en pointillé.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "galinie_2004",
+     "loc": "p. 39"
+    },
+    {
+     "id": "lorans_2022",
+     "loc": "figure 7"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "une population difficile à cerner, inconnue des textes, mais présente",
+     "source": {
+      "id": "galinie_2004",
+      "loc": "p. 39"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.population_800",
+   "title": "Combien à Saint-Martin ?",
+   "theme": "vie_quotidienne",
+   "text": "Une liste d'échange de prières avec Saint-Gall compte au moins 200 moines à Saint-Martin vers 800. Avec les clercs, les serviteurs, et tous ceux qu'occupent le scriptorium et le pèlerinage, cela fait au moins mille habitants, peut-être trois mille.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "galinie_2004",
+     "loc": "p. 40"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.sepultures_800",
+   "title": "Les morts mis à part",
+   "theme": "vie_quotidienne",
+   "text": "Au sud de la basilique, on enterrait des clercs, puis plus loin des laïcs, hommes, femmes et enfants. Au VIIIe siècle, les laïcs en sont exclus : on n'y trouve plus que des hommes, les moines. Les autres sont enterrés ailleurs, souvent en petits groupes de tombes sans église, dont nul texte ne parle.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "galinie_2004",
+     "loc": "p. 40-41"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.rive_800",
+   "title": "La Loire plus près",
+   "theme": "lieux",
+   "text": "La rive de la Loire passait plus au sud qu'aujourd'hui entre Saint-Lidoire et la Cité : on n'a gagné de terrain sur le fleuve qu'à partir du Xe siècle. Le quartier de Saint-Martin est tourné vers le fleuve, la Cité lui tourne le dos.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 8, figure 5"
+    },
+    {
+     "id": "galinie_2004",
+     "loc": "p. 41"
+    }
+   ]
+  },
+  {
+   "id": "codex.carolingien.cormery_bateaux",
+   "title": "Deux bateaux sans péage",
+   "theme": "evenements",
+   "text": "Le 2 juin 800, pendant son séjour à Tours, Charles accorde à Alcuin que deux bateaux de Cormery soient exemptés de péage. Louis le Pieux confirmera ce privilège en 808 et en 820.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "hartmann_2004",
+     "loc": "p. 95"
     }
    ]
   }

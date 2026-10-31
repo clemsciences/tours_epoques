@@ -90,6 +90,58 @@
    "dialogue": "moine_intro",
    "certainty": "invented",
    "note": "Personnage anonyme."
+  },
+  {
+   "id": "parcheminier",
+   "name": "Un parcheminier",
+   "role": "Prépare les peaux pour le scriptorium",
+   "position": [
+    47.3932,
+    0.6818
+   ],
+   "color": "#7A5A3A",
+   "dialogue": "parcheminier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; le besoin de peaux, d'encres et d'or du scriptorium est attesté (Hartmann 2004)."
+  },
+  {
+   "id": "batelier_cormery",
+   "name": "Un batelier de Cormery",
+   "role": "Mène l'un des deux bateaux de l'abbaye",
+   "position": [
+    47.39492,
+    0.6816
+   ],
+   "color": "#2E4A5A",
+   "dialogue": "batelier_cormery_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; l'exemption de péage pour deux bateaux de Cormery est accordée par Charles en 800 (Hartmann 2004)."
+  },
+  {
+   "id": "habitant",
+   "name": "Un habitant du faubourg",
+   "role": "Vit entre la Cité et Saint-Martin",
+   "position": [
+    47.3958,
+    0.6885
+   ],
+   "color": "#8A5A3A",
+   "dialogue": "habitant_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; cette population hors les murs est connue par la fouille des abords de Saint-Julien (Galinié et al. 2004)."
+  },
+  {
+   "id": "pelerin",
+   "name": "Un pèlerin d'outre-Manche",
+   "role": "Venu prier saint Martin",
+   "position": [
+    47.393,
+    0.6836
+   ],
+   "color": "#5A6A7A",
+   "dialogue": "pelerin_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; Alcuin tient aussi Saint-Josse-sur-Mer, confié par Charles pour faire l'aumône aux pèlerins (Hartmann 2004)."
   }
  ]
 }

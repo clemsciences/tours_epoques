@@ -146,12 +146,16 @@
    "id": "codex.merovingien.eveques_batisseurs",
    "title": "Les églises des évêques",
    "theme": "lieux",
-   "text": "Grégoire dresse la liste de ses prédécesseurs et de ce qu'ils ont bâti. Dans les murs : la première église (Litoire), l'église des saints Gervais et Protais (attribuée à Eustoche, puis à Ommat : Grégoire se contredit), Sainte-Marie (Ommat, Injuriosus). Hors les murs : Saint-Lidoire, Saint-Pierre-et-Saint-Paul (Perpet, avec la boiserie de la chapelle de Brice), Saint-Germain, Saint-Vincent. On ne sait pas assez où elles étaient pour les dessiner.",
+   "text": "Grégoire dresse la liste de ses prédécesseurs et de ce qu'ils ont bâti. Dans les murs : la première église (Litoire), l'église des saints Gervais et Protais (attribuée à Eustoche, puis à Ommat : Grégoire se contredit), Sainte-Marie (Ommat, Injuriosus). Hors les murs : Saint-Lidoire, Saint-Pierre-et-Saint-Paul (Perpet, avec la boiserie de la chapelle de Brice), Saint-Germain, Saint-Vincent. Les archéologues en ont restitué les emplacements (Lorans et al. 2022, figure 7) : elles sont dessinées en pointillé, à quelques dizaines de mètres près.",
    "certainty": "attested",
    "sources": [
     {
      "id": "gregoire_histoires",
      "loc": "II, 14 ; X, 31"
+    },
+    {
+     "id": "lorans_2022",
+     "loc": "figure 7"
     }
    ],
    "quotes": [
@@ -215,7 +219,7 @@
    "id": "codex.merovingien.castrum",
    "title": "La Cité dans ses murs",
    "theme": "lieux",
-   "text": "Depuis le IVe siècle, la Cité tient dans une enceinte d'environ 9 hectares, le long de la Loire, avec des tours, des portes à l'ouest, à l'est et vers le fleuve, et l'ancien amphithéâtre pour bastion au sud. Tracé dessiné d'après les vestiges et les rues qui la longent (restitution 3D vers 385). L'habitat, à l'intérieur comme au-dehors, n'est pas dessiné : on ne sait pas le situer.",
+   "text": "Depuis le IVe siècle, la Cité tient dans une enceinte d'environ 9 hectares, le long de la Loire, avec des tours, des portes à l'ouest, à l'est et vers le fleuve, et l'ancien amphithéâtre pour bastion au sud. Tracé dessiné d'après les vestiges et les rues qui la longent (restitution 3D vers 385). Au sud de la Cité, un quartier ecclésial : la cathédrale, deux autres églises et la maison de l'évêque, restituées par les archéologues.",
    "certainty": "attested",
    "sources": [
     {
@@ -223,6 +227,10 @@
     },
     {
      "id": "wp_caesarodunum"
+    },
+    {
+     "id": "lorans_2022",
+     "loc": "figure 7"
     }
    ]
   },
@@ -255,6 +263,62 @@
     },
     {
      "id": "wp_caesarodunum"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.habitat_590",
+   "title": "Maisons de bois et de terre",
+   "theme": "vie_quotidienne",
+   "text": "Les fouilles de Tours ont retrouvé, pour les IVe-Xe siècles, presque uniquement des fosses, des fossés et des trous de poteau : les maisons étaient de bois et de terre. Seul l'angle nord-ouest de la Cité (site 3, fouille du château) a livré des constructions sur solins maçonnés dès les Ve-VIe siècles, chez des occupants aisés. Les zones occupées, restituées par les archéologues, sont dessinées en pointillé.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 29, figure 7"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.sepultures_590",
+   "title": "Des tombes partout",
+   "theme": "vie_quotidienne",
+   "text": "À côté des grandes nécropoles (à l'ouest, près de Saint-Lidoire ; autour de la basilique Saint-Martin), on enterre aussi en petits groupes, à l'écart des églises : une quinzaine de tombes au pied de l'enceinte, dans le fossé comblé (IVe-VIIe siècles), d'autres un peu partout hors des murs. Dans l'atrium de Saint-Martin, on n'a trouvé que des squelettes d'hommes : des clercs.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 45-48, figure 16"
+    },
+    {
+     "id": "galinie_2004",
+     "loc": "p. 40"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.rive_590",
+   "title": "La Loire plus près",
+   "theme": "lieux",
+   "text": "De Saint-Lidoire à la Cité, la rive de la Loire passait plus au sud qu'aujourd'hui, et ne bougea guère jusqu'au Xe siècle : les terrains des quais actuels ont été gagnés plus tard. Le trait de rive restitué est dessiné en pointillé.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 8, figure 5"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.port_590",
+   "title": "Le port de Saint-Martin",
+   "theme": "lieux",
+   "text": "Vers 600, un portus est attesté par les textes à quelques centaines de mètres de la basilique : le pôle de Saint-Martin s'ouvre sur le fleuve. Emplacement exact inconnu.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 9 et 39"
     }
    ]
   }

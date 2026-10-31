@@ -435,10 +435,15 @@
    },
    {
     "id": "wp_abbaye_saint_martin"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 40"
    }
   ],
   "unlocks": [
-   "codex.carolingien.charles_800"
+   "codex.carolingien.charles_800",
+   "codex.carolingien.population_800"
   ]
  },
  "lieu_cathedrale": {
@@ -518,6 +523,199 @@
   ],
   "unlocks": [
    "codex.carolingien.marmoutier_800"
+  ]
+ },
+ "parcheminier_intro": {
+  "speaker": "parcheminier",
+  "text": "Des peaux de veau et de mouton, trempées, raclées, tendues, poncées. Une seule bible demande des centaines de bêtes. Et il faut encore les encres, et l'or pour les grandes lettres.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "hartmann_2004",
+    "loc": "p. 97"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui paie tout cela ?",
+    "next": "parcheminier_qui"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.scriptorium"
+  ]
+ },
+ "parcheminier_qui": {
+  "speaker": "parcheminier",
+  "text": "Les terres de l'abbaye. Ses revenus sont notés avec soin depuis longtemps : on en a des listes du temps des rois d'avant.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "hartmann_2004",
+    "loc": "p. 97"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.domaines"
+  ]
+ },
+ "batelier_cormery_intro": {
+  "speaker": "batelier_cormery",
+  "text": "Je mène un des deux bateaux de Cormery. Le roi vient d'accorder à l'abbé qu'ils passent sans payer de péage. Ce que nous portons arrive ainsi moins cher à l'abbaye.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "hartmann_2004",
+    "loc": "p. 95"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Où accostez-vous ?",
+    "next": "batelier_cormery_port"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cormery_bateaux"
+  ]
+ },
+ "batelier_cormery_port": {
+  "speaker": "batelier_cormery",
+  "text": "Ici, au port de Saint-Martin. La rive est là, bien plus au sud que vos quais de pierre ; tout ce quartier vit tourné vers le fleuve.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 41"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "§ 8-9"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.rive_800"
+  ]
+ },
+ "habitant_intro": {
+  "speaker": "habitant",
+  "text": "On bâtit avec ce qu'on trouve : de la terre, du bois, des pierres reprises aux ruines. On cultive aussi, entre les maisons. Les clercs ne nous voient guère, et les livres ne parlent pas de nous.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et vos morts ?",
+    "next": "habitant_morts"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.habitat_800"
+  ]
+ },
+ "habitant_morts": {
+  "speaker": "habitant",
+  "text": "Dans les cours de Saint-Martin, maintenant, on n'enterre plus que les moines. Nous, ce sera ailleurs, en petits groupes, hors des grands cimetières.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 40-41"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.sepultures_800"
+  ]
+ },
+ "pelerin_intro": {
+  "speaker": "pelerin",
+  "text": "Je viens de l'île de Bretagne, comme l'abbé. On débarque près de Quentovic ; à Saint-Josse, on donne l'aumône aux pèlerins, c'est l'abbé qui tient la maison. Puis la route jusqu'au tombeau du saint.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "hartmann_2004",
+    "loc": "p. 92 et 97"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.bretons"
+  ]
+ },
+ "lieu_port": {
+  "speaker": "port_saint_martin",
+  "text": "Le port de Saint-Martin, attesté vers 600 près de la basilique ; autour de 800, le secteur de Saint-Martin est « entièrement organisé en fonction du fleuve ». Emplacement supposé, sur la rive restituée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 41",
+    "quote": true
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "§ 9"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.rive_800",
+   "codex.carolingien.cormery_bateaux"
+  ]
+ },
+ "lieu_residence": {
+  "speaker": "residence_episcopale",
+  "text": "La maison de l'évêque, dans la Cité : « l'évêque et son entourage, des clercs dont le nombre échappe ». Emplacement restitué, emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39",
+    "quote": true
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.cite_800"
+  ]
+ },
+ "lieu_maison_site_3": {
+  "speaker": "maison_site_3",
+  "text": "À l'angle nord-ouest de la Cité, la fouille du château a trouvé « un grand bâtiment long d'au moins 12 m, large d'au moins 6, au sol certainement planchéié » : des habitants aisés. Emprise supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "galinie_2004",
+    "loc": "p. 39",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.carolingien.habitat_800"
+  ]
+ },
+ "lieu_saint_lidoire": {
+  "speaker": "saint_lidoire",
+  "text": "La basilique de l'évêque Litoire, la plus ancienne, au bord de la nécropole de l'ouest. Attestée au VIe siècle ; son état vers 800 n'est pas documenté. Emplacement restitué, emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   },
+   {
+    "id": "galinie_2004",
+    "loc": "p. 41"
+   }
   ]
  }
 }

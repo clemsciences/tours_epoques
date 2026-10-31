@@ -19,6 +19,27 @@
    "layer": "marmoutier_eglise",
    "dialogue": "lieu_marmoutier",
    "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  },
+  {
+   "layer": "saint_julien",
+   "dialogue": "lieu_saint_julien",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Julien_(Tours)"
+  },
+  {
+   "layer": "saint_lidoire",
+   "dialogue": "lieu_saint_lidoire"
+  },
+  {
+   "layer": "residence_episcopale",
+   "dialogue": "lieu_residence"
+  },
+  {
+   "layer": "maison_site_3",
+   "dialogue": "lieu_maison_site_3"
+  },
+  {
+   "layer": "port_saint_martin",
+   "dialogue": "lieu_port"
   }
  ]
 }
