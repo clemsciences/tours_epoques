@@ -1,0 +1,340 @@
+{
+ "epoch": "bas_empire",
+ "entries": [
+  {
+   "id": "codex.bas_empire.martin",
+   "title": "Martin, évêque",
+   "theme": "personnes",
+   "text": "Ancien soldat, moine à Ligugé, Martin est fait évêque de Tours en 371 par le peuple, presque malgré lui : on le fait sortir de son monastère sous prétexte d'une malade. Il le reste jusqu'à sa mort, en 397. Traduction du jeu : « On le demandait pour l'épiscopat de l'Église de Tours. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sulpice_vita",
+     "loc": "9"
+    },
+    {
+     "id": "wp_martin_de_tours"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "ad episcopatum Turonicae ecclesiae petebatur",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "9, 1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.monastere",
+   "title": "Le monastère de Martin",
+   "theme": "lieux",
+   "text": "Las des visites, Martin quitte la cellule attenante à l'église et fonde un monastère à deux milles de la cité, entre une falaise et la Loire, accessible par un seul chemin étroit. Environ quatre-vingts disciples ; rien n'y est à personne ; les plus jeunes copient, les anciens prient ; pas de vin. Il y bâtit une église des Saints-Apôtres. C'est le futur Marmoutier. Traduction du jeu : « Il s'établit un monastère à environ deux milles hors de la cité. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sulpice_vita",
+     "loc": "10"
+    },
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "duobus fere extra civitatem milibus monasterium sibi statuit",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "10, 3"
+     }
+    },
+    {
+     "text": "ars ibi exceptis scriptoribus nulla habebatur",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "10, 6"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.grottes",
+   "title": "Des cellules dans la falaise",
+   "theme": "vie_quotidienne",
+   "text": "Martin vit dans une cellule de bois, comme plusieurs frères ; la plupart se sont creusé un abri dans le rocher. Traduction du jeu : « La plupart s'étaient fait un abri en creusant la roche de la montagne qui domine. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sulpice_vita",
+     "loc": "10, 4-5"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "plerique saxo superiecti montis cavato receptacula sibi fecerant",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "10, 5"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.faux_martyr",
+   "title": "Le faux martyr",
+   "theme": "evenements",
+   "text": "Près du monastère, un tombeau était vénéré comme celui d'un martyr, avec un autel dressé par un ancien évêque. Martin, qui doute, prie sur la tombe : l'ombre d'un brigand exécuté lui apparaît. Il fait ôter l'autel. Traduction du jeu : « Il y avait, non loin de la ville, tout près du monastère, un lieu… »",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sulpice_vita",
+     "loc": "11"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "erat haud longe ab oppido proximus monasterio locus",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "11, 1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.sulpice",
+   "title": "Sulpice Sévère, le biographe",
+   "theme": "personnes",
+   "text": "Riche Aquitain converti, Sulpice Sévère fait le voyage pour voir Martin, l'interroge, interroge ses proches, et écrit sa Vie avant sa mort (396-397), puis des Dialogues. Martin le reçoit avec humilité. Traduction du jeu : « Il nous offrit lui-même l'eau pour les mains, et le soir il nous lava lui-même les pieds. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sulpice_vita",
+     "loc": "25"
+    },
+    {
+     "id": "wp_sulpice_severe"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "aquam manibus nostris ipse obtulit, ad vesperum autem pedes ipse nobis abluit",
+     "source": {
+      "id": "sulpice_vita",
+      "loc": "25, 3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.brice",
+   "title": "Brice, le disciple difficile",
+   "theme": "personnes",
+   "text": "Élevé au monastère par Martin, devenu clerc, Brice a des chevaux et achète des esclaves ; réprimandé, il monte injurier son maître, qui reste calme, puis revient lui demander pardon. Il sera pourtant son successeur (397). Sulpice raconte que Martin vit deux démons sur la falaise l'encourager : « Allez, Brice ! » (traduction du jeu).",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sulpice_halm",
+     "loc": "Dialogues, III, 15"
+    },
+    {
+     "id": "gregoire_histoires",
+     "loc": "II, 1 ; X, 31"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "heia te Brictio, heia te Brictio",
+     "source": {
+      "id": "sulpice_halm",
+      "loc": "Dialogues, III, 15"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.secretarium",
+   "title": "Martin à l'église",
+   "theme": "vie_quotidienne",
+   "text": "À la cathédrale, Martin attend l'heure de l'office seul dans une pièce à part, le secretarium, pendant que les prêtres reçoivent dans une autre. Il ne s'y assoit jamais sur une chaise. C'est là qu'un jour d'hiver il donne en secret sa propre tunique à un pauvre presque nu. Traduction du jeu : « Assis dans le secretarium, il n'usa jamais d'un siège. »",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sulpice_halm",
+     "loc": "Dialogues, II, 1"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "in secretario sedens numquam cathedra usus est",
+     "source": {
+      "id": "sulpice_halm",
+      "loc": "Dialogues, II, 1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.avitianus",
+   "title": "Le comte Avitianus",
+   "theme": "evenements",
+   "text": "Un comte d'une cruauté célèbre, Avitianus, entre à Tours avec des files de prisonniers enchaînés et prépare leurs supplices. Martin va seul, la nuit, se coucher devant la porte de son prétoire ; le comte, réveillé deux fois, finit par le trouver là et relâche les prisonniers. Date inconnue. Traduction du jeu : « Il se rend au prétoire de cette bête. »",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sulpice_halm",
+     "loc": "Dialogues, III, 4"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "ad praetorium bestiae illius tendit",
+     "source": {
+      "id": "sulpice_halm",
+      "loc": "Dialogues, III, 4"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.priscillien",
+   "title": "Martin et l'empereur Maxime",
+   "theme": "evenements",
+   "text": "À Trèves, Martin demande à l'usurpateur Maxime (383-388) de ne pas faire mettre à mort les priscillianistes d'Espagne : il suffit, dit-il, de les séparer de l'Église. Priscillien est pourtant exécuté.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    },
+    {
+     "id": "wp_martin_de_tours"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Il empêcha Maxime d’envoyer en Espagne faire périr les hérétiques par le glaive",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.gatien_litoire",
+   "title": "Gatien et Litoire",
+   "theme": "personnes",
+   "text": "Selon Grégoire, Gatien, premier évêque, vint de Rome vers 250 et célébrait en secret ; Litoire (337-370) bâtit la première église dans la ville et fit d'une maison de sénateur la première basilique, où il fut enseveli. Martin y transféra le corps de Gatien.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Il fit aussi, d’une certaine maison de sénateur, la première basilique.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.ecclesia",
+   "title": "L'église de la cité",
+   "theme": "lieux",
+   "text": "La première église de Tours, bâtie par Litoire dans la ville, à l'emplacement de la cathédrale actuelle. Son plan est inconnu.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    },
+    {
+     "id": "wp_caesarodunum"
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.castrum",
+   "title": "La ville close",
+   "theme": "lieux",
+   "text": "Dans la première moitié du IVe siècle, la ville se replie derrière une enceinte de 1 245 m qui enferme 9 ha et l'amphithéâtre, devenu bastion. Le reste de la ville ouverte du Haut-Empire se vide ; l'habitat se resserre vers la Loire ; les monuments abandonnés fournissent les pierres du mur.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_enceinte_tours"
+    },
+    {
+     "id": "wp_caesarodunum"
+    },
+    {
+     "id": "lorans_2022",
+     "loc": "§ 11-15"
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.pont",
+   "title": "Le pont de bois",
+   "theme": "lieux",
+   "text": "Un pont de bois franchit la Loire au niveau de l'île Aucard, aboutissant au milieu de la face nord de l'enceinte. Il a pu être bâti dès la fin du IIIe siècle ; l'ancien axe et l'ancien pont, plus à l'ouest, sont abandonnés au IVe siècle.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 15-16"
+    },
+    {
+     "id": "wp_ponts_antiques_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.thermes",
+   "title": "Les bains rouverts",
+   "theme": "vie_quotidienne",
+   "text": "Coupés par l'enceinte, les thermes de l'Est ont été hors d'usage pendant sa construction, puis ont repris leur activité pour quelques décennies à la fin du IVe siècle. L'angle nord-ouest de la Cité est le quartier d'une élite.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_enceinte_tours"
+    },
+    {
+     "id": "wp_thermes_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.capitale",
+   "title": "Capitale de province",
+   "theme": "evenements",
+   "text": "Au IVe siècle, Tours devient la capitale de la IIIe Lyonnaise, l'une des provinces de la Gaule. Les curiales, notables de la cité, répondent de l'impôt sur leurs biens.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_caesarodunum"
+    }
+   ]
+  },
+  {
+   "id": "codex.bas_empire.necropole",
+   "title": "La nécropole de l'ouest",
+   "theme": "lieux",
+   "text": "Une nécropole est fondée au début du IVe siècle à environ un kilomètre à l'ouest de l'enceinte, au bord de la voie. Martin y sera inhumé en 397 ; sur sa tombe s'élèveront une chapelle, puis la grande basilique Saint-Martin.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "lorans_2022",
+     "loc": "§ 39"
+    }
+   ]
+  }
+ ]
+}

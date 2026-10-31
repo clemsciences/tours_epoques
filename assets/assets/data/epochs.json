@@ -2,7 +2,7 @@
  "epochs": [
   {"id": "aujourdhui", "title": "Tours aujourd'hui", "yearLabel": "aujourd'hui", "playable": true},
   {"id": "gaulois", "title": "Avant César", "yearLabel": "vers −60", "playable": true},
-  {"id": "bas_empire", "title": "Le temps de saint Martin", "yearLabel": "vers 385", "playable": false},
+  {"id": "bas_empire", "title": "Le temps de saint Martin", "yearLabel": "vers 395", "playable": true},
   {"id": "merovingien", "title": "Le temps de Grégoire", "yearLabel": "vers 590", "playable": true},
   {"id": "carolingien", "title": "Le temps d'Alcuin", "yearLabel": "800", "playable": true},
   {"id": "an_mil", "title": "Le XIe siècle", "yearLabel": "vers 1050", "playable": true},

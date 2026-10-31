@@ -1,0 +1,31 @@
+{
+ "id": "bas_empire",
+ "title": "Le temps de saint Martin",
+ "year": 395,
+ "yearLabel": "vers 395",
+ "place": "Civitas Turonorum",
+ "summary": "Vers 395, la ville s'est repliée derrière l'enceinte du castrum, adossée à l'amphithéâtre devenu forteresse ; un pont de bois franchit la Loire. L'évêque Martin, vieil homme, vit hors de la ville, dans son monastère au pied de la falaise, avec quatre-vingts disciples. Un jeune aristocrate d'Aquitaine, Sulpice Sévère, est venu le voir : il écrira sa vie.",
+ "palette": {
+  "ground": "#E3DBC2",
+  "water": "#86A2A6",
+  "waterEdge": "#567276",
+  "land": "#D3C9A6",
+  "garden": "#A9BA86",
+  "street": "#EADFC4",
+  "streetEdge": "#8F7D5E",
+  "stone": "#EDE3CF",
+  "stoneEdge": "#665746",
+  "worksite": "#D2C2A0",
+  "roof": "#A9633F",
+  "roofEdge": "#6E3D26",
+  "label": "#352B23",
+  "player": "#7A3A2E",
+  "carriage": "#6B4A2E",
+  "wall": "#BBA98B",
+  "habitat": "#D6C6A0",
+  "cemetery": "#BCC0A0",
+  "port": "#D9CCAA"
+ },
+ "dashHypotheses": true,
+ "carriage": "chariot"
+}

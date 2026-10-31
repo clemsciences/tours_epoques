@@ -1,0 +1,428 @@
+{
+ "martin_intro": {
+  "speaker": "martin",
+  "text": "Que la paix soit avec toi. Ici, nous prions, nous copions les Écritures, nous ne possédons rien. Je descends à la ville quand l'Église a besoin de son évêque.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "10"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi vivre hors de la ville ?",
+    "next": "martin_monastere"
+   },
+   {
+    "label": "On dit que vous avez renversé un autel.",
+    "next": "martin_martyr"
+   },
+   {
+    "label": "Et l'empereur Maxime ?",
+    "next": "martin_maxime"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.martin",
+   "codex.bas_empire.monastere"
+  ]
+ },
+ "martin_monastere": {
+  "speaker": "martin",
+  "text": "J'ai d'abord logé dans une cellule contre l'église. Mais on venait sans cesse. Ici, la falaise d'un côté, le fleuve de l'autre, un seul chemin : c'est le désert, à deux milles de la cité.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "10, 3-4"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.monastere",
+   "codex.bas_empire.grottes"
+  ]
+ },
+ "martin_martyr": {
+  "speaker": "martin",
+  "text": "Près d'ici, on vénérait un tombeau comme celui d'un martyr ; un de mes prédécesseurs y avait dressé un autel. Personne ne savait son nom. J'ai prié sur la tombe : c'était un brigand, exécuté pour ses crimes. J'ai fait ôter l'autel.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "11"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.faux_martyr"
+  ]
+ },
+ "martin_maxime": {
+  "speaker": "martin",
+  "text": "À Trèves, j'ai demandé à l'empereur qu'on ne verse pas le sang des hérétiques d'Espagne : il suffisait de les séparer de l'Église. Maxime est mort, à présent.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "wp_martin_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.priscillien"
+  ]
+ },
+ "sulpice_intro": {
+  "speaker": "sulpice",
+  "text": "Je suis venu d'Aquitaine pour le voir. Il m'a reçu à sa table, il m'a lui-même versé l'eau sur les mains, et le soir il m'a lavé les pieds. Je n'ai pas osé refuser.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "25, 1-3"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qu'allez-vous faire ?",
+    "next": "sulpice_vie"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.sulpice"
+  ]
+ },
+ "sulpice_vie": {
+  "speaker": "sulpice",
+  "text": "Écrire sa vie. Je l'interroge autant qu'il veut bien répondre, et j'interroge ceux qui l'ont connu, ses moines, ses clercs.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "25, 1"
+   },
+   {
+    "id": "wp_sulpice_severe"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.sulpice"
+  ]
+ },
+ "moine_intro": {
+  "speaker": "moine",
+  "text": "Les anciens prient ; nous, les plus jeunes, nous copions : c'est le seul métier qu'on fasse ici. On ne vend rien, on n'achète rien, tout est en commun. Et pas de vin, sauf pour les malades.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "10, 6-7"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et ces habits ?",
+    "next": "moine_habits"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.monastere"
+  ]
+ },
+ "moine_habits": {
+  "speaker": "moine",
+  "text": "Beaucoup portent du poil de chameau ; un vêtement doux passerait pour une faute. Et pourtant il y a ici des fils de grandes familles.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "10, 8"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.monastere"
+  ]
+ },
+ "brice_intro": {
+  "speaker": "brice",
+  "text": "J'ai grandi au monastère, élevé par Martin lui-même. Aujourd'hui je suis clerc, j'ai des chevaux et quelques serviteurs. Il me le reproche. On dit même que je l'ai traité de fou.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_halm",
+    "loc": "Dialogues, III, 15"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 1"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et l'avez-vous fait ?",
+    "next": "brice_injures"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.brice"
+  ]
+ },
+ "brice_injures": {
+  "speaker": "brice",
+  "text": "Je suis monté au monastère, furieux, et je l'ai couvert d'injures. Il est resté calme. Je suis revenu peu après me jeter à ses genoux, et il m'a pardonné.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_halm",
+    "loc": "Dialogues, III, 15"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.brice"
+  ]
+ },
+ "garde_intro": {
+  "speaker": "garde",
+  "text": "Tout ce qui passe le fleuve passe par ici, par le pont et par cette porte. Dehors, la vieille ville tombe en ruine ; on a pris ses pierres pour bâtir le mur.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 15-16"
+   },
+   {
+    "id": "wp_caesarodunum"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et le comte Avitianus ?",
+    "next": "garde_avitianus"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.pont",
+   "codex.bas_empire.castrum"
+  ]
+ },
+ "garde_avitianus": {
+  "speaker": "garde",
+  "text": "Je m'en souviens. Il est entré dans la ville avec des files de prisonniers enchaînés et a fait préparer les supplices pour le lendemain. Cette nuit-là, l'évêque est allé seul se coucher devant sa porte. Au matin, le comte les a tous relâchés.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sulpice_halm",
+    "loc": "Dialogues, III, 4"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.avitianus"
+  ]
+ },
+ "decurion_intro": {
+  "speaker": "decurion",
+  "text": "Je siège à la curie. Nous répondons de l'impôt sur nos biens : si les paysans ne paient pas, c'est nous qui payons. Tours est capitale de la province ; on voit passer des fonctionnaires.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_caesarodunum"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.capitale"
+  ]
+ },
+ "affranchie_intro": {
+  "speaker": "affranchie",
+  "text": "J'étais esclave dans une grande maison de ce quartier ; ma maîtresse m'a affranchie. Les bains ont rouvert, après des années : on y revient.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_enceinte_tours"
+   },
+   {
+    "id": "wp_thermes_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.thermes"
+  ]
+ },
+ "batelier_intro": {
+  "speaker": "batelier",
+  "text": "Le fleuve, c'est notre route. Le pont nous oblige à passer sous ses piles ; le reste du temps, on charge et on décharge ici, sur la rive.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 8-9"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.pont"
+  ]
+ },
+ "gardien_intro": {
+  "speaker": "gardien",
+  "text": "C'est la basilique de l'évêque Litoire, dans une ancienne maison de sénateur. Il y repose. Martin y a fait porter le corps de Gatien, le premier évêque, pour qu'il soit près de lui.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.gatien_litoire"
+  ]
+ },
+ "lieu_amphitheatre": {
+  "speaker": "amphitheatre",
+  "text": "L'amphithéâtre du Haut-Empire, transformé en forteresse au IIIe siècle : il forme le bastion sud de l'enceinte.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_caesarodunum"
+   },
+   {
+    "id": "wp_enceinte_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.castrum"
+  ],
+  "model": "castrum_385"
+ },
+ "lieu_enceinte": {
+  "speaker": "castrum_0",
+  "text": "L'enceinte du castrum : 1 245 m de tour, 9 ha, des murs de plus de 4 m d'épaisseur, bâtis avec les pierres des monuments abandonnés.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_enceinte_tours"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "§ 12"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.castrum"
+  ],
+  "model": "castrum_385"
+ },
+ "lieu_ecclesia": {
+  "speaker": "ecclesia",
+  "text": "L'église de la cité, la première, bâtie par l'évêque Litoire. Martin y vient pour les offices ; il attend l'heure dans le secretarium, seul, et ne s'assoit jamais sur une chaise.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "sulpice_halm",
+    "loc": "Dialogues, II, 1"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.ecclesia",
+   "codex.bas_empire.secretarium"
+  ]
+ },
+ "lieu_thermes": {
+  "speaker": "thermes_est",
+  "text": "Les anciens thermes de l'Est, coupés par l'enceinte, ont rouvert à la fin du IVe siècle, pour quelques décennies. Plan supposé.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_tours"
+   },
+   {
+    "id": "wp_thermes_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.thermes"
+  ]
+ },
+ "lieu_pont": {
+  "speaker": "pont",
+  "text": "Le pont de bois, dans l'axe de l'amphithéâtre : il a pu être bâti dès la fin du IIIe siècle. Pour passer le fleuve, il faut désormais entrer dans la ville close.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 15-16"
+   },
+   {
+    "id": "wp_ponts_antiques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.pont"
+  ]
+ },
+ "lieu_necropole": {
+  "speaker": "necropole_ouest",
+  "text": "Une nécropole fondée au début du IVe siècle, à un kilomètre à l'ouest de l'enceinte, au bord de la voie. C'est ici que Martin sera enterré, en 397.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "lorans_2022",
+    "loc": "§ 39"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.necropole"
+  ]
+ },
+ "lieu_litoire": {
+  "speaker": "basilique_litoire",
+  "text": "La basilique de Litoire, aménagée dans une maison de sénateur. Litoire y est enseveli ; Martin y a transféré Gatien. Emplacement d'après la carte archéologique, emprise supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "figure 7"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.gatien_litoire"
+  ]
+ },
+ "lieu_saints_apotres": {
+  "speaker": "saints_apotres",
+  "text": "L'église que Martin a bâtie dans son monastère, en l'honneur des apôtres Pierre et Paul. Emplacement supposé.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.monastere"
+  ]
+ },
+ "lieu_grottes": {
+  "speaker": "grottes",
+  "text": "La plupart des frères se sont creusé un abri dans le rocher de la falaise ; Martin, lui, vit dans une cellule de bois.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sulpice_vita",
+    "loc": "10, 4-5"
+   }
+  ],
+  "unlocks": [
+   "codex.bas_empire.grottes"
+  ]
+ }
+}

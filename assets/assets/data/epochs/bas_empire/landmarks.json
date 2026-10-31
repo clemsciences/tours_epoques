@@ -1,0 +1,46 @@
+{
+ "landmarks": [
+  {
+   "layer": "amphitheatre",
+   "dialogue": "lieu_amphitheatre",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Tours"
+  },
+  {
+   "layer": "castrum_0",
+   "dialogue": "lieu_enceinte",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours"
+  },
+  {
+   "layer": "ecclesia",
+   "dialogue": "lieu_ecclesia",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "thermes_est",
+   "dialogue": "lieu_thermes",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Thermes_gallo-romains_de_Tours"
+  },
+  {
+   "layer": "pont",
+   "dialogue": "lieu_pont",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ponts_antiques_sur_la_Loire_dans_l%27agglom%C3%A9ration_tourangelle"
+  },
+  {
+   "layer": "necropole_ouest",
+   "dialogue": "lieu_necropole"
+  },
+  {
+   "layer": "basilique_litoire",
+   "dialogue": "lieu_litoire"
+  },
+  {
+   "layer": "saints_apotres",
+   "dialogue": "lieu_saints_apotres",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  },
+  {
+   "layer": "grottes",
+   "dialogue": "lieu_grottes"
+  }
+ ]
+}

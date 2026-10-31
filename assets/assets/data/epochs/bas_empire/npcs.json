@@ -1,0 +1,121 @@
+{
+ "npcs": [
+  {
+   "id": "martin",
+   "name": "Martin",
+   "role": "Évêque de Tours",
+   "position": [
+    47.404519,
+    0.718163
+   ],
+   "color": "#5A4632",
+   "dialogue": "martin_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Martin, évêque de Tours de 371 à sa mort en 397. Répliques reconstituées d'après Sulpice Sévère et Grégoire de Tours ; les citations exactes sont dans le carnet, en latin."
+  },
+  {
+   "id": "sulpice",
+   "name": "Sulpice Sévère",
+   "role": "Visiteur venu d'Aquitaine",
+   "position": [
+    47.404439,
+    0.718713
+   ],
+   "color": "#3E4E6E",
+   "dialogue": "sulpice_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Sulpice Sévère (vers 360-vers 420), biographe de Martin. Sa visite à Marmoutier est racontée dans la Vie (25) ; date exacte inconnue, dans les dernières années de Martin."
+  },
+  {
+   "id": "moine",
+   "name": "Un jeune moine",
+   "role": "Copiste du monastère",
+   "position": [
+    47.404599,
+    0.717613
+   ],
+   "color": "#6E5A3E",
+   "dialogue": "moine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La copie, confiée aux plus jeunes, est attestée (Sulpice, Vie, 10)."
+  },
+  {
+   "id": "brice",
+   "name": "Brice",
+   "role": "Clerc de l'église de Tours",
+   "position": [
+    47.395418,
+    0.694197
+   ],
+   "color": "#7A3E3E",
+   "dialogue": "brice_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Brice, élevé au monastère par Martin, puis clerc ; il lui succédera en 397. Répliques reconstituées d'après Sulpice (Dialogues, III, 15) et Grégoire (II, 1)."
+  },
+  {
+   "id": "garde",
+   "name": "Un garde",
+   "role": "À la porte du pont",
+   "position": [
+    47.397182,
+    0.695028
+   ],
+   "color": "#5A5A4A",
+   "dialogue": "garde_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Le pont et la porte nord sont probables."
+  },
+  {
+   "id": "decurion",
+   "name": "Un décurion",
+   "role": "Membre de la curie",
+   "position": [
+    47.396581,
+    0.697425
+   ],
+   "color": "#4A5A6E",
+   "dialogue": "decurion_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les curiales, notables chargés de lever l'impôt, sont la règle dans les cités de ce temps ; rien de particulier n'est connu à Tours."
+  },
+  {
+   "id": "affranchie",
+   "name": "Une affranchie",
+   "role": "Au service d'une maison de l'angle nord-ouest",
+   "position": [
+    47.39642,
+    0.693444
+   ],
+   "color": "#7A5A6E",
+   "dialogue": "affranchie_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les thermes rouverts et l'élite de l'angle nord-ouest sont rapportés par Wikipédia."
+  },
+  {
+   "id": "batelier",
+   "name": "Un batelier",
+   "role": "Sur la rive",
+   "position": [
+    47.395249,
+    0.683556
+   ],
+   "color": "#3E5A6A",
+   "dialogue": "batelier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Rive restituée d'après Lorans et al. 2022."
+  },
+  {
+   "id": "gardien",
+   "name": "Le gardien de la basilique",
+   "role": "Basilique de Litoire",
+   "position": [
+    47.393891,
+    0.67608
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "gardien_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La basilique de Litoire et le transfert de Gatien sont rapportés par Grégoire (X, 31)."
+  }
+ ]
+}

@@ -520,5 +520,42 @@
   "year": "consulté le 31/10/2026",
   "url": "https://fr.wikipedia.org/wiki/Oppidum_des_Ch%C3%A2teliers",
   "kind": "encyclopédie"
+ },
+ "sulpice_vita": {
+  "title": "Vita sancti Martini (texte latin)",
+  "author": "Sulpice Sévère",
+  "year": "396-397",
+  "publisher": "The Latin Library",
+  "url": "https://www.thelatinlibrary.com/sulpiciusseverusmartin.html",
+  "kind": "hagiographie"
+ },
+ "sulpice_halm": {
+  "title": "Sulpicii Severi libri qui supersunt (Vita, Epistulae, Dialogi), éd. C. Halm, Corpus scriptorum ecclesiasticorum latinorum, 1",
+  "author": "Sulpice Sévère",
+  "year": "vers 396-404 ; édition de 1866",
+  "publisher": "Vienne, Gerold ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/sulpiciiseveril00sevegoog",
+  "kind": "hagiographie"
+ },
+ "wp_martin_de_tours": {
+  "title": "Martin de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Martin_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_sulpice_severe": {
+  "title": "Sulpice Sévère",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Sulpice_S%C3%A9v%C3%A8re",
+  "kind": "encyclopédie"
+ },
+ "wp_thermes_tours": {
+  "title": "Thermes gallo-romains de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Thermes_gallo-romains_de_Tours",
+  "kind": "encyclopédie"
  }
 }
