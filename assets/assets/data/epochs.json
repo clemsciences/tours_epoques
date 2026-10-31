@@ -5,7 +5,7 @@
   {"id": "bas_empire", "title": "Le temps de saint Martin", "yearLabel": "vers 385", "playable": false},
   {"id": "merovingien", "title": "Le temps de Grégoire", "yearLabel": "vers 590", "playable": true},
   {"id": "carolingien", "title": "Le temps d'Alcuin", "yearLabel": "800", "playable": true},
-  {"id": "an_mil", "title": "Le XIe siècle", "yearLabel": "vers 1050", "playable": false},
+  {"id": "an_mil", "title": "Le XIe siècle", "yearLabel": "vers 1050", "playable": true},
   {"id": "cent_ans", "title": "La guerre de Cent Ans", "yearLabel": "1429", "playable": false},
   {"id": "louis_xi", "title": "Le temps de Louis XI", "yearLabel": "vers 1480", "playable": false},
   {"id": "renaissance", "title": "La Renaissance", "yearLabel": "vers 1520", "playable": false},

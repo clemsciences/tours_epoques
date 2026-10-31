@@ -1,0 +1,205 @@
+{
+ "epoch": "an_mil",
+ "entries": [
+  {
+   "id": "codex.an_mil.ville_double",
+   "title": "Deux villes, une ville double",
+   "theme": "lieux",
+   "text": "Depuis le Xe siècle, Tours est double : la Cité, à l'est, siège du comte, du roi et de l'archevêque ; Châteauneuf, à l'ouest, autour de Saint-Martin, qui « concentre l'essentiel des activités commerciales et artisanales, donc de la population ». Entre les deux, les terres de Saint-Julien.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "galinie_2010",
+     "loc": "phases D-E"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "deux villes et ville double",
+     "source": {
+      "id": "galinie_2010",
+      "loc": "phase D"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.castrum_saint_martin",
+   "title": "Le castrum de Saint-Martin",
+   "theme": "lieux",
+   "text": "Réfugiés dans la Cité après le raid normand de 903, les chanoines font bâtir autour de la basilique une enceinte, achevée en 918 : environ 4 ha, des tours rondes, un fossé. Le quartier des chanoines est au sud, le bourg laïc au nord. Le roi y accorde l'immunité et le droit de monnaie. Le tracé est connu par l'étude du parcellaire et par des vestiges ; les portes sont supposées.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "marot_2013",
+     "loc": "§ 3-16, figure 2"
+    },
+    {
+     "id": "galinie_2010",
+     "loc": "phase D"
+    },
+    {
+     "id": "noizet_2005",
+     "loc": "§ 1"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "un quadrilatère de plus de 200 m de côté",
+     "source": {
+      "id": "marot_2013",
+      "loc": "§ 10"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.incendie_997",
+   "title": "Le castrum en flammes",
+   "theme": "evenements",
+   "text": "À la fin du Xe siècle, un incendie détruit la basilique (994 selon Wikipédia, 997 selon la chronique du chanoine Pierre, fils de Béchin, qui parle de vingt-deux églises brûlées, chiffre sans doute exagéré). Le trésorier Hervé fait rebâtir l'église, consacrée en 1014.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_abbaye_saint_martin"
+    },
+    {
+     "id": "noizet_2005",
+     "loc": "n. 8"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "incensum est castrum beati Martini, et ipsius basilica, cum XXII ecclesiis",
+     "source": {
+      "id": "noizet_2005",
+      "loc": "n. 8 (chronique de Pierre, fils de Béchin)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.pont_eudes",
+   "title": "Le pont d'Eudes",
+   "theme": "lieux",
+   "text": "Le comte Eudes II de Blois décide vers 1034 de jeter un pont sur la Loire ; il est achevé en 1037 : environ 450 m, 23 arches, deux îles. Il part de l'angle nord-ouest de la Cité, près du château, et rejoint Saint-Symphorien. Il servira jusqu'à la fin du XVIIIe siècle.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_pont_eudes"
+    },
+    {
+     "id": "galinie_2010",
+     "loc": "phase E"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.nouy_1044",
+   "title": "Nouy, 1044",
+   "theme": "evenements",
+   "text": "Allié au roi Henri Ier, le comte d'Anjou Geoffroy Martel bat et capture le comte de Blois Thibaud III à Nouy en 1044. Thibaud ne recouvre la liberté qu'en cédant la Touraine : Tours passe aux Angevins.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_geoffroy_martel"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.berenger",
+   "title": "Bérenger, l'écolâtre",
+   "theme": "personnes",
+   "text": "Né vers 998 à Tours, élève de Fulbert de Chartres, Bérenger dirige l'école de Saint-Martin depuis 1030. Son enseignement sur l'eucharistie le fait condamner au concile de Verceil en 1050, puis à Tours en 1054 et à Rome en 1059. Il mourra en 1088 à Saint-Cosme, réconcilié avec l'Église.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_berenger"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.monnaie",
+   "title": "Les deniers de Saint-Martin",
+   "theme": "vie_quotidienne",
+   "text": "Le castrum de Saint-Martin a reçu le droit de frapper monnaie. Les deniers portent le nom du saint et TVRONVS CIVI ; au cours du XIe siècle apparaît le « châtel », motif repris en 1204 par le denier tournois royal.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "marot_2013",
+     "loc": "§ 6"
+    },
+    {
+     "id": "cgb_denier_saint_martin"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.teotolon",
+   "title": "Les rues de Téotolon",
+   "theme": "lieux",
+   "text": "Entre 918 et 943, le doyen de Saint-Martin Téotolon, devenu archevêque, réorganise la voirie : une patte d'oie devant la porte nord du castrum, des rues parallèles qui descendent vers la Loire. Le quartier de Saint-Martin est tourné vers le fleuve. Tracés supposés.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "marot_2013",
+     "loc": "§ 14"
+    },
+    {
+     "id": "galinie_2010",
+     "loc": "phase D"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.saint_julien_943",
+   "title": "Saint-Julien et ses vignes",
+   "theme": "lieux",
+   "text": "Dévasté par les Normands, le monastère Saint-Julien est relevé vers 940 par l'archevêque Téotolon ; l'église est consacrée en 943. Doté de vastes terres, il forme entre la Cité et Châteauneuf « un espace intercalaire de terres arables et de vignes ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_saint_julien"
+    },
+    {
+     "id": "galinie_2010",
+     "loc": "phase D"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "un espace intercalaire de terres arables et de vignes",
+     "source": {
+      "id": "galinie_2010",
+      "loc": "phase D"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.eglises",
+   "title": "Une forêt d'églises",
+   "theme": "lieux",
+   "text": "Autour de la basilique se pressent des églises paroissiales et des chapelles : trois dans le castrum (Sainte-Croix, Saint-Denis, Notre-Dame-de-l'Écrignole), quatre dans le bourg, sans compter Saint-Pierre-le-Puellier, Saint-Saturnin, Saint-Hilaire. Leurs emplacements sont restitués par les archéologues : dessinés en pointillé.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "marot_2013",
+     "loc": "§ 22, figures 1-2"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.marmoutier_xie",
+   "title": "Marmoutier au XIe siècle",
+   "theme": "lieux",
+   "text": "Relevée à la fin du Xe siècle avec des moines venus de Cluny, l'abbaye de Marmoutier est puissante : en 1047-1048, Guillaume de Normandie lui donne des biens à Guernesey. Des moines y enseignent la médecine. La grande église romane ne sera commencée que vers 1070.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_marmoutier"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "berenger_intro": {
+  "speaker": "berenger",
+  "text": "Je tiens l'école de Saint-Martin. On vient de loin pour m'entendre raisonner sur les Écritures. On vient aussi, ces temps-ci, pour me condamner : cette année, à Verceil, le pape m'a condamné.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_berenger"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi ?",
+    "next": "berenger_eucharistie"
+   },
+   {
+    "label": "Et le comte ?",
+    "next": "berenger_comte"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.berenger"
+  ]
+ },
+ "berenger_eucharistie": {
+  "speaker": "berenger",
+  "text": "Pour ce que j'enseigne du pain et du vin de la messe. Lanfranc, au Bec, m'attaque ; d'autres m'écrivent pour me ramener. Je soutiens qu'il faut user de la raison ; eux, que je nie la présence réelle.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_berenger"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.berenger"
+  ]
+ },
+ "berenger_comte": {
+  "speaker": "berenger",
+  "text": "Geoffroy d'Anjou est maître de Tours depuis Nouy. Pour l'instant, il ne m'a pas chassé. Les princes changent d'avis plus vite que les théologiens.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_berenger"
+   },
+   {
+    "id": "wp_geoffroy_martel"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.nouy_1044"
+  ]
+ },
+ "monnayeur_intro": {
+  "speaker": "monnayeur",
+  "text": "Nous frappons les deniers de Saint-Martin : d'un côté, le nom du saint, SCS MARTINVS ; de l'autre, TVRONVS CIVI. Le droit de monnaie appartient aux chanoines depuis qu'ils ont leur castrum.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "cgb_denier_saint_martin"
+   },
+   {
+    "id": "marot_2013",
+    "loc": "§ 6"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.monnaie"
+  ]
+ },
+ "marchand_intro": {
+  "speaker": "marchand",
+  "text": "Tout passe par Châteauneuf : le vin, le sel, le drap, ce qui monte et descend la Loire. Dans la Cité, on gouverne ; ici, on vend. Et les pèlerins achètent, eux aussi.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "galinie_2010",
+    "loc": "phase E"
+   },
+   {
+    "id": "marot_2013",
+    "loc": "§ 19"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et le port ?",
+    "next": "marchand_port"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.ville_double"
+  ]
+ },
+ "marchand_port": {
+  "speaker": "marchand",
+  "text": "Le doyen Téotolon a fait tracer, il y a plus d'un siècle, des rues qui descendent de la porte nord jusqu'au fleuve. C'est par là que tout arrive.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "marot_2013",
+    "loc": "§ 14"
+   },
+   {
+    "id": "galinie_2010",
+    "loc": "phase D"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.teotolon"
+  ]
+ },
+ "peager_intro": {
+  "speaker": "peager",
+  "text": "Le pont du comte Eudes : vingt-trois arches, deux îles, et on passe à pied sec jusqu'à Saint-Symphorien. Il n'a pas vingt ans. Avant, il fallait la barque.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_pont_eudes"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.pont_eudes"
+  ]
+ },
+ "vigneron_intro": {
+  "speaker": "vigneron",
+  "text": "Ces vignes et ces champs sont à l'abbaye Saint-Julien. Entre la Cité et Châteauneuf, ce n'est pas encore la ville : des terres, des vignes, et le chemin au milieu.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "galinie_2010",
+    "loc": "phase D"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.saint_julien_943"
+  ]
+ },
+ "chevalier_intro": {
+  "speaker": "chevalier",
+  "text": "J'étais à Nouy, en 1044, quand mon seigneur Geoffroy a battu et pris le comte Thibaud de Blois. Thibaud n'a retrouvé sa liberté qu'en lui cédant la Touraine. Depuis, Tours est angevine.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_geoffroy_martel"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.nouy_1044"
+  ]
+ },
+ "clerc_intro": {
+  "speaker": "clerc",
+  "text": "L'archevêque siège ici, dans la Cité, avec le comte. Les chanoines de Saint-Martin, là-bas, ne dépendent guère de lui : ils ont leurs murs, leur monnaie, leurs privilèges.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "galinie_2010",
+    "loc": "phases D-E"
+   },
+   {
+    "id": "marot_2013",
+    "loc": "§ 16-17"
+   },
+   {
+    "id": "wp_archeveques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.ville_double"
+  ]
+ },
+ "moine_intro": {
+  "speaker": "moine_medecin",
+  "text": "À Marmoutier, nous soignons et nous enseignons l'art médical : quelques frères en ont fait leur science. L'abbaye a été relevée il y a soixante ans avec des moines venus de Cluny.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.marmoutier_xie"
+  ]
+ },
+ "pelerin_intro": {
+  "speaker": "pelerin",
+  "text": "On dit que la basilique a brûlé il y a un demi-siècle, avec tout le castrum. Le trésorier Hervé l'a rebâtie. Je suis venu prier au tombeau, comme tant d'autres.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_abbaye_saint_martin"
+   },
+   {
+    "id": "noizet_2005",
+    "loc": "n. 8"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.incendie_997"
+  ]
+ },
+ "lieu_basilique": {
+  "speaker": "basilique_saint_martin",
+  "text": "La basilique de Saint-Martin, reconstruite après l'incendie de 994 (997 selon la chronique de Pierre, fils de Béchin) à l'initiative du trésorier Hervé, consacrée en 1014, au centre du castrum. Plan et dimensions supposés.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_abbaye_saint_martin"
+   },
+   {
+    "id": "noizet_2005",
+    "loc": "n. 8"
+   },
+   {
+    "id": "marot_2013",
+    "loc": "figure 2"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.incendie_997"
+  ]
+ },
+ "lieu_enceinte_chateauneuf": {
+  "speaker": "chateauneuf_tour_s",
+  "text": "L'enceinte du castrum de Saint-Martin, achevée en 918 : « un quadrilatère de plus de 200 m de côté », flanqué de tours rondes. Une tour subsiste encore aujourd'hui, rue Néricault-Destouches, dans un hôtel du XVe siècle.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "marot_2013",
+    "loc": "§ 9-11",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.castrum_saint_martin"
+  ]
+ },
+ "lieu_pont_eudes": {
+  "speaker": "pont_eudes",
+  "text": "Le pont d'Eudes, achevé en 1037, de l'angle nord-ouest de la Cité à Saint-Symphorien : environ 450 m. On en voit encore des pieux à l'étiage, à côté de la passerelle Saint-Symphorien.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_pont_eudes"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.pont_eudes"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Maurice, siège de l'archevêque. Son état vers 1050 est mal connu ; emprise supposée.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   },
+   {
+    "id": "wp_archeveques_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.ville_double"
+  ]
+ },
+ "lieu_cite": {
+  "speaker": "amphitheatre",
+  "text": "La Cité, dans l'enceinte du IVe siècle réparée contre les Normands : le pouvoir du comte, du roi et de l'archevêque.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "galinie_2010",
+    "loc": "phases D-E"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.ville_double"
+  ],
+  "model": "castrum_385"
+ },
+ "lieu_saint_julien": {
+  "speaker": "saint_julien",
+  "text": "L'abbaye Saint-Julien, relevée vers 940 par l'archevêque Téotolon ; l'église est consacrée en 943. Ses terres et ses vignes séparent la Cité de Châteauneuf.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_saint_julien"
+   },
+   {
+    "id": "galinie_2010",
+    "loc": "phase D"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.saint_julien_943"
+  ]
+ },
+ "lieu_puellier": {
+  "speaker": "saint_pierre_le_puellier",
+  "text": "Saint-Pierre-le-Puellier, collégiale au nord du castrum. La fouille y a trouvé, pour les IXe-Xe siècles, des fours à chaux et des dépotoirs : un quartier qui se reconstruit.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "noizet_2005",
+    "loc": "§ 1"
+   },
+   {
+    "id": "base_merimee"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.eglises"
+  ]
+ },
+ "lieu_residence_comtale": {
+  "speaker": "residence_comtale",
+  "text": "La résidence du comte, près de l'arrivée du pont, à l'angle nord-ouest de la Cité : bâtiment supposé.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "galinie_2010",
+    "loc": "phase E"
+   },
+   {
+    "id": "wp_pont_eudes"
+   },
+   {
+    "id": "lorans_2022",
+    "loc": "§ 29"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.nouy_1044"
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier_eglise",
+  "text": "L'abbatiale de Marmoutier vers 1050 : l'église du Xe siècle. La grande église romane ne sera commencée que vers 1070. Emprise supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.marmoutier_xie"
+  ]
+ }
+}

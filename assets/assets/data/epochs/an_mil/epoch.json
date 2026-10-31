@@ -1,0 +1,31 @@
+{
+ "id": "an_mil",
+ "title": "Le XIe siècle",
+ "year": 1050,
+ "yearLabel": "vers 1050",
+ "place": "Tours et Châteauneuf",
+ "summary": "Vers 1050, Tours est une ville double : à l'est, la Cité, du comte et de l'archevêque ; à l'ouest, Châteauneuf, la ville de Saint-Martin, fortifiée par ses chanoines, où vivent les marchands et les artisans. Le comte d'Anjou Geoffroy Martel tient Tours depuis 1044, un pont neuf franchit la Loire, et l'écolâtre Bérenger fait scandale.",
+ "palette": {
+  "ground": "#E2D8BC",
+  "water": "#88A3A4",
+  "waterEdge": "#587474",
+  "land": "#D5C9A2",
+  "garden": "#A7BA80",
+  "street": "#EDE1C3",
+  "streetEdge": "#958160",
+  "stone": "#EEE4CC",
+  "stoneEdge": "#635544",
+  "worksite": "#D8C69C",
+  "roof": "#9C5842",
+  "roofEdge": "#663627",
+  "label": "#362C25",
+  "player": "#5A3E5E",
+  "carriage": "#6B4A2E",
+  "wall": "#B2A283",
+  "habitat": "#D4C19A",
+  "cemetery": "#BBBE9D",
+  "port": "#CEBB8E"
+ },
+ "dashHypotheses": true,
+ "carriage": "charrette"
+}

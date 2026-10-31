@@ -1,0 +1,48 @@
+{
+ "landmarks": [
+  {
+   "layer": "basilique_saint_martin",
+   "dialogue": "lieu_basilique",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "chateauneuf_tour_s",
+   "dialogue": "lieu_enceinte_chateauneuf",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2teauneuf_(Tours)"
+  },
+  {
+   "layer": "pont_eudes",
+   "dialogue": "lieu_pont_eudes",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Pont_d%27Eudes"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "amphitheatre",
+   "dialogue": "lieu_cite",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours"
+  },
+  {
+   "layer": "saint_julien",
+   "dialogue": "lieu_saint_julien",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Julien_(Tours)"
+  },
+  {
+   "layer": "saint_pierre_le_puellier",
+   "dialogue": "lieu_puellier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-le-Puellier_de_Tours"
+  },
+  {
+   "layer": "residence_comtale",
+   "dialogue": "lieu_residence_comtale"
+  },
+  {
+   "layer": "marmoutier_eglise",
+   "dialogue": "lieu_marmoutier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  }
+ ]
+}

@@ -393,5 +393,57 @@
   "publisher": "Presses universitaires de Rennes ; OpenEdition Journals",
   "url": "https://journals.openedition.org/abpo/1220",
   "kind": "histoire"
+ },
+ "marot_2013": {
+  "title": "Châteauneuf (Tours) : construction d'une identité urbaine aux Xe-XIIe siècles, dans É. Lorans et X. Rodier (dir.), Archéologie de l'espace urbain",
+  "author": "Émeline Marot",
+  "year": "2013",
+  "publisher": "Presses universitaires François-Rabelais et CTHS ; OpenEdition Books",
+  "url": "https://books.openedition.org/pufr/7670",
+  "kind": "archéologie"
+ },
+ "galinie_2010": {
+  "title": "Tours : étude chrono-chorématique, M@ppemonde, 100",
+  "author": "Henri Galinié et al.",
+  "year": "2010",
+  "publisher": "M@ppemonde ; HAL (halshs-00956192)",
+  "url": "https://shs.hal.science/halshs-00956192",
+  "kind": "archéologie"
+ },
+ "noizet_2005": {
+  "title": "Les chanoines de Saint-Martin de Tours et les Vikings, dans Les fondations scandinaves en Occident et les débuts du duché de Normandie, p. 53-66",
+  "author": "Hélène Noizet",
+  "year": "2005",
+  "publisher": "Publications du CRAHM, Caen ; HAL (halshs-00080510)",
+  "url": "https://shs.hal.science/halshs-00080510",
+  "kind": "histoire"
+ },
+ "wp_pont_eudes": {
+  "title": "Pont d'Eudes",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Pont_d%27Eudes",
+  "kind": "encyclopédie"
+ },
+ "wp_berenger": {
+  "title": "Bérenger de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/B%C3%A9renger_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_geoffroy_martel": {
+  "title": "Geoffroy II d'Anjou",
+  "author": "Wikipédia",
+  "year": "consulté le 31/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Geoffroy_II_d%27Anjou",
+  "kind": "encyclopédie"
+ },
+ "cgb_denier_saint_martin": {
+  "title": "Touraine, abbaye de Saint-Martin de Tours, denier (notice de catalogue)",
+  "author": "CGB Numismatique",
+  "year": "consulté le 31/10/2026",
+  "url": "https://www.cgbfr.com/touraine-tours-abbaye-de-saint-martin-de-tours-denier,bfe_933324,a.html",
+  "kind": "catalogue"
  }
 }

@@ -1,0 +1,121 @@
+{
+ "npcs": [
+  {
+   "id": "berenger",
+   "name": "Bérenger",
+   "role": "Écolâtre de Saint-Martin",
+   "position": [
+    47.3926,
+    0.6824
+   ],
+   "color": "#3E3A6E",
+   "dialogue": "berenger_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Bérenger de Tours (vers 998-1088), maître de l'école de Saint-Martin depuis 1030. Répliques reconstituées d'après les faits connus ; aucune citation."
+  },
+  {
+   "id": "monnayeur",
+   "name": "Un monnayeur",
+   "role": "Frappe les deniers de Saint-Martin",
+   "position": [
+    47.3937,
+    0.6825
+   ],
+   "color": "#6A5A3A",
+   "dialogue": "monnayeur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; le droit de monnaie de Saint-Martin et ses deniers sont attestés."
+  },
+  {
+   "id": "marchand",
+   "name": "Un marchand du bourg",
+   "role": "Vend draps et sel près du port",
+   "position": [
+    47.3947,
+    0.683
+   ],
+   "color": "#7A4A2E",
+   "dialogue": "marchand_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; Châteauneuf concentre le commerce et l'artisanat (Galinié 2010)."
+  },
+  {
+   "id": "peager",
+   "name": "Le gardien du pont",
+   "role": "Au pont d'Eudes",
+   "position": [
+    47.3976,
+    0.69342
+   ],
+   "color": "#3E5A5E",
+   "dialogue": "peager_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; le pont, achevé en 1037, est attesté."
+  },
+  {
+   "id": "vigneron",
+   "name": "Un vigneron",
+   "role": "Travaille les vignes de Saint-Julien",
+   "position": [
+    47.3953,
+    0.6897
+   ],
+   "color": "#5E6A3A",
+   "dialogue": "vigneron_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; les terres et les vignes de Saint-Julien sont attestées (Galinié 2010)."
+  },
+  {
+   "id": "chevalier",
+   "name": "Un chevalier du comte",
+   "role": "Au service de Geoffroy Martel",
+   "position": [
+    47.3966,
+    0.694
+   ],
+   "color": "#7A2E2E",
+   "dialogue": "chevalier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; la prise de Tours par Geoffroy Martel (1044) est attestée."
+  },
+  {
+   "id": "clerc",
+   "name": "Un clerc de la cathédrale",
+   "role": "Au service de l'archevêque",
+   "position": [
+    47.396002,
+    0.694084
+   ],
+   "color": "#4B2E5A",
+   "dialogue": "clerc_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme."
+  },
+  {
+   "id": "moine_medecin",
+   "name": "Un moine de Marmoutier",
+   "role": "Enseigne l'art médical",
+   "position": [
+    47.4042,
+    0.71846
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "moine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; l'enseignement de la médecine à Marmoutier au XIe siècle est attesté (Wikipédia)."
+  },
+  {
+   "id": "pelerin",
+   "name": "Un pèlerin",
+   "role": "Venu prier au tombeau",
+   "position": [
+    47.39335,
+    0.6826
+   ],
+   "color": "#5A6A7A",
+   "dialogue": "pelerin_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme."
+  }
+ ]
+}
