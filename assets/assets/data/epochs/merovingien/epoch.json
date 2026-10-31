@@ -1,0 +1,27 @@
+{
+ "id": "merovingien",
+ "title": "Le temps de Grégoire",
+ "year": 590,
+ "yearLabel": "vers 590",
+ "place": "Tours",
+ "summary": "La Cité, repliée dans l'enceinte du castrum autour de la cathédrale que l'évêque Grégoire vient de rebâtir, et, à quelque huit cents mètres à l'ouest, la basilique où l'on vient de toute la Gaule prier sur le tombeau de saint Martin. Seul est dessiné ce que l'on sait situer.",
+ "palette": {
+  "ground": "#E4DABF",
+  "water": "#8FA8A6",
+  "waterEdge": "#5E7A78",
+  "land": "#D8CCA6",
+  "garden": "#AFBF86",
+  "street": "#EFE4C8",
+  "streetEdge": "#9C8763",
+  "stone": "#EDE2CA",
+  "stoneEdge": "#6A5A48",
+  "worksite": "#D8C69C",
+  "roof": "#A35D44",
+  "roofEdge": "#6B3A2A",
+  "label": "#3A3028",
+  "player": "#5A4632",
+  "carriage": "#6B4A2E",
+  "wall": "#B3A283"
+ },
+ "carriage": "char à bœufs"
+}

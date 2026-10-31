@@ -1,0 +1,262 @@
+{
+ "epoch": "merovingien",
+ "entries": [
+  {
+   "id": "codex.merovingien.gregoire",
+   "title": "Grégoire, évêque et historien",
+   "theme": "personnes",
+   "text": "Né en Auvergne en 538 ou 539, Grégoire devient évêque de Tours en 573 et le reste jusqu'à sa mort, en 594. Ses Histoires, en dix livres, vont de la création du monde à 591 : c'est presque la seule source sur la Gaule de son temps, et sur Tours. Il a aussi écrit les Miracles de saint Martin.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_gregoire_de_tours"
+    },
+    {
+     "id": "gregoire_histoires",
+     "loc": "préface"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Le dix-neuvième fut moi, Grégoire, indigne.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.cathedrale_590",
+   "title": "La cathédrale de Grégoire",
+   "theme": "lieux",
+   "text": "La première église de la ville, bâtie par l'évêque Litoire au IVe siècle à l'angle sud-ouest de la Cité, brûle vers 561. Grégoire la rebâtit et la dédie en 590, la dix-septième année de son épiscopat, avec les reliques de saint Maurice et de ses compagnons. Plan et dimensions inconnus.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    },
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Je la rebâtis, plus grande et plus belle, et la dédiai la dix-septième année de ma consécration.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.basilique_perpet",
+   "title": "La basilique de Perpet",
+   "theme": "lieux",
+   "text": "Sur le tombeau de Martin, l'évêque Brice avait bâti une petite chapelle. Vers 470, Perpet la remplace par une grande basilique, dédiée un 4 juillet ; le tombeau est derrière l'autel. Brûlée en 558 par Willachaire, qui s'y était réfugié, elle est recouverte d'étain par Euphrone, avec l'aide du roi Clotaire. Grégoire y ajoute un baptistère.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "II, 14 ; X, 31"
+    },
+    {
+     "id": "wp_abbaye_saint_martin"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Elle a cent soixante pieds de long et soixante de large.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "II, 14"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.ingiltrude",
+   "title": "Le monastère d'Ingiltrude",
+   "theme": "vie_quotidienne",
+   "text": "Une religieuse, Ingiltrude, rassemble un monastère de filles dans la cour de la basilique Saint-Martin. Bertheflède, fille du roi Charibert, y vit un temps. Ingiltrude se brouille avec sa fille Berthegonde, qu'elle avait fait venir, pour des biens ; l'affaire va jusqu'au roi. Malade, elle fait abbesse sa nièce.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "IX, 33 ; X, 12"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "dans les cours de Saint-Martin, un monastère de filles",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "IX, 33"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.clovis_508",
+   "title": "Clovis à Tours (508)",
+   "theme": "evenements",
+   "text": "Vainqueur des Wisigoths, Clovis revient à Tours, couvre la basilique de présents et y reçoit de l'empereur Anastase les honneurs consulaires. Il jette de l'or et de l'argent à la foule sur le chemin de la basilique à la cathédrale. Ce chemin est dessiné ici sous la Grande-Rue (rues du Commerce et Colbert), par hypothèse.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "II, 38"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "sur le chemin qui est entre la porte du vestibule de la basilique de Saint-Martin et l'église de la ville",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "II, 38"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.roccolene",
+   "title": "Roccolène devant Tours",
+   "theme": "evenements",
+   "text": "Le duc Gontran Boson, accusé de la mort de Théodebert, s'est réfugié dans la basilique Saint-Martin, lieu d'asile. Roccolène, envoyé du roi Chilpéric, campe de l'autre côté de la Loire, dans la maison de l'évêque, qu'il démonte, et menace de brûler la ville. Malade, il passe le fleuve à l'Épiphanie et suit la procession de la cathédrale à la basilique.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "V, 4"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "il passa le fleuve et vint à la ville",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "V, 4"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.eveques_batisseurs",
+   "title": "Les églises des évêques",
+   "theme": "lieux",
+   "text": "Grégoire dresse la liste de ses prédécesseurs et de ce qu'ils ont bâti. Dans les murs : la première église (Litoire), l'église des saints Gervais et Protais (attribuée à Eustoche, puis à Ommat : Grégoire se contredit), Sainte-Marie (Ommat, Injuriosus). Hors les murs : Saint-Lidoire, Saint-Pierre-et-Saint-Paul (Perpet, avec la boiserie de la chapelle de Brice), Saint-Germain, Saint-Vincent. On ne sait pas assez où elles étaient pour les dessiner.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "II, 14 ; X, 31"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Il bâtit la première église en la ville de Tours, où il y avait déjà beaucoup de Chrétiens.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.incendie",
+   "title": "L'incendie de la ville",
+   "theme": "evenements",
+   "text": "Sous l'évêque Euphrone (556-573), un grand incendie consume la ville et toutes ses églises. Euphrone en répare deux et laisse la troisième, très vieille. Grégoire, son successeur, trouve la cathédrale en ruine et la rebâtit.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    },
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "la ville de Tours et toutes ses églises furent consumées par un grand incendie",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.jeunes_vigiles",
+   "title": "Jeûnes et vigiles",
+   "theme": "vie_quotidienne",
+   "text": "L'évêque Perpet a fixé le calendrier des jeûnes et des veilles de prière, que Grégoire recopie. Les grandes fêtes (Noël, Épiphanie, Pâques, Pentecôte) se veillent à la cathédrale ; beaucoup d'autres à la basilique Saint-Martin, au baptistère, ou à Saint-Pierre-et-Saint-Paul : la ville vit entre ses deux pôles.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "De la mort de monseigneur Martin jusqu'à la Nativité de Notre Seigneur, trois jeûnes par semaine.",
+     "source": {
+      "id": "gregoire_histoires",
+      "loc": "X, 31"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.castrum",
+   "title": "La Cité dans ses murs",
+   "theme": "lieux",
+   "text": "Depuis le IVe siècle, la Cité tient dans une enceinte d'environ 9 hectares, le long de la Loire, avec des tours, des portes à l'ouest, à l'est et vers le fleuve, et l'ancien amphithéâtre pour bastion au sud. Tracé dessiné d'après les vestiges et les rues qui la longent (restitution 3D vers 385). L'habitat, à l'intérieur comme au-dehors, n'est pas dessiné : on ne sait pas le situer.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_enceinte_tours"
+    },
+    {
+     "id": "wp_caesarodunum"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.marmoutier",
+   "title": "Marmoutier",
+   "theme": "lieux",
+   "text": "Martin s'installe sur la rive droite, à deux milles de la Cité, dans une cellule creusée dans le rocher ; il a environ quatre-vingts disciples à sa mort (397). Une voie romaine d'Orléans à Angers passe au pied du coteau. Une seconde église y est bâtie sous l'évêque Volusien. Grégoire est le premier à nommer le lieu « grand monastère », majus monasterium.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_marmoutier"
+    },
+    {
+     "id": "gregoire_histoires",
+     "loc": "X, 31"
+    }
+   ]
+  },
+  {
+   "id": "codex.merovingien.loire",
+   "title": "Passer la Loire",
+   "theme": "vie_quotidienne",
+   "text": "Grégoire ne parle d'aucun pont à Tours : Roccolène « passa le fleuve ». Un pont de bois avait été lancé au IVe siècle, avec l'enceinte, devant la porte du fleuve ; on en a retrouvé des pieux. Était-il encore praticable vers 590 ? On l'ignore. Le passage est dessiné dans son axe.",
+   "certainty": "hypothesis",
+   "sources": [
+    {
+     "id": "gregoire_histoires",
+     "loc": "V, 4"
+    },
+    {
+     "id": "wp_caesarodunum"
+    }
+   ]
+  }
+ ]
+}

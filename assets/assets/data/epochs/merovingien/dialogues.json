@@ -1,0 +1,334 @@
+{
+ "gregoire_intro": {
+  "speaker": "gregoire",
+  "text": "La paix soit avec vous. Je suis Grégoire, évêque de cette ville. « Je trouvai la cathédrale de la ville de Tours, dans laquelle le bienheureux Martin et plusieurs autres prêtres du Seigneur avaient été sacrés évêques, brûlée par l'incendie et toute détruite. Je la rebâtis, plus grande et plus belle, et la dédiai la dix-septième année de ma consécration. »",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31",
+    "quote": true
+   },
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui êtes-vous ?",
+    "next": "gregoire_qui"
+   },
+   {
+    "label": "Et la basilique de saint Martin ?",
+    "next": "gregoire_basilique"
+   },
+   {
+    "label": "Quelles autres églises y a-t-il ?",
+    "next": "gregoire_eglises"
+   },
+   {
+    "label": "Qu'écrivez-vous ?",
+    "next": "gregoire_histoires"
+   },
+   {
+    "label": "Et le chemin de Saint-Martin ?",
+    "next": "gregoire_clovis"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.cathedrale_590"
+  ]
+ },
+ "gregoire_qui": {
+  "speaker": "gregoire",
+  "text": "« Le dix-neuvième fut moi, Grégoire, indigne. » Je suis né en Auvergne ; on m'a fait évêque de Tours en 573, après mon cousin Euphrone. De son temps, « la ville de Tours et toutes ses églises furent consumées par un grand incendie ».",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31",
+    "quote": true
+   },
+   {
+    "id": "wp_gregoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.gregoire",
+   "codex.merovingien.incendie"
+  ]
+ },
+ "gregoire_basilique": {
+  "speaker": "gregoire",
+  "text": "La grande basilique de l'évêque Perpet « est à cinq cent cinquante pas de la ville. Elle a cent soixante pieds de long et soixante de large ». J'ai fait repeindre les basiliques de Perpet, brûlées elles aussi, et « je fis construire un baptistère dans la basilique, où je mis les reliques de saint Jean et de saint Serge, martyrs ».",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 14 ; X, 31",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.basilique_perpet"
+  ]
+ },
+ "gregoire_eglises": {
+  "speaker": "gregoire",
+  "text": "Litoire, le deuxième évêque, « bâtit la première église en la ville de Tours ». Dans les murs, il y a aussi l'église des saints Gervais et Protais, et Sainte-Marie, commencée par Ommat et achevée par Injuriosus. Hors les murs, Saint-Lidoire, Saint-Pierre-et-Saint-Paul, Saint-Vincent, Saint-Germain… Ne me demandez pas de vous les montrer toutes : votre carte ne sait pas où elles sont.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.eveques_batisseurs"
+  ]
+ },
+ "gregoire_histoires": {
+  "speaker": "gregoire",
+  "text": "Des histoires, en dix livres, depuis la création du monde jusqu'à nos jours. Beaucoup gémissent : « Malheur à nos jours ! l'étude des lettres périt parmi nous, et on ne trouve personne qui puisse raconter dans ses écrits les faits d'à présent. » Alors je les raconte, « bien qu'en un langage inculte ».",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "préface",
+    "quote": true
+   },
+   {
+    "id": "wp_gregoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.gregoire"
+  ]
+ },
+ "gregoire_clovis": {
+  "speaker": "gregoire",
+  "text": "Le roi Clovis, vainqueur des Goths, revint ici. Il fut revêtu dans la basilique de la tunique de pourpre et de la chlamyde ; puis, à cheval, « il jeta de sa propre main, avec une extrême bienveillance, de l'or et de l'argent au peuple assemblé sur le chemin qui est entre la porte du vestibule de la basilique de Saint-Martin et l'église de la ville ». C'est le chemin que prennent nos processions, de la cathédrale à la basilique.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 38 ; V, 4",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.clovis_508"
+  ]
+ },
+ "pelerine_intro": {
+  "speaker": "pelerine",
+  "text": "J'ai marché des jours pour venir jusqu'au tombeau du saint. On passe la nuit en prière, on espère une guérison. Depuis la cour, derrière l'abside, on voit le tombeau par une petite fenêtre.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_abbaye_saint_martin"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 14"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Y a-t-il des fêtes ?",
+    "next": "pelerine_fetes"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.basilique_perpet"
+  ]
+ },
+ "pelerine_fetes": {
+  "speaker": "pelerine",
+  "text": "Trois : la dédicace de la basilique, la translation du corps du saint et l'anniversaire de son épiscopat. La dédicace, le 4 juillet ; la translation, le 11 novembre. Et l'on jeûne, de la mort du saint jusqu'à Noël, trois jours par semaine.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 14 ; X, 31"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.jeunes_vigiles"
+  ]
+ },
+ "religieuse_intro": {
+  "speaker": "religieuse",
+  "text": "Notre monastère est ici, dans la cour de la basilique : c'est la mère Ingiltrude qui l'a rassemblé. Elle est bien malade, et elle a fait abbesse sa nièce. Les sœurs ont murmuré ; l'évêque les a réprimandées.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 12"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et sa fille ?",
+    "next": "religieuse_fille"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.ingiltrude"
+  ]
+ },
+ "religieuse_fille": {
+  "speaker": "religieuse",
+  "text": "Berthegonde ? Sa mère lui avait écrit : « Laisse ton mari, et viens, que je te fasse abbesse du troupeau que j'ai rassemblé ici. » Elle est venue, puis repartie… Depuis, elles se déchirent pour des biens, jusque devant le roi.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "IX, 33",
+    "quote": true
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.ingiltrude"
+  ]
+ },
+ "batelier_intro": {
+  "speaker": "batelier",
+  "text": "Passer le fleuve ? Montez. De l'autre côté, la route va vers le monastère de Marmoutier.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "V, 4"
+   },
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Y a-t-il un pont ?",
+    "next": "batelier_pont"
+   },
+   {
+    "label": "Qu'y a-t-il en face ?",
+    "next": "batelier_roccolene"
+   }
+  ]
+ },
+ "batelier_pont": {
+  "speaker": "batelier",
+  "text": "Il y a eu un pont de bois, au temps des Romains, devant cette porte : on voit encore des pieux dans le lit quand l'eau est basse. Aujourd'hui, on passe en barque.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_caesarodunum"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "V, 4"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.loire"
+  ]
+ },
+ "batelier_roccolene": {
+  "speaker": "batelier",
+  "text": "La maison de l'évêque, d'outre-Loire. Il y a quelques années, Roccolène, l'envoyé du roi Chilpéric, campait là-bas : il voulait qu'on chasse le duc Gontran de la basilique, où il s'était réfugié. Ses gens ont arraché les planches de la maison et emporté jusqu'aux clous, dans des sacs de cuir !",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "V, 4"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.roccolene",
+   "codex.merovingien.loire"
+  ]
+ },
+ "moine_intro": {
+  "speaker": "moine",
+  "text": "Ici vivait Martin, avant même d'être évêque et pendant tout son épiscopat, avec ses disciples : quatre-vingts à la fin. Lui avait sa cellule creusée dans le rocher du coteau. On appelle maintenant cette maison le grand monastère.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.marmoutier"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale, à l'angle sud-ouest de la Cité. Incendiée vers 561, rebâtie par Grégoire et dédiée en 590 ; il y a placé les reliques de saint Maurice et de ses compagnons, retrouvées dans le trésor de Saint-Martin. Emplacement attesté, sous la cathédrale actuelle ; plan et dimensions inconnus : l'emprise est supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   },
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.cathedrale_590"
+  ]
+ },
+ "lieu_basilique": {
+  "speaker": "basilique_saint_martin",
+  "text": "La basilique de Perpet, sur le tombeau de Martin, à l'ouest de la ville. « Dans tout l'édifice, il y a cinquante-deux fenêtres, cent vingt colonnes, huit portes. » Brûlée par Willachaire, elle a été recouverte d'étain par l'évêque Euphrone. Emprise dessinée aux dimensions de Grégoire (environ 47 × 18 m), sur le tombeau ; orientation supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "gregoire_histoires",
+    "loc": "II, 14 ; X, 31",
+    "quote": true
+   },
+   {
+    "id": "wp_abbaye_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.basilique_perpet"
+  ]
+ },
+ "lieu_castrum": {
+  "speaker": "amphitheatre",
+  "text": "L'enceinte de la Cité, bâtie au IVe siècle avec les pierres des monuments démontés : environ 1 250 m de tour pour 9 hectares, des tours, deux portes principales à l'ouest et à l'est. Au sud, l'ancien amphithéâtre en forme le bastion. La restitution 3D montre la Cité vers 385, au temps de Martin : l'enceinte n'a pas changé depuis.",
+  "model": "castrum_385",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_enceinte_tours"
+   },
+   {
+    "id": "wp_caesarodunum"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.castrum"
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier_eglise",
+  "text": "Le monastère de Martin, au pied du coteau de la rive droite, à deux milles de la Cité. Sous l'évêque Volusien, vers 490, on y a bâti une seconde église, dont l'emplacement est inconnu : celle-ci est dessinée par hypothèse.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   },
+   {
+    "id": "gregoire_histoires",
+    "loc": "X, 31"
+   }
+  ],
+  "unlocks": [
+   "codex.merovingien.marmoutier"
+  ]
+ }
+}

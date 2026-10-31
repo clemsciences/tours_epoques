@@ -253,5 +253,47 @@
   "year": "consulté le 30/10/2026",
   "url": "https://data.centrevaldeloire.fr/explore/dataset/inventaire-du-patrimoine-en-region-centre-val-de-loire/",
   "kind": "données (ODbL)"
+ },
+ "wp_gregoire_de_tours": {
+  "title": "Grégoire de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Gr%C3%A9goire_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_cathedrale_saint_gatien": {
+  "title": "Cathédrale Saint-Gatien de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_abbaye_saint_martin": {
+  "title": "Abbaye Saint-Martin de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Martin_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_marmoutier": {
+  "title": "Abbaye de Marmoutier (Tours)",
+  "author": "Wikipédia",
+  "year": "consulté le 30/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)",
+  "kind": "encyclopédie"
+ },
+ "wp_caesarodunum": {
+  "title": "Caesarodunum",
+  "author": "Wikipédia",
+  "year": "consulté le 29/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Caesarodunum",
+  "kind": "encyclopédie"
+ },
+ "wp_enceinte_tours": {
+  "title": "Enceinte gallo-romaine de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 29/10/2026",
+  "url": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours",
+  "kind": "encyclopédie"
  }
 }
