@@ -89065,7 +89065,9 @@ q=A.b([A.tn(A.aJ(s,o,this.b.ok.r,o),1)],r)
 p=this.a
 q.push(A.Pe(B.oy,B.Ak,p.gagb(),o,o))
 q.push(A.a5J(o,o,B.ke,o,o,p.a.d,o,o,"Fermer"))
-return A.d3(A.b([A.fL(q,B.as,B.ap,0),B.aR,A.fg(new A.Ae("assets/models/"+n.a+".glb",s,!0,B.K5,!0,!0,"-50deg 60deg 105%",1,B.EE,!1,o),this.c*0.5,o),B.aR,new A.hU(1,B.ck,A.Ox(A.afK(new A.RJ(n,o)),o),o)],r),B.an,B.ae)},
+q=A.fL(q,B.as,B.ap,0)
+p=n.a
+return A.d3(A.b([q,B.aR,A.fg(new A.Ae("assets/"+("assets/models/"+p+".glb"),s,!0,B.K5,!0,!0,"-50deg 60deg 105%",1,B.EE,!1,o),this.c*0.5,o),B.aR,new A.hU(1,B.ck,A.Ox(A.afK(new A.RJ(n,o)),o),o)],r),B.an,B.ae)},
 $S:562}
 A.RJ.prototype={
 N(a){var s,r,q,p,o,n,m=null,l=A.J(a).ok,k=l.Q,j=this.c,i=t.p,h=A.b([A.aJ(j.c,m,l.z,m),B.fm,A.aJ(A.P_(j.e,!1)+" \xb7 "+A.aDg(j.gUV()),m,k,m)],i)
