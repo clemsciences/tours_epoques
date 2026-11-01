@@ -1,0 +1,259 @@
+{
+ "louis_intro": {
+  "speaker": "louis",
+  "text": "Qui vous a laissé entrer ? Ici, je ne reçois guère que mon gendre de Beaujeu. Je suis malade, et je n'ai confiance qu'en peu de gens.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6, p. 226"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi ce treillis de fer ?",
+    "next": "louis_treillis"
+   },
+   {
+    "label": "Et le saint homme ?",
+    "next": "louis_paule"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.plessis",
+   "codex.louis_xi.louis"
+  ]
+ },
+ "louis_treillis": {
+  "speaker": "louis",
+  "text": "Parce qu'on pourrait vouloir gouverner à ma place. Mes archers font le guet, et, la nuit, mes arbalétriers tirent sur quiconque approche des fossés.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6, p. 226-227"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.treillis"
+  ]
+ },
+ "louis_paule": {
+  "speaker": "louis",
+  "text": "Je l'ai fait venir de Calabre. Il vit de presque rien depuis l'enfance. S'il prie pour moi, Dieu m'accordera peut-être de vivre.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 7, p. 228-229"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.saint_homme"
+  ]
+ },
+ "paule_intro": {
+  "speaker": "paule",
+  "text": "Je suis un pauvre ermite. J'ai vécu sous un rocher depuis l'âge de douze ans. Le roi m'a fait chercher ; le pape m'a ordonné de venir. Je prie pour son âme plus que pour son corps.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 7, p. 229"
+   },
+   {
+    "id": "wp_francois_de_paule"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.saint_homme"
+  ]
+ },
+ "commynes_intro": {
+  "speaker": "commynes",
+  "text": "Je sers le roi depuis longtemps. Je vois tout : ses craintes, ses ruses, son esprit, que rien n'a diminué. Un jour, j'écrirai ce que j'ai vu.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6-7"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que craint-il ?",
+    "next": "commynes_craintes"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.commynes"
+  ]
+ },
+ "commynes_craintes": {
+  "speaker": "commynes",
+  "text": "D'être dépossédé de son autorité. Il change souvent de valets de chambre, et il ne laisse auprès de lui personne, à la ville ou aux champs, dont il se méfie.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6-7, p. 227-230"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.treillis"
+  ]
+ },
+ "coitier_intro": {
+  "speaker": "coitier",
+  "text": "Je suis son premier médecin. Il a besoin de moi, et il le sait. Le roi est généreux avec ceux qui le gardent en vie.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_coitier"
+   },
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 11"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.coitier"
+  ]
+ },
+ "archer_intro": {
+  "speaker": "archer",
+  "text": "Nous sommes quatre cents à faire le guet. Personne n'entre sans ordre. La nuit, ceux des fossés tirent sur qui s'approche, jusqu'à ce que la porte soit ouverte le matin.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6, p. 226-227"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.treillis"
+  ]
+ },
+ "soyeux_intro": {
+  "speaker": "soyeux",
+  "text": "Le roi nous a fait venir d'Italie, nous sommes dix-sept, pour tisser la soie ici même. Tours veut avoir sa soierie à elle.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_plessis"
+   },
+   {
+    "id": "wp_histoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.soie"
+  ]
+ },
+ "daulin_intro": {
+  "speaker": "daulin",
+  "text": "Je vends le fer. Le roi m'en a acheté plus de cinq mille livres pesant, pour une cage où l'on met des prisonniers.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "t. II, p. 264, note"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.cages"
+  ]
+ },
+ "maire_intro": {
+  "speaker": "maire",
+  "text": "Je suis maire cette année. Depuis vingt ans, Tours élit chaque année son maire, comme le roi l'a permis ; le premier fut Jean Briçonnet.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_maires_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.mairie"
+  ]
+ },
+ "lieu_plessis": {
+  "speaker": "plessis",
+  "text": "Le logis du roi au Plessis-du-Parc, rebâti en brique sous Louis XI. Il n'en reste que cette aile.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_plessis"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.plessis"
+  ]
+ },
+ "lieu_treillis": {
+  "speaker": "plessis_treillis_0",
+  "text": "Le treillis de gros barreaux de fer qui entoure la demeure du roi, avec ses broches de fer et ses guérites. Tracé supposé.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "commynes_dupont",
+    "loc": "VI, 6, p. 226"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.treillis"
+  ]
+ },
+ "lieu_enceinte": {
+  "speaker": "enceinte_0",
+  "text": "L'enceinte du XIVe siècle, renforcée de tours au XVe ; tracé d'après les rues de ses anciens fossés.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.mairie"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "La collégiale Saint-Martin, sur le tombeau du saint.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_collegiale_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.mairie"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Gatien : on travaille à la nef et à la façade.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.mairie"
+  ]
+ },
+ "lieu_saint_cosme": {
+  "speaker": "saint_cosme",
+  "text": "Le prieuré Saint-Cosme, sur une île de la Loire, tout près du Plessis ; Bérenger y est mort en 1088.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_berenger"
+   }
+  ],
+  "unlocks": [
+   "codex.louis_xi.plessis"
+  ]
+ }
+}

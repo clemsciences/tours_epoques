@@ -617,5 +617,41 @@
   "year": "consulté le 1/11/2026",
   "url": "https://fr.wikipedia.org/wiki/Jeanne_d%27Arc",
   "kind": "encyclopédie"
+ },
+ "commynes_dupont": {
+  "title": "Mémoires de Philippe de Commynes, éd. Mlle Dupont, Société de l'histoire de France, t. II",
+  "author": "Philippe de Commynes",
+  "year": "vers 1490 ; édition de 1840",
+  "publisher": "Paris, Renouard ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/mmoiresdephili02commuoft",
+  "kind": "mémoires"
+ },
+ "wp_plessis": {
+  "title": "Château de Plessis-lèz-Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Plessis-l%C3%A8z-Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_francois_de_paule": {
+  "title": "François de Paule",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Paule",
+  "kind": "encyclopédie"
+ },
+ "wp_coitier": {
+  "title": "Jacques Coitier",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Jacques_Coitier",
+  "kind": "encyclopédie"
+ },
+ "wp_maires_tours": {
+  "title": "Liste des maires de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Liste_des_maires_de_Tours",
+  "kind": "encyclopédie"
  }
 }

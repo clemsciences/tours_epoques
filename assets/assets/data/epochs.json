@@ -7,7 +7,7 @@
   {"id": "carolingien", "title": "Le temps d'Alcuin", "yearLabel": "800", "playable": true},
   {"id": "an_mil", "title": "Le XIe siècle", "yearLabel": "vers 1050", "playable": true},
   {"id": "cent_ans", "title": "La guerre de Cent Ans", "yearLabel": "1429", "playable": true},
-  {"id": "louis_xi", "title": "Le temps de Louis XI", "yearLabel": "vers 1480", "playable": false},
+  {"id": "louis_xi", "title": "Le temps de Louis XI", "yearLabel": "1482", "playable": true},
   {"id": "renaissance", "title": "La Renaissance", "yearLabel": "vers 1520", "playable": false},
   {"id": "lumieres", "title": "Les Lumières", "yearLabel": "1785", "playable": true},
   {"id": "revolution", "title": "La Révolution", "yearLabel": "1793", "playable": false},

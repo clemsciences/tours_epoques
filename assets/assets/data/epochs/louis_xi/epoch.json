@@ -1,0 +1,31 @@
+{
+ "id": "louis_xi",
+ "title": "Le temps de Louis XI",
+ "year": 1482,
+ "yearLabel": "1482",
+ "place": "Tours et le Plessis",
+ "summary": "1482. Le roi Louis XI, vieilli et malade, vit enfermé au Plessis-du-Parc, aux portes de Tours, derrière un treillis de fer gardé par ses archers. Il a fait venir de Calabre un ermite, le « saint homme », dont il espère la guérison. Tours, sa ville préférée, a un maire depuis vingt ans ; on y tisse la soie depuis peu.",
+ "palette": {
+  "ground": "#E5DDC6",
+  "water": "#829FA6",
+  "waterEdge": "#536F78",
+  "land": "#D6CCA8",
+  "garden": "#A7B985",
+  "street": "#EDE3C8",
+  "streetEdge": "#8A775A",
+  "stone": "#EFE7D3",
+  "stoneEdge": "#5E5142",
+  "worksite": "#DCCBA3",
+  "roof": "#5A626C",
+  "roofEdge": "#3A4049",
+  "label": "#2F2A24",
+  "player": "#6A2E3A",
+  "carriage": "#5A4632",
+  "wall": "#BDB094",
+  "habitat": "#DCCFAD",
+  "cemetery": "#BFC29F",
+  "port": "#D6C8A2"
+ },
+ "dashHypotheses": true,
+ "carriage": "charrette"
+}

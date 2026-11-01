@@ -1,0 +1,33 @@
+{
+ "landmarks": [
+  {
+   "layer": "plessis",
+   "dialogue": "lieu_plessis",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Plessis-l%C3%A8z-Tours"
+  },
+  {
+   "layer": "plessis_treillis_0",
+   "dialogue": "lieu_treillis"
+  },
+  {
+   "layer": "enceinte_0",
+   "dialogue": "lieu_enceinte",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Enceinte_m%C3%A9di%C3%A9vale_de_Tours"
+  },
+  {
+   "layer": "collegiale_saint_martin",
+   "dialogue": "lieu_collegiale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Collégiale_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "saint_cosme",
+   "dialogue": "lieu_saint_cosme",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Cosme"
+  }
+ ]
+}

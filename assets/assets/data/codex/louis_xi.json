@@ -1,0 +1,158 @@
+{
+ "epoch": "louis_xi",
+ "entries": [
+  {
+   "id": "codex.louis_xi.louis",
+   "title": "Louis XI au Plessis",
+   "theme": "personnes",
+   "text": "Roi depuis 1461, Louis XI a fait de la Touraine son séjour. Malade dans ses dernières années, il vit retiré au Plessis, ne laisse entrer que ses domestiques et ses archers, et cache sa faiblesse pour garder son autorité. Il y meurt le 30 août 1483.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "commynes_dupont",
+     "loc": "VI, 6-7"
+    },
+    {
+     "id": "wp_plessis"
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.plessis",
+   "title": "Le Plessis-du-Parc",
+   "theme": "lieux",
+   "text": "Charles VII séjournait déjà aux Montils-lès-Tours. Louis XI achète le domaine en 1463 pour 5 300 écus et y fait bâtir, jusque vers 1470, une demeure de brique, la première du Val de Loire. Il n'en reste qu'une aile.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_plessis"
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.treillis",
+   "title": "Le treillis de fer",
+   "theme": "lieux",
+   "text": "Autour du Plessis, le roi fait poser un treillis de gros barreaux de fer, planter des broches de fer dans la muraille, bâtir quatre guérites de fer ; quatre cents archers font le guet, et quarante arbalétriers, dans les fossés, tirent la nuit sur quiconque approche. Le tout coûte plus de vingt mille francs.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "commynes_dupont",
+     "loc": "VI, 6, p. 226-227"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "ung treillis de gros barreaulx de fer",
+     "source": {
+      "id": "commynes_dupont",
+      "loc": "VI, 6, p. 226"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.saint_homme",
+   "title": "Le saint homme de Calabre",
+   "theme": "personnes",
+   "text": "Pour guérir, le roi fait venir de Calabre un ermite qui vivait sous un rocher depuis l'âge de douze ans : François de Paule, que l'on appelle le saint homme. Il arrive au Plessis le 24 avril 1482 (d'après l'éditeur de Commynes ; d'autres chronologies existent). Il restera en France jusqu'à sa mort, au Plessis, en 1507.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "commynes_dupont",
+     "loc": "VI, 7, p. 228-229"
+    },
+    {
+     "id": "wp_francois_de_paule"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "le Roy l'appelloit le sainct homme",
+     "source": {
+      "id": "commynes_dupont",
+      "loc": "VI, 7, p. 228"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.commynes",
+   "title": "Philippe de Commynes",
+   "theme": "personnes",
+   "text": "Passé du service du duc de Bourgogne à celui de Louis XI, Commynes est l'un de ses conseillers. Ses Mémoires, écrits après la mort du roi, décrivent sans fard ses dernières années au Plessis.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "commynes_dupont",
+     "loc": "VI"
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.coitier",
+   "title": "Le médecin du roi",
+   "theme": "personnes",
+   "text": "Jacques Coitier, premier médecin du roi, tient son patient par la peur de mourir : le roi le couvre de titres et de biens (président de la Chambre des comptes en octobre 1482). Commynes raconte qu'il lui parlait avec une grande rudesse.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_coitier"
+    },
+    {
+     "id": "commynes_dupont",
+     "loc": "VI, 11"
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.cages",
+   "title": "Les cages de fer",
+   "theme": "evenements",
+   "text": "Louis XI fait faire de rigoureuses prisons, des cages de fer ou de bois couvertes de plaques de fer. En 1479, Jehan Daulin, marchand ferron de Tours, est payé pour plus de 5 400 livres de fer destinées à l'une d'elles.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "commynes_dupont",
+     "loc": "VI, 11, p. 264 et note"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "comme caiges de fer",
+     "source": {
+      "id": "commynes_dupont",
+      "loc": "VI, 11, p. 264"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.soie",
+   "title": "La soie à Tours",
+   "theme": "vie_quotidienne",
+   "text": "Vers 1470, Louis XI installe au Plessis le premier atelier de soierie de Tours, avec dix-sept ouvriers venus d'Italie. La soie fera la fortune de la ville pendant des siècles.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_plessis"
+    },
+    {
+     "id": "wp_histoire_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.louis_xi.mairie",
+   "title": "Un maire pour Tours",
+   "theme": "evenements",
+   "text": "En 1462, Louis XI accorde à Tours une municipalité : le premier maire, Jean Briçonnet, est élu le 8 octobre 1462. Le maire change chaque année ; en 1482, c'est Étienne Ragueneau. L'hôtel de ville est sur la Grande-Rue.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_maires_tours"
+    }
+   ]
+  }
+ ]
+}

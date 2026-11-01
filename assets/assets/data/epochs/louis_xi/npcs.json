@@ -1,0 +1,108 @@
+{
+ "npcs": [
+  {
+   "id": "louis",
+   "name": "Louis XI",
+   "role": "Roi de France",
+   "position": [
+    47.382732,
+    0.66055
+   ],
+   "color": "#3A2E5A",
+   "dialogue": "louis_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Louis XI (1423-1483), roi depuis 1461, mort au Plessis le 30 août 1483. Répliques reconstituées d'après Commynes ; les citations exactes sont dans le carnet."
+  },
+  {
+   "id": "paule",
+   "name": "Le « saint homme »",
+   "role": "François de Paule, ermite de Calabre",
+   "position": [
+    47.382786,
+    0.660151
+   ],
+   "color": "#5A4A32",
+   "dialogue": "paule_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : François de Paule (1416-1507), arrivé au Plessis le 24 avril 1482 (note de l'éditeur de Commynes ; Wikipédia donne une autre chronologie). Répliques reconstituées."
+  },
+  {
+   "id": "commynes",
+   "name": "Philippe de Commynes",
+   "role": "Conseiller du roi",
+   "position": [
+    47.382786,
+    0.660949
+   ],
+   "color": "#2E4A5A",
+   "dialogue": "commynes_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Philippe de Commynes (vers 1447-1511), conseiller de Louis XI, auteur des Mémoires. Répliques reconstituées."
+  },
+  {
+   "id": "coitier",
+   "name": "Jacques Coitier",
+   "role": "Premier médecin du roi",
+   "position": [
+    47.382948,
+    0.660709
+   ],
+   "color": "#4A3A2E",
+   "dialogue": "coitier_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Jacques Coitier (vers 1430-1506), premier médecin de Louis XI (Wikipédia ; Commynes). Répliques reconstituées."
+  },
+  {
+   "id": "archer",
+   "name": "Un archer de la garde",
+   "role": "À la porte du Plessis",
+   "position": [
+    47.383109,
+    0.66055
+   ],
+   "color": "#5A2E2E",
+   "dialogue": "archer_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les quatre cents archers et le guet sont décrits par Commynes."
+  },
+  {
+   "id": "soyeux",
+   "name": "Un ouvrier en soie",
+   "role": "Venu d'Italie",
+   "position": [
+    47.38257,
+    0.659819
+   ],
+   "color": "#6A5A7A",
+   "dialogue": "soyeux_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. L'atelier de soierie du château, tenu par dix-sept ouvriers venus d'Italie, est rapporté par Wikipédia."
+  },
+  {
+   "id": "daulin",
+   "name": "Jehan Daulin",
+   "role": "Marchand ferron",
+   "position": [
+    47.395373,
+    0.685303
+   ],
+   "color": "#4A4A4A",
+   "dialogue": "daulin_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Jehan Daulin, « marchant ferron, demourant à Tours », payé en 1479 pour le fer d'une cage (compte de Jehan Raguier, cité par l'éditeur de Commynes, t. II, p. 264). Répliques reconstituées."
+  },
+  {
+   "id": "maire",
+   "name": "Étienne Ragueneau",
+   "role": "Maire de Tours",
+   "position": [
+    47.395373,
+    0.686631
+   ],
+   "color": "#2E5A3E",
+   "dialogue": "maire_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : maire de Tours en 1482 (Wikipédia, « Liste des maires de Tours »). On ne sait presque rien de lui : répliques reconstituées."
+  }
+ ]
+}
