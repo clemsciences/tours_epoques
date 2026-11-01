@@ -579,5 +579,43 @@
   "year": "consulté le 1/11/2026",
   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Symphorien_de_Tours",
   "kind": "encyclopédie"
+ },
+ "quicherat_1": {
+  "title": "Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle, éd. J. Quicherat, Société de l'histoire de France, t. I (procès de condamnation)",
+  "author": "Jules Quicherat (éd.)",
+  "year": "1841",
+  "publisher": "Paris, Renouard ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/procsdecondam01joanuoft",
+  "kind": "procès"
+ },
+ "quicherat_3": {
+  "title": "Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle, éd. J. Quicherat, Société de l'histoire de France, t. III (procès de réhabilitation)",
+  "author": "Jules Quicherat (éd.)",
+  "year": "1845",
+  "publisher": "Paris, Renouard ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/procsdecondam03joanuoft",
+  "kind": "procès"
+ },
+ "quicherat_5": {
+  "title": "Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle, éd. J. Quicherat, Société de l'histoire de France, t. V (témoignages et pièces diverses)",
+  "author": "Jules Quicherat (éd.)",
+  "year": "1849",
+  "publisher": "Paris, Renouard ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/procsdecondamn05joanuoft",
+  "kind": "procès"
+ },
+ "wp_enceinte_medievale_tours": {
+  "title": "Enceinte médiévale de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Enceinte_m%C3%A9di%C3%A9vale_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_jeanne_darc": {
+  "title": "Jeanne d'Arc",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Jeanne_d%27Arc",
+  "kind": "encyclopédie"
  }
 }

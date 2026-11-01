@@ -1,0 +1,31 @@
+{
+ "id": "cent_ans",
+ "title": "La guerre de Cent Ans",
+ "year": 1429,
+ "yearLabel": "avril 1429",
+ "place": "Tours",
+ "summary": "Avril 1429. Les Anglais assiègent Orléans. Depuis soixante ans, une même enceinte réunit la Cité de l'archevêque et Châteauneuf, la ville de Saint-Martin. Une jeune fille venue de Lorraine, que l'on appelle la Pucelle, loge chez un bourgeois de la ville, Jean Dupuy : on lui forge une armure, un peintre de Tours lui peint son étendard. Dans quelques jours, elle partira pour Orléans.",
+ "palette": {
+  "ground": "#E6DEC6",
+  "water": "#829FA6",
+  "waterEdge": "#536F78",
+  "land": "#D6CCA8",
+  "garden": "#A9B985",
+  "street": "#EDE3C8",
+  "streetEdge": "#8A775A",
+  "stone": "#EFE7D3",
+  "stoneEdge": "#5E5142",
+  "worksite": "#DCCBA3",
+  "roof": "#5E6670",
+  "roofEdge": "#3C434B",
+  "label": "#2F2A24",
+  "player": "#3E4E7A",
+  "carriage": "#5A4632",
+  "wall": "#BFB295",
+  "habitat": "#DDD0AE",
+  "cemetery": "#BFC29F",
+  "port": "#D6C8A2"
+ },
+ "dashHypotheses": true,
+ "carriage": "charrette"
+}

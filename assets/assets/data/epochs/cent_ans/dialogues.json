@@ -1,0 +1,313 @@
+{
+ "jeanne_intro": {
+  "speaker": "jeanne",
+  "text": "Je suis venue de Chinon. On me fait ici un harnois et un étendard ; ensuite, j'irai à Orléans, avec les gens d'armes du roi.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_5",
+    "loc": "p. 257-258"
+   },
+   {
+    "id": "quicherat_3",
+    "loc": "p. 101-104"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et cette épée ?",
+    "next": "jeanne_epee"
+   },
+   {
+    "label": "Et votre étendard ?",
+    "next": "jeanne_etendard"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.jeanne_tours",
+   "codex.cent_ans.armure"
+  ]
+ },
+ "jeanne_epee": {
+  "speaker": "jeanne",
+  "text": "J'ai fait chercher une épée à Sainte-Catherine-de-Fierbois, derrière l'autel. Un marchand d'armes d'ici y est allé. Les gens d'Église l'ont frottée, et la rouille est tombée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_1",
+    "loc": "p. 76"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.epee"
+  ]
+ },
+ "jeanne_etendard": {
+  "speaker": "jeanne",
+  "text": "Il est peint à Tours : Notre Seigneur assis pour juger, dans les nuées, et un ange qui tient une fleur de lis.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_3",
+    "loc": "p. 103"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.etendard"
+  ]
+ },
+ "dupuy_intro": {
+  "speaker": "dupuy",
+  "text": "Elle loge chez moi. Je suis bourgeois de cette ville et conseiller de la reine de Sicile.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_3",
+    "loc": "p. 101"
+   },
+   {
+    "id": "quicherat_5",
+    "loc": "p. 154"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que fait la ville ?",
+    "next": "dupuy_ville"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.dupuy"
+  ]
+ },
+ "dupuy_ville": {
+  "speaker": "dupuy",
+  "text": "Les élus de la ville, les chanoines de la cathédrale et ceux de Saint-Martin s'assemblent pour décider de ce qui touche à tous : les murs, le guet, l'argent.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_5",
+    "loc": "p. 154-155"
+   },
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.ville_reunie"
+  ]
+ },
+ "pasquerel_intro": {
+  "speaker": "pasquerel",
+  "text": "Je suis frère de l'ordre de Saint-Augustin et lecteur au couvent de cette ville. Ceux qui l'ont amenée m'ont conduit chez Jean Dupuy ; le lendemain, je l'ai entendue en confession et j'ai chanté la messe devant elle. Depuis, je la suis.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "quicherat_3",
+    "loc": "p. 101"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.pasquerel"
+  ]
+ },
+ "poulnoir_intro": {
+  "speaker": "poulnoir",
+  "text": "On m'a commandé deux étendards pour la Pucelle, un grand et un petit. Vingt-cinq livres tournois, payées par le trésorier des guerres.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "quicherat_5",
+    "loc": "p. 258"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Vous la connaissez ?",
+    "next": "poulnoir_fille"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.etendard"
+  ]
+ },
+ "poulnoir_fille": {
+  "speaker": "poulnoir",
+  "text": "Elle est bonne pour les gens d'ici. J'ai une fille à marier ; on verra bien.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "quicherat_5",
+    "loc": "p. 154-155"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.heliote"
+  ]
+ },
+ "armurier_intro": {
+  "speaker": "armurier",
+  "text": "Un harnois complet, à sa taille : cent livres tournois. Il faut qu'il soit prêt avant qu'elle parte.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_5",
+    "loc": "p. 258"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.armure"
+  ]
+ },
+ "marchand_intro": {
+  "speaker": "marchand",
+  "text": "C'est moi qui suis allé à Fierbois chercher l'épée. Les gens d'Église lui ont donné un fourreau ; ici, on lui en a fait faire deux, l'un de velours vermeil, l'autre de drap d'or.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_1",
+    "loc": "p. 76"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.epee"
+  ]
+ },
+ "guetteur_intro": {
+  "speaker": "guetteur",
+  "text": "Chacun doit le guet, à son tour. On surveille d'abord les portes et le côté de la Loire. Le mur n'est pas bien solide ; depuis le siège de 1418, on ne cesse de le réparer.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.enceinte",
+   "codex.cent_ans.guet"
+  ]
+ },
+ "chanoine_intro": {
+  "speaker": "chanoine",
+  "text": "Le tombeau de saint Martin est sous le chœur. Les pèlerins viennent toujours, de partout. Avant le mur, Châteauneuf et la Cité étaient deux villes ; aujourd'hui, nous délibérons ensemble.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   },
+   {
+    "id": "wp_collegiale_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.collegiale",
+   "codex.cent_ans.ville_reunie"
+  ]
+ },
+ "pelerin_intro": {
+  "speaker": "pelerin",
+  "text": "Je vais à Saint-Jacques, en Galice. On entre par le pont, on traverse la ville et on ressort par la porte Saint-Étienne.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.saint_jacques"
+  ]
+ },
+ "lieu_enceinte": {
+  "speaker": "enceinte_0",
+  "text": "La « clouaison » de Jean le Bon, bâtie de 1354 à 1368 : 4 335 m de mur pour 58 ha, une quinzaine de portes et poternes. Tracé d'après les rues qui ont remplacé ses fossés.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.enceinte"
+  ]
+ },
+ "lieu_dupuy": {
+  "speaker": "maison_dupuy",
+  "text": "La maison de Jean Dupuy, où loge Jeanne en avril 1429. Une plaque de 1929 la situe au 15, rue Paul-Louis-Courier. Bâtiment supposé.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "quicherat_3",
+    "loc": "p. 101"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.dupuy",
+   "codex.cent_ans.jeanne_tours"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "La collégiale gothique de Saint-Martin, sur le tombeau du saint ; les tours Charlemagne et de l'Horloge en font partie.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_collegiale_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.collegiale"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Gatien, en chantier : le chœur gothique est achevé depuis le XIIIe siècle, la nef ne le sera qu'au XVe, la façade est à peine commencée. Emprise de l'édifice actuel.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.cathedrale"
+  ]
+ },
+ "lieu_chateau": {
+  "speaker": "chateau",
+  "text": "Le château, à l'angle nord-ouest de la Cité, au débouché du pont. Emprise de l'édifice actuel.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_enceinte_medievale_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.ville_reunie"
+  ]
+ },
+ "lieu_pont": {
+  "speaker": "pont_eudes",
+  "text": "Le pont d'Eudes, toujours là quatre siècles après sa construction : on entre dans la ville par lui, au nord.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_pont_eudes"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.saint_jacques"
+  ]
+ },
+ "lieu_saint_julien": {
+  "speaker": "saint_julien",
+  "text": "L'abbatiale gothique de Saint-Julien, entre Châteauneuf et la Cité, désormais dans les murs.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_saint_julien"
+   }
+  ],
+  "unlocks": [
+   "codex.cent_ans.ville_reunie"
+  ]
+ }
+}

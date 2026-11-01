@@ -1,0 +1,213 @@
+{
+ "epoch": "cent_ans",
+ "entries": [
+  {
+   "id": "codex.cent_ans.jeanne_tours",
+   "title": "La Pucelle à Tours",
+   "theme": "evenements",
+   "text": "Après Chinon et Poitiers, Jeanne vient à Tours en avril 1429, après Pâques. Elle loge chez Jean Dupuy, bourgeois de la ville ; c'est là que frère Jean Pasquerel devient son confesseur. On l'équipe pour l'expédition qui doit secourir Orléans, assiégée par les Anglais ; peu après, elle part avec les gens d'armes.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_3",
+     "loc": "p. 101-104"
+    },
+    {
+     "id": "quicherat_5",
+     "loc": "p. 257-258"
+    },
+    {
+     "id": "wp_jeanne_darc"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.armure",
+   "title": "Un harnois complet",
+   "theme": "evenements",
+   "text": "Le trésorier des guerres Hémon Raguier paie, en avril 1429, cent livres tournois « au maistre armeurier » pour une armure complète destinée à la Pucelle, et cent vingt-cinq livres à deux compagnons pour s'armer et l'accompagner.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_5",
+     "loc": "p. 257-258"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "harnois complet pour laditte Pucelle, 100 livres tournois",
+     "source": {
+      "id": "quicherat_5",
+      "loc": "p. 258"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.etendard",
+   "title": "L'étendard",
+   "theme": "evenements",
+   "text": "Hauves Poulnoir, « paintre, demourant a Tours », reçoit vingt-cinq livres tournois pour un grand étendard et un petit. D'après Pasquerel, on y voyait le Sauveur assis pour juger, dans les nuées, et un ange tenant une fleur de lis que bénissait le Sauveur. Traduction du jeu : « l'image de notre Sauveur assis pour le jugement ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_5",
+     "loc": "p. 258"
+    },
+    {
+     "id": "quicherat_3",
+     "loc": "p. 103"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "imago Salvatoris nostri sedentis in judicio",
+     "source": {
+      "id": "quicherat_3",
+      "loc": "p. 103"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.epee",
+   "title": "L'épée de Fierbois",
+   "theme": "evenements",
+   "text": "Jeanne raconte à ses juges qu'étant à Tours ou à Chinon, elle fit chercher une épée enterrée dans l'église de Sainte-Catherine-de-Fierbois, marquée de cinq croix. Un marchand d'armes de Tours alla la chercher ; on la dérouilla sans peine ; les gens de Tours lui firent faire deux fourreaux, de velours vermeil et de drap d'or.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_1",
+     "loc": "p. 76"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.dupuy",
+   "title": "Jean Dupuy",
+   "theme": "personnes",
+   "text": "Bourgeois de Tours, conseiller de la reine de Sicile, Jean Dupuy loge Jeanne en avril 1429. On le retrouve en janvier 1430 parmi ceux qui délibèrent sur une lettre de la Pucelle.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_3",
+     "loc": "p. 101"
+    },
+    {
+     "id": "quicherat_5",
+     "loc": "p. 154"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.pasquerel",
+   "title": "Frère Jean Pasquerel",
+   "theme": "personnes",
+   "text": "Ermite de Saint-Augustin, lecteur au couvent de Tours, il rencontre Jeanne chez Jean Dupuy, la confesse le lendemain et la suit jusqu'à sa capture. Sa déposition au procès de réhabilitation (1456) décrit l'étendard.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_3",
+     "loc": "p. 101-104"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.heliote",
+   "title": "Les noces d'Héliote",
+   "theme": "personnes",
+   "text": "Plus tard, en janvier 1430, Jeanne écrit aux élus de Tours pour qu'on donne cent écus au peintre Heuves Polnoir pour vêtir sa fille. En février, la ville offre du vin et du pain pour les noces d'Héliote, la fille du peintre.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "quicherat_5",
+     "loc": "p. 154-155"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "pour l'onneur de Jehanne la Pucelle qui avoit recommandée ladite fille",
+     "source": {
+      "id": "quicherat_5",
+      "loc": "p. 155"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.enceinte",
+   "title": "La clouaison",
+   "theme": "lieux",
+   "text": "Commencée vers 1354, autorisée par Jean le Bon le 30 mars 1356, achevée en 1368, l'enceinte mesure 4 335 m et enferme 58 ha. Bâtie à l'économie, sur des fondations de remploi, elle réutilise la muraille du castrum pour la Cité. Un fossé en eau, précédé d'un fossé sec, la borde ; devant, un glacis d'une cinquantaine de mètres où l'on a tout démoli.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_enceinte_medievale_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.ville_reunie",
+   "title": "Une seule ville",
+   "theme": "evenements",
+   "text": "Jusque-là, Tours était double : la Cité, de l'archevêque et du roi, et Châteauneuf, la ville marchande de Saint-Martin. L'enceinte commune oblige clercs et laïcs à se concerter : les Tourangeaux prennent conscience d'un destin commun, et l'administration de la ville en naît.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_enceinte_medievale_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.guet",
+   "title": "Le guet",
+   "theme": "vie_quotidienne",
+   "text": "Avec l'enceinte vient une conscription obligatoire : les habitants font le guet, sans armes, et prennent les armes en cas d'alerte. On surveille d'abord les portes et la face nord, du côté de la Loire, d'où viennent les crues et peut-être les Anglais. Le siège de 1418 a endommagé le mur.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_enceinte_medievale_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.collegiale",
+   "title": "La collégiale Saint-Martin",
+   "theme": "lieux",
+   "text": "Rebâtie en gothique après l'incendie de 1203, la collégiale abrite le tombeau de saint Martin sous son chœur ; le chapitre est l'une des grandes puissances de la ville. Les tours Charlemagne et de l'Horloge, encore debout aujourd'hui, en faisaient partie.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_collegiale_saint_martin"
+    },
+    {
+     "id": "wp_martin_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.cathedrale",
+   "title": "Une cathédrale en chantier",
+   "theme": "lieux",
+   "text": "La cathédrale gothique se construit depuis 1170 : le chœur est fait (1236-1279), la nef s'achève au XVe siècle, et la façade occidentale, commencée au début du siècle, ne sera terminée qu'en 1547.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    }
+   ]
+  },
+  {
+   "id": "codex.cent_ans.saint_jacques",
+   "title": "La route de Saint-Jacques",
+   "theme": "vie_quotidienne",
+   "text": "Un axe traverse la ville du nord au sud, du pont sur la Loire à la porte Saint-Étienne : on l'appelle la route de Saint-Jacques-de-Compostelle, car les pèlerins l'empruntent. La porte Saint-Étienne sera plus tard reconstruite et fortifiée.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_enceinte_medievale_tours"
+    }
+   ]
+  }
+ ]
+}

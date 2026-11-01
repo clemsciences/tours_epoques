@@ -1,0 +1,38 @@
+{
+ "landmarks": [
+  {
+   "layer": "enceinte_0",
+   "dialogue": "lieu_enceinte",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Enceinte_m%C3%A9di%C3%A9vale_de_Tours"
+  },
+  {
+   "layer": "maison_dupuy",
+   "dialogue": "lieu_dupuy"
+  },
+  {
+   "layer": "collegiale_saint_martin",
+   "dialogue": "lieu_collegiale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Collégiale_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "chateau",
+   "dialogue": "lieu_chateau",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Tours"
+  },
+  {
+   "layer": "pont_eudes",
+   "dialogue": "lieu_pont",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Pont_d%27Eudes"
+  },
+  {
+   "layer": "saint_julien",
+   "dialogue": "lieu_saint_julien",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Julien_(Tours)"
+  }
+ ]
+}
