@@ -16,10 +16,28 @@
    {
     "label": "Et le comte ?",
     "next": "berenger_comte"
+   },
+   {
+    "label": "Et le roi ?",
+    "next": "berenger_prison"
    }
   ],
   "unlocks": [
    "codex.an_mil.berenger"
+  ]
+ },
+ "berenger_prison": {
+  "speaker": "berenger",
+  "text": "Le roi est abbé de Saint-Martin. Je suis allé le trouver à Paris, sans rien craindre de lui. Il m'a livré à l'un de ses hommes, enfermé, dépouillé de tout, pour m'arracher une rançon que je n'ai jamais eue. En prison, j'ai demandé l'Évangile de saint Jean, et je l'ai relu.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sudendorf_1850",
+    "loc": "p. 107 et 209"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.prison"
   ]
  },
  "berenger_eucharistie": {
@@ -347,6 +365,45 @@
   ],
   "unlocks": [
    "codex.an_mil.marmoutier_xie"
+  ]
+ },
+ "moniale_intro": {
+  "speaker": "moniale",
+  "text": "Nous vivions dans le castrum, à Notre-Dame-de-l'Écrignole, bien trop à l'étroit après l'incendie. Le trésorier Hervé nous a fondé cette abbaye ; nous y sommes depuis 1007, et le roi Robert a confirmé nos biens.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_beaumont"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.beaumont"
+  ]
+ },
+ "lieu_beaumont": {
+  "speaker": "beaumont_eglise",
+  "text": "L'abbaye de moniales de Beaumont, fondée en 1002 par Hervé, trésorier de Saint-Martin, pour la communauté de Notre-Dame-de-l'Écrignole. Église et enclos supposés.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_beaumont"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.beaumont"
+  ]
+ },
+ "lieu_saint_symphorien": {
+  "speaker": "saint_symphorien_eglise",
+  "text": "L'église Saint-Symphorien, au bout du pont d'Eudes, sur la rive droite. Elle appartient à Marmoutier depuis au moins 852. L'édifice actuel est plus tardif.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_saint_symphorien"
+   }
+  ],
+  "unlocks": [
+   "codex.an_mil.saint_symphorien"
   ]
  }
 }

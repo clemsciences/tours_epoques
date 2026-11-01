@@ -557,5 +557,27 @@
   "year": "consulté le 1/11/2026",
   "url": "https://fr.wikipedia.org/wiki/Thermes_gallo-romains_de_Tours",
   "kind": "encyclopédie"
+ },
+ "sudendorf_1850": {
+  "title": "Berengarius Turonensis, oder eine Sammlung ihn betreffender Briefe",
+  "author": "Hans Sudendorf (éd.)",
+  "year": "1850",
+  "publisher": "Hambourg et Gotha, Perthes ; Internet Archive (texte océrisé)",
+  "url": "https://archive.org/details/bub_gb_ED-99aA--bYC",
+  "kind": "correspondance"
+ },
+ "wp_beaumont": {
+  "title": "Abbaye de Beaumont-lès-Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Beaumont-l%C3%A8s-Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_saint_symphorien": {
+  "title": "Église Saint-Symphorien de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 1/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Symphorien_de_Tours",
+  "kind": "encyclopédie"
  }
 }

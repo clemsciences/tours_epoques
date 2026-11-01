@@ -119,6 +119,52 @@
    ]
   },
   {
+   "id": "codex.an_mil.prison",
+   "title": "Bérenger en prison",
+   "theme": "evenements",
+   "text": "Fin 1050, Bérenger écrit à Ansfried, abbé de Préaux, depuis une prison. D'après l'éditeur de ses lettres, il était allé trouver à Paris le roi Henri Ier, abbé de Saint-Martin, sans rien redouter de lui ; le roi l'avait fait enfermer et dépouiller pour en tirer une somme qu'il n'avait pas. En prison, il relit l'Évangile de saint Jean. Traduction du jeu : « Je demandai pour moi l'Évangile de saint Jean. »",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sudendorf_1850",
+     "loc": "p. 107 et 208-210"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "petiui mihi euangelium sancti Johannis",
+     "source": {
+      "id": "sudendorf_1850",
+      "loc": "p. 209"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.beaumont",
+   "title": "Les moniales de Beaumont",
+   "theme": "lieux",
+   "text": "En 1002, Hervé, trésorier de Saint-Martin, fonde à Beaumont, au sud-ouest de Châteauneuf, une abbaye pour les moniales de Notre-Dame-de-l'Écrignole, trop à l'étroit dans le castrum après l'incendie. Elles s'y installent en 1007 ; le roi Robert confirme leurs biens. Ce sera la plus grande et la plus durable communauté de moniales de Touraine.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_beaumont"
+    }
+   ]
+  },
+  {
+   "id": "codex.an_mil.saint_symphorien",
+   "title": "Saint-Symphorien",
+   "theme": "lieux",
+   "text": "Au bout du pont d'Eudes, sur la rive droite, l'église Saint-Symphorien dépend de Marmoutier depuis au moins 852. Une paroisse n'y sera créée qu'entre la fin du XIe et le milieu du XIIe siècle.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_saint_symphorien"
+    }
+   ]
+  },
+  {
    "id": "codex.an_mil.monnaie",
    "title": "Les deniers de Saint-Martin",
    "theme": "vie_quotidienne",

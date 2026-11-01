@@ -11,7 +11,20 @@
    "color": "#3E3A6E",
    "dialogue": "berenger_intro",
    "certainty": "attested",
-   "note": "Personnage réel : Bérenger de Tours (vers 998-1088), maître de l'école de Saint-Martin depuis 1030. Répliques reconstituées d'après les faits connus ; aucune citation."
+   "note": "Personnage réel : Bérenger de Tours (vers 998-1088), maître de l'école de Saint-Martin depuis 1030. Répliques reconstituées d'après les faits connus et sa lettre à l'abbé Ansfried (fin 1050) ; la citation exacte est dans le carnet, en latin."
+  },
+  {
+   "id": "moniale",
+   "name": "Une moniale",
+   "role": "Abbaye de Beaumont",
+   "position": [
+    47.38318,
+    0.6724
+   ],
+   "color": "#4A3A5A",
+   "dialogue": "moniale_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme ; la fondation de Beaumont et l'installation des moniales (1007) sont attestées (Wikipédia)."
   },
   {
    "id": "monnayeur",

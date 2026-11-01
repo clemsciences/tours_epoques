@@ -43,6 +43,16 @@
    "layer": "marmoutier_eglise",
    "dialogue": "lieu_marmoutier",
    "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  },
+  {
+   "layer": "beaumont_eglise",
+   "dialogue": "lieu_beaumont",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Beaumont-l%C3%A8s-Tours"
+  },
+  {
+   "layer": "saint_symphorien_eglise",
+   "dialogue": "lieu_saint_symphorien",
+   "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Symphorien_de_Tours"
   }
  ]
 }
