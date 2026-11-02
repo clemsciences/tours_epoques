@@ -26821,40 +26821,40 @@ _.x=!1
 _.z=h
 _.as=i
 _.at=j},
-aTT(b0,b1,b2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=null,a3="waterEdge",a4="streetEdge",a5="stoneEdge",a6="Couleur absente de la palette : waterEdge",a7="Couleur absente de la palette : garden",a8=new A.auW(b2),a9=A.b([],t.SJ)
-for(s=b0.hd(B.eM),r=J.at(s.a),s=new A.eE(r,s.b),q=b1.a;s.q();){p=r.gF()
+aTT(b3,b4,b5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=null,a4="Couleur absente de la palette : ",a5="waterEdge",a6="streetEdge",a7="roofEdge",a8="stoneEdge",a9="Couleur absente de la palette : waterEdge",b0="Couleur absente de la palette : garden",b1=new A.auW(b5),b2=A.b([],t.SJ)
+for(s=b3.hd(B.eM),r=J.at(s.a),s=new A.eE(r,s.b),q=b4.a;s.q();){p=r.gF()
 o=q.h(0,"water")
-if(o==null)o=A.a1(A.cm("Couleur absente de la palette : water",a2))
-n=q.h(0,a3)
-if(n==null)n=A.a1(A.cm(a6,a2))
-a9.push(A.aw6(p,a8.$1(p),n,o,0))}for(s=b0.hd(B.kj),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
+if(o==null)o=A.a1(A.cm("Couleur absente de la palette : water",a3))
+n=q.h(0,a5)
+if(n==null)n=A.a1(A.cm(a9,a3))
+b2.push(A.aw6(p,b1.$1(p),n,o,0))}for(s=b3.hd(B.kj),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
 o=q.h(0,"land")
-if(o==null)o=A.a1(A.cm("Couleur absente de la palette : land",a2))
-n=q.h(0,a3)
-a9.push(A.aw6(p,!1,n==null?A.a1(A.cm(a6,a2)):n,o,1))}for(s=b0.hd(B.oG),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
+if(o==null)o=A.a1(A.cm("Couleur absente de la palette : land",a3))
+n=q.h(0,a5)
+b2.push(A.aw6(p,!1,n==null?A.a1(A.cm(a9,a3)):n,o,1))}for(s=b3.hd(B.oG),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
 m=p.a.r
 $label0$0:{if(m!=null){o=q.h(0,m)
 if(o==null){o=q.h(0,"garden")
-if(o==null)o=A.a1(A.cm(a7,a2))}break $label0$0}o=q.h(0,"garden")
-if(o==null)o=A.a1(A.cm(a7,a2))
-break $label0$0}if(a8.$1(p)){n=q.h(0,a4)
-if(n==null)n=A.a1(A.cm("Couleur absente de la palette : streetEdge",a2))}else n=a2
-a9.push(A.aw6(p,a8.$1(p),n,o,2))}s=A.b([],t.Jr)
-for(r=b0.hd(B.bF),p=J.at(r.a),r=new A.eE(p,r.b);r.q();){o=p.gF()
+if(o==null)o=A.a1(A.cm(b0,a3))}break $label0$0}o=q.h(0,"garden")
+if(o==null)o=A.a1(A.cm(b0,a3))
+break $label0$0}if(b1.$1(p)){n=q.h(0,a6)
+if(n==null)n=A.a1(A.cm("Couleur absente de la palette : streetEdge",a3))}else n=a3
+b2.push(A.aw6(p,b1.$1(p),n,o,2))}s=A.b([],t.Jr)
+for(r=b3.hd(B.bF),p=J.at(r.a),r=new A.eE(p,r.b);r.q();){o=p.gF()
 n=o.a
-if(n.a===B.bF&&n.r==="house")s.push(o)}r=b0.hd(B.eN)
+if(n.a===B.bF&&n.r==="house")s.push(o)}r=b3.hd(B.eN)
 r=A.Y(r,r.$ti.i("r.E"))
-p=b0.hd(B.hx)
+p=b3.hd(B.hx)
 p=A.Y(p,p.$ti.i("r.E"))
-o=b0.hd(B.kk)
+o=b3.hd(B.kk)
 o=A.Y(o,o.$ti.i("r.E"))
-n=b1.h(0,"roof")
-l=b1.h(0,"roofEdge")
-k=b1.h(0,"street")
-j=b1.h(0,a4)
+n=b4.h(0,"roof")
+l=b4.h(0,a7)
+k=b4.h(0,"street")
+j=b4.h(0,a6)
 i=q.h(0,"wall")
-if(i==null)i=b1.h(0,"stone")
-h=b1.h(0,a5)
+if(i==null)i=b4.h(0,"stone")
+h=b4.h(0,a8)
 $.X()
 g=A.ae()
 g.r=n.gm()
@@ -26871,18 +26871,22 @@ h=A.zY(h)
 j=A.zY(j)
 e=A.zY(B.Ey)
 d=t.g
-c=A.aI(A.dt(a2),a2,!1,d)
+c=A.aI(A.dt(a3),a3,!1,d)
 b=t.d
-a9.push(new A.LT(s,r,p,o,b2,g,n,f,k,l,i,h,j,e,3,new A.bY(c,0,0,b),a2,new A.bt([]),new A.bt([])))
-for(s=b0.hd(B.bF),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
+b2.push(new A.LT(s,r,p,o,b5,g,n,f,k,l,i,h,j,e,3,new A.bY(c,0,0,b),a3,new A.bt([]),new A.bt([])))
+for(s=b3.hd(B.bF),r=J.at(s.a),s=new A.eE(r,s.b);s.q();){p=r.gF()
 o=p.a
 if(o.a===B.bF&&o.r==="house")continue
-o=o.r==="worksite"?"worksite":"stone"
-n=q.h(0,o)
-o=n==null?A.a1(A.cm("Couleur absente de la palette : "+o,a2)):n
-n=q.h(0,a5)
-if(n==null)n=A.a1(A.cm("Couleur absente de la palette : stoneEdge",a2))
-l=a8.$1(p)
+a=o.r
+$label1$2:{if("worksite"===a){o="worksite"
+break $label1$2}if("block"===a){o="roof"
+break $label1$2}o="stone"
+break $label1$2}n=q.h(0,o)
+o=n==null?A.a1(A.cm(a4+o,a3)):n
+n=a==="block"?a7:a8
+l=q.h(0,n)
+n=l==null?A.a1(A.cm(a4+n,a3)):l
+l=b1.$1(p)
 $.X()
 k=new A.h8(B.aY,B.b2,B.bI,B.c5,B.bf)
 k.r=(l?o.rp(0.55):o).gm()
@@ -26892,19 +26896,19 @@ o.b=B.Q
 o.c=2
 j=new A.h8(B.aY,B.b2,B.bI,B.c5,B.bf)
 j.r=n.rp(0.35).gm()
-n=A.aI(A.dt(a2),a2,!1,d)
-a9.push(new A.IT(p,l,k,o,j,5,new A.bY(n,0,0,b),a2,new A.bt([]),new A.bt([])))}s=A.b([],t.kd)
-for(r=b0.a,q=r.length,a=0;a<r.length;r.length===q||(0,A.k)(r),++a){a0=r[a]
-p=a0.a
-a1=p.e
-if(a1!=null){o=a0.gXC()
+n=A.aI(A.dt(a3),a3,!1,d)
+b2.push(new A.IT(p,l,k,o,j,5,new A.bY(n,0,0,b),a3,new A.bt([]),new A.bt([])))}s=A.b([],t.kd)
+for(r=b3.a,q=r.length,a0=0;a0<r.length;r.length===q||(0,A.k)(r),++a0){a1=r[a0]
+p=a1.a
+a2=p.e
+if(a2!=null){o=a1.gXC()
 if(!p.x){n=p.a
 n=n===B.eM||n===B.eO}else n=!0
 l=p.a
 if(l!==B.eO)p=l===B.eM&&B.b.dW(B.K0,B.d.ga0D(p.b))
 else p=!0
-s.push(new A.l2(a1,o,n,p))}}a9.push(A.aML(s,b1.h(0,"label"),20))
-return a9},
+s.push(new A.l2(a2,o,n,p))}}b2.push(A.aML(s,b4.h(0,"label"),20))
+return b2},
 auW:function auW(a){this.a=a},
 aML(a,b,c){var s=A.aBS(b,!1),r=A.aBS(b,!0),q=A.aI(A.dt(null),null,!1,t.g)
 s=new A.LS(s,r,A.q(t.BC,t.d5),A.q(t.Ge,t.N8),c,new A.bY(q,0,0,t.d),null,new A.bt([]),new A.bt([]))

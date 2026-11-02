@@ -474,7 +474,8 @@
   ],
   "unlocks": [
    "codex.revolution.prisons"
-  ]
+  ],
+  "model": "marmoutier_1785"
  },
  "lieu_saint_julien": {
   "speaker": "saint_julien",

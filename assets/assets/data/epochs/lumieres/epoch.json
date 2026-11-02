@@ -22,5 +22,6 @@
   "player": "#6B3A2F",
   "carriage": "#2F4A3A"
  },
+ "dashHypotheses": true,
  "carriage": "carrosse"
 }

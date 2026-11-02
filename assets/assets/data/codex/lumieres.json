@@ -351,13 +351,17 @@
    "id": "codex.lumieres.marmoutier",
    "title": "Marmoutier",
    "theme": "lieux",
-   "text": "Sur la rive droite de la Loire, à l'est de Tours, la grande abbaye fondée par saint Martin est occupée par des Bénédictins. Le 17 septembre 1785, Mme Cradock y entre exceptionnellement, « en notre qualité d'Anglaises et d'étrangères », alors que la porte est d'ordinaire fermée aux femmes. Elle est hors du cadre de la carte.",
+   "text": "Sur la rive droite de la Loire, à l'est de Tours, la grande abbaye fondée par saint Martin est occupée par des Bénédictins. Le 17 septembre 1785, Mme Cradock y entre exceptionnellement, « en notre qualité d'Anglaises et d'étrangères », alors que la porte est d'ordinaire fermée aux femmes. Son église et ses grands bâtiments sont restitués sur la carte et en 3D, d'après les fouilles de Charles Lelong et les vues anciennes.",
    "certainty": "attested",
    "sources": [
     {
      "id": "cradock_journal",
      "loc": "p. 288-290",
      "quote": true
+    },
+    {
+     "id": "lorans_marmoutier_2008",
+     "loc": "fig. 17"
     }
    ]
   }

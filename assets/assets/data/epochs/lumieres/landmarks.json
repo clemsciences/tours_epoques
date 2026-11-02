@@ -27,6 +27,11 @@
   {
    "layer": "pavillon_est_chantier",
    "dialogue": "lieu_hotel_de_ville_chantier"
+  },
+  {
+   "layer": "marmoutier",
+   "dialogue": "lieu_marmoutier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
   }
  ]
 }

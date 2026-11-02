@@ -278,7 +278,8 @@
  "wp_marmoutier": {
   "title": "Abbaye de Marmoutier (Tours)",
   "author": "Wikipédia",
-  "year": "consulté le 30/10/2026",
+  "year": "consulté le 2/11/2026",
+  "publisher": "Wikimedia",
   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)",
   "kind": "encyclopédie"
  },
@@ -745,5 +746,37 @@
   "year": "consulté le 2/11/2026",
   "url": "https://fr.wikipedia.org/wiki/Indre-et-Loire",
   "kind": "encyclopédie"
+ },
+ "sat_bulletin_1980": {
+  "title": "Études sur l'abbaye de Marmoutier (Bulletin de la Société archéologique de Touraine, t. XXXIX)",
+  "author": "Charles Lelong",
+  "year": "1980",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6551009t",
+  "kind": "revue savante"
+ },
+ "lorans_marmoutier_2008": {
+  "title": "Le site de l'abbaye de Marmoutier (Tours, Indre-et-Loire). Rapport de synthèse 2004-2008",
+  "author": "Élisabeth Lorans (dir.)",
+  "year": "2008",
+  "publisher": "UMR CITERES, Laboratoire Archéologie et Territoires, Tours",
+  "url": "https://shs.hal.science/halshs-00679974",
+  "kind": "rapport de fouille"
+ },
+ "lorans_marmoutier_2013": {
+  "title": "Le site de l'abbaye de Marmoutier (Tours, Indre-et-Loire). Rapport 2013",
+  "author": "Élisabeth Lorans, Thomas Creissen (dir.)",
+  "year": "2013",
+  "publisher": "UMR CITERES, Laboratoire Archéologie et Territoires, Tours",
+  "url": "https://hal.science/hal-01005442",
+  "kind": "rapport de fouille"
+ },
+ "monasticon_marmoutier": {
+  "title": "Totius majoris Monasterij prope Turones Delineatio (vue cavalière de Marmoutier)",
+  "author": "anonyme (Monasticon Gallicanum)",
+  "year": "vers 1672-1689",
+  "publisher": "BnF, Estampes",
+  "url": "https://gallica.bnf.fr/ark:/12148/btv1b10843452m",
+  "kind": "estampe"
  }
 }

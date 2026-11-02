@@ -111,7 +111,7 @@
   "sources": [
    {
     "id": "cradock_journal",
-    "loc": "17 septembre 1785, p. 288",
+    "loc": "17 septembre 1785, p. 288-290",
     "quote": true
    }
   ],
@@ -498,6 +498,50 @@
     "source": {
      "id": "sat_memoires_1941",
      "loc": "p. 49"
+    }
+   }
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier",
+  "text": "L'abbaye de Marmoutier, adossée au coteau de la rive droite. Son église gothique, longue de 112 mètres, dépasse la cathédrale ; au sud, les Bénédictins de Saint-Maur ont bâti de grands bâtiments neufs autour de deux cloîtres. La charpente et le clocher de l'église ont été refaits jusqu'en 1783. Mme Cradock la visite le 17 septembre 1785.",
+  "model": "marmoutier_1785",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "cradock_journal",
+    "loc": "17 septembre 1785, p. 288-290",
+    "quote": true
+   },
+   {
+    "id": "wp_marmoutier",
+    "loc": "112 mètres"
+   },
+   {
+    "id": "sat_bulletin_1980",
+    "loc": "p. 302 et 320-338"
+   },
+   {
+    "id": "lorans_marmoutier_2008",
+    "loc": "p. 11 et fig. 17"
+   }
+  ],
+  "unlocks": [
+   "codex.lumieres.marmoutier"
+  ],
+  "quotes": [
+   {
+    "text": "vaste et magnifique, le chœur séparé du reste est réservé aux moines",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "17 septembre 1785, p. 288-290"
+    }
+   },
+   {
+    "text": "Nous fîmes ensuite le tour des cloîtres formant un carré couvert autour d'un jardin garni de jolis parterres",
+    "source": {
+     "id": "cradock_journal",
+     "loc": "17 septembre 1785, p. 288-290"
     }
    }
   ]

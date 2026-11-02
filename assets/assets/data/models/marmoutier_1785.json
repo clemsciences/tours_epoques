@@ -1,0 +1,1241 @@
+{
+ "id": "marmoutier_1785",
+ "title": "L'abbaye de Marmoutier en 1785",
+ "summary": "Restitution en volumes simples de l'église abbatiale gothique et des grands bâtiments mauristes, avant la Révolution : plan de l'église d'après le relevé des vestiges de Charles Lelong, bâtiments d'après les inventaires de 1791 et 1797, hauteurs estimées sur les vues du Monasticon, de Louis Boudan et de Rougeot.",
+ "year": 1785,
+ "certainty": "hypothesis",
+ "dossier": "docs/marmoutier_3d.md",
+ "frame": {
+  "units": "m",
+  "origin": "milieu de la face extérieure de la façade occidentale, au niveau du sol de l'église",
+  "x": "vers le chevet (est)",
+  "y": "vers le haut",
+  "z": "vers le sud (côté des cloîtres et de la Loire)",
+  "anchor": {
+   "lat": 47.404517,
+   "lon": 0.717703,
+   "bearing": 90.0
+  },
+  "anchor_note": "Calé sur la tour des Cloches (OSM) d'après la position relative de la tour et de l'église sur la fig. 15 du rapport 2004-2008 ; contrôle : le mur du fond du bras nord du transept tombe sur le vestige « Ancienne abbatiale de Marmoutier » d'OSM (écart de l'ordre de 2 m)."
+ },
+ "sources": {
+  "lelong_plan": "Plan des vestiges de l'église gothique d'après Ch. Lelong, dans É. Lorans (dir.), Le site de l'abbaye de Marmoutier, rapport de synthèse 2004-2008, fig. 17 (HAL halshs-00679974)",
+  "syn0408": "É. Lorans (dir.), Le site de l'abbaye de Marmoutier (Tours), rapport de synthèse 2004-2008, CITERES-LAT, p. 11 (HAL halshs-00679974)",
+  "syn1214": "É. Lorans, Th. Creissen (dir.), Le site de l'abbaye de Marmoutier, rapport 2012-2014, p. 33 (tour des Cloches) (HAL halshs-01266349)",
+  "syn1517": "É. Lorans, Th. Creissen (dir.), Le site de l'abbaye de Marmoutier, rapport 2015-2017 (HAL hal-01723666)",
+  "lorans2013": "É. Lorans, Th. Creissen (dir.), Le site de l'abbaye de Marmoutier, rapport 2013, p. 50 et 59-60 (HAL hal-01005442)",
+  "lelong1980": "Ch. Lelong, « Études sur l'abbaye de Marmoutier », Bull. SAT XXXIX, 1980, p. 279-343 (texte océrisé de Gallica, non relu)",
+  "wp_fr": "Wikipédia, « Abbaye de Marmoutier (Tours) », consulté le 2/11/2026 : 112 m de long, tours jamais couronnées de flèches, narthex à cinq porches",
+  "monasticon": "« Totius majoris Monasterij prope Turones Delineatio », estampe, vers 1672-1689 (BnF, btv1b10843452m ; Wikimedia Commons, domaine public)",
+  "boudan": "Louis Boudan, « Veüe de l'Abbaye de Marmoustier lez Tours », vers 1700, collection Gaignières (Wikimedia Commons, domaine public)",
+  "rougeot": "Charles-Antoine Rougeot, Vue de l'abbaye de Marmoutier, peinture, XVIIIe siècle (Wikimedia Commons, domaine public)",
+  "osm": "OpenStreetMap (ODbL) : emprises de la tour des Cloches et du vestige « Ancienne abbatiale de Marmoutier »"
+ },
+ "materials": {
+  "tuffeau": {
+   "color": [
+    0.87,
+    0.83,
+    0.71
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "certainty": "probable",
+   "note": "Moyen appareil de tuffeau en assises d'environ 40 cm, joints fins, patine grise en coulures : usage courant en Touraine, non relevé sur l'édifice."
+  },
+  "tuffeau_dark": {
+   "color": [
+    0.74,
+    0.7,
+    0.58
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 0.95,
+   "normal": 3,
+   "course": 0.3,
+   "certainty": "hypothesis",
+   "note": "Corniches : pierre plus exposée, donc plus sombre."
+  },
+  "slate": {
+   "color": [
+    0.17,
+    0.19,
+    0.23
+   ],
+   "pattern": "slate",
+   "tile": 2,
+   "roughness": 0.65,
+   "normal": 4,
+   "certainty": "probable",
+   "note": "Ardoises rectangulaires (ardoise d'Anjou, usage courant en Touraine) à pureau d'environ 20 cm ; quelques lichens."
+  },
+  "lead": {
+   "color": [
+    0.24,
+    0.26,
+    0.28
+   ],
+   "pattern": "lead",
+   "tile": 2,
+   "roughness": 0.55,
+   "metallic": 0.35,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Tables de plomb à joints debout, patine blanchâtre ; la flèche était « sans doute en bois » (Leveel), couverte de plomb ou d'ardoise."
+  },
+  "glass": {
+   "color": [
+    0.07,
+    0.09,
+    0.12
+   ],
+   "pattern": "glass",
+   "tile": 2,
+   "roughness": 0.12,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Verre en losanges serti de plomb, barlotières, quelques pièces colorées : l'état des vitraux en 1785 n'est pas documenté ici."
+  },
+  "door": {
+   "color": [
+    0.24,
+    0.15,
+    0.09
+   ],
+   "pattern": "planks",
+   "tile": 2,
+   "roughness": 0.8,
+   "normal": 3,
+   "certainty": "hypothesis",
+   "note": "Vantaux de planches à pentures de fer."
+  },
+  "ground": {
+   "color": [
+    0.5,
+    0.47,
+    0.4
+   ],
+   "pattern": "ashlar",
+   "tile": 4,
+   "roughness": 1.0,
+   "normal": 4,
+   "course": 0.4,
+   "lmin": 0.35,
+   "lmax": 0.7,
+   "joint": 0.03,
+   "bevel": 0.06,
+   "mortar": [
+    0.3,
+    0.27,
+    0.2
+   ],
+   "grime": 0,
+   "certainty": "invented",
+   "note": "Pavage du plateau de présentation."
+  },
+  "figure": {
+   "color": [
+    0.55,
+    0.15,
+    0.15
+   ],
+   "pattern": "plain",
+   "roughness": 0.9,
+   "certainty": "invented"
+  },
+  "rock": {
+   "color": [
+    0.78,
+    0.74,
+    0.6
+   ],
+   "pattern": "mottled",
+   "tile": 6,
+   "roughness": 1.0,
+   "normal": 2,
+   "certainty": "hypothesis",
+   "note": "Tuffeau du coteau, à nu."
+  }
+ },
+ "elements": [
+  {
+   "id": "sol",
+   "label": "Sol (abords de l'église et cours)",
+   "kind": "ground",
+   "x": [
+    -60,
+    140
+   ],
+   "z": [
+    -50,
+    150
+   ],
+   "material": "ground",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Plateau de présentation, au niveau du sol de l'église."
+  },
+  {
+   "id": "coteau",
+   "label": "Coteau de Rougemont (première terrasse)",
+   "kind": "slab",
+   "material": "rock",
+   "polygons": [
+    [
+     [
+      -60,
+      -16
+     ],
+     [
+      140,
+      -16
+     ],
+     [
+      140,
+      -50
+     ],
+     [
+      -60,
+      -50
+     ]
+    ]
+   ],
+   "y0": 0,
+   "y1": 9,
+   "certainty": "hypothesis",
+   "sources": [
+    "lorans2013",
+    "syn1214"
+   ],
+   "note": "L'église est « adossée au coteau », mur nord et arcs-boutants posés sur le rocher ; la tour des Cloches est « assise sur la première terrasse ». Hauteur de la terrasse (9 m) supposée."
+  },
+  {
+   "id": "nef",
+   "label": "Nef (sept travées)",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    0,
+    51.7
+   ],
+   "z": [
+    -7.6,
+    7.6
+   ],
+   "wall": 28.0,
+   "roof": 8.0,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "monasticon",
+    "boudan",
+    "rougeot",
+    "lelong1980"
+   ],
+   "note": "Plan : files de piles à 14,2 m d'axe en axe, travées de 5,7 m. Hauteur des murs (28 m) estimée sur la vue du Monasticon (environ cinq travées de haut jusqu'à la corniche) : hypothèse. Toit refait en 1783, « de huit à dix pieds moins haut que l'ancien » (Lelong 1980, p. 302)."
+  },
+  {
+   "id": "bas_cote_nef_n",
+   "label": "Bas-côté nord de la nef",
+   "kind": "aisle",
+   "x": [
+    11.0,
+    51.7
+   ],
+   "z": [
+    -14.8,
+    -7.6
+   ],
+   "low": 11.0,
+   "high": 14.0,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Emprise du plan ; hauteur supposée."
+  },
+  {
+   "id": "bas_cote_nef_s",
+   "label": "Bas-côté sud de la nef",
+   "kind": "aisle",
+   "x": [
+    11.0,
+    51.7
+   ],
+   "z": [
+    7.6,
+    14.8
+   ],
+   "low": 11.0,
+   "high": 14.0,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Emprise du plan ; hauteur supposée."
+  },
+  {
+   "id": "tour_facade_n",
+   "label": "Tour nord de la façade (inachevée)",
+   "kind": "tower",
+   "x": [
+    0,
+    11.0
+   ],
+   "z": [
+    -15.5,
+    -6.0
+   ],
+   "height": 36,
+   "roof": {
+    "shape": "pyramid",
+    "height": 2.5,
+    "material": "lead"
+   },
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "wp_fr",
+    "monasticon",
+    "rougeot"
+   ],
+   "note": "Deux tours « qui ne seront jamais couronnées de flèches » (Wikipédia) ; « Turres imperfectae » sur la vue du Monasticon. Chez Rougeot, elles s'arrêtent à peu près au faîte de la nef : 36 m supposés."
+  },
+  {
+   "id": "tour_facade_s",
+   "label": "Tour sud de la façade (inachevée)",
+   "kind": "tower",
+   "x": [
+    0,
+    11.0
+   ],
+   "z": [
+    6.0,
+    15.5
+   ],
+   "height": 36,
+   "roof": {
+    "shape": "pyramid",
+    "height": 2.5,
+    "material": "lead"
+   },
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "wp_fr",
+    "monasticon",
+    "rougeot"
+   ],
+   "note": "Deux tours « qui ne seront jamais couronnées de flèches » (Wikipédia) ; « Turres imperfectae » sur la vue du Monasticon. Chez Rougeot, elles s'arrêtent à peu près au faîte de la nef : 36 m supposés."
+  },
+  {
+   "id": "transept",
+   "label": "Transept et croisée",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    51.7,
+    65.6
+   ],
+   "z": [
+    -22.3,
+    20.9
+   ],
+   "wall": 28.0,
+   "roof": 8.0,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "wp_fr",
+    "syn1517"
+   ],
+   "note": "Bras courts : « la faible largeur du transept est dictée par les contingences topographiques » (Wikipédia). Le mur du fond du bras nord, contre le rocher, est le seul vestige encore debout ; il ferme le Repos de saint Martin. Bras sud : tracé restitué du plan."
+  },
+  {
+   "id": "choeur",
+   "label": "Chœur",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    65.6,
+    91.0
+   ],
+   "z": [
+    -7.6,
+    7.6
+   ],
+   "wall": 28.0,
+   "roof": 8.0,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "lelong1980"
+   ],
+   "note": "Commencé par Robert de Flandre (1283-1296), achevé « jusqu'à la chapelle de Saint-Louis » par Eudes de Bracieux (1296-1312) ; chœur presque aussi long que la nef."
+  },
+  {
+   "id": "abside",
+   "label": "Abside",
+   "kind": "apse",
+   "center": [
+    91.0,
+    0
+   ],
+   "radius": 7.6,
+   "wall": 28.0,
+   "roof": 8.0,
+   "sides": 8,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Hémicycle sur le plan ; couvrement supposé."
+  },
+  {
+   "id": "bas_cote_choeur_n",
+   "label": "Bas-côté nord du chœur",
+   "kind": "aisle",
+   "x": [
+    65.6,
+    91.0
+   ],
+   "z": [
+    -14.8,
+    -7.6
+   ],
+   "low": 11.0,
+   "high": 14.0,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Emprise du plan ; hauteur supposée."
+  },
+  {
+   "id": "bas_cote_choeur_s",
+   "label": "Bas-côté sud du chœur",
+   "kind": "aisle",
+   "x": [
+    65.6,
+    91.0
+   ],
+   "z": [
+    7.6,
+    14.8
+   ],
+   "low": 11.0,
+   "high": 14.0,
+   "high_side": "z0",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Emprise du plan ; hauteur supposée."
+  },
+  {
+   "id": "deambulatoire",
+   "label": "Déambulatoire",
+   "kind": "ambulatory",
+   "center": [
+    91.0,
+    0
+   ],
+   "r": [
+    7.6,
+    13.5
+   ],
+   "low": 11.0,
+   "high": 14.0,
+   "sides": 8,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan"
+   ],
+   "note": "Rayon extérieur lu sur le plan ; hauteur supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_1",
+   "label": "Chapelle rayonnante",
+   "kind": "polychapel",
+   "center": [
+    91.0,
+    0
+   ],
+   "angle": -72,
+   "r0": 13.0,
+   "depth": 7.5,
+   "width": 7.0,
+   "wall": 10,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "boudan"
+   ],
+   "note": "Cinq chapelles à pans sur le plan et sur la vue de Boudan (chevet). Profondeur et largeur lues sur le plan, hauteur supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_2",
+   "label": "Chapelle rayonnante",
+   "kind": "polychapel",
+   "center": [
+    91.0,
+    0
+   ],
+   "angle": -36,
+   "r0": 13.0,
+   "depth": 7.5,
+   "width": 7.0,
+   "wall": 10,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "boudan"
+   ],
+   "note": "Cinq chapelles à pans sur le plan et sur la vue de Boudan (chevet). Profondeur et largeur lues sur le plan, hauteur supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_3",
+   "label": "Chapelle rayonnante axiale",
+   "kind": "polychapel",
+   "center": [
+    91.0,
+    0
+   ],
+   "angle": 0,
+   "r0": 13.0,
+   "depth": 8.5,
+   "width": 7.0,
+   "wall": 10,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "boudan"
+   ],
+   "note": "Cinq chapelles à pans sur le plan et sur la vue de Boudan (chevet). Profondeur et largeur lues sur le plan, hauteur supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_4",
+   "label": "Chapelle rayonnante",
+   "kind": "polychapel",
+   "center": [
+    91.0,
+    0
+   ],
+   "angle": 36,
+   "r0": 13.0,
+   "depth": 7.5,
+   "width": 7.0,
+   "wall": 10,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "boudan"
+   ],
+   "note": "Cinq chapelles à pans sur le plan et sur la vue de Boudan (chevet). Profondeur et largeur lues sur le plan, hauteur supposée."
+  },
+  {
+   "id": "chapelle_rayonnante_5",
+   "label": "Chapelle rayonnante",
+   "kind": "polychapel",
+   "center": [
+    91.0,
+    0
+   ],
+   "angle": 72,
+   "r0": 13.0,
+   "depth": 7.5,
+   "width": 7.0,
+   "wall": 10,
+   "roof": 4,
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "boudan"
+   ],
+   "note": "Cinq chapelles à pans sur le plan et sur la vue de Boudan (chevet). Profondeur et largeur lues sur le plan, hauteur supposée."
+  },
+  {
+   "id": "chapelles_n_ouest",
+   "label": "Chapelles latérales nord (ouest de la croisée)",
+   "kind": "aisle",
+   "x": [
+    44.0,
+    51.7
+   ],
+   "z": [
+    -19.5,
+    -14.8
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "syn0408"
+   ],
+   "note": "L'église gothique a des « chapelles latérales à partir de la dernière travée précédent la croisée » (rapport 2004-2008). Au nord, entre les contreforts du plan ; au sud, tracé restitué."
+  },
+  {
+   "id": "chapelles_n_est",
+   "label": "Chapelles latérales nord (est de la croisée)",
+   "kind": "aisle",
+   "x": [
+    65.6,
+    88.8
+   ],
+   "z": [
+    -19.5,
+    -14.8
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "lelong_plan",
+    "syn0408"
+   ],
+   "note": "L'église gothique a des « chapelles latérales à partir de la dernière travée précédent la croisée » (rapport 2004-2008). Au nord, entre les contreforts du plan ; au sud, tracé restitué."
+  },
+  {
+   "id": "chapelles_s_ouest",
+   "label": "Chapelles latérales sud (ouest de la croisée)",
+   "kind": "aisle",
+   "x": [
+    44.0,
+    51.7
+   ],
+   "z": [
+    14.8,
+    20.9
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z0",
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong_plan",
+    "syn0408"
+   ],
+   "note": "L'église gothique a des « chapelles latérales à partir de la dernière travée précédent la croisée » (rapport 2004-2008). Au nord, entre les contreforts du plan ; au sud, tracé restitué."
+  },
+  {
+   "id": "chapelles_s_est",
+   "label": "Chapelles latérales sud (est de la croisée)",
+   "kind": "aisle",
+   "x": [
+    65.6,
+    88.8
+   ],
+   "z": [
+    14.8,
+    20.9
+   ],
+   "low": 9,
+   "high": 11,
+   "high_side": "z0",
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong_plan",
+    "syn0408"
+   ],
+   "note": "L'église gothique a des « chapelles latérales à partir de la dernière travée précédent la croisée » (rapport 2004-2008). Au nord, entre les contreforts du plan ; au sud, tracé restitué."
+  },
+  {
+   "id": "narthex",
+   "label": "Narthex (grand porche, XIVe siècle)",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    -10,
+    0
+   ],
+   "z": [
+    -15.5,
+    15.5
+   ],
+   "wall": 14,
+   "roof": 5,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr",
+    "lelong1980",
+    "monasticon",
+    "lorans2013"
+   ],
+   "note": "Porche de Jean de Mauléon, achevé par Simon le Maye (1330-1352), « pourvu de cinq porches » et relié à la tour des Cloches. Profondeur et hauteur supposées (vue du Monasticon, « Porticus basilicae »)."
+  },
+  {
+   "id": "clocher_croisee",
+   "label": "Clocher de la croisée",
+   "kind": "tower",
+   "x": [
+    56.6,
+    60.6
+   ],
+   "z": [
+    -2,
+    2
+   ],
+   "base": 35.0,
+   "height": 4,
+   "roof": {
+    "shape": "spire",
+    "height": 14,
+    "material": "slate"
+   },
+   "wall_material": "lead",
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "boudan",
+    "rougeot",
+    "lelong1980"
+   ],
+   "note": "Petit clocher de charpente sur la croisée, visible sur les trois vues ; refait avec la charpente, travaux achevés en 1783 (Lelong 1980, p. 302). Dimensions supposées."
+  },
+  {
+   "id": "tour_des_cloches",
+   "label": "Tour des Cloches (XIe siècle)",
+   "kind": "tower",
+   "x": [
+    -21.1,
+    -8.1
+   ],
+   "z": [
+    -30.7,
+    -17.7
+   ],
+   "height": 30,
+   "roof": {
+    "shape": "spire",
+    "height": 16,
+    "material": "slate"
+   },
+   "certainty": "probable",
+   "sources": [
+    "lorans2013",
+    "syn1214",
+    "osm",
+    "monasticon",
+    "rougeot"
+   ],
+   "note": "Carré d'environ 13 m hors œuvre (Lorans 2013), à son emplacement actuel (OSM). Au Moyen Âge, une cinquantaine de mètres avec sa flèche de pierre ; celle-ci tombe en 1591 et est remplacée par une flèche de charpente couverte d'ardoise (rapport 2012-2014). Hauteurs supposées."
+  },
+  {
+   "id": "porche_1",
+   "label": "Porche du narthex",
+   "kind": "door",
+   "x": -10,
+   "z": -12,
+   "face": "-x",
+   "width": 2.4,
+   "height": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Cinq porches (Wikipédia) ; dimensions supposées."
+  },
+  {
+   "id": "porche_2",
+   "label": "Porche du narthex",
+   "kind": "door",
+   "x": -10,
+   "z": -6,
+   "face": "-x",
+   "width": 2.4,
+   "height": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Cinq porches (Wikipédia) ; dimensions supposées."
+  },
+  {
+   "id": "porche_3",
+   "label": "Porche du narthex",
+   "kind": "door",
+   "x": -10,
+   "z": 0,
+   "face": "-x",
+   "width": 3.2,
+   "height": 8,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Cinq porches (Wikipédia) ; dimensions supposées."
+  },
+  {
+   "id": "porche_4",
+   "label": "Porche du narthex",
+   "kind": "door",
+   "x": -10,
+   "z": 6,
+   "face": "-x",
+   "width": 2.4,
+   "height": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Cinq porches (Wikipédia) ; dimensions supposées."
+  },
+  {
+   "id": "porche_5",
+   "label": "Porche du narthex",
+   "kind": "door",
+   "x": -10,
+   "z": 12,
+   "face": "-x",
+   "width": 2.4,
+   "height": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "wp_fr"
+   ],
+   "note": "Cinq porches (Wikipédia) ; dimensions supposées."
+  },
+  {
+   "id": "portail_sud_transept",
+   "label": "Portail du bras sud",
+   "kind": "door",
+   "x": 58.6,
+   "z": 20.9,
+   "face": "+z",
+   "width": 4,
+   "height": 9,
+   "certainty": "probable",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Portail sous la rose du bras sud, sur la vue du Monasticon."
+  },
+  {
+   "id": "rose_sud",
+   "label": "Rose du bras sud",
+   "kind": "rose",
+   "x": 58.6,
+   "z": 20.9,
+   "y": 19,
+   "radius": 4.5,
+   "face": "+z",
+   "certainty": "probable",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Grande rose sur la vue du Monasticon ; diamètre supposé."
+  },
+  {
+   "id": "baies_hautes_nef_n",
+   "label": "Fenêtres hautes de la nef",
+   "kind": "windows",
+   "x": [
+    13.85,
+    48.85
+   ],
+   "spacing": 5.7,
+   "z": -7.6,
+   "face": "-z",
+   "y": [
+    16,
+    26
+   ],
+   "width": 3.6,
+   "certainty": "probable",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Une baie par travée."
+  },
+  {
+   "id": "baies_hautes_choeur_n",
+   "label": "Fenêtres hautes du chœur",
+   "kind": "windows",
+   "x": [
+    68.44999999999999,
+    88.15
+   ],
+   "spacing": 5.1,
+   "z": -7.6,
+   "face": "-z",
+   "y": [
+    16,
+    26
+   ],
+   "width": 3.4,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "boudan"
+   ],
+   "note": "Une baie par travée."
+  },
+  {
+   "id": "baies_bas_cote_n",
+   "label": "Fenêtres des bas-côtés",
+   "kind": "windows",
+   "x": [
+    13.85,
+    41.0
+   ],
+   "spacing": 5.7,
+   "z": -14.8,
+   "face": "-z",
+   "y": [
+    3,
+    9
+   ],
+   "width": 2.8,
+   "certainty": "hypothesis",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Supposées."
+  },
+  {
+   "id": "arcs_boutants_nef_n",
+   "label": "Arcs-boutants de la nef",
+   "kind": "flyers",
+   "x": [
+    16.7,
+    51.5
+   ],
+   "spacing": 5.7,
+   "z": [
+    -16.0,
+    -7.6
+   ],
+   "y": [
+    14.0,
+    25.0
+   ],
+   "width": 1.0,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "lorans2013"
+   ],
+   "note": "Arcs-boutants sur la vue du Monasticon ; au nord, « directement posés sur le rocher » (Lorans 2013)."
+  },
+  {
+   "id": "arcs_boutants_choeur_n",
+   "label": "Arcs-boutants du chœur",
+   "kind": "flyers",
+   "x": [
+    70.69999999999999,
+    91.0
+   ],
+   "spacing": 5.1,
+   "z": [
+    -20.7,
+    -7.6
+   ],
+   "y": [
+    14.0,
+    25.0
+   ],
+   "width": 1.0,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "boudan"
+   ],
+   "note": "Arcs-boutants du chevet sur la vue de Boudan."
+  },
+  {
+   "id": "baies_hautes_nef_s",
+   "label": "Fenêtres hautes de la nef",
+   "kind": "windows",
+   "x": [
+    13.85,
+    48.85
+   ],
+   "spacing": 5.7,
+   "z": 7.6,
+   "face": "+z",
+   "y": [
+    16,
+    26
+   ],
+   "width": 3.6,
+   "certainty": "probable",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Une baie par travée."
+  },
+  {
+   "id": "baies_hautes_choeur_s",
+   "label": "Fenêtres hautes du chœur",
+   "kind": "windows",
+   "x": [
+    68.44999999999999,
+    88.15
+   ],
+   "spacing": 5.1,
+   "z": 7.6,
+   "face": "+z",
+   "y": [
+    16,
+    26
+   ],
+   "width": 3.4,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "boudan"
+   ],
+   "note": "Une baie par travée."
+  },
+  {
+   "id": "baies_bas_cote_s",
+   "label": "Fenêtres des bas-côtés",
+   "kind": "windows",
+   "x": [
+    13.85,
+    41.0
+   ],
+   "spacing": 5.7,
+   "z": 14.8,
+   "face": "+z",
+   "y": [
+    3,
+    9
+   ],
+   "width": 2.8,
+   "certainty": "hypothesis",
+   "sources": [
+    "monasticon"
+   ],
+   "note": "Supposées."
+  },
+  {
+   "id": "arcs_boutants_nef_s",
+   "label": "Arcs-boutants de la nef",
+   "kind": "flyers",
+   "x": [
+    16.7,
+    51.5
+   ],
+   "spacing": 5.7,
+   "z": [
+    16.0,
+    7.6
+   ],
+   "y": [
+    14.0,
+    25.0
+   ],
+   "width": 1.0,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "lorans2013"
+   ],
+   "note": "Arcs-boutants sur la vue du Monasticon ; au nord, « directement posés sur le rocher » (Lorans 2013)."
+  },
+  {
+   "id": "arcs_boutants_choeur_s",
+   "label": "Arcs-boutants du chœur",
+   "kind": "flyers",
+   "x": [
+    70.69999999999999,
+    91.0
+   ],
+   "spacing": 5.1,
+   "z": [
+    22.099999999999998,
+    7.6
+   ],
+   "y": [
+    14.0,
+    25.0
+   ],
+   "width": 1.0,
+   "certainty": "probable",
+   "sources": [
+    "monasticon",
+    "boudan"
+   ],
+   "note": "Arcs-boutants du chevet sur la vue de Boudan."
+  },
+  {
+   "id": "cloitre_processionnel",
+   "label": "Premier cloître (cloître processionnel)",
+   "kind": "cloister",
+   "x": [
+    4,
+    51.7
+   ],
+   "z": [
+    15.0,
+    55
+   ],
+   "gallery": 4.5,
+   "wall": 6,
+   "roof": 2.5,
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1980",
+    "monasticon"
+   ],
+   "note": "Au nord, contre l'église : « galerie en belle voûte d'arête éclairée par des arcades à plein cintre d'architecture dorique », œuvre de Philippe le Roy et d'Innocent Bonnefoy (1672-1705) ; « deux fois moins étendu » que le grand cloître. Dimensions supposées."
+  },
+  {
+   "id": "chapitre",
+   "label": "Bâtiment du chapitre (1661-1702)",
+   "kind": "block",
+   "axis": "z",
+   "x": [
+    66,
+    85
+   ],
+   "z": [
+    22,
+    145
+   ],
+   "wall": 16,
+   "break_height": 3.5,
+   "break_inset": 1.6,
+   "roof": 1.5,
+   "certainty": "probable",
+   "sources": [
+    "lelong1980",
+    "boudan",
+    "monasticon"
+   ],
+   "note": "« Environ 123 mètres de long sur 19 de large et 21 de hauteur » (inventaires de 1791 et 1797) ; trois étages de 33 fenêtres dans un ordre colossal de pilastres, troisième étage en mansarde resté inachevé. Il bornait les cloîtres à l'est. Position le long du transept supposée."
+  },
+  {
+   "id": "logis_officiers",
+   "label": "Logis des officiers (vers 1697)",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    -15,
+    4
+   ],
+   "z": [
+    20,
+    58
+   ],
+   "wall": 12,
+   "roof": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1980"
+   ],
+   "note": "« Long de 40 mètres environ sur 19 de large », entre l'église et le réfectoire ; son vestibule était l'entrée du monastère. Hauteur supposée."
+  },
+  {
+   "id": "refectoire",
+   "label": "Réfectoire",
+   "kind": "hall",
+   "axis": "x",
+   "x": [
+    -15,
+    66
+   ],
+   "z": [
+    58,
+    72
+   ],
+   "wall": 14,
+   "roof": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1980"
+   ],
+   "note": "Il séparait les deux cloîtres ; grand escalier célèbre. Largeur et hauteur supposées."
+  },
+  {
+   "id": "trois_frontons",
+   "label": "Bâtiment des hôtes, dit « des trois frontons » (1726-1736)",
+   "kind": "hall",
+   "axis": "z",
+   "x": [
+    -15,
+    4
+   ],
+   "z": [
+    72,
+    132
+   ],
+   "wall": 17,
+   "roof": 6,
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1980",
+    "rougeot"
+   ],
+   "note": "Plus haut que le logis des officiers, trois registres de fenêtres, trois frontons ; chambres des hôtes. Les bâtiments de l'ouest bordaient la grande cour « sur 112 mètres ». Visible chez Rougeot. Largeur supposée."
+  },
+  {
+   "id": "grand_cloitre_est",
+   "label": "Grand cloître, galerie est (1744)",
+   "kind": "aisle",
+   "x": [
+    61.5,
+    66
+   ],
+   "z": [
+    72,
+    128
+   ],
+   "low": 5,
+   "high": 7,
+   "high_side": "x1",
+   "certainty": "hypothesis",
+   "sources": [
+    "lelong1980"
+   ],
+   "note": "Deux galeries seulement en 1797, à l'est et au sud, « éclairées par arcades à plein cintre, à charpente en appentis couverte d'ardoise », bâties en 1744 sur les plans de Bayeux."
+  },
+  {
+   "id": "grand_cloitre_sud",
+   "label": "Grand cloître, galerie sud",
+   "kind": "aisle",
+   "x": [
+    4,
+    66
+   ],
+   "z": [
+    128,
+    132.3
+   ],
+   "low": 8,
+   "high": 10,
+   "high_side": "z1",
+   "certainty": "probable",
+   "sources": [
+    "lelong1980"
+   ],
+   "note": "« Trente-deux toises de longueur sur treize pieds de largeur » (62 m sur 4,30, inventaire de 1791), galerie à étage reliant les deux corps de bâtiments ; le grand bâtiment projeté au sud n'a pas été construit."
+  },
+  {
+   "id": "promeneur",
+   "label": "Promeneur (échelle)",
+   "kind": "figure",
+   "x": -16,
+   "z": 10,
+   "height": 1.7,
+   "material": "figure",
+   "certainty": "invented",
+   "sources": [],
+   "note": "Pour l'échelle."
+  }
+ ]
+}
