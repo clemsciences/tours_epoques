@@ -653,5 +653,40 @@
   "year": "consulté le 1/11/2026",
   "url": "https://fr.wikipedia.org/wiki/Liste_des_maires_de_Tours",
   "kind": "encyclopédie"
+ },
+ "wp_hotel_beaune": {
+  "title": "Hôtel de Beaune-Semblançay",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Beaune-Semblan%C3%A7ay",
+  "kind": "encyclopédie"
+ },
+ "wp_jacques_de_beaune": {
+  "title": "Jacques de Beaune",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Jacques_de_Beaune",
+  "kind": "encyclopédie"
+ },
+ "wp_bourdichon": {
+  "title": "Jean Bourdichon",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Jean_Bourdichon",
+  "kind": "encyclopédie"
+ },
+ "wp_michel_colombe": {
+  "title": "Michel Colombe",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Michel_Colombe",
+  "kind": "encyclopédie"
+ },
+ "wp_hotel_gouin": {
+  "title": "Hôtel Goüin",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Go%C3%BCin",
+  "kind": "encyclopédie"
  }
 }

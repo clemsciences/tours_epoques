@@ -1,0 +1,41 @@
+{
+ "landmarks": [
+  {
+   "layer": "hotel_beaune",
+   "dialogue": "lieu_hotel_beaune",
+   "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Beaune-Semblan%C3%A7ay"
+  },
+  {
+   "layer": "fontaine_beaune",
+   "dialogue": "lieu_fontaine"
+  },
+  {
+   "layer": "hotel_gaudin",
+   "dialogue": "lieu_hotel_gaudin",
+   "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Go%C3%BCin"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "psalette",
+   "dialogue": "lieu_psalette"
+  },
+  {
+   "layer": "collegiale_saint_martin",
+   "dialogue": "lieu_collegiale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Collégiale_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "plessis",
+   "dialogue": "lieu_plessis",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Plessis-l%C3%A8z-Tours"
+  },
+  {
+   "layer": "minimes",
+   "dialogue": "lieu_minimes"
+  }
+ ]
+}

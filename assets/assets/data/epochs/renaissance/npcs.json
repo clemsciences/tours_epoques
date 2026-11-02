@@ -1,0 +1,121 @@
+{
+ "npcs": [
+  {
+   "id": "semblancay",
+   "name": "Jacques de Beaune-Semblançay",
+   "role": "Surintendant des finances",
+   "position": [
+    47.39512,
+    0.68668
+   ],
+   "color": "#5A2E2E",
+   "dialogue": "semblancay_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Jacques de Beaune, baron de Semblançay (vers 1465-1527), surintendant des finances depuis 1518. Répliques reconstituées."
+  },
+  {
+   "id": "fontainier",
+   "name": "Un fontainier",
+   "role": "À la fontaine de Beaune",
+   "position": [
+    47.39538,
+    0.68712
+   ],
+   "color": "#3E5A6A",
+   "dialogue": "fontainier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La fontaine (1511) et les canalisations de Pierre de Valence sont attestées."
+  },
+  {
+   "id": "bourdichon",
+   "name": "Jean Bourdichon",
+   "role": "Peintre du roi",
+   "position": [
+    47.39572,
+    0.6902
+   ],
+   "color": "#4A3A6A",
+   "dialogue": "bourdichon_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Jean Bourdichon (1456/1457-1520/1521), peintre et enlumineur de quatre rois. Mentionné pour la dernière fois en 1520. Emplacement de sa maison inconnu. Répliques reconstituées."
+  },
+  {
+   "id": "babou",
+   "name": "Philibert Babou",
+   "role": "Maire de Tours",
+   "position": [
+    47.3964,
+    0.6899
+   ],
+   "color": "#2E5A3E",
+   "dialogue": "babou_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : maire de Tours en 1520 (Wikipédia, « Liste des maires de Tours »). Répliques reconstituées."
+  },
+  {
+   "id": "sculpteur",
+   "name": "Un sculpteur",
+   "role": "Ancien de l'atelier de Michel Colombe",
+   "position": [
+    47.3954,
+    0.6935
+   ],
+   "color": "#6A5A3A",
+   "dialogue": "sculpteur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Michel Colombe, mort avant novembre 1515, est attesté."
+  },
+  {
+   "id": "macon",
+   "name": "Un maçon de la façade",
+   "role": "Au chantier de la cathédrale",
+   "position": [
+    47.39555,
+    0.6933
+   ],
+   "color": "#5A5A4A",
+   "dialogue": "macon_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Le chantier de la façade est attesté (Wikipédia)."
+  },
+  {
+   "id": "soyeuse",
+   "name": "Une ouvrière en soie",
+   "role": "Dans un atelier de Châteauneuf",
+   "position": [
+    47.3945,
+    0.683
+   ],
+   "color": "#7A5A6E",
+   "dialogue": "soyeuse_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. L'industrie de la soie, née en 1470, est attestée."
+  },
+  {
+   "id": "imprimeur",
+   "name": "Un imprimeur",
+   "role": "Rue de la Scellerie",
+   "position": [
+    47.3943,
+    0.689
+   ],
+   "color": "#3A3A3A",
+   "dialogue": "imprimeur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. L'imprimerie à Tours sous Charles VIII et Louis XII est rapportée par Wikipédia."
+  },
+  {
+   "id": "minime",
+   "name": "Un frère minime",
+   "role": "Au couvent du Plessis",
+   "position": [
+    47.37775,
+    0.66045
+   ],
+   "color": "#4A3A2A",
+   "dialogue": "minime_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Le couvent et la mort de François de Paule (1507) sont attestés."
+  }
+ ]
+}

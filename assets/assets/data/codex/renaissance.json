@@ -1,0 +1,149 @@
+{
+ "epoch": "renaissance",
+ "entries": [
+  {
+   "id": "codex.renaissance.semblancay",
+   "title": "Semblançay, le financier",
+   "theme": "personnes",
+   "text": "Fils d'un bourgeois de Tours qui prêtait aux rois, Jacques de Beaune fait toute sa carrière dans les finances royales : maire de Tours en 1498, général des finances en 1511, il reçoit en 1518 la charge de toutes les finances du royaume. Plus tard, accusé de malversations après la défaite de La Bicoque, il sera pendu à Paris en 1527.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_jacques_de_beaune"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.hotel_beaune",
+   "title": "L'hôtel de Beaune-Semblançay",
+   "theme": "lieux",
+   "text": "Formé en une cinquantaine d'années : le logis de Jean de Beaune (attesté en 1468), celui de Jacques (vers 1506), un troisième donné par Louise de Savoie en 1517, et des bâtiments qui les relient, dont une galerie datée de 1518. L'ensemble forme un U ouvert à l'est.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_hotel_beaune"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.fontaine",
+   "title": "La fontaine de Beaune",
+   "theme": "lieux",
+   "text": "En 1511, Jacques de Beaune offre à la ville une fontaine de marbre, installée au carroi de Beaune ; en échange, son hôtel est raccordé aux canalisations d'eau que Pierre de Valence aménage pour la ville.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_hotel_beaune"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.pierre_de_valence",
+   "title": "Pierre de Valence",
+   "theme": "personnes",
+   "text": "Architecte et fontainier, Pierre de Valence élève en 1507 la tour nord de la cathédrale et aménage, vers 1511, les canalisations qui alimentent les fontaines de la ville.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    },
+    {
+     "id": "wp_hotel_beaune"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.bourdichon",
+   "title": "Jean Bourdichon",
+   "theme": "personnes",
+   "text": "Né à Tours vers 1457, formé auprès de Jean Fouquet ou de son fils, Bourdichon lui succède en 1481 comme peintre et valet de chambre du roi ; il sert quatre rois. Son œuvre la plus célèbre : les Grandes Heures d'Anne de Bretagne (vers 1503-1508). Il est mentionné pour la dernière fois en 1520 et meurt avant juillet 1521.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_bourdichon"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.colombe",
+   "title": "Michel Colombe",
+   "theme": "personnes",
+   "text": "Venu du Berry, Michel Colombe est le grand sculpteur de l'école de Tours sous Charles VIII et Louis XII ; il meurt à Tours avant novembre 1515. En 1506-1507, il réalise pour la cathédrale de Nantes le tombeau du duc François II de Bretagne et de Marguerite de Foix.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_michel_colombe"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.cathedrale",
+   "title": "La façade qui monte",
+   "theme": "lieux",
+   "text": "La nef de Saint-Gatien est achevée au XVe siècle ; la façade occidentale, commencée au début du siècle, s'élève : la tour nord est faite en 1507 par Pierre de Valence, la tour sud le sera de 1534 à 1547 par Pierre Gadier.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.financiers",
+   "title": "Une ville de financiers",
+   "theme": "evenements",
+   "text": "Les maires de Tours se recrutent parmi les grandes familles de finance au service du roi : Briçonnet, Beaune, Gaudin, Berthelot, Babou. Leurs hôtels, dans la ville, et leurs châteaux, en Touraine, sont parmi les premiers de la Renaissance.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_maires_tours"
+    },
+    {
+     "id": "wp_hotel_gouin"
+    },
+    {
+     "id": "wp_jacques_de_beaune"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.soie",
+   "title": "La soie",
+   "theme": "vie_quotidienne",
+   "text": "Introduite par Louis XI vers 1470, l'industrie de la soie s'est installée dans la ville ; sous François Ier s'y ajoute la passementerie.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_histoire_de_tours"
+    },
+    {
+     "id": "wp_plessis"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.imprimerie",
+   "title": "L'imprimerie",
+   "theme": "vie_quotidienne",
+   "text": "Des ateliers d'art et d'imprimerie s'installent à Tours sous Charles VIII et Louis XII, à l'époque où la cour vit en Val de Loire.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_histoire_de_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.renaissance.minimes",
+   "title": "Les Minimes du Plessis",
+   "theme": "lieux",
+   "text": "Le saint homme venu de Calabre pour Louis XI est resté : Charles VIII lui a fait bâtir un couvent près du Plessis. François de Paule y meurt le 2 avril 1507 ; le pape Léon X l'a canonisé le 12 mai 1519.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_francois_de_paule"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "semblancay_intro": {
+  "speaker": "semblancay",
+  "text": "Mon père était bourgeois de cette ville, et il prêtait au roi. Moi, j'ai la charge des finances du royaume depuis deux ans. Et je fais agrandir la maison de famille.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_jacques_de_beaune"
+   },
+   {
+    "id": "wp_hotel_beaune"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et la fontaine ?",
+    "next": "semblancay_fontaine"
+   },
+   {
+    "label": "Le roi vous doit-il de l'argent ?",
+    "next": "semblancay_roi"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.semblancay",
+   "codex.renaissance.hotel_beaune"
+  ]
+ },
+ "semblancay_fontaine": {
+  "speaker": "semblancay",
+  "text": "Je l'ai offerte à la ville en 1511. En échange, on a raccordé ma maison aux tuyaux que maître Pierre de Valence est en train de poser.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_hotel_beaune"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.fontaine"
+  ]
+ },
+ "semblancay_roi": {
+  "speaker": "semblancay",
+  "text": "Le roi a toujours besoin d'argent, pour ses guerres d'Italie surtout. Je trouve l'argent ; c'est mon métier. Je ne sais pas encore ce qu'il m'en coûtera.",
+  "certainty": "invented",
+  "sources": [
+   {
+    "id": "wp_jacques_de_beaune"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.semblancay"
+  ]
+ },
+ "fontainier_intro": {
+  "speaker": "fontainier",
+  "text": "L'eau vient par des tuyaux jusqu'au carroi. Maître Pierre de Valence les fait poser ; c'est le même qui a bâti la tour de la cathédrale.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_hotel_beaune"
+   },
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.fontaine",
+   "codex.renaissance.pierre_de_valence"
+  ]
+ },
+ "bourdichon_intro": {
+  "speaker": "bourdichon",
+  "text": "J'ai peint pour quatre rois, Louis XI, Charles VIII, Louis XII et François Ier. J'ai succédé à maître Fouquet. On se souvient surtout des grandes Heures que j'ai faites pour la reine Anne.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_bourdichon"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Avez-vous connu le saint homme ?",
+    "next": "bourdichon_paule"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.bourdichon"
+  ]
+ },
+ "bourdichon_paule": {
+  "speaker": "bourdichon",
+  "text": "François de Paule ? Oui. J'ai témoigné pour lui au procès de canonisation, en 1513. J'avais alors cinquante-six ans.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_bourdichon"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.minimes"
+  ]
+ },
+ "babou_intro": {
+  "speaker": "babou",
+  "text": "Je suis maire cette année. L'an passé, c'était Gilles Berthelot, qui fait bâtir à Azay. Ici, les maires sont des gens de finance : ils servent le roi et la ville.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_maires_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.financiers"
+  ]
+ },
+ "sculpteur_intro": {
+  "speaker": "sculpteur",
+  "text": "J'ai travaillé chez maître Michel Colombe. Il est mort il y a quelques années, très vieux. Le grand tombeau du duc de Bretagne, à Nantes, c'est de lui.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_michel_colombe"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.colombe"
+  ]
+ },
+ "macon_intro": {
+  "speaker": "macon",
+  "text": "La tour du nord est faite, depuis 1507. L'autre attend. On travaille à la façade depuis plus d'un siècle ; mes petits-enfants la verront finie, peut-être.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.cathedrale",
+   "codex.renaissance.pierre_de_valence"
+  ]
+ },
+ "soyeuse_intro": {
+  "speaker": "soyeuse",
+  "text": "Je dévide et je tords la soie. Depuis que le roi Louis l'a fait venir, il y a cinquante ans, on en vit dans beaucoup de maisons.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours"
+   },
+   {
+    "id": "wp_plessis"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.soie"
+  ]
+ },
+ "imprimeur_intro": {
+  "speaker": "imprimeur",
+  "text": "Les livres d'heures, les ordonnances, les almanachs : on imprime à Tours depuis le temps du roi Charles VIII.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.imprimerie"
+  ]
+ },
+ "minime_intro": {
+  "speaker": "minime",
+  "text": "Notre père François de Paule est mort ici, en 1507. Le roi Charles VIII nous avait bâti ce couvent. L'an passé, le pape l'a proclamé saint.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_francois_de_paule"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.minimes"
+  ]
+ },
+ "lieu_hotel_beaune": {
+  "speaker": "hotel_beaune",
+  "text": "L'hôtel de Beaune-Semblançay : le logis de Jean de Beaune, celui de Jacques (vers 1506), la galerie datée de 1518 qui les relie. Il en reste aujourd'hui des ruines et la façade de la galerie.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_hotel_beaune"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.hotel_beaune"
+  ]
+ },
+ "lieu_fontaine": {
+  "speaker": "fontaine_beaune",
+  "text": "La fontaine de marbre offerte par Jacques de Beaune à la ville en 1511, au carroi de Beaune. Emplacement supposé.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_hotel_beaune"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.fontaine"
+  ]
+ },
+ "lieu_hotel_gaudin": {
+  "speaker": "hotel_gaudin",
+  "text": "L'hôtel de la famille Gaudin, marchands et trésoriers : Jean Gaudin, maire en 1473, l'a fait bâtir ; son fils Nicolas, maire en 1504, le possède. On l'appellera plus tard hôtel Goüin.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_hotel_gouin"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.financiers"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Gatien : la nef est achevée, la façade s'élève ; la tour nord est faite (1507), la tour sud ne le sera qu'en 1547.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.cathedrale"
+  ]
+ },
+ "lieu_psalette": {
+  "speaker": "psalette",
+  "text": "Le cloître de la cathédrale, dit de la Psalette, construit par étapes entre 1460 et 1524 : encore en chantier.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "base_merimee"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.cathedrale"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "La collégiale Saint-Martin et son chapitre, toujours puissants.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_collegiale_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.financiers"
+  ]
+ },
+ "lieu_plessis": {
+  "speaker": "plessis",
+  "text": "Le Plessis, résidence royale de Louis XI, puis de Charles VIII et de Louis XII.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_plessis"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.minimes"
+  ]
+ },
+ "lieu_minimes": {
+  "speaker": "minimes",
+  "text": "Le couvent des Minimes, fondé par Charles VIII pour François de Paule, qui y est mort en 1507. Bâtiments actuels plus tardifs ; emprise supposée.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_francois_de_paule"
+   },
+   {
+    "id": "base_merimee"
+   }
+  ],
+  "unlocks": [
+   "codex.renaissance.minimes"
+  ]
+ }
+}
