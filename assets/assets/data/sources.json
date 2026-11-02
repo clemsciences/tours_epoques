@@ -688,5 +688,62 @@
   "year": "consulté le 2/11/2026",
   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Go%C3%BCin",
   "kind": "encyclopédie"
+ },
+ "busserolle_1864": {
+  "title": "Souvenirs de la Révolution dans le département d'Indre-et-Loire (de 1790 à 1798)",
+  "author": "J.-X. Carré de Busserolle",
+  "year": "1864",
+  "publisher": "Tours, imprimerie Ladevèze",
+  "url": "https://archive.org/details/bub_gb_L2Y2AAAAMAAJ",
+  "kind": "histoire"
+ },
+ "wp_guimberteau": {
+  "title": "Jean Guimberteau",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Jean_Guimberteau",
+  "kind": "encyclopédie"
+ },
+ "wp_senar": {
+  "title": "Gabriel Jérôme Sénar",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Gabriel_J%C3%A9r%C3%B4me_S%C3%A9nar",
+  "kind": "encyclopédie"
+ },
+ "wp_suzor": {
+  "title": "Pierre Suzor",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Pierre_Suzor",
+  "kind": "encyclopédie"
+ },
+ "wp_viree_galerne": {
+  "title": "Virée de Galerne",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Vir%C3%A9e_de_Galerne",
+  "kind": "encyclopédie"
+ },
+ "wp_vieux_tours": {
+  "title": "Quartiers du Vieux-Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Quartiers_du_Vieux-Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_tours": {
+  "title": "Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_indre_et_loire": {
+  "title": "Indre-et-Loire",
+  "author": "Wikipédia",
+  "year": "consulté le 2/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Indre-et-Loire",
+  "kind": "encyclopédie"
  }
 }

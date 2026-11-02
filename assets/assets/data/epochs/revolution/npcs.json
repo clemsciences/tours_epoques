@@ -1,0 +1,134 @@
+{
+ "npcs": [
+  {
+   "id": "guimberteau",
+   "name": "Jean Guimberteau",
+   "role": "Représentant du peuple en mission",
+   "position": [
+    47.3954,
+    0.69338
+   ],
+   "color": "#2E3F6B",
+   "dialogue": "guimberteau_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : conventionnel de la Charente (1744-1812), en mission en Indre-et-Loire depuis octobre 1793 ; il parle à la fête de la Raison. Répliques reconstituées."
+  },
+  {
+   "id": "musicien",
+   "name": "Un musicien",
+   "role": "De l'orchestre de la fête",
+   "position": [
+    47.39572,
+    0.69362
+   ],
+   "color": "#6B2E3A",
+   "dialogue": "musicien_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les hymnes et l'orchestre de la fête sont attestés par le procès-verbal."
+  },
+  {
+   "id": "institutrice",
+   "name": "Une institutrice",
+   "role": "Avec ses élèves, au cortège",
+   "position": [
+    47.39528,
+    0.69325
+   ],
+   "color": "#5A6B2E",
+   "dialogue": "institutrice_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les enfants, leurs instituteurs et institutrices sont dans le cortège (procès-verbal)."
+  },
+  {
+   "id": "suzor",
+   "name": "Pierre Suzor",
+   "role": "Évêque constitutionnel d'Indre-et-Loire",
+   "position": [
+    47.39575,
+    0.6954
+   ],
+   "color": "#4A3A5A",
+   "dialogue": "suzor_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : élu évêque d'Indre-et-Loire en mars 1791, en fonctions jusqu'en février 1794. Emplacement supposé. Répliques reconstituées."
+  },
+  {
+   "id": "senar",
+   "name": "Jérôme Sénar",
+   "role": "Procureur de la commune",
+   "position": [
+    47.39612,
+    0.68645
+   ],
+   "color": "#3A2A2A",
+   "dialogue": "senar_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Gabriel Jérôme Sénar (1760-1796), procureur de la commune de Tours depuis décembre 1792, président du comité de surveillance. Répliques reconstituées."
+  },
+  {
+   "id": "volontaire",
+   "name": "Un garde national",
+   "role": "Place de la Nation",
+   "position": [
+    47.3915,
+    0.6811
+   ],
+   "color": "#2E4A6B",
+   "dialogue": "volontaire_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La garde nationale et la réserve de l'armée sont dans le cortège (procès-verbal)."
+  },
+  {
+   "id": "marchande",
+   "name": "Une marchande de grains",
+   "role": "Près de la halle",
+   "position": [
+    47.39235,
+    0.68085
+   ],
+   "color": "#6B5A2E",
+   "dialogue": "marchande_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La halle aux blés dans l'ancienne église Saint-Clément (1792) est attestée."
+  },
+  {
+   "id": "palefrenier",
+   "name": "Un palefrenier",
+   "role": "À l'ancienne collégiale",
+   "position": [
+    47.39275,
+    0.6817
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "palefrenier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. La collégiale transformée en écurie en 1793 est attestée."
+  },
+  {
+   "id": "commissaire",
+   "name": "Un commissaire civil",
+   "role": "Chargé des convois funèbres",
+   "position": [
+    47.3942,
+    0.6845
+   ],
+   "color": "#3A4A5A",
+   "dialogue": "commissaire_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Les commissaires civils et leur tenue sont fixés par l'arrêté municipal du 3 décembre 1793."
+  },
+  {
+   "id": "batelier",
+   "name": "Un batelier",
+   "role": "Au bord de la Loire",
+   "position": [
+    47.397,
+    0.6856
+   ],
+   "color": "#4A5A4A",
+   "dialogue": "batelier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Le passage du convoi de prisonniers, les 6 et 7 décembre, est attesté."
+  }
+ ]
+}

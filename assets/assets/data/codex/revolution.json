@@ -1,0 +1,357 @@
+{
+ "epoch": "revolution",
+ "entries": [
+  {
+   "id": "codex.revolution.fete_raison",
+   "title": "La fête de la Raison",
+   "theme": "evenements",
+   "text": "Le 20 frimaire an II, à dix heures du matin, un cortège part de la place de la Nation au son des instruments militaires : les représentants Guimberteau et Dubignon, les autorités, la garde nationale, les vétérans, les orphelins de la Patrie et les écoliers, les comédiens, les mères de famille, la Société populaire, chacun derrière ses bannières, autour des bustes des grands hommes. Au temple, discours, hymnes et serments ; puis un repas civique dans les nefs, la carmagnole, et un arbre de la liberté planté devant la porte. Le récit vient de Carré de Busserolle (1864), un auteur catholique très hostile à la Révolution, qui recopie le procès-verbal officiel ; on n'en reprend que les faits.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 276-285"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Le temple de la Raison était simple comme elle.",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 277, procès-verbal de la fête"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.temple_raison",
+   "title": "Le temple de la Raison",
+   "theme": "lieux",
+   "text": "Le Conseil général de la commune a choisi la cathédrale pour la fête civique et lui a donné le nom de temple de la Raison. L'autel est remplacé par une montagne d'où s'élance une figure ailée, avec une couronne civique et un drapeau tricolore ; devant, la statue de la Liberté ; au milieu du sanctuaire, un obélisque aux grands hommes. Les statues et les sculptures des églises sont mutilées dans ces mois-là.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 268, 274-278"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "le plus vaste et le plus convenable pour remplir cet objet dans la commune de Tours",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 268, délibération du Conseil général de la commune"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.grands_hommes",
+   "title": "L'obélisque des grands hommes",
+   "theme": "lieux",
+   "text": "Sur une face, les représentants « martyrs de la République » : Marat, Beauvais, Le Pelletier. Sur les autres, des héros et des sages : Socrate, Jésus, Caton, Harmodius, Confucius, Pythagore, Galilée, Newton, Guillaume Tell, Rousseau, Voltaire, Franklin… et deux Tourangeaux, Descartes et Rabelais. Au pied, le buste de Marat.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 277-279"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.bastille",
+   "title": "La pierre de la Bastille",
+   "theme": "lieux",
+   "text": "Palloy, l'entrepreneur qui a démoli la Bastille, en envoie des pierres aux départements. La seconde, gravée des Droits de l'homme sur une plaque de cuivre pour remplacer celle qui portait l'effigie du roi, est arrivée à Tours le 1er septembre 1793, saluée de quatre discours. Elle est aujourd'hui dans le temple.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 279-282"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Sur ce triste témoin du mépris de tes rois",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 282, vers gravés sous la Déclaration"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.calendrier",
+   "title": "Le 20 frimaire an II",
+   "theme": "vie_quotidienne",
+   "text": "Le calendrier républicain, élaboré par la Convention dans les derniers mois de 1793, supprime le dimanche et les fêtes : le mois a trois décades, le dixième jour, le décadi, est le jour de repos. Le 20 frimaire an II est le 10 décembre 1793.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 264, 286"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.eglises_fermees",
+   "title": "Les églises fermées",
+   "theme": "evenements",
+   "text": "Trois jours après avoir choisi le temple de la Raison, la commune décide, sur les réquisitions de Sénar, que les églises de Tours ne seront ouvertes qu'aux jours de décade, non plus pour le culte catholique, mais pour des lectures morales et républicaines. Depuis 1791, la ville n'avait plus que quatre paroisses : Saint-Gatien, Saint-Martin, Notre-Dame-la-Riche et Saint-Symphorien.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 269"
+    },
+    {
+     "id": "wp_tours"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.suzor",
+   "title": "Pierre Suzor, évêque constitutionnel",
+   "theme": "personnes",
+   "text": "Élu évêque d'Indre-et-Loire le 13 mars 1791, selon la constitution civile du clergé, à la place de l'archevêque Conzié. En 1793, il blâme les prêtres qui abjurent (une quinzaine seulement dans le département) et refuse d'autoriser le mariage des prêtres ; on lui retire son certificat de civisme.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 25, 269-270"
+    },
+    {
+     "id": "wp_suzor"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.guimberteau",
+   "title": "Jean Guimberteau, représentant en mission",
+   "theme": "personnes",
+   "text": "Avocat d'Angoulême, député de la Charente à la Convention, montagnard, il a voté la mort du roi. Envoyé le 8 octobre 1793 lever des chevaux pour l'armée dans cinq départements, dont l'Indre-et-Loire, puis chargé d'épurer les autorités, il destitue le comité de surveillance de Sénar le 4 novembre ; ses collègues le jugent trop proche des modérés de Tours.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_guimberteau"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.senar",
+   "title": "Jérôme Sénar",
+   "theme": "personnes",
+   "text": "Avocat né à Châtellerault en 1760, installé à Tours en 1791, chef du parti jacobin, procureur de la commune depuis le 22 décembre 1792. Blessé d'un coup de poignard en 1792. En juin 1793, il préside la Commission militaire ; en octobre, le comité de surveillance révolutionnaire, destitué par Guimberteau le 4 novembre, rétabli par la Convention le 16.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_senar"
+    },
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 216"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.commission_militaire",
+   "title": "Les Commissions militaires",
+   "theme": "evenements",
+   "text": "Après la prise de Saumur par les Vendéens, le 9 juin 1793, Sénar obtient une Commission militaire, qu'il préside. En novembre, au spectacle, des jeunes gens arrachent le bonnet rouge d'un spectateur ; Guimberteau crée une seconde Commission, installée au Palais-Neuf, rue de la Loi, le 27 brumaire. Elle a fait exécuter un premier condamné le 24 novembre.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 235-241"
+    },
+    {
+     "id": "wp_senar"
+    },
+    {
+     "id": "wp_guimberteau"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Il sera établi dans la ville de Tours une Commission militaire composée de sept membres nommés par le représentant du peuple.",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 238, arrêté de Guimberteau, 26 brumaire an II"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.place_nation",
+   "title": "La place de la Nation",
+   "theme": "lieux",
+   "text": "La place d'Aumont, agrandie en 1790, s'appelle place de la Nation. La guillotine y est dressée depuis juin 1793, sur une base de maçonnerie haute d'un mètre environ, dit-on. C'est aussi là qu'on a brûlé les titres féodaux, et de là qu'est parti ce matin le cortège de la fête.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 197, 244, 276"
+    },
+    {
+     "id": "wp_vieux_tours"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "il y aurait du danger à laisser sans garde la guillotine, qui doit rester montée",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 244, lettre de Sénar à la municipalité, juillet 1793"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.titres_feodaux",
+   "title": "Les titres brûlés",
+   "theme": "evenements",
+   "text": "Le décret du 17 juillet 1793 ordonne de brûler les titres des droits seigneuriaux. Dès la fin de juillet, deux commissaires du département brûlent publiquement ceux de Saint-Martin et de Saint-Gatien ; le 10 août, on en brûle dans toutes les communes. Le 27 brumaire (17 novembre), un troisième bûcher est dressé sur la place d'Aumont : les autorités, la Société populaire et Guimberteau y viennent en cortège depuis la maison commune ; le représentant met le feu et danse avec la foule, sous une pluie continuelle. On a mis à part les parchemins bons à faire des gargousses pour l'artillerie.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 193-198"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Les titres ont été jetés dans le dit bûcher",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 197, procès-verbal"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.ecurie",
+   "title": "Saint-Martin, écurie",
+   "theme": "lieux",
+   "text": "Mal entretenue depuis bien avant 1789, la collégiale est désaffectée et transformée en écurie en 1793. En octobre, Guimberteau a été chargé de lever des chevaux pour l'armée dans le département.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_basilique_saint_martin"
+    },
+    {
+     "id": "wp_guimberteau"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.vendee",
+   "title": "Les Vendéens au nord de la Loire",
+   "theme": "evenements",
+   "text": "Battue à Cholet le 17 octobre, l'armée vendéenne a passé la Loire et marché jusqu'à Granville, puis elle est revenue : repoussée devant Angers les 3 et 4 décembre, elle était à La Flèche le 8. À la fête, on jure de ne jamais la laisser repasser sur la rive gauche.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_viree_galerne"
+    },
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 283"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "de périr plutôt que de laisser les brigands souiller de nouveau la rive gauche",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 283, procès-verbal de la fête"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.prisonniers",
+   "title": "Le convoi de Saumur",
+   "theme": "evenements",
+   "text": "Un membre du comité révolutionnaire de Saumur, Le Petit, conduit 389 prisonniers vers Orléans : des Vendéens pris les armes à la main et des suspects. Le 4 décembre, au bas de la côte des Quinquenais, à Chinon, l'escorte en fusille plus de deux cents. Les survivants arrivent à Tours le 6 et sont enfermés dans une auberge de Saint-Symphorien ; le lendemain, au départ pour Amboise, l'un d'eux est tué par les soldats.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 164-170"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.inhumations",
+   "title": "Le Lieu du repos commun",
+   "theme": "vie_quotidienne",
+   "text": "Par un arrêté du 3 décembre 1793, la commune confie les convois funèbres à des commissaires civils nommés dans chaque section. Ils marchent en tête, coiffés du bonnet de la liberté, une flamme tricolore à la main ; le drap noir à croix blanche est remplacé par une étoffe tricolore. Le cimetière prend le nom de Lieu du repos commun.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 270-271"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Les hommes naissent et meurent égaux.",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 271, arrêté municipal du 3 décembre 1793"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.prisons",
+   "title": "Les maisons d'arrêt",
+   "theme": "vie_quotidienne",
+   "text": "Les prisons de Tours regorgent de suspects : le Plessis, La Riche, l'Oratoire, la Cour-des-Prés, puis le Grand-Séminaire et Marmoutier. On y compte notamment cent quatre-vingt-quatorze prêtres et plus de deux cents religieuses. Les frais de détention sont répartis entre les détenus, en trois classes selon leur fortune.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 216-221"
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.halle",
+   "title": "La halle aux blés",
+   "theme": "vie_quotidienne",
+   "text": "En 1792, la ville a acheté l'église Saint-Clément, près de la place d'Aumont, pour en faire une halle aux blés. En 1793, les subsistances sont le grand souci. En juin, un Tourangeau hostile à la Révolution écrit à un ami réfugié en Suisse que le pain manque, que le commerce est mort et que les chevaux sont réquisitionnés.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_vieux_tours"
+    },
+    {
+     "id": "busserolle_1864",
+     "loc": "p. 205-207"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "un pain noir et dégoûtant qu'on se dispute à la porte des boulangers",
+     "source": {
+      "id": "busserolle_1864",
+      "loc": "p. 207, lettre d'un habitant de la Touraine, juin 1793"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.revolution.departement",
+   "title": "Tours, chef-lieu d'Indre-et-Loire",
+   "theme": "evenements",
+   "text": "Le département d'Indre-et-Loire, créé le 4 mars 1790, reprend à peu près la Touraine, avec un morceau de l'Anjou, de Bourgueil à Château-la-Vallière. Tours en est le chef-lieu.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_indre_et_loire"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "revolution",
+ "title": "La Révolution",
+ "year": 1793,
+ "yearLabel": "10 décembre 1793",
+ "place": "Tours, chef-lieu d'Indre-et-Loire",
+ "summary": "Le 20 frimaire an II, un décadi. Ce matin, un cortège part de la place de la Nation pour inaugurer le temple de la Raison dans la cathédrale. Saint-Martin, désaffectée, sert d'écurie ; les prisons sont pleines de suspects ; l'armée vendéenne, passée au nord de la Loire, n'est pas loin.",
+ "palette": {
+  "ground": "#E7DFCA",
+  "water": "#8FA9B2",
+  "waterEdge": "#5F7B88",
+  "land": "#D9CEAC",
+  "garden": "#B0C08C",
+  "street": "#F3ECDA",
+  "streetEdge": "#B8A584",
+  "stone": "#EFE6D2",
+  "stoneEdge": "#6A6152",
+  "worksite": "#DACAA2",
+  "roof": "#878E98",
+  "roofEdge": "#545B64",
+  "label": "#363230",
+  "player": "#2E3F6B",
+  "carriage": "#4A2F2F",
+  "square": "#D5C59E"
+ },
+ "carriage": "cabriolet"
+}

@@ -1,0 +1,493 @@
+{
+ "guimberteau_intro": {
+  "speaker": "guimberteau",
+  "text": "Citoyen, aujourd'hui la Raison a son temple. J'ai parlé tout à l'heure devant la montagne : nous avons juré de vivre libres ou de mourir.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 276-283"
+   },
+   {
+    "id": "wp_guimberteau"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que faites-vous à Tours ?",
+    "next": "guimberteau_mission"
+   },
+   {
+    "label": "Et la Commission militaire ?",
+    "next": "guimberteau_commission"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.fete_raison",
+   "codex.revolution.guimberteau"
+  ]
+ },
+ "guimberteau_mission": {
+  "speaker": "guimberteau",
+  "text": "La Convention m'a envoyé lever des chevaux pour l'armée, dans cinq départements, puis épurer les autorités. Le mois dernier, j'ai mis le feu aux titres féodaux, place d'Aumont. On m'a nommé à l'armée des côtes de Cherbourg il y a quatre jours ; je reste encore ici.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_guimberteau"
+   },
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 196-198"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.guimberteau",
+   "codex.revolution.ecurie",
+   "codex.revolution.titres_feodaux"
+  ]
+ },
+ "guimberteau_commission": {
+  "speaker": "guimberteau",
+  "text": "Au spectacle, le mois dernier, on a crié « À bas le bonnet rouge ! ». J'ai établi une Commission militaire de sept membres pour juger ce crime, les émigrés rentrés et les prêtres insoumis.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 235-240"
+   },
+   {
+    "id": "wp_guimberteau"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.commission_militaire"
+  ]
+ },
+ "musicien_intro": {
+  "speaker": "musicien",
+  "text": "Des hymnes à la Raison et à la Liberté, en plusieurs parties, avec des chœurs et un grand orchestre ! Après le banquet, on dansera la carmagnole.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 283-285"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui sont ces noms sur l'obélisque ?",
+    "next": "musicien_obelisque"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.fete_raison"
+  ]
+ },
+ "musicien_obelisque": {
+  "speaker": "musicien",
+  "text": "Les grands hommes : Marat, Le Pelletier, Socrate, Caton, Descartes, Rabelais, Rousseau, Voltaire, Franklin… Deux enfants de la Touraine sont du nombre.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 277-278"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.grands_hommes"
+  ]
+ },
+ "institutrice_intro": {
+  "speaker": "institutrice",
+  "text": "Mes élèves marchaient derrière les orphelins de la Patrie. Demain n'est pas un dimanche : il n'y a plus de dimanche, il y a le décadi, un jour sur dix.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 264, 276-277"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Quel jour sommes-nous ?",
+    "next": "institutrice_jour"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.calendrier"
+  ]
+ },
+ "institutrice_jour": {
+  "speaker": "institutrice",
+  "text": "Le 20 frimaire de l'an II de la République. L'inauguration devait se faire le 10 ; la Société populaire a demandé qu'on attende le décadi suivant.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 276, 286"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.calendrier",
+   "codex.revolution.fete_raison"
+  ]
+ },
+ "suzor_intro": {
+  "speaker": "suzor",
+  "text": "Je suis l'évêque que le peuple a élu en 1791, selon la constitution. Les églises sont fermées, sauf les jours de décade, et la cathédrale est devenue un temple.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 25, 269"
+   },
+   {
+    "id": "wp_suzor"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Que vous reproche-t-on ?",
+    "next": "suzor_suspect"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.suzor",
+   "codex.revolution.eglises_fermees",
+   "codex.revolution.departement"
+  ]
+ },
+ "suzor_suspect": {
+  "speaker": "suzor",
+  "text": "On veut que j'autorise les prêtres à se marier. Je ne le ferai jamais. On m'a retiré mon certificat de civisme : me voici suspect.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 269-270"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.suzor"
+  ]
+ },
+ "senar_intro": {
+  "speaker": "senar",
+  "text": "Les ennemis de la Révolution sont partout, citoyen : dans les campagnes, dans les prisons, et jusque dans nos administrations. On a destitué mon comité de surveillance ; la Convention l'a rétabli.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_senar"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi les églises sont-elles fermées ?",
+    "next": "senar_eglises"
+   },
+   {
+    "label": "Qu'y a-t-il place de la Nation ?",
+    "next": "senar_guillotine"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.senar"
+  ]
+ },
+ "senar_eglises": {
+  "speaker": "senar",
+  "text": "Sur mes réquisitions, la commune a décidé que les églises ne seraient plus ouvertes qu'aux jours de décade, pour des lectures morales et républicaines.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 269"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.eglises_fermees"
+  ]
+ },
+ "senar_guillotine": {
+  "speaker": "senar",
+  "text": "La guillotine, montée depuis juin, quand je présidais la première Commission militaire. J'ai demandé en juillet qu'on la garde, pour que personne n'en approche.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 244"
+   },
+   {
+    "id": "wp_senar"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.place_nation",
+   "codex.revolution.commission_militaire"
+  ]
+ },
+ "volontaire_intro": {
+  "speaker": "volontaire",
+  "text": "On a juré de périr plutôt que de laisser les brigands repasser sur la rive gauche. Ils ont manqué Angers il y a une semaine ; on les dit vers La Flèche.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 283"
+   },
+   {
+    "id": "wp_viree_galerne"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.vendee"
+  ]
+ },
+ "marchande_intro": {
+  "speaker": "marchande",
+  "text": "On vend le blé dans l'ancienne église Saint-Clément, depuis que la ville l'a achetée, l'an passé. Le pain est cher ; tout le monde a peur de manquer.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_vieux_tours"
+   },
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 207"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et cette place ?",
+    "next": "marchande_place"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.halle"
+  ]
+ },
+ "marchande_place": {
+  "speaker": "marchande",
+  "text": "La place d'Aumont, on l'appelle de la Nation. On y a brûlé les titres des seigneurs. Et l'échafaud est là, sur sa base de maçonnerie.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 197, 244"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.place_nation",
+   "codex.revolution.titres_feodaux"
+  ]
+ },
+ "palefrenier_intro": {
+  "speaker": "palefrenier",
+  "text": "Saint-Martin ? C'est une écurie, maintenant. Les chevaux de la réquisition sont sous les voûtes, là où était le tombeau du saint.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   },
+   {
+    "id": "wp_guimberteau"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et les chanoines ?",
+    "next": "palefrenier_chanoines"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.ecurie"
+  ]
+ },
+ "palefrenier_chanoines": {
+  "speaker": "palefrenier",
+  "text": "Partis, déportés ou en prison. Cet été, on a brûlé devant tout le monde les vieux titres de Saint-Martin et de Saint-Gatien.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 111-112, 195"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.titres_feodaux",
+   "codex.revolution.prisons"
+  ]
+ },
+ "commissaire_intro": {
+  "speaker": "commissaire",
+  "text": "Depuis une semaine, ce ne sont plus les prêtres qui conduisent les morts : c'est moi, avec le bonnet de la liberté et la flamme tricolore.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 270-271"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qu'est-il écrit sur la flamme ?",
+    "next": "commissaire_flamme"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.inhumations"
+  ]
+ },
+ "commissaire_flamme": {
+  "speaker": "commissaire",
+  "text": "« Les hommes naissent et meurent égaux. » Le cimetière s'appelle désormais le Lieu du repos commun.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 270-271"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.inhumations"
+  ]
+ },
+ "batelier_intro": {
+  "speaker": "batelier",
+  "text": "Il y a quatre jours, on a vu arriver par Saint-Symphorien un convoi de prisonniers venus de Saumur, attachés deux par deux. À Chinon, l'escorte en avait tué plus de deux cents.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 164-170"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et ici ?",
+    "next": "batelier_ici"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.prisonniers"
+  ]
+ },
+ "batelier_ici": {
+  "speaker": "batelier",
+  "text": "On les a enfermés dans une auberge, à Saint-Symphorien. Le lendemain matin, au départ pour Amboise, un d'eux a été tué par les soldats.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 170"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.prisonniers"
+  ]
+ },
+ "lieu_temple": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale, devenue temple de la Raison ce matin : à la place de l'autel, une montagne et une figure ailée ; un obélisque aux grands hommes ; sur une estrade, la Déclaration des droits de l'homme gravée sur une pierre de la Bastille.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 268, 277-279"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.temple_raison",
+   "codex.revolution.grands_hommes",
+   "codex.revolution.bastille"
+  ]
+ },
+ "lieu_arbre": {
+  "speaker": "arbre_liberte",
+  "text": "Pour finir la fête, on plante un arbre de la liberté devant la porte du temple. Emplacement supposé.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 285"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.fete_raison"
+  ]
+ },
+ "lieu_place_nation": {
+  "speaker": "place_de_la_nation",
+  "text": "La place d'Aumont, devenue place de la Nation : le cortège en est parti ce matin, à dix heures. La guillotine y est dressée depuis juin. Étendue de la place supposée.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 244, 276"
+   },
+   {
+    "id": "wp_vieux_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.place_nation",
+   "codex.revolution.fete_raison"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "L'immense collégiale, désaffectée, sert d'écurie. Elle est mal entretenue depuis longtemps : ses voûtes s'effondreront en 1797.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_basilique_saint_martin"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.ecurie"
+  ]
+ },
+ "lieu_hotel_de_ville": {
+  "speaker": "hotel_de_ville",
+  "text": "L'hôtel de ville neuf de la tête du pont, achevé en 1786. Le pavillon d'en face n'est pas encore bâti.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.senar",
+   "codex.revolution.eglises_fermees"
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier",
+  "text": "L'abbaye de Marmoutier, dont les moines sont partis : on en a fait une prison quand les autres n'ont plus suffi.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "busserolle_1864",
+    "loc": "p. 217"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.prisons"
+  ]
+ },
+ "lieu_saint_julien": {
+  "speaker": "saint_julien",
+  "text": "L'ancienne abbaye Saint-Julien : l'église n'est plus consacrée au culte depuis la Révolution.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sat_bulletin_1913",
+    "loc": "p. 138"
+   }
+  ],
+  "unlocks": [
+   "codex.revolution.eglises_fermees"
+  ]
+ }
+}
