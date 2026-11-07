@@ -1,12 +1,12 @@
 {
-    "name": "tours_epoques",
-    "short_name": "tours_epoques",
+    "name": "Tours à travers les âges",
+    "short_name": "Tours, les âges",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#F2E8D8",
+    "theme_color": "#B89B6A",
+    "description": "Une promenade dans Tours, à travers les époques.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
