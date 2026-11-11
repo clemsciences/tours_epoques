@@ -1,0 +1,220 @@
+{
+ "an_mil": {
+  "file": "assets/music/an_mil.mp3",
+  "seconds": 113,
+  "title": "Ut queant laxis",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Ut queant laxis",
+    "date": "vers 1030",
+    "year": 1030,
+    "certainty": "attested",
+    "note": "Hymne à saint Jean-Baptiste ; vers 1030, Guido d'Arezzo s'en sert pour nommer les notes (ut, ré, mi, fa, sol, la : la première syllabe de chaque vers).",
+    "source": "musique_ut_queant_laxis"
+   }
+  ],
+  "arrangement": "Chœur d'hommes à l'unisson, puis en organum parallèle à la quarte et à la quinte, chant à plusieurs voix décrit dès la fin du IXe siècle (Musica enchiriadis) ; arrangement du jeu."
+ },
+ "bas_empire": {
+  "file": "assets/music/bas_empire.mp3",
+  "seconds": 80,
+  "title": "Épitaphe de Seikilos",
+  "certainty": "hypothesis",
+  "pieces": [
+   {
+    "title": "Épitaphe de Seikilos",
+    "date": "Ier ou IIe siècle",
+    "year": 100,
+    "certainty": "attested",
+    "note": "Chanson grecque gravée sur une stèle de Tralles, en Asie Mineure (Ier ou IIe siècle) : la plus ancienne composition complète conservée. Elle ne vient pas de Tours ; on ignore ce qu'on y chantait.",
+    "source": "musique_seikilos"
+   }
+  ],
+  "arrangement": "Lyre, aulos et voix d'homme : instruments du monde romain ; arrangement du jeu."
+ },
+ "belle_epoque": {
+  "file": "assets/music/belle_epoque.mp3",
+  "seconds": 95,
+  "title": "Le Temps des cerises",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Le Temps des cerises",
+    "date": "1868",
+    "year": 1868,
+    "certainty": "attested",
+    "note": "Paroles de Jean-Baptiste Clément (1866), musique d'Antoine Renard (1868) ; en 1914, tout le monde la connaît.",
+    "source": "musique_temps_des_cerises"
+   }
+  ],
+  "arrangement": "Accordéon de bal, violon et piano. Arrangement du jeu."
+ },
+ "carolingien": {
+  "file": "assets/music/carolingien.mp3",
+  "seconds": 106,
+  "title": "Psalmodie (reconstitution)",
+  "certainty": "invented",
+  "pieces": [],
+  "arrangement": "Charlemagne impose le chant romain ; les premiers manuscrits notés sont un peu plus tardifs (IXe siècle). Psalmodie inventée par le jeu, à deux chœurs de moines en alternance, dans un mode de sol ; cloches."
+ },
+ "cent_ans": {
+  "file": "assets/music/cent_ans.mp3",
+  "seconds": 100,
+  "title": "Le Carillon de Vendôme ; Polorum regina",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Le Carillon de Vendôme",
+    "date": "XVe siècle",
+    "year": 1420,
+    "certainty": "hypothesis",
+    "note": "Chanson sur le dauphin Charles, le futur Charles VII, à qui le traité de Troyes (1420) n'a laissé qu'Orléans, Beaugency, Notre-Dame de Cléry, Vendôme… La date de la mélodie notée ici n'est pas connue.",
+    "source": "musique_carillon_vendome"
+   },
+   {
+    "title": "Polorum regina (Livre vermeil de Montserrat)",
+    "date": "vers 1399",
+    "year": 1399,
+    "certainty": "attested",
+    "note": "Chant de pèlerins du Livre vermeil de Montserrat (manuscrit copié vers 1399), en Catalogne : les pèlerins de Saint-Martin chantaient de tels cantiques en chemin.",
+    "source": "musique_polorum_regina"
+   }
+  ],
+  "arrangement": "Cloches, flûte à bec, vièle et tambourin ; chant de pèlerins sur un bourdon. Arrangement du jeu."
+ },
+ "gaulois": {
+  "file": "assets/music/gaulois.mp3",
+  "seconds": 96,
+  "title": "Lyre, trompe et tambour",
+  "certainty": "invented",
+  "pieces": [],
+  "arrangement": "Aucune musique gauloise n'a été conservée : improvisation inventée par le jeu sur une gamme de cinq notes, à la lyre, avec un tambour sur cadre et de longs appels de trompe."
+ },
+ "louis_xi": {
+  "file": "assets/music/louis_xi.mp3",
+  "seconds": 179,
+  "title": "L'homme armé",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "L'homme armé",
+    "date": "vers 1460",
+    "year": 1460,
+    "certainty": "attested",
+    "note": "Chanson du XVe siècle, la plus reprise de son temps : plus de quarante messes sont écrites sur sa mélodie, dont celle de Johannes Ockeghem, trésorier de Saint-Martin de Tours.",
+    "source": "musique_homme_arme"
+   }
+  ],
+  "arrangement": "Flûte à bec sur un bourdon de vièle ; vièle et luth (seconde voix à la tierce et à la sixte), tambourin ; enfin la mélodie en valeurs longues à l'orgue portatif, comme dans une messe, sous un contrepoint de flûte. Arrangement du jeu."
+ },
+ "lumieres": {
+  "file": "assets/music/lumieres.mp3",
+  "seconds": 90,
+  "title": "Il pleut, il pleut, bergère ; Malbrough s'en va-t-en guerre",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Il pleut, il pleut, bergère",
+    "date": "1780",
+    "year": 1780,
+    "certainty": "attested",
+    "note": "Chanson tirée de l'opéra-comique Laure et Pétrarque, écrit en 1780 par Fabre d'Églantine.",
+    "source": "musique_il_pleut_bergere"
+   },
+   {
+    "title": "Malbrough s'en va-t-en guerre",
+    "date": "1781",
+    "year": 1781,
+    "certainty": "attested",
+    "note": "Chanson connue à partir de 1781 ; Beaumarchais en fait la chanson du page dans Le Mariage de Figaro.",
+    "source": "musique_malbrough"
+   }
+  ],
+  "arrangement": "Flûte ou violon et clavecin, puis vielle à roue, l'instrument « pastoral » à la mode. Arrangement du jeu."
+ },
+ "merovingien": {
+  "file": "assets/music/merovingien.mp3",
+  "seconds": 105,
+  "title": "Psalmodie (reconstitution)",
+  "certainty": "invented",
+  "pieces": [],
+  "arrangement": "Le chant de l'Église de Gaule, dit gallican, est perdu : aucune notation musicale n'existe avant le IXe siècle. Psalmodie inventée par le jeu, à deux chœurs d'hommes en alternance, dans un mode de ré ; cloches."
+ },
+ "renaissance": {
+  "file": "assets/music/renaissance.mp3",
+  "seconds": 131,
+  "title": "L'homme armé",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "L'homme armé",
+    "date": "vers 1460",
+    "year": 1460,
+    "certainty": "attested",
+    "note": "La même chanson qu'en 1482 : vers 1500, Josquin des Prez écrit encore deux messes sur sa mélodie.",
+    "source": "musique_homme_arme"
+   }
+  ],
+  "arrangement": "Haute musique de plein air (chalemies, saqueboute, tambourin), puis basse musique (flûte et luth). Arrangement du jeu."
+ },
+ "revolution": {
+  "file": "assets/music/revolution.mp3",
+  "seconds": 139,
+  "title": "Ah ! ça ira ; La Carmagnole",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Ah ! ça ira",
+    "date": "1790",
+    "year": 1790,
+    "certainty": "attested",
+    "note": "Chant révolutionnaire composé en 1790, pour la fête de la Fédération, sur l'air du Carillon national.",
+    "source": "musique_ca_ira"
+   },
+   {
+    "title": "La Carmagnole",
+    "date": "1792",
+    "year": 1792,
+    "certainty": "attested",
+    "note": "Chanson révolutionnaire créée en 1792, au moment de la chute de la monarchie.",
+    "source": "musique_carmagnole"
+   }
+  ],
+  "arrangement": "Fifres et tambours, puis violon de rue et vielle à roue. Arrangement du jeu."
+ },
+ "xixe": {
+  "file": "assets/music/xixe.mp3",
+  "seconds": 87,
+  "title": "En passant par la Lorraine",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "En passant par la Lorraine",
+    "date": "1885",
+    "year": 1885,
+    "certainty": "attested",
+    "note": "Chanson imprimée dès 1535 (En revenant de la Lorraine), remaniée en 1885 pour l'école : la Lorraine perdue en 1871 y est rappelée.",
+    "source": "musique_lorraine"
+   }
+  ],
+  "arrangement": "Au piano d'un salon, puis à la fanfare (cornets, trombones, tambours), comme aux fêtes de quartier. Arrangement du jeu."
+ },
+ "xviie": {
+  "file": "assets/music/xviie.mp3",
+  "seconds": 182,
+  "title": "Tourdion",
+  "certainty": "probable",
+  "pieces": [
+   {
+    "title": "Tourdion (Attaingnant, 1530)",
+    "date": "1530",
+    "year": 1530,
+    "certainty": "attested",
+    "note": "Danse vive publiée par Pierre Attaingnant en 1530 ; Thoinot Arbeau en décrit les pas en 1589. En 1644, c'est déjà une musique ancienne.",
+    "source": "musique_tourdion"
+   }
+  ],
+  "arrangement": "Violons, viole et luth, puis flûte, clavecin et tambourin, en tempérament mésotonique. Arrangement du jeu."
+ }
+}

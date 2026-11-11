@@ -1,0 +1,1002 @@
+{
+ "evelyn_intro": {
+  "speaker": "evelyn",
+  "text": "Bonjour, monsieur ! Pardonnez mon français : je l'apprends. Je suis arrivé le 2 mai, et je compte passer ici tout le reste de mon séjour en France, tant on y est bien. Aujourd'hui, toute la ville attend notre reine.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai et 18 août 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "We now came within sight of Tours, where we were designed for the rest of the time I had resolved to stay in France, the sojournment being so agreeable.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "choices": [
+   {
+    "label": "Votre reine ?",
+    "next": "evelyn_guerre"
+   },
+   {
+    "label": "Que pensez-vous de Tours ?",
+    "next": "evelyn_tours"
+   },
+   {
+    "label": "Que faites-vous sur le mail ?",
+    "next": "evelyn_mail"
+   },
+   {
+    "label": "Qu'avez-vous visité ?",
+    "next": "evelyn_visites"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.evelyn"
+  ]
+ },
+ "evelyn_guerre": {
+  "speaker": "evelyn",
+  "text": "La reine d'Angleterre, la fille de votre Henri IV. Chez nous, le roi et le Parlement se font la guerre : elle a dû fuir, elle a débarqué en Bretagne à la fin de juillet, et elle passe ici pour gagner Paris. Le peuple, le clergé et la milice sont allés au-devant d'elle.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_henriette_marie"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "18 août 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The Queen of England came to Tours, having newly arrived in France, and going for Paris.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "18 août 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.reine"
+  ]
+ },
+ "evelyn_tours": {
+  "speaker": "evelyn",
+  "text": "Je n'en connais pas de plus belle. Un beau pont de pierre, des rues longues, droites, larges, bien bâties et d'une propreté extrême, de grands faubourgs. Aucune ville de France ne la surpasse.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "the streets are very long, straight, spacious, well built, and exceeding clean",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   },
+   {
+    "text": "No city in France exceeds it in beauty, or delight.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.ville"
+  ]
+ },
+ "evelyn_mail": {
+  "speaker": "evelyn",
+  "text": "Le plus noble mail d'Europe ! Sept rangées d'ormes, les plus hauts que j'aie jamais vus, et ceux du milieu se rejoignent en voûte. J'y fais une partie quand je ne travaille pas ma grammaire, puis je fais le tour des remparts.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "2 et 8 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The Mall without comparison is the noblest in Europe for length and shade, having seven rows of the tallest and goodliest elms I had ever beheld",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.mail"
+  ]
+ },
+ "evelyn_visites": {
+  "speaker": "evelyn",
+  "text": "Oh, beaucoup de choses. La procession de la Fête-Dieu, Marmoutier par la rivière, le Plessis, les ateliers de soie, la musique chez les jésuites, les vignes… Que voulez-vous savoir ?",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "mai-juillet 1644"
+   }
+  ],
+  "choices": [
+   {
+    "label": "La Fête-Dieu",
+    "next": "evelyn_fete"
+   },
+   {
+    "label": "Le Plessis",
+    "next": "evelyn_plessis"
+   },
+   {
+    "label": "Les jésuites",
+    "next": "evelyn_jesuites"
+   },
+   {
+    "label": "La campagne",
+    "next": "evelyn_campagne"
+   }
+  ]
+ },
+ "evelyn_fete": {
+  "speaker": "evelyn",
+  "text": "Une procession de tous les ordres religieux. Toutes les rues tendues des plus belles tapisseries, et devant les maisons on avait sorti ce qu'on a de plus précieux : soieries, damas, velours, argenterie, tableaux. Le sol était couvert de fleurs.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "25 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "the whole streets hung with their best tapestries, and their most precious movables exposed; silks, damasks, velvets, plate, and pictures in abundance",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "25 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.fete_dieu"
+  ]
+ },
+ "evelyn_plessis": {
+  "speaker": "evelyn",
+  "text": "Une maison du roi, à deux milles, pleine de jardins et de rossignols. Le poète Ronsard est enterré dans la chapelle. En revenant, nous sommes entrés dans un couvent appelé Saint-Cosme, où reposent les cendres de saint François de Paule.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "7 juin 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It has many pretty gardens, full of nightingales; and, in the chapel, lies buried the famous poet, Ronsard.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "7 juin 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.plessis_cosme"
+  ]
+ },
+ "evelyn_jesuites": {
+  "speaker": "evelyn",
+  "text": "Les jésuites ont ici une école et un couvent, mais une pauvre chapelle. Leur musique est excellente. Et en ce moment, nous avons des melons admirables : ceux d'ici passent pour les meilleurs du royaume.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "27 juillet 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I heard excellent music at the Jesuits, who have here a school and convent, but a mean chapel.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "27 juillet 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.jesuites",
+   "codex.xviie.vignes_melons"
+  ]
+ },
+ "evelyn_campagne": {
+  "speaker": "evelyn",
+  "text": "On m'a montré une vigne plantée sur des perches en arceaux : en se baissant, on voit d'un bout à l'autre, sous les ceps, les grappes qui pendent. Je suis allé voir aussi des grottes qu'on appelle la Gouttière, près de Colombière, et les ruines d'un château sur la falaise de Rochecorbon.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "9, 20 et 30 juin 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "a vineyard, which was so artificially planted and supported with arched poles, that stooping down one might see from end to end, a very great length, under the vines, the bunches hanging down in abundance",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "9 juin 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.vignes_melons"
+  ]
+ },
+ "ursuline_intro": {
+  "speaker": "ursuline",
+  "text": "Nous sommes ursulines : nous instruisons les filles. Notre maison est jeune. Nous avons d'abord logé à la Petite Bourdaisière, puis acheté ces terrains en 1625 ; notre première église est bâtie depuis 1628.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "merimee_ursulines"
+   }
+  ],
+  "choices": [
+   {
+    "label": "On parle d'une religieuse partie au Canada…",
+    "next": "ursuline_marie"
+   },
+   {
+    "label": "Qui était-elle avant ?",
+    "next": "ursuline_veuve"
+   },
+   {
+    "label": "Il y a beaucoup de couvents en ville ?",
+    "next": "ursuline_couvents"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.ursulines"
+  ]
+ },
+ "ursuline_marie": {
+  "speaker": "ursuline",
+  "text": "Notre mère Marie de l'Incarnation. Elle est entrée chez nous en janvier 1631 et nous a quittées le 22 février 1639, avec la mère de Saint-Joseph, pour la Nouvelle-France. Elle instruit maintenant les petites filles des Hurons et des Algonquins, à Québec. Ses lettres mettent des mois à venir.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "dcb_marie_guyart"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marie_incarnation"
+  ]
+ },
+ "ursuline_veuve": {
+  "speaker": "ursuline",
+  "text": "Une fille de la ville, Marie Guyart. Mariée à dix-sept ans à un maître ouvrier en soie, veuve à vingt avec un petit garçon. Ensuite, elle a tenu les affaires de son beau-frère, qui faisait le roulage : des charretiers, des chevaux, des marchandises. Personne ne s'y attendait de sa part.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "dcb_marie_guyart"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marie_incarnation"
+  ]
+ },
+ "calandreur_intro": {
+  "speaker": "calandreur",
+  "text": "Je moire les étoffes : gros-grains, camelots. On les mouille, on les plie, et on les passe sous la calandre, chargée de poids énormes. Le grain se couche en ondes, et l'étoffe chatoie. Votre Anglais est venu voir ça en mai, il n'en revenait pas.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "8 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "their pressing and watering the grograms and camlets, with weights of an extraordinary poise, put into a rolling engine",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    }
+   }
+  ],
+  "choices": [
+   {
+    "label": "Tours vit-elle de la soie ?",
+    "next": "calandreur_ville"
+   },
+   {
+    "label": "Des Tourangeaux célèbres ?",
+    "next": "calandreur_bosse"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.soie"
+  ]
+ },
+ "calandreur_ville": {
+  "speaker": "calandreur",
+  "text": "Bien des familles, oui : tisserands, teinturiers, moulineurs, marchands. Mais la cour ne vient plus à Tours depuis longtemps, et les grandes commandes se font ailleurs.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_histoire_de_tours"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.soie"
+  ]
+ },
+ "calandreur_bosse": {
+  "speaker": "calandreur",
+  "text": "Le fils du tailleur Bosse, un huguenot venu du pays de Clèves. Le petit Abraham grave à Paris, maintenant : on vend ses estampes jusqu'ici.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "museeprotestant_bosse"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.bosse",
+   "codex.xviie.protestants"
+  ]
+ },
+ "terrassier_intro": {
+  "speaker": "terrassier",
+  "text": "On creuse le fossé du sud : les échevins l'ont décidé en juin 1634, de la porte Bourbon à Saint-Éloi. Le feu roi avait tout fait arrêter en 1626 ; depuis 1635, on monte les tourelles et les murailles du bout du mail jusqu'au bastion Saint-Éloi. Quand ce sera fini, le rempart enfermera deux fois la ville. Pour l'instant, il enferme surtout des jardins !",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_rempart_bastionne"
+   },
+   {
+    "id": "sat_dubant_2006",
+    "loc": "p. 228"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et le mail ?",
+    "next": "terrassier_mail"
+   },
+   {
+    "label": "Qui a dessiné ce rempart ?",
+    "next": "terrassier_plan"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.rempart"
+  ]
+ },
+ "terrassier_mail": {
+  "speaker": "terrassier",
+  "text": "Les ormes ont été plantés en 1603, contre la courtine, et certains venaient d'ailleurs dans la ville. Le dimanche, tout Tours s'y promène.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_rempart_bastionne"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.mail"
+  ]
+ },
+ "terrassier_plan": {
+  "speaker": "terrassier",
+  "text": "Le grand roi Henri a signé les lettres en avril 1591. Le premier plan était de Jacques Androuet du Cerceau ; il a dirigé les travaux avec un ingénieur venu de Turin, Richard Barthélemy.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_rempart_bastionne"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.rempart"
+  ]
+ },
+ "milicien_intro": {
+  "speaker": "milicien",
+  "text": "J'étais de la garde bourgeoise, ce matin. Nous sommes allés au-devant de la reine d'Angleterre avec le clergé, on l'a haranguée, et Monseigneur l'archevêque la reçoit en son palais. Elle repart pour Paris après-demain.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "18 août 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "She was very nobly received by the people and clergy, who went to meet her with the trained bands.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "18 août 1644"
+    }
+   }
+  ],
+  "choices": [
+   {
+    "label": "Qui est l'archevêque ?",
+    "next": "milicien_archeveque"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.reine"
+  ]
+ },
+ "milicien_archeveque": {
+  "speaker": "milicien",
+  "text": "Monseigneur Victor Le Bouthillier, depuis 1641. Son palais touche la cathédrale : du vieux et du neuf, de belles salles et un beau jardin.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_archeveques_tours"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "6 mai 1644"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.cathedrale"
+  ]
+ },
+ "maitre_intro": {
+  "speaker": "maitre_langue",
+  "text": "J'enseigne le français aux étrangers : il en vient beaucoup, de jeunes gentilshommes surtout. Mon Anglais, M. Evelyn, travaille avec beaucoup d'application ; le reste du temps, il joue au mail.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "8 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Here I took a master of the language, and studied the tongue very diligently, recreating myself sometimes at the Mall, and sometimes about the town.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.maitre_langue"
+  ],
+  "choices": [
+   {
+    "label": "Où loge-t-il ?",
+    "next": "maitre_logis"
+   }
+  ]
+ },
+ "batelier_intro": {
+  "speaker": "batelier",
+  "text": "Je mène les gens à Marmoutier par la Loire, c'est plus doux que la route. L'Anglais y est allé en juin : les moines lui ont montré la Sainte Ampoule et leur grand tonneau.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "6 juin 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I went by water to visit that goodly and venerable Abbey of Marmoutiers, being one of the greatest in the kingdom",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "6 juin 1644"
+    }
+   }
+  ],
+  "choices": [
+   {
+    "label": "Et ce pont ?",
+    "next": "batelier_pont"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marmoutier"
+  ]
+ },
+ "batelier_pont": {
+  "speaker": "batelier",
+  "text": "Le grand pont de pierre va de la ville aux îles, et un autre pont mène aux faubourgs de Saint-Symphorien. Votre Anglais l'appelle le pont « St. Edme ».",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "having a fair bridge of stone called St. Edme",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.ville"
+  ]
+ },
+ "moine_intro": {
+  "speaker": "moine",
+  "text": "Nous sommes bénédictins de la congrégation de Saint-Maur. En 1637, le cardinal de Richelieu, notre abbé, a donné la maison à la congrégation pour la réformer.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   }
+  ],
+  "choices": [
+   {
+    "label": "La Sainte Ampoule ?",
+    "next": "moine_ampoule"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marmoutier"
+  ]
+ },
+ "moine_ampoule": {
+  "speaker": "moine",
+  "text": "Elle a servi au sacre du roi Henri, à Chartres, le 27 février 1594 : Reims était aux mains de la Ligue, on n'y pouvait prendre la sainte ampoule de saint Remi.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_sacre_henri_iv"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marmoutier"
+  ]
+ },
+ "lieu_mail": {
+  "speaker": "mail",
+  "text": "Le mail, planté d'ormes en 1603 contre la courtine sud du rempart neuf. Les boulevards Béranger et Heurteloup l'ont remplacé en 1861.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "wp_rempart_bastionne"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The Mall without comparison is the noblest in Europe for length and shade",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.mail"
+  ]
+ },
+ "lieu_rempart": {
+  "speaker": "rempart_neuf_1",
+  "text": "Le rempart neuf, en chantier : terre levée derrière un mur de pierre, et un fossé. Son tracé est dessiné ici d'après les rues qui l'ont remplacé ; on ne sait pas ce qui était bâti en 1644.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "wp_rempart_bastionne"
+   },
+   {
+    "id": "siette_1619"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai 1644"
+   },
+   {
+    "id": "sat_dubant_2006",
+    "loc": "p. 226-229"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "walked about the town walls, built of square stone, filled with earth, and having a moat",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.rempart"
+  ]
+ },
+ "lieu_collegiale": {
+  "speaker": "collegiale_saint_martin",
+  "text": "La collégiale Saint-Martin, sur le tombeau du saint. Les protestants ont brûlé la châsse en 1562 ; on a sauvé un morceau du crâne et un os du bras, qu'on montre encore. La restitution 3D montre l'édifice en 1785.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "2 mai 1644"
+   },
+   {
+    "id": "wp_collegiale_saint_martin"
+   },
+   {
+    "id": "sat_voyageur_1639",
+    "loc": "p. 144-145"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Both the church and monastery of St. Martin are large, of Gothic building, having four square towers, fair organs, and a stately altar, where they show the bones and ashes of St. Martin, with other relics.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   }
+  ],
+  "model": "saint_martin_1785",
+  "unlocks": [
+   "codex.xviie.saint_martin"
+  ]
+ },
+ "lieu_cathedrale": {
+  "speaker": "cathedrale",
+  "text": "La cathédrale Saint-Gatien, achevée depuis un siècle : sa tour sud a été finie en 1547. La restitution 3D montre l'édifice en 1785, très peu changé.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_cathedrale_saint_gatien"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "6 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The church has two handsome towers and spires of stone, and the whole fabric is very noble and venerable.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "6 mai 1644"
+    }
+   }
+  ],
+  "model": "saint_gatien_1785",
+  "unlocks": [
+   "codex.xviie.cathedrale"
+  ]
+ },
+ "lieu_archeveche": {
+  "speaker": "archeveche",
+  "text": "Le palais de l'archevêque, Victor Le Bouthillier. La reine d'Angleterre y est reçue aujourd'hui.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "6 mai et 18 août 1644"
+   },
+   {
+    "id": "wp_archeveques_tours"
+   },
+   {
+    "id": "wp_musee_beaux_arts_tours"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "the palace of the Archbishop, consisting both of old and new building, with many fair rooms, and a fair garden",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "6 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.reine"
+  ]
+ },
+ "lieu_marmoutier": {
+  "speaker": "marmoutier",
+  "text": "L'abbaye de Marmoutier, l'une des plus grandes du royaume, réformée par la congrégation de Saint-Maur depuis 1637.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_marmoutier"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "6 juin 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "to it is a very ample church of stone, with a very high pyramid",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "6 juin 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.marmoutier"
+  ]
+ },
+ "lieu_plessis": {
+  "speaker": "plessis",
+  "text": "Le Plessis, maison du roi depuis Louis XI.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_plessis"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "7 juin 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "an agreeable solitude, called Du Plessis, a house belonging to the King",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "7 juin 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.plessis_cosme"
+  ]
+ },
+ "lieu_minimes": {
+  "speaker": "minimes",
+  "text": "Le couvent des Minimes, fondé pour François de Paule, qui y est mort en 1507. Les protestants ont brûlé son corps en 1562 ; ses cendres reposent dans la chapelle.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_francois_de_paule"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "7 juin 1644"
+   },
+   {
+    "id": "sat_voyageur_1639",
+    "loc": "p. 148"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Corpus Sancti Fran. a Paula 1507, 13 Aprilis, concrematur vero ab Haereticis anno 1562, cujus quidem ossa et cineres hic jacent",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "7 juin 1644 (inscription relevée par Evelyn)"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.plessis_cosme"
+  ]
+ },
+ "lieu_saint_cosme": {
+  "speaker": "saint_cosme",
+  "text": "Le prieuré Saint-Cosme. Pierre de Ronsard en fut le prieur ; il y est mort et y a été enterré en 1585.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "wp_saint_cosme"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.plessis_cosme"
+  ]
+ },
+ "regent_intro": {
+  "speaker": "regent",
+  "text": "Je suis régent au collège que la ville nous a confié en 1635. Nous avons acheté cet hôtel de Beaune l'année d'avant, malgré les échevins : ils voulaient y loger le roi et les grands personnages de passage.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 204-205"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Pourquoi la ville ne voulait-elle pas de vous ?",
+    "next": "regent_ville"
+   },
+   {
+    "label": "Et votre chapelle ?",
+    "next": "regent_chapelle"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.jesuites"
+  ]
+ },
+ "regent_ville": {
+  "speaker": "regent",
+  "text": "Les échevins nous demandaient déjà en 1604, mais notre Compagnie avait le collège de La Flèche tout près. Quand nous sommes venus, de 1625 à 1632, la ville s'y est opposée : il a fallu que Mgr d'Eschaux intercède auprès du feu roi, et que le roi demande l'appui de M. le Prince de Condé.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 204"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.jesuites"
+  ]
+ },
+ "regent_chapelle": {
+  "speaker": "regent",
+  "text": "Elle est petite, je vous l'accorde : nous n'avons pas encore d'église. Mais notre musique attire du monde ; votre Anglais est venu l'entendre.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 205"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "27 juillet 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I heard excellent music at the Jesuits, who have here a school and convent, but a mean chapel.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "27 juillet 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.jesuites"
+  ]
+ },
+ "lieu_college": {
+  "speaker": "hotel_beaune",
+  "text": "L'hôtel de Beaune, bâti par les Beaune-Semblançay au début du XVIe siècle. Les jésuites l'achètent en 1634, malgré la ville, et y tiennent le collège depuis 1635 ; en 1638, ils acquièrent aussi le fief de Beaune.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 204-205"
+   },
+   {
+    "id": "wp_hotel_beaune"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.jesuites"
+  ]
+ },
+ "lieu_capucins": {
+  "speaker": "capucins",
+  "text": "Le couvent des Capucins, fondé en 1601 sur le coteau de Saint-Symphorien, sur un terrain cédé par Marmoutier. Un voyageur de 1639 note qu'on y monte par deux cents degrés. L'emplacement est supposé, d'après le couvent actuel de la rue de la Pierre.",
+  "certainty": "hypothesis",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 204-205"
+   },
+   {
+    "id": "sat_bulletin_1963",
+    "loc": "p. 325"
+   },
+   {
+    "id": "sat_voyageur_1639",
+    "loc": "p. 146"
+   },
+   {
+    "id": "evelyn_diary",
+    "loc": "6 mai 1644"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "the Convent of the Capuchins, which has a prospect over the whole city, and many fair walks",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "6 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.couvents"
+  ]
+ },
+ "ursuline_couvents": {
+  "speaker": "ursuline",
+  "text": "Une douzaine sont venus depuis le début du siècle : capucins, carmélites, oratoriens, récollets, feuillants, minimes, nous, les jésuites, les visitandines, les religieuses du Calvaire, les capucines, et les annonciades l'an dernier. La ville veut qu'on s'installe dans le nouvel enclos, entre la vieille muraille et la neuve.",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_barioz_2005",
+    "loc": "p. 203-204"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.couvents"
+  ]
+ },
+ "marteau_intro": {
+  "speaker": "marteau",
+  "text": "Je suis carme, au couvent des Carmes, tout près. Je suis né à Villebourg en 1603, et l'on m'a amené à Tours tout jeune. Depuis, je fréquente les églises et les maisons de cette ville, et j'en ai vu de belles choses.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "sat_bulletin_1895",
+    "loc": "p. 301"
+   }
+  ],
+  "choices": [
+   {
+    "label": "Racontez-moi une de ces choses",
+    "next": "marteau_chanoine"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.chanoine"
+  ]
+ },
+ "marteau_chanoine": {
+  "speaker": "marteau",
+  "text": "Nos chanoines sont fort curieux, et surtout de leurs poires de bon-chrétien, qui leur rapportent bien. Jeune, j'ai connu un vieux chantre de la cathédrale qui avait un cabinet plein de raretés : une tasse de corne de rhinocéros, qui chasse tout venin, des hanaps de matières précieuses, dont un d'ambre, une main de pierre où l'on voyait les veines comme sur une vraie…",
+  "certainty": "attested",
+  "sources": [
+   {
+    "id": "sat_bulletin_1895",
+    "loc": "p. 301"
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.chanoine"
+  ]
+ },
+ "maitre_logis": {
+  "speaker": "maitre_langue",
+  "text": "Juste en face d'une maison toute couverte de fleurs de lys sculptées dans la pierre. On dit que la reine mère y a tenu sa cour. Elle est venue à Tours, c'est sûr : en 1621, elle a assisté à l'installation des Minimes, rue Chaude.",
+  "certainty": "probable",
+  "sources": [
+   {
+    "id": "evelyn_diary",
+    "loc": "8 mai 1644"
+   },
+   {
+    "id": "sat_memoires_1899",
+    "loc": "p. 156"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The house opposite my lodging had been formerly a King's palace; the outside was totally covered with fleur-de-lis, embossed out of the stone.",
+    "source": {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    }
+   }
+  ],
+  "unlocks": [
+   "codex.xviie.medicis"
+  ]
+ }
+}

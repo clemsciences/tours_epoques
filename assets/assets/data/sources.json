@@ -778,5 +778,218 @@
   "publisher": "BnF, Estampes",
   "url": "https://gallica.bnf.fr/ark:/12148/btv1b10843452m",
   "kind": "estampe"
+ },
+ "evelyn_diary": {
+  "title": "The Diary of John Evelyn, vol. I",
+  "author": "John Evelyn",
+  "year": "journal 1641-1706 ; éd. 1901",
+  "publisher": "éd. William Bray, introduction de Richard Garnett ; M. Walter Dunne, Washington et Londres ; Project Gutenberg n° 41218",
+  "url": "https://www.gutenberg.org/ebooks/41218",
+  "kind": "journal de voyage"
+ },
+ "siette_1619": {
+  "title": "Carte particulière de Tours avecq le paisage mis en relief",
+  "author": "René Siette",
+  "year": "15 juillet 1619",
+  "publisher": "BnF, département des Cartes et plans, Ge DD 2987 (1192) ; Wikimedia Commons, domaine public",
+  "url": "https://commons.wikimedia.org/wiki/File:Carte_particuli%C3%A8re_de_Tours_avecq_le_paisage_mis_en_relief_-_faict_par_R._Siette_le_quinzi%C3%A8me_jour_de_juillet_de_1619_-_btv1b85919696.jpg",
+  "kind": "plan"
+ },
+ "wp_rempart_bastionne": {
+  "title": "Rempart bastionné de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 7/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Rempart_bastionn%C3%A9_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "wp_henriette_marie": {
+  "title": "Henriette Marie de France",
+  "author": "Wikipédia",
+  "year": "consulté le 7/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Henriette_Marie_de_France",
+  "kind": "encyclopédie"
+ },
+ "wp_sacre_henri_iv": {
+  "title": "Sacre d'Henri IV",
+  "author": "Wikipédia",
+  "year": "consulté le 7/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Sacre_d%27Henri_IV",
+  "kind": "encyclopédie"
+ },
+ "wp_saint_cosme": {
+  "title": "Prieuré Saint-Cosme de Tours",
+  "author": "Wikipédia",
+  "year": "consulté le 7/11/2026",
+  "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Cosme_de_Tours",
+  "kind": "encyclopédie"
+ },
+ "dcb_marie_guyart": {
+  "title": "Guyart, Marie, dite Marie de l'Incarnation",
+  "author": "Dictionary of Canadian Biography / Dictionnaire biographique du Canada",
+  "year": "consulté le 7/11/2026",
+  "publisher": "Université de Toronto et Université Laval",
+  "url": "https://www.biographi.ca/en/bio/guyart_marie_1E.html",
+  "kind": "encyclopédie"
+ },
+ "museeprotestant_bosse": {
+  "title": "Abraham Bosse (1604 ?-1676)",
+  "author": "Musée protestant",
+  "year": "consulté le 7/11/2026",
+  "url": "https://museeprotestant.org/en/notice/abraham-bosse-1604-1676-2/",
+  "kind": "encyclopédie"
+ },
+ "ad37_jesuites": {
+  "title": "Tours, collège des Jésuites, puis des Oratoriens (1635-1773)",
+  "author": "Archives départementales d'Indre-et-Loire",
+  "year": "consulté le 7/11/2026",
+  "url": "https://archives.touraine.fr/media/c4f1a916-84c2-4c98-b3bf-c8e53d3e45bf.pdf",
+  "kind": "inventaire"
+ },
+ "merimee_ursulines": {
+  "title": "Ancien couvent des Ursulines (PA00098146)",
+  "author": "Base Mérimée, ministère de la Culture",
+  "year": "consulté le 7/11/2026",
+  "url": "https://pop.culture.gouv.fr/notice/merimee/PA00098146",
+  "kind": "inventaire"
+ },
+ "sat_barioz_2005": {
+  "title": "Les couvents du XVIIe siècle à Tours (Bulletin de la Société archéologique de Touraine, t. LI, p. 203-214)",
+  "author": "Stéphanie Barioz",
+  "year": "2005",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65326124",
+  "kind": "revue savante"
+ },
+ "sat_voyageur_1639": {
+  "title": "Remarques faites les jours du mois de novembre 1639 par un voyageur non identifié (Bulletin de la Société archéologique de Touraine, t. XXVI, p. 144-148)",
+  "author": "anonyme ; manuscrit publié par le baron Henry Auvray",
+  "year": "1639 ; publié en 1935",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65517438",
+  "kind": "récit de voyage"
+ },
+ "sat_bulletin_1963": {
+  "title": "Bulletin de la Société archéologique de Touraine, t. XXXIII (note sur la chapelle Saint-Nicolas cédée aux capucins, d'après E. Cartier, 1849)",
+  "author": "Société archéologique de Touraine",
+  "year": "1963",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65511844",
+  "kind": "revue savante"
+ },
+ "sat_dubant_2006": {
+  "title": "L'enceinte urbaine de la fin XVIe-début XVIIe siècle à Tours (37) : nature et fonction (Bulletin de la Société archéologique de Touraine, 2006, p. 223 et suiv.)",
+  "author": "Didier Dubant",
+  "year": "2006",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6532826v",
+  "kind": "revue savante"
+ },
+ "sat_memoires_1899": {
+  "title": "Mémoires de la Société archéologique de Touraine, t. XII (sur le petit couvent des Minimes, rue Chaude)",
+  "author": "Société archéologique de Touraine",
+  "year": "1899",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57623126",
+  "kind": "revue savante"
+ },
+ "sat_grandmaison_1913": {
+  "title": "Imprimeurs protestants de Tours (Bulletin de la Société archéologique de Touraine, t. XIX)",
+  "author": "Louis de Grandmaison",
+  "year": "1913",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54788783",
+  "kind": "revue savante"
+ },
+ "sat_bulletin_1895": {
+  "title": "Le cabinet d'un chanoine d'autrefois (Bulletin de la Société archéologique de Touraine, t. X), d'après Martin Marteau, Le Paradis délicieux de la Touraine (1660-1661)",
+  "author": "Société archéologique de Touraine",
+  "year": "1895",
+  "publisher": "Société archéologique de Touraine, Tours",
+  "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5487589t",
+  "kind": "revue savante"
+ },
+ "musique_seikilos": {
+  "title": "Seikilos epitaph (partition de l'article)",
+  "author": "Wikipédia en anglais",
+  "year": "révision 1379206837, consultée le 11/11/2026",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1379206837",
+  "kind": "partition"
+ },
+ "musique_ut_queant_laxis": {
+  "title": "File:UtQueantLaxis-Arezzo-modern.svg (partition, LilyPond)",
+  "author": "Wikimedia Commons",
+  "year": "domaine public, consulté le 11/11/2026",
+  "url": "https://commons.wikimedia.org/wiki/File:UtQueantLaxis-Arezzo-modern.svg",
+  "kind": "partition"
+ },
+ "musique_polorum_regina": {
+  "title": "Livre vermeil de Montserrat (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 240968345, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=240968345",
+  "kind": "partition"
+ },
+ "musique_carillon_vendome": {
+  "title": "Le Carillon de Vendôme (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 240253881, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=240253881",
+  "kind": "partition"
+ },
+ "musique_homme_arme": {
+  "title": "L'homme armé (partition de l'article)",
+  "author": "Wikipédia en anglais",
+  "year": "révision 1364375567, consultée le 11/11/2026",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1364375567",
+  "kind": "partition"
+ },
+ "musique_tourdion": {
+  "title": "Tourdion (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 239933065, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=239933065",
+  "kind": "partition"
+ },
+ "musique_il_pleut_bergere": {
+  "title": "Il pleut, il pleut, bergère (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 239013543, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=239013543",
+  "kind": "partition"
+ },
+ "musique_malbrough": {
+  "title": "Malbrough s'en va-t-en guerre (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 240907671, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=240907671",
+  "kind": "partition"
+ },
+ "musique_ca_ira": {
+  "title": "Ah ! ça ira (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 241144586, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=241144586",
+  "kind": "partition"
+ },
+ "musique_carmagnole": {
+  "title": "La Carmagnole (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 236085719, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=236085719",
+  "kind": "partition"
+ },
+ "musique_lorraine": {
+  "title": "En passant par la Lorraine (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 232326774, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=232326774",
+  "kind": "partition"
+ },
+ "musique_temps_des_cerises": {
+  "title": "Le Temps des cerises (partition de l'article)",
+  "author": "Wikipédia en français",
+  "year": "révision 240722884, consultée le 11/11/2026",
+  "url": "https://fr.wikipedia.org/w/index.php?oldid=240722884",
+  "kind": "partition"
  }
 }

@@ -1,0 +1,514 @@
+{
+ "epoch": "xviie",
+ "entries": [
+  {
+   "id": "codex.xviie.evelyn",
+   "title": "John Evelyn à Tours",
+   "theme": "personnes",
+   "text": "John Evelyn (1620-1706), jeune gentilhomme anglais, voyage sur le continent pendant que la guerre civile déchire l'Angleterre. Il passe dix-neuf semaines à Tours, du 2 mai au 16 septembre 1644 : il y apprend le français, joue au mail, visite les couvents et les environs, et tient un journal qui sera publié en 1818. Traduction du jeu : « Nous arrivâmes en vue de Tours, où nous avions résolu de passer tout le reste de notre séjour en France, tant on y vivait agréablement. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "2 mai-16 septembre 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "We now came within sight of Tours, where we were designed for the rest of the time I had resolved to stay in France, the sojournment being so agreeable.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.ville",
+   "title": "Tours, vue par un Anglais",
+   "theme": "lieux",
+   "text": "Evelyn décrit une ville au bord de la Loire, avec un beau pont de pierre, qu'il appelle « St. Edme » (le pont du XIe siècle), et de grands faubourgs reliés à la ville par un autre pont. Il en admire les rues. Traduction du jeu : « Les rues sont très longues, droites, larges, bien bâties et d'une extrême propreté. » Et il conclut : « Aucune ville de France ne la surpasse en beauté ni en agrément. »",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "the streets are very long, straight, spacious, well built, and exceeding clean",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    },
+    {
+     "text": "No city in France exceeds it in beauty, or delight.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.mail",
+   "title": "Le mail",
+   "theme": "lieux",
+   "text": "Promenade plantée d'ormes en 1603 contre la courtine sud du rempart neuf, avec des arbres en partie transplantés d'ailleurs dans la ville ; on y joue au mail, l'ancêtre du croquet, et toute la ville s'y promène le dimanche. Evelyn y compte sept rangées d'ormes ; les historiens parlent de deux doubles rangées plantées en 1603 : y en avait-il plusieurs, ou Evelyn exagère-t-il ? Les boulevards Béranger et Heurteloup l'ont remplacé en 1861. Traduction du jeu : « Le mail est sans comparaison le plus noble d'Europe pour la longueur et l'ombre. »",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_rempart_bastionne"
+    },
+    {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "The Mall without comparison is the noblest in Europe for length and shade, having seven rows of the tallest and goodliest elms I had ever beheld",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.rempart",
+   "title": "Le rempart neuf",
+   "theme": "lieux",
+   "text": "Henri IV autorise en avril 1591 une enceinte bastionnée deux fois plus grande que la ville. Le projet, dû à Jacques II Androuet du Cerceau et à l'ingénieur turinois Richard Barthélemy, est réduit en 1599 ; les gros travaux commencent en 1616, Louis XIII les arrête de 1626 à 1635, puis on reprend par les fossés du sud et le front de Loire. Elle ne sera achevée qu'en 1685 : environ 6 km, 168 hectares, surtout des jardins. Son tracé vit dans les boulevards, les rues Léon-Boyer, de la Dolve, de Bordeaux et du Rempart. La carte du jeu la trace d'après ces rues ; ce qui était bâti en 1644 n'est pas connu. Selon Didier Dubant, les échevins décident le 14 juin 1634 de creuser les fossés du sud ; en 1635, on adjuge 507 m de « tourelles et murailles » du bout du mail au bastion Saint-Éloi. La courtine, maçonnée, monte à 9,70 m ; des seize bastions prévus, sept ne seront jamais revêtus et une simple tourelle les remplacera. Le Grand Portail de la Riche, à l'ouest, est mis à bail dès 1617. En 1644, on commence à démolir des pans de la vieille muraille du XIVe siècle, devenue inutile.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "wp_rempart_bastionne"
+    },
+    {
+     "id": "siette_1619"
+    },
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 203, 205"
+    },
+    {
+     "id": "sat_dubant_2006",
+     "loc": "p. 226-229"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "walked about the town walls, built of square stone, filled with earth, and having a moat",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.soie",
+   "title": "Les ateliers de soie",
+   "theme": "vie_quotidienne",
+   "text": "Tours est l'une des grandes villes de la soie depuis Louis XI. Evelyn visite les ateliers le 8 mai 1644 et s'étonne du moirage : les gros-grains et les camelots, mouillés et pliés, passent sous un cylindre chargé de poids énormes, et le grain de l'étoffe se couche en ondes. On lit souvent que Tours comptait des milliers de métiers sous Louis XIII ; ces chiffres restent à vérifier dans les travaux d'historiens. Les négociants en soie comptent parmi les bourgeois les plus riches : Jean Taschereau, marchand de drap de soie devenu avocat du roi au présidial, finance le couvent des Minimes et en pose la première pierre en 1626.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    },
+    {
+     "id": "wp_histoire_de_tours"
+    },
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 206"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "I went to see their manufactures in silk (for in this town they drive a very considerable trade with silk-worms)",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "8 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.fete_dieu",
+   "title": "La Fête-Dieu",
+   "theme": "evenements",
+   "text": "Evelyn voit passer la procession de la Fête-Dieu : tous les ordres religieux, les rues tendues de tapisseries, et devant les maisons les objets les plus précieux, soieries, damas, velours, argenterie et tableaux, sur un sol jonché de fleurs. Il la date du 25 mai 1644 ; d'après le calendrier, la Fête-Dieu tombait cette année-là le jeudi 26 mai.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "25 mai 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "the whole streets hung with their best tapestries, and their most precious movables exposed; silks, damasks, velvets, plate, and pictures in abundance",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "25 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.reine",
+   "title": "La reine d'Angleterre à Tours",
+   "theme": "evenements",
+   "text": "Henriette de France, fille d'Henri IV et de Marie de Médicis, épouse de Charles Ier d'Angleterre, fuit la guerre civile : elle débarque en Bretagne le 25 juillet 1644. Le 18 août, Tours la reçoit : le peuple et le clergé vont au-devant d'elle avec la milice, on la harangue, et l'archevêque la loge en son palais. Elle repart pour Paris le 20. Evelyn, son sujet, va la saluer.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "18 août 1644"
+    },
+    {
+     "id": "wp_henriette_marie"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "She was very nobly received by the people and clergy, who went to meet her with the trained bands.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "18 août 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.saint_martin",
+   "title": "Les reliques de saint Martin",
+   "theme": "lieux",
+   "text": "En 1562, pendant les guerres de Religion, les protestants ont brûlé la châsse de saint Martin ; on n'a sauvé qu'un morceau du crâne et un os du bras. En 1644, on montre encore aux visiteurs « les os et les cendres » du saint dans la grande collégiale gothique aux quatre tours. Un voyageur de novembre 1639 y compte cinq clochers, dont l'un aurait été bâti, dit la tradition, au temps de Charlemagne ; il admire la musique des chanoines, qui affirment ne relever que de Rome.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_collegiale_saint_martin"
+    },
+    {
+     "id": "evelyn_diary",
+     "loc": "2 mai 1644"
+    },
+    {
+     "id": "sat_voyageur_1639",
+     "loc": "p. 144-145"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "where they show the bones and ashes of St. Martin, with other relics",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "2 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.cathedrale",
+   "title": "Saint-Gatien et son archevêque",
+   "theme": "lieux",
+   "text": "La cathédrale est achevée depuis 1547. Evelyn admire son horloge et ses « deux belles tours et flèches de pierre » : il se trompe, les tours de Saint-Gatien sont couronnées de lanternons, pas de flèches. L'archevêque est Victor Le Bouthillier (1641-1670) ; son palais, contre la cathédrale, mêle « du vieux et du neuf ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_cathedrale_saint_gatien"
+    },
+    {
+     "id": "wp_archeveques_tours"
+    },
+    {
+     "id": "evelyn_diary",
+     "loc": "6 mai 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "The church has two handsome towers and spires of stone, and the whole fabric is very noble and venerable.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "6 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.ursulines",
+   "title": "Les Ursulines",
+   "theme": "lieux",
+   "text": "Les ursulines, qui instruisent les filles, s'installent d'abord à la Petite Bourdaisière ; en 1625, elles achètent des terrains et bâtissent leur première église, l'actuelle chapelle Saint-Michel (1628), puis leur couvent, au cours du deuxième quart du siècle. La Réforme catholique multiplie alors les couvents dans la ville. Selon Stéphanie Barioz, la ville autorise leur installation en 1622, au terme de trois ans de démarches : on les recherche pour l'éducation des filles.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "merimee_ursulines"
+    },
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 204"
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.marie_incarnation",
+   "title": "Marie de l'Incarnation",
+   "theme": "personnes",
+   "text": "Marie Guyart naît à Tours en 1599. Mariée en 1617 à Claude Martin, maître ouvrier en soie, elle est veuve à la fin de 1619 avec un fils de six mois. À partir de 1625, elle dirige l'entreprise de roulage de son beau-frère Paul Buisson. Le 25 janvier 1631, elle entre chez les ursulines de Tours, sous le nom de Marie de l'Incarnation ; le 22 février 1639, elle part pour la Nouvelle-France et arrive à Québec le 1er août. Elle y fonde le premier couvent d'ursulines et y meurt en 1672.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "dcb_marie_guyart"
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.jesuites",
+   "title": "Le collège des jésuites",
+   "theme": "vie_quotidienne",
+   "text": "Demandés par les échevins dès 1604, les jésuites ne s'installent qu'au terme de longues négociations (1625-1632), contre l'avis de la ville : il faut l'intervention de l'archevêque Bertrand d'Eschaux, de Louis XIII et du prince de Condé. En 1634, ils achètent l'hôtel de Beaune, que la ville voulait garder pour loger les souverains de passage ; elle leur confie le collège en 1635. Faute d'église (elle ne sera bâtie qu'une quarantaine d'années plus tard), Evelyn n'y trouve qu'« une pauvre chapelle », mais une excellente musique.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 204-205"
+    },
+    {
+     "id": "ad37_jesuites"
+    },
+    {
+     "id": "evelyn_diary",
+     "loc": "27 juillet 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "I heard excellent music at the Jesuits, who have here a school and convent, but a mean chapel.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "27 juillet 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.marmoutier",
+   "title": "Marmoutier et la Sainte Ampoule",
+   "theme": "lieux",
+   "text": "En 1637, le cardinal de Richelieu, abbé de Marmoutier, donne l'abbaye à la congrégation bénédictine de Saint-Maur. Evelyn y va en bateau le 6 juin 1644 ; les moines lui montrent la Sainte Ampoule de Marmoutier, qui a servi au sacre d'Henri IV à Chartres le 27 février 1594, Reims étant aux mains de la Ligue, et un tonneau aussi grand que celui de Heidelberg.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "wp_marmoutier"
+    },
+    {
+     "id": "wp_sacre_henri_iv"
+    },
+    {
+     "id": "evelyn_diary",
+     "loc": "6 juin 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "the Holy Ampoulle, the same with that which sacres their Kings at Rheims, this being the one that anointed Henry IV",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "6 juin 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.plessis_cosme",
+   "title": "Ronsard ou François de Paule ?",
+   "theme": "lieux",
+   "text": "Le 7 juin 1644, Evelyn visite le Plessis, « maison du roi » aux jardins pleins de rossignols, où il croit que Ronsard est enterré ; puis un couvent « appelé Saint-Cosme », où reposeraient les cendres de François de Paule. Il a mêlé les noms : Ronsard, prieur de Saint-Cosme, y est mort et enterré en 1585 ; François de Paule, mort en 1507, repose aux Minimes du Plessis, où les protestants ont brûlé son corps en 1562, comme le dit l'inscription qu'Evelyn recopie. Un voyageur de 1639 avait vu, dans l'église des Minimes du Plessis, le monument de François de Paule et cette même inscription.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "7 juin 1644"
+    },
+    {
+     "id": "wp_saint_cosme"
+    },
+    {
+     "id": "wp_francois_de_paule"
+    },
+    {
+     "id": "wp_plessis"
+    },
+    {
+     "id": "sat_voyageur_1639",
+     "loc": "p. 148"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "in the chapel, lies buried the famous poet, Ronsard",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "7 juin 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.vignes_melons",
+   "title": "Vignes en berceau et melons",
+   "theme": "vie_quotidienne",
+   "text": "Evelyn s'émerveille d'une vigne conduite sur des perches en arceaux, sous laquelle on voit pendre les grappes d'un bout à l'autre, et des melons de Touraine, « réputés les meilleurs du royaume ».",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "9 juin et 27 juillet 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "We have now store of those admirable melons, so much celebrated in France for the best in the kingdom.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "27 juillet 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.maitre_langue",
+   "title": "Apprendre le français à Tours",
+   "theme": "vie_quotidienne",
+   "text": "Comme d'autres jeunes étrangers de bonne famille, Evelyn s'installe à Tours pour apprendre le français : il prend un maître de langue et étudie « très diligemment », en se délassant au mail ou en ville.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Here I took a master of the language, and studied the tongue very diligently",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "8 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.bosse",
+   "title": "Abraham Bosse",
+   "theme": "personnes",
+   "text": "Le graveur Abraham Bosse naît à Tours vers 1602-1604 (la date est discutée), fils de Louis Bosse, tailleur calviniste venu du duché de Clèves. Installé à Paris, il grave des scènes de la vie de son temps : métiers, boutiques, intérieurs, cérémonies.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "museeprotestant_bosse"
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.couvents",
+   "title": "Treize couvents",
+   "theme": "lieux",
+   "text": "En 1600, Tours compte l'abbaye Saint-Julien et quatre couvents de mendiants dans ses murs, Marmoutier, Beaumont et les Minimes du Plessis au-dehors. Avec la Réforme catholique, treize couvents s'y ajoutent de 1601 à 1676 : capucins (1601), carmélites (1608), oratoriens (1615), récollets (1617-1619), feuillants (1619), minimes en ville (1620), ursulines (1622), jésuites (1632), visitandines (1633), calvairiennes (1636), capucines (1637), annonciades (1643), puis l'Union chrétienne (1676). La ville exige qu'ils s'installent dans le « nouvel enclos », entre la muraille du XIVe siècle et la nouvelle : à l'est, près de la cathédrale, se forme une ceinture de couvents et de grands jardins. Les capucins et les calvairiennes s'établissent sur le coteau de Saint-Symphorien. La carte ne montre que ceux qu'on sait situer.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 203-205"
+    },
+    {
+     "id": "sat_bulletin_1963",
+     "loc": "p. 325"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "the Convent of the Capuchins, which has a prospect over the whole city, and many fair walks",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "6 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.protestants",
+   "title": "Les protestants",
+   "theme": "vie_quotidienne",
+   "text": "Tours garde une minorité protestante. La famille du graveur Abraham Bosse est calviniste, et l'architecte protestant Daniel Massé, fils d'un maçon de Saumur, a bâti en 1632 le temple de la Butte ; plus tard, il travaillera même pour les couvents catholiques. Ce temple est hors de la ville, près de La Ville-aux-Dames : on y vend encore en 1672 les sermons d'un pasteur de Tours. Son emplacement exact n'est pas vérifié. Les catholiques, eux, n'ont pas oublié 1562, quand les huguenots ont brûlé la châsse de saint Martin.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 206"
+    },
+    {
+     "id": "museeprotestant_bosse"
+    },
+    {
+     "id": "wp_collegiale_saint_martin"
+    },
+    {
+     "id": "sat_grandmaison_1913",
+     "loc": "p. 270"
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.medicis",
+   "title": "La maison aux fleurs de lys",
+   "theme": "evenements",
+   "text": "En face de son logis, Evelyn remarque une maison couverte de fleurs de lys sculptées, ancien « palais du roi », où Marie de Médicis aurait tenu sa cour après avoir dû quitter Paris. La reine mère est bien venue à Tours : en 1621, elle assiste à la prise de possession de leur maison de la rue Chaude par les Minimes. Mais ni la maison d'Evelyn ni les circonstances qu'il rapporte ne sont vérifiées.",
+   "certainty": "probable",
+   "sources": [
+    {
+     "id": "evelyn_diary",
+     "loc": "8 mai 1644"
+    },
+    {
+     "id": "sat_memoires_1899",
+     "loc": "p. 156"
+    },
+    {
+     "id": "sat_barioz_2005",
+     "loc": "p. 187"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Here Mary de Medicis held her Court, when she was compelled to retire from Paris by the persecution of the great Cardinal.",
+     "source": {
+      "id": "evelyn_diary",
+      "loc": "8 mai 1644"
+     }
+    }
+   ]
+  },
+  {
+   "id": "codex.xviie.chanoine",
+   "title": "Le cabinet d'un chanoine",
+   "theme": "vie_quotidienne",
+   "text": "Le père Martin Marteau, carme né à Villebourg en 1603 et élevé à Tours, publiera en 1660-1661 Le Paradis délicieux de la Touraine. Il y raconte les chanoines, « fort curieux » de leurs poires de bon-chrétien, et le cabinet d'un vieux chantre de la cathédrale : une tasse de corne de rhinocéros contre le venin, des hanaps précieux, dont un d'ambre, une main de pierre aux veines si vraies qu'on la croirait de chair. Les cabinets de curiosités sont alors à la mode chez les amateurs de province.",
+   "certainty": "attested",
+   "sources": [
+    {
+     "id": "sat_bulletin_1895",
+     "loc": "p. 301"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "npcs": [
+  {
+   "id": "evelyn",
+   "name": "John Evelyn",
+   "role": "Gentilhomme anglais, en voyage",
+   "position": [
+    47.3898,
+    0.6862
+   ],
+   "color": "#3B3B5C",
+   "dialogue": "evelyn_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : John Evelyn (1620-1706), à Tours du 2 mai au 16 septembre 1644. Répliques reconstituées d'après son journal ; ses mots exacts sont cités en anglais."
+  },
+  {
+   "id": "ursuline",
+   "name": "Une ursuline",
+   "role": "Au couvent des Ursulines",
+   "position": [
+    47.39395,
+    0.696
+   ],
+   "color": "#2B2B2B",
+   "dialogue": "ursuline_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Répliques reconstituées."
+  },
+  {
+   "id": "calandreur",
+   "name": "Un calandreur",
+   "role": "Moire les soieries",
+   "position": [
+    47.3945,
+    0.683
+   ],
+   "color": "#7A2E4A",
+   "dialogue": "calandreur_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme, d'après la visite d'Evelyn aux ateliers de soie (8 mai 1644). Répliques reconstituées."
+  },
+  {
+   "id": "terrassier",
+   "name": "Un terrassier",
+   "role": "Au chantier du rempart",
+   "position": [
+    47.3912,
+    0.695
+   ],
+   "color": "#6B5A3E",
+   "dialogue": "terrassier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Répliques reconstituées."
+  },
+  {
+   "id": "milicien",
+   "name": "Un milicien",
+   "role": "De la garde bourgeoise",
+   "position": [
+    47.39575,
+    0.6954
+   ],
+   "color": "#5A3A2E",
+   "dialogue": "milicien_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme, d'après l'accueil de la reine d'Angleterre (Evelyn, 18 août 1644). Répliques reconstituées."
+  },
+  {
+   "id": "maitre_langue",
+   "name": "Un maître de langue",
+   "role": "Enseigne le français aux étrangers",
+   "position": [
+    47.39512,
+    0.68668
+   ],
+   "color": "#4A4A4A",
+   "dialogue": "maitre_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme : Evelyn prend « a master of the language » le 8 mai 1644. Répliques reconstituées."
+  },
+  {
+   "id": "batelier",
+   "name": "Un batelier",
+   "role": "Au pont, sur la Loire",
+   "position": [
+    47.3976,
+    0.69342
+   ],
+   "color": "#3E5A6B",
+   "dialogue": "batelier_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Répliques reconstituées."
+  },
+  {
+   "id": "moine",
+   "name": "Un moine de Marmoutier",
+   "role": "Bénédictin de Saint-Maur",
+   "position": [
+    47.4042,
+    0.71846
+   ],
+   "color": "#1F1F1F",
+   "dialogue": "moine_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Répliques reconstituées."
+  },
+  {
+   "id": "regent",
+   "name": "Un régent du collège",
+   "role": "Jésuite, au collège de l'hôtel de Beaune",
+   "position": [
+    47.39538,
+    0.68712
+   ],
+   "color": "#1C1C1C",
+   "dialogue": "regent_intro",
+   "certainty": "invented",
+   "note": "Personnage anonyme. Répliques reconstituées d'après S. Barioz (Bulletin de la SAT, 2005) et le journal d'Evelyn."
+  },
+  {
+   "id": "marteau",
+   "name": "Le père Martin Marteau",
+   "role": "Carme",
+   "position": [
+    47.3954,
+    0.6835
+   ],
+   "color": "#5A4A3A",
+   "dialogue": "marteau_intro",
+   "certainty": "attested",
+   "note": "Personnage réel : Martin Marteau, né à Villebourg en 1603, carme à Tours, auteur du Paradis délicieux de la Touraine (1660-1661). Répliques reconstituées ; ce qu'il raconte du chanoine vient de son livre (Bulletin de la SAT, t. X, 1895, p. 301)."
+  }
+ ]
+}

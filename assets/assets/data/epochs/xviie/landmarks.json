@@ -1,0 +1,58 @@
+{
+ "landmarks": [
+  {
+   "layer": "mail",
+   "dialogue": "lieu_mail",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Rempart_bastionn%C3%A9_de_Tours"
+  },
+  {
+   "layer": "rempart_neuf_1",
+   "dialogue": "lieu_rempart",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Rempart_bastionn%C3%A9_de_Tours"
+  },
+  {
+   "layer": "collegiale_saint_martin",
+   "dialogue": "lieu_collegiale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Martin_de_Tours"
+  },
+  {
+   "layer": "cathedrale",
+   "dialogue": "lieu_cathedrale",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Gatien_de_Tours"
+  },
+  {
+   "layer": "archeveche",
+   "dialogue": "lieu_archeveche",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Tours"
+  },
+  {
+   "layer": "marmoutier",
+   "dialogue": "lieu_marmoutier",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Abbaye_de_Marmoutier_(Tours)"
+  },
+  {
+   "layer": "plessis",
+   "dialogue": "lieu_plessis",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Plessis-l%C3%A8z-Tours"
+  },
+  {
+   "layer": "minimes",
+   "dialogue": "lieu_minimes",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Paule"
+  },
+  {
+   "layer": "saint_cosme",
+   "dialogue": "lieu_saint_cosme",
+   "wikipedia": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Cosme_de_Tours"
+  },
+  {
+   "layer": "hotel_beaune",
+   "dialogue": "lieu_college",
+   "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Beaune-Semblan%C3%A7ay"
+  },
+  {
+   "layer": "capucins",
+   "dialogue": "lieu_capucins"
+  }
+ ]
+}
